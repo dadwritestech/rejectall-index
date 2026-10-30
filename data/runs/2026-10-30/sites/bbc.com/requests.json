@@ -1,0 +1,1328 @@
+[
+{
+"t": 0.0,
+"host": "bbc.com",
+"url": "https://bbc.com/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "www.bbc.com",
+"url": "https://www.bbc.com/",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "static.bbci.co.uk",
+"url": "https://static.bbci.co.uk/frameworks/requirejs/0.13.0/sharedmodules/require.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "cdn.tinypass.com",
+"url": "https://cdn.tinypass.com/api/tinypass.min.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "gn-web-assets.api.bbc.com",
+"url": "https://gn-web-assets.api.bbc.com/ngas/latest/dotcom-bootstrap.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "emp.bbci.co.uk",
+"url": "https://emp.bbci.co.uk/emp/bump-4/bump-4.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0b-tgv1_m1uo9.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0d9awe5d081.2.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0s_kjwmep8yf2.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0-a6nanpwqpag.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/178~uy1pz6ka4.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/02w2j6a0szhem.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0u17oyz1d609w.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0ogvtm3jmac~r.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/01ahds4cdfgmx.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/004vauwu48azs.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0k530rgixl5kt.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0zpz-874su9ks.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0jl4bpoiy-t_p.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0jcf7ay9pl-s0.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0fi49hn5~2abh.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0gmos.wajd.qx.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0na6onp8uomzi.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0pr885e78gdj8.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0~~24znpk8vc1.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/116azxjox4uhk.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/00su1kxuv.aa_.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/05el2iwpn3pyx.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/12w5u9fluro3i.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/00pv_7c.hjx18.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/06nzlhdny82mu.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0z3rjge5m4grx.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/1556fllq~t8x3.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0c.fzizjof3_9.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/04n.yg_e~~1ci.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/05bsy3xzra8wq.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0a--~b-snp6to.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/13ad5orspgznk.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/18bprfc204vpd.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0x01rgvk49mtx.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0y-nyl-getpga.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0.ws-k_jzc8i2.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0iid2kl3pm46u.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/138t46x7lzh0_.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0n-kjrsnwe2tb.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0sm_sfi0c1mq-.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/turbopack-0uleyy2687dl3.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/02-eeonhl._fb.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/13lckzgg918t5.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/07ngao.t8frq0.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0fmsfuctu-bad.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/07yl_.h914mqi.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0rn767pe.qoie.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/06~h23gcdri8t.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0b_bpuxw-.1p..js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0ltjlb3luz40f.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0ua0r8ey9cy9_.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/17t.2dba68ndj.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/turbopack-0eg_6rsvcuq6e.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/ucIVEZCJOb7mWOSdECe6w/_buildManifest.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/ucIVEZCJOb7mWOSdECe6w/_ssgManifest.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/ucIVEZCJOb7mWOSdECe6w/_clientMiddlewareManifest.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/grey-placeholder.png",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Md.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Bd.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Rg.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_Md.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_Rg.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_ExBd.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/39fc/live/e37a98d0-d42f-11f1-93e1-3b657b665bcf.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/4bf2/live/c8fa3060-d439-11f1-b441-2b33b063138f.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/baa8/live/5fe73760-d440-11f1-93e1-3b657b665bcf.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/800x450/p0pk68jx.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/raw/p0pkbr8k.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/1024xn/p0p825vl.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pk75zg.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pkdszj.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pj913z.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pjwvx4.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pkb0bz.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pkbngq.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pg99f6.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pdnhw3.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pk30t6.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pk1wqn.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pfpp26.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/images/ic/480x270/p0pjvfdz.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/news/800/cpsprodpb/cbb9/live/fe693560-d3c2-11f1-93e1-3b657b665bcf.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "ichef.bbci.co.uk",
+"url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/43ea/live/afe085e0-d42d-11f1-a701-fddedf244c16.jpg.webp",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0-e.cy8zqdh4a.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0r-xplh.6.-03.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0_a80-qmpyc3s.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0w54l~99pq3b9.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/04x.wea_ofqc1.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0zm-lheg_tx40.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/02xyfoe1v.vkw.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/04_rrh.j6.wba.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0.gu_l8v2fg11.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0.44191m_y6r1.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "www.bbc.co.uk",
+"url": "https://www.bbc.co.uk/userinfo",
+"type": "fetch"
+},
+{
+"t": 6.32,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0yoghfwkswxeg.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/0yv_0~sh~88vc.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/bbcdotcom/web/20261027-121803-88dfe2b2c8-web-3.26.0-4/_next/static/chunks/127xbfgjo2hre.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "uk-script.dotmetrics.net",
+"url": "https://uk-script.dotmetrics.net/door.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/unified/4.41.0/gdpr-tcf.e7290277d588e0de9bb9.bundle.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/unified/4.41.0/usnat-gpp.1af7b0a971740919848e.bundle.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/mms/v2/get_site_data",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/wrapper/v2/meta-data",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/wrapper/v2/messages",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "mybbc-analytics.files.bbci.co.uk",
+"url": "https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-2.6.0-avi.min.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "uk-script.dotmetrics.net",
+"url": "https://uk-script.dotmetrics.net/hit.gif",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "rm-script.dotmetrics.net",
+"url": "https://rm-script.dotmetrics.net/hit.gif",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/index.html",
+"type": "document"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/Notice.9cce2.css",
+"type": "stylesheet"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/polyfills.01516.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/Notice.fcfb9.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/consent/tcfv2/vendor-list/categories",
+"type": "fetch"
+},
+{
+"t": 6.32,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/consent/tcfv2/vendor-list/categories",
+"type": "fetch"
+},
+{
+"t": 6.33,
+"host": "gn-web-assets.api.bbc.com",
+"url": "https://gn-web-assets.api.bbc.com/assets/imgs/BBC_Logo_Black_RGB_64px.png",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "mybbc-analytics.files.bbci.co.uk",
+"url": "https://mybbc-analytics.files.bbci.co.uk/analytics-remote-config/producers.json",
+"type": "xhr"
+},
+{
+"t": 6.33,
+"host": "mybbc-analytics.files.bbci.co.uk",
+"url": "https://mybbc-analytics.files.bbci.co.uk/analytics-remote-config/masterbrands.json",
+"type": "xhr"
+},
+{
+"t": 6.33,
+"host": "a1.api.bbc.com",
+"url": "https://a1.api.bbc.com/event",
+"type": "xhr"
+},
+{
+"t": 6.33,
+"host": "uk-script.dotmetrics.net",
+"url": "https://uk-script.dotmetrics.net/Scripts/ncs-script.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "a1.api.bbc.com",
+"url": "https://a1.api.bbc.com/event",
+"type": "xhr"
+},
+{
+"t": 6.33,
+"host": "a1.api.bbc.com",
+"url": "https://a1.api.bbc.com/event",
+"type": "xhr"
+},
+{
+"t": 6.33,
+"host": "a1.api.bbc.com",
+"url": "https://a1.api.bbc.com/event",
+"type": "xhr"
+},
+{
+"t": 6.33,
+"host": "a1.api.bbc.com",
+"url": "https://a1.api.bbc.com/event",
+"type": "xhr"
+},
+{
+"t": 6.33,
+"host": "a1.api.bbc.com",
+"url": "https://a1.api.bbc.com/event",
+"type": "xhr"
+},
+{
+"t": 14.52,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/wrapper/v2/choice/reject-all",
+"type": "xhr"
+},
+{
+"t": 14.52,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/wrapper/v2/choice/gdpr/13",
+"type": "xhr"
+},
+{
+"t": 14.52,
+"host": "cdn.cxense.com",
+"url": "https://cdn.cxense.com/ari.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdn.privacy-mgmt.com",
+"url": "https://cdn.privacy-mgmt.com/wrapper/v2/pv-data",
+"type": "xhr"
+},
+{
+"t": 14.52,
+"host": "cdn.cxense.com",
+"url": "https://cdn.cxense.com/cx.cce.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "c2-eu.piano.io",
+"url": "https://c2-eu.piano.io/xbuilder/experience/execute",
+"type": "xhr"
+},
+{
+"t": 14.52,
+"host": "scripts.webcontentassessor.com",
+"url": "https://scripts.webcontentassessor.com/scripts/64ca3dfd44dd68a629e2e51a27e7ccd960974b5961e4ca2897139d14bf10be8b",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "securepubads.g.doubleclick.net",
+"url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdn.cxense.com",
+"url": "https://cdn.cxense.com/cx.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/checkout/offer/show",
+"type": "document"
+},
+{
+"t": 14.52,
+"host": "id.cxense.com",
+"url": "https://id.cxense.com/public/user/id",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "comcluster.cxense.com",
+"url": "https://comcluster.cxense.com/Repo/rep.gif",
+"type": "image"
+},
+{
+"t": 14.52,
+"host": "securepubads.g.doubleclick.net",
+"url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610280101/pubads_impl.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "pub.doubleverify.com",
+"url": "https://pub.doubleverify.com/dvtag/29028254/DV1298722/pub.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "gn-web-assets.api.bbc.com",
+"url": "https://gn-web-assets.api.bbc.com/ngas/latest/dotcom-ads.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "gn-web-assets.api.bbc.com",
+"url": "https://gn-web-assets.api.bbc.com/ngas/latest/dotcom-preroll.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "securepubads.g.doubleclick.net",
+"url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+"type": "other"
+},
+{
+"t": 14.52,
+"host": "gn-web-assets.api.bbc.com",
+"url": "https://gn-web-assets.api.bbc.com/ngas/latest/dotcom-analytics.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdn.speedcurve.com",
+"url": "https://cdn.speedcurve.com/js/lux.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/ng/common/pn-spinner/pn-spinner.css",
+"type": "stylesheet"
+},
+{
+"t": 14.52,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/widget/dist/checkout/css/checkout.bundle.1.1.css",
+"type": "stylesheet"
+},
+{
+"t": 14.52,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/checkout/general/loadTranslationMap",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/ng/common/i18n/platform-translation-map_en_US.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.22/angular.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.22/angular-cookies.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.22/angular-sanitize.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.22/angular-touch.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/angular-dynamic-locale/0.1.27/tmhDynamicLocale.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/angular-ui-utils/0.1.1/angular-ui-utils.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/angular-ui/0.4.0/angular-ui-ieshiv.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.10/angular-ui-router.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/animejs/3.1.0/anime.min.js",
+"type": "script"
+},
+{
+"t": 14.52,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/_sam/H4sIAAAAAAAA_62YS4_bOAyA_1BnjGYve20zu9MCWyBo2l4XtEQ7bGRR0COezK9f2omDAHPYiJlbYuej-CaVZiTbY24spdyYHZo9l_wwsC0Om9-pcdRGiITp8fTsQ_M_gIWMgcwe461EpqGSgJJ33-ZvQpj9rZhhb3ET-UAWo4IPBJ6_2jcSbjs8oqX8HS0OIRP7OnryalKZXHyOxy06NJk1RrfkHPn-k7URk0aFACmNHK27xmuOXrPvqK_0NvuEPivUjW8jdDvcU6c",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "gn-web-assets.api.bbc.com",
+"url": "https://gn-web-assets.api.bbc.com/ngas/vendor/edr/edr.min.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "sb.scorecardresearch.com",
+"url": "https://sb.scorecardresearch.com/internal-cs/default/beacon.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "edigitalsurvey.com",
+"url": "https://edigitalsurvey.com/l.php",
+"type": "document"
+},
+{
+"t": 14.53,
+"host": "pub.doubleverify.com",
+"url": "https://pub.doubleverify.com/dvtag/signals/ids/pub.json",
+"type": "fetch"
+},
+{
+"t": 14.53,
+"host": "pub.doubleverify.com",
+"url": "https://pub.doubleverify.com/dvtag/signals/bsc/pub.json",
+"type": "fetch"
+},
+{
+"t": 14.53,
+"host": "vtrk.dv.tech",
+"url": "https://vtrk.dv.tech/",
+"type": "ping"
+},
+{
+"t": 14.53,
+"host": "pub.doubleverify.com",
+"url": "https://pub.doubleverify.com/dvtag/signals/vlp/pub.json",
+"type": "fetch"
+},
+{
+"t": 14.53,
+"host": "securepubads.g.doubleclick.net",
+"url": "https://securepubads.g.doubleclick.net/pagead/purl_config",
+"type": "fetch"
+},
+{
+"t": 14.53,
+"host": "sb.scorecardresearch.com",
+"url": "https://sb.scorecardresearch.com/b2",
+"type": "image"
+},
+{
+"t": 14.53,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Rg.woff2",
+"type": "font"
+},
+{
+"t": 14.53,
+"host": "vtrk.dv.tech",
+"url": "https://vtrk.dv.tech/",
+"type": "ping"
+},
+{
+"t": 14.53,
+"host": "ep1.adtrafficquality.google",
+"url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+"type": "xhr"
+},
+{
+"t": 14.53,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/gampad/ads",
+"type": "fetch"
+},
+{
+"t": 14.53,
+"host": "ac16ff0b32e076502850633cd81be4e3.safeframe.googlesyndication.com",
+"url": "https://ac16ff0b32e076502850633cd81be4e3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+"type": "document"
+},
+{
+"t": 14.53,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_Rg.woff2",
+"type": "font"
+},
+{
+"t": 14.53,
+"host": "static.files.bbci.co.uk",
+"url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Bd.woff2",
+"type": "font"
+},
+{
+"t": 14.53,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/checkout/offer/trackShow",
+"type": "xhr"
+},
+{
+"t": 14.53,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/checkout/offer/getFraudPreventionConfig",
+"type": "xhr"
+},
+{
+"t": 14.53,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/widget/dist/checkout/css/img/Loader.gif",
+"type": "image"
+},
+{
+"t": 14.53,
+"host": "ep2.adtrafficquality.google",
+"url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "ep2.adtrafficquality.google",
+"url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+"type": "document"
+},
+{
+"t": 14.53,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/bg/qzufwwu-DL1SGmIgZ-88s5tLEgy8cZKtw51byKBrkPk.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "ep2.adtrafficquality.google",
+"url": "https://ep2.adtrafficquality.google/generate_204",
+"type": "image"
+},
+{
+"t": 14.53,
+"host": "scripts.webcontentassessor.com",
+"url": "https://scripts.webcontentassessor.com/scripts/727d9b43a076aa925788e8b215b1d39a710cbe7ace5268ab65490af6db50168b",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "tpc.googlesyndication.com",
+"url": "https://tpc.googlesyndication.com/simgad/9632503487652355092",
+"type": "image"
+},
+{
+"t": 14.53,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/abg_lite_fy2021.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/client/window_focus_fy2021.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "stats-collector.cxense.com",
+"url": "https://stats-collector.cxense.com/cr-stats/event/imp",
+"type": "fetch"
+},
+{
+"t": 14.53,
+"host": "cdn.doubleverify.com",
+"url": "https://cdn.doubleverify.com/dvtp_src.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "scripts.webcontentassessor.com",
+"url": "https://scripts.webcontentassessor.com/scripts/727d9b43a076aa925788e8b215b1d39a710cbe7ace5268ab65490af6db50168b",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/abg_lite_fy2021.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "tpc.googlesyndication.com",
+"url": "https://tpc.googlesyndication.com/simgad/14989990581599605861",
+"type": "image"
+},
+{
+"t": 14.53,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+"type": "script"
+},
+{
+"t": 14.53,
+"host": "stats-collector.cxense.com",
+"url": "https://stats-collector.cxense.com/cr-stats/event/imp",
+"type": "fetch"
+},
+{
+"t": 14.53,
+"host": "cdn.doubleverify.com",
+"url": "https://cdn.doubleverify.com/dvtp_src.js",
+"type": "script"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "servedby.flashtalking.com",
+"url": "https://servedby.flashtalking.com/imp/1/302271;11224230;201;pixel;BBC;InternationalBBCSectionSponsorshipLogoAlldevicesNoINTL20261013/",
+"type": "image"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "gn-web-assets.api.bbc.com",
+"url": "https://gn-web-assets.api.bbc.com/assets/fonts/ReithSans/BBCReithSans_W_Rg.woff",
+"type": "font"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "cdn.doubleverify.com",
+"url": "https://cdn.doubleverify.com/dv-measurements11152.js",
+"type": "script"
+},
+{
+"t": 14.54,
+"host": "cdn.doubleverify.com",
+"url": "https://cdn.doubleverify.com/dv-measurements11152.js",
+"type": "script"
+},
+{
+"t": 14.54,
+"host": "tps.doubleverify.com",
+"url": "https://tps.doubleverify.com/visit.js",
+"type": "script"
+},
+{
+"t": 14.54,
+"host": "tps.doubleverify.com",
+"url": "https://tps.doubleverify.com/visit.js",
+"type": "script"
+},
+{
+"t": 14.54,
+"host": "ep1.adtrafficquality.google",
+"url": "https://ep1.adtrafficquality.google/pagead/sodar",
+"type": "image"
+},
+{
+"t": 14.54,
+"host": "stats-collector.cxense.com",
+"url": "https://stats-collector.cxense.com/cr-stats/event/in-screen",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/activeview",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "stats-collector.cxense.com",
+"url": "https://stats-collector.cxense.com/cr-stats/event/in-screen",
+"type": "fetch"
+},
+{
+"t": 14.54,
+"host": "buy-eu.piano.io",
+"url": "https://buy-eu.piano.io/api/v3/anon/assets/sdk-runtime-config.js",
+"type": "xhr"
+}
+]

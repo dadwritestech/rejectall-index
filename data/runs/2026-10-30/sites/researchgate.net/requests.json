@@ -1,0 +1,68 @@
+[
+{
+"t": 0.0,
+"host": "researchgate.net",
+"url": "https://researchgate.net/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "www.researchgate.net",
+"url": "https://www.researchgate.net/",
+"type": "document"
+},
+{
+"t": 0.14,
+"host": "ct.captcha-delivery.com",
+"url": "https://ct.captcha-delivery.com/c.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "geo.captcha-delivery.com",
+"url": "https://geo.captcha-delivery.com/captcha/",
+"type": "document"
+},
+{
+"t": 0.17,
+"host": "www.researchgate.net",
+"url": "https://www.researchgate.net/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.researchgate.net",
+"url": "https://www.researchgate.net/cdn-cgi/challenge-platform/h/g/scripts/jsd/c787ce48cf6b/main.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "www.researchgate.net",
+"url": "https://www.researchgate.net/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.1408558226428691:1793351366:ablC9gMjA1R7YMyeWFcBosBeNN7-G2ZWsYIeF0QGp2g/a529863fbd97a5e5",
+"type": "xhr"
+},
+{
+"t": 0.23,
+"host": "static.captcha-delivery.com",
+"url": "https://static.captcha-delivery.com/captcha/assets/tpl/6dc485c0c428c35b53577b146dc6f9179f55ef9ad41b327a2a179998839364bf/index.css",
+"type": "stylesheet"
+},
+{
+"t": 0.23,
+"host": "static.captcha-delivery.com",
+"url": "https://static.captcha-delivery.com/common/fonts/roboto/font-face.css",
+"type": "stylesheet"
+},
+{
+"t": 0.23,
+"host": "static.captcha-delivery.com",
+"url": "https://static.captcha-delivery.com/captcha/assets/set/4818807655cc541430df555871066f3d0237831c/logo.png",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "static.captcha-delivery.com",
+"url": "https://static.captcha-delivery.com/common/fonts/roboto/roboto.woff2",
+"type": "font"
+}
+]

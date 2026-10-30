@@ -1,0 +1,692 @@
+[
+{
+"t": 0.0,
+"host": "soundcloud.com",
+"url": "https://soundcloud.com/",
+"type": "document"
+},
+{
+"t": 0.08,
+"host": "dwt.soundcloud.com",
+"url": "https://dwt.soundcloud.com/tags.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "style.sndcdn.com",
+"url": "https://style.sndcdn.com/css/soehne-6ee1b930cae107f8f71f.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/css/app-3c7028cb7e0129e2a78f.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/59-ac0a49ce.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/57-b0330b17.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/7e62c772-c97a-4d95-8d0a-f99bbeadcf61/otSDKStub.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/18-1eaeb6c8.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/58-40840e21.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/2-b2329c91.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/0-4336d5f1.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/1-ef891586.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/56-f417082c.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/55-4f297086.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/images/errors/500-e5a180b7a8.png",
+"type": "image"
+},
+{
+"t": 0.21,
+"host": "dwt.soundcloud.com",
+"url": "https://dwt.soundcloud.com/js/",
+"type": "xhr"
+},
+{
+"t": 0.21,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/7e62c772-c97a-4d95-8d0a-f99bbeadcf61/7e62c772-c97a-4d95-8d0a-f99bbeadcf61.json",
+"type": "xhr"
+},
+{
+"t": 0.25,
+"host": "geolocation.onetrust.com",
+"url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+"type": "xhr"
+},
+{
+"t": 0.3,
+"host": "api-auth.soundcloud.com",
+"url": "https://api-auth.soundcloud.com/oauth/session",
+"type": "xhr"
+},
+{
+"t": 6.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202605.1.0/otBannerSdk.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/7e62c772-c97a-4d95-8d0a-f99bbeadcf61/01a17e6c-5a36-70e2-889c-0f8c39bdd052/de.json",
+"type": "fetch"
+},
+{
+"t": 6.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/vendorlist/iab2V2Data.json",
+"type": "fetch"
+},
+{
+"t": 6.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/vendorlist/googleData.json",
+"type": "fetch"
+},
+{
+"t": 6.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202605.1.0/otTCF.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202605.1.0/assets/otFlat.json",
+"type": "fetch"
+},
+{
+"t": 6.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202605.1.0/assets/v2/otPcCenter.json",
+"type": "fetch"
+},
+{
+"t": 6.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202605.1.0/assets/otCookieSettingsButton.json",
+"type": "fetch"
+},
+{
+"t": 6.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202605.1.0/assets/otCommonStyles.css",
+"type": "fetch"
+},
+{
+"t": 6.3,
+"host": "soundcloud.com",
+"url": "https://soundcloud.com/versions.json",
+"type": "xhr"
+},
+{
+"t": 6.3,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/announcements",
+"type": "xhr"
+},
+{
+"t": 6.3,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/3-a9be99e0.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/54-40bb6803.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/60-f13e9726.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/62-03472125.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/63-d09091f1.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/61-f9be2830.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/smartnudges/banner/0",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/payments/quotations/consumer-subscription",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/featured_tracks/top/All%20genres",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/images/front-hero-artist-fan-534fb484.jpeg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/images/front-hero-artist-db39c288.jpeg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/images/front-hero-fan-d1e8f3ac.jpeg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/images/download-app-qr-code-51538050.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/images/never_stop_listening@1x-2a6af294.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/images/hp_creator_teaser@2x-2e936ac4.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/images/wordmark@2x-8fdb346f.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+"type": "fetch"
+},
+{
+"t": 6.31,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "prodregistryv2.org",
+"url": "https://prodregistryv2.org/v1/rgstr",
+"type": "fetch"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/payments/quotations/creator-subscription",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "secure.soundcloud.com",
+"url": "https://secure.soundcloud.com/web-auth",
+"type": "document"
+},
+{
+"t": 6.31,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/456-fa18526ec0a87f74af6d.css",
+"type": "stylesheet"
+},
+{
+"t": 6.31,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/web_auth-358b939d4998cbd12aac.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/vendor-6c8dc420d70fde823611.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/tracks",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "dwt.soundcloud.com",
+"url": "https://dwt.soundcloud.com/tags.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/554-c4419f69ba8bcf075788.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/51-c3836a4529805e7f0afb.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/113-33cfde8577411301d1af.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/450-55a4008dc46c4093d8e1.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "api-auth.soundcloud.com",
+"url": "https://api-auth.soundcloud.com/allow",
+"type": "fetch"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/33595244",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/1629025640",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/263244952",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/159345313",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/1006489351",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/971725150",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/1546140393",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/1058349808",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/627487140",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/881682292",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-ehgmCEWnaNZqRvKj-iCBUUQ-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-4K6IGJfTpOK5gqpg-i2F5Jw-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-VmRNkca7zD8M-0-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-WD5C9qvido5Y-0-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-OVZkWO6f3kol1lsR-YWqVyA-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-MpBqFph3J4YRQpFu-X8L9vw-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-nGE7RUAiOrN8xKuc-kUuhnw-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-Lwdny2PgbRP0QtOi-dXW0qg-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-BKUxLyjMxs4tuxvd-3E8MYA-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-JUf1ulB9HKAqBIzH-IYzjcA-t200x200.png",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "api-auth.soundcloud.com",
+"url": "https://api-auth.soundcloud.com/oauth/authorize",
+"type": "fetch"
+},
+{
+"t": 6.32,
+"host": "style.sndcdn.com",
+"url": "https://style.sndcdn.com/fonts/soundcloud-sans-500-cf1a3e1fb4cee50fe430b572d2c855b4.woff2",
+"type": "font"
+},
+{
+"t": 6.32,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/assets/soehne-halbfett-bc1e16.woff2",
+"type": "font"
+},
+{
+"t": 6.32,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/assets/soehne-buch-8cbc27.woff2",
+"type": "font"
+},
+{
+"t": 6.32,
+"host": "secure.sndcdn.com",
+"url": "https://secure.sndcdn.com/assets/Inter-Medium-293fd1.woff2",
+"type": "font"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/tracks",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/98113690",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/319530182",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/807518155",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/493428498",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/1316430021",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/1234235479",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/1667940794",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/1727026487",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/users/23590048",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-Ay9dCn9EH2vLc10E-z4ZPSg-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-MMebjJ5NsBiJ9kWQ-T6TsXg-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-zmZ652mQTnbnzo20-yDr0xA-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-JA4EfGrWmOlcwv9q-5qZ4XQ-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-M9REeqC41L8A-0-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-Ak3GYx8Sn1mTMEFS-GN4kmg-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-VCSpdWah3A7k8zj8-VzoMXA-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-7bHbtWBuo6eJu2wY-Pnlsqw-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "i1.sndcdn.com",
+"url": "https://i1.sndcdn.com/artworks-2epUm6GnX1oM-0-t200x200.jpg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "dwt.soundcloud.com",
+"url": "https://dwt.soundcloud.com/js/",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/me",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "api-v2.soundcloud.com",
+"url": "https://api-v2.soundcloud.com/me",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "soundcloud.com",
+"url": "https://soundcloud.com/service-worker.js",
+"type": "script"
+},
+{
+"t": 8.35,
+"host": "cdn.moengage.com",
+"url": "https://cdn.moengage.com/release/dc_4/versions/2/serviceworker_cdn.min.latest.js",
+"type": "other"
+},
+{
+"t": 8.35,
+"host": "a-v2.sndcdn.com",
+"url": "https://a-v2.sndcdn.com/assets/27-82fddecf.js",
+"type": "fetch"
+},
+{
+"t": 8.35,
+"host": "soundcloud.com",
+"url": "https://soundcloud.com/offline.html",
+"type": "fetch"
+},
+{
+"t": 8.35,
+"host": "soundcloud.com",
+"url": "https://soundcloud.com/versions.json",
+"type": "xhr"
+},
+{
+"t": 8.54,
+"host": "soundcloud-privacy.my.onetrust.com",
+"url": "https://soundcloud-privacy.my.onetrust.com/request/v1/consentreceipts/anonymous",
+"type": "xhr"
+}
+]

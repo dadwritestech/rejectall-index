@@ -1,0 +1,26 @@
+{
+  "domain": "hicloudcam.com",
+  "url": "https://hicloudcam.com/",
+  "status": "unmeasurable",
+  "reason": "load_error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hicloudcam.com/",
+  "final_url": null,
+  "accept_clicks": null,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": null,
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "pre_consent_requests": 1,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

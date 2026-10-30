@@ -1,0 +1,986 @@
+[
+{
+"t": 0.0,
+"host": "samsung.com",
+"url": "https://samsung.com/",
+"type": "document"
+},
+{
+"t": 0.96,
+"host": "www.samsung.com",
+"url": "https://www.samsung.com/",
+"type": "document"
+},
+{
+"t": 1.04,
+"host": "www.samsung.com",
+"url": "https://www.samsung.com/de/",
+"type": "document"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.b044099f83e7f412097f7d677f78166c.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux26.min.9a3742998694ebbd75bf974858025137.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/23-10-2026/HOME_Hero-KV_Galaxy-Z_Fold8-Z-Fold8-Z-Flip8_PC_With-Z_SEG-V1_1920x1080.jpg",
+"type": "image"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.8a60d54d35ac545587d84d4d64027042.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.8a60d54d35ac545587d84d4d64027042.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.f001417e6956010e9cbfc19ee08a79a8.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.e4937076924cda72e594926a375b62aa.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.80ca88cacd90bd8aa8da9ee8cd25be59.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.94952162982d5f8e9d5e3ca7eac99a97.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.4254fe0ee3f1db0be62a9d45e47ff905.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.8382b67d348e5e576f3f0074467d7bc8.css",
+"type": "stylesheet"
+},
+{
+"t": 1.15,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/launch-fb5bf1320c5f.min.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/global/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "account.samsung.com",
+"url": "https://account.samsung.com/resources/libs/account-internal/2.0.0/account-internal.min.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/footer/qrcode_shop-app_de_new.png",
+"type": "image"
+},
+{
+"t": 1.15,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/footer/09-2025/Siegel_ntv-OSP25-GS-Elektronikhersteller_Samsung_2025_188x188.jpg",
+"type": "image"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux26.min.aa0d433d1a8066eb4a378b5188a2f13a.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.3f67c609ec011a26ade737638de3f950.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.3f67c609ec011a26ade737638de3f950.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.81100209039dba35793ba7634ae0eeab.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.2e7d516855f2cc7d6763dd5902dc234b.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.0668c8f30db5c717417007868df7650a.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.4fa2b42d27c1317dcd94a1b59b64f009.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.0750b55d66ff74b5090bb28372b301e4.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.d29337f00ad051c2b2016989d140f546.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.39d2becaa643a887167e8d8a74b92c29.js",
+"type": "script"
+},
+{
+"t": 1.19,
+"host": "s.go-mpulse.net",
+"url": "https://s.go-mpulse.net/boomerang/VRZKC-5BSTD-4EWS3-R2J59-B8GYB",
+"type": "script"
+},
+{
+"t": 1.28,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-open-down.svg",
+"type": "image"
+},
+{
+"t": 1.28,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg",
+"type": "image"
+},
+{
+"t": 1.28,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-video-ux2-play.svg",
+"type": "image"
+},
+{
+"t": 1.28,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungOne-400.woff2",
+"type": "font"
+},
+{
+"t": 1.28,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungOne-700.woff2",
+"type": "font"
+},
+{
+"t": 1.28,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungSharpSansBd.woff2",
+"type": "font"
+},
+{
+"t": 1.32,
+"host": "static.ads-twitter.com",
+"url": "https://static.ads-twitter.com/uwt.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "www.samsung.com",
+"url": "https://www.samsung.com/aemapi/v6/common/i18n/dict.de_DE.b2c.json",
+"type": "xhr"
+},
+{
+"t": 1.44,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC38215b2122ec4507ba29d79f696ef660-source.min.js",
+"type": "script"
+},
+{
+"t": 1.44,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/23-10-2026/Galaxy-S26-Series_HOME_Feature-KV_PC_1440x810_LTR-1.jpg",
+"type": "image"
+},
+{
+"t": 1.44,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/23-10-2026/MASTER_Main-KV_BAU_PC_1440x810.jpg",
+"type": "image"
+},
+{
+"t": 1.44,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/content/samsung/assets/de/23-10-2026/26-da-bespoke-ai-logo.svg",
+"type": "image"
+},
+{
+"t": 1.44,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/23-10-2026/26-da-bespoke-ai-home-feature-kv-s-e-europe-pc-11.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/svg-sprite.svg",
+"type": "xhr"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-2.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-2.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_Global_Campaign_2-3.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_Global_Campaign_2-3.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-4.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-4.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-5.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-5.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-6.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-6.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-7.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/Shop_L1_Highlights_2-7.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/TV_Video_L1_Full_bleed_2-2.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/gnb/2609/TV_Video_L1_Full_bleed_2-2.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "api-recommender.bigdata.samsung.com",
+"url": "https://api-recommender.bigdata.samsung.com/prodrec/recommendation",
+"type": "fetch"
+},
+{
+"t": 1.48,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/content/samsung/assets/de/23-10-2026/HOME_Hero-KV_Galaxy-Z_Fold8-Z-Fold8-Z-Flip8_PC_With-Z_SEG-V1_1920x1080.mp4",
+"type": "media"
+},
+{
+"t": 1.48,
+"host": "c.go-mpulse.net",
+"url": "https://c.go-mpulse.net/api/config.json",
+"type": "xhr"
+},
+{
+"t": 1.59,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-video-ux2-pause.svg",
+"type": "image"
+},
+{
+"t": 1.64,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/23-10-2026/HOME_Hero-KV_Galaxy-Z_Fold8-Z-Fold8-Z-Flip8_PC_With-Z_SEG-V1_1920x1080.jpg",
+"type": "image"
+},
+{
+"t": 1.64,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/23-10-2026/HOME_Hero-KV_Galaxy-Z_Fold8-Z-Fold8-Z-Flip8_PC_With-Z_SEG-V1_1920x1080.jpg",
+"type": "image"
+},
+{
+"t": 1.64,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/de/23-10-2026/Galaxy-S26-Series_HOME_Feature-KV_PC_1440x810_LTR-1.jpg",
+"type": "image"
+},
+{
+"t": 1.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC898e78ecf6b94c1abe2a65af986f7572-source.min.js",
+"type": "script"
+},
+{
+"t": 1.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC0033b2bcf6e447459aab6d0b6bc7327e-source.min.js",
+"type": "script"
+},
+{
+"t": 1.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RCb957739ff0ab4feea3cc1ccbc8f19c09-source.min.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/notice",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC6d23ff9369eb4a958bee1e1145c515f1-source.min.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC2022a1cdc45c47c4add1b8f3f70b014a-source.min.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC75efdef1da2543029a0af009ee458d3b-source.min.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC41a45f2dadb94166a333b41d7b13754f-source.min.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "www.dwin1.com",
+"url": "https://www.dwin1.com/14815.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RCf843ca08543749929f8f8c5520a75882-source.min.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC26599b946ec94005b44ac2f5b3df8b3e-source.min.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC8143ee1f802241f28a19f6ccae4bf255-source.min.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/72afb75f5516/a6bcca9e7098/9bc283b6caca/RC3de90af337eb49b5baeb88e1d38c0008-source.min.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/analytics",
+"type": "fetch"
+},
+{
+"t": 7.68,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/asset/notice.js/v/0aa19f7",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "images.samsung.com",
+"url": "https://images.samsung.com/is/image/samsung/assets/uk/whatsapp_chatbot_green.png",
+"type": "image"
+},
+{
+"t": 7.68,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/aem.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "www.upsellit.com",
+"url": "https://www.upsellit.com/active/samsunggermany.jsp",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "p.gsitrix.com",
+"url": "https://p.gsitrix.com/page/",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "dynamic.criteo.com",
+"url": "https://dynamic.criteo.com/js/ld/ld.js",
+"type": "script"
+},
+{
+"t": 7.68,
+"host": "www.samsung.com",
+"url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungSharpSansBd.woff2",
+"type": "font"
+},
+{
+"t": 7.68,
+"host": "www.samsung.com",
+"url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungSharpSansMd.woff2",
+"type": "font"
+},
+{
+"t": 7.68,
+"host": "www.samsung.com",
+"url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungOne-400.woff2",
+"type": "font"
+},
+{
+"t": 7.68,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/analytics",
+"type": "fetch"
+},
+{
+"t": 7.68,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/get",
+"type": "image"
+},
+{
+"t": 7.68,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/v2/scripts/loader.js",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/static-scripts/v2/2026-10-29/startup.bundle.js",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "o.gsitrix.com",
+"url": "https://o.gsitrix.com/sys.php",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "gum.criteo.com",
+"url": "https://gum.criteo.com/syncframe",
+"type": "document"
+},
+{
+"t": 7.69,
+"host": "p.gsitrix.com",
+"url": "https://p.gsitrix.com/js/ax.php",
+"type": "xhr"
+},
+{
+"t": 7.69,
+"host": "p.gsitrix.com",
+"url": "https://p.gsitrix.com/tk/pet.php",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "analytics.audioeye-services.com",
+"url": "https://analytics.audioeye-services.com/v1/send",
+"type": "ping"
+},
+{
+"t": 7.69,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/static-scripts/sites/af38000d7777d8634f70afc70d99c548/active.js",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "trial-eum-clientnsv4-s.akamaihd.net",
+"url": "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+"type": "xhr"
+},
+{
+"t": 7.69,
+"host": "trial-eum-clienttons-s.akamaihd.net",
+"url": "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
+"type": "xhr"
+},
+{
+"t": 7.69,
+"host": "gum.criteo.com",
+"url": "https://gum.criteo.com/sid/json",
+"type": "fetch"
+},
+{
+"t": 7.69,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/static-scripts/v2/2026-10-29/compliance.css",
+"type": "stylesheet"
+},
+{
+"t": 7.69,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/static-scripts/v2/2026-10-29/compliance.bundle.js",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/static-scripts/v2/2026-10-29/visual-toolkit.bundle.js",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/static-scripts/v2/2026-10-29/tangoEngine.bundle.js",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "mug.criteo.com",
+"url": "https://mug.criteo.com/sid",
+"type": "fetch"
+},
+{
+"t": 7.69,
+"host": "h3mndjr66wftc2xemwya-p5ynuk-3b5f14ebd-clientnsv4-s.akamaihd.net",
+"url": "https://h3mndjr66wftc2xemwya-p5ynuk-3b5f14ebd-clientnsv4-s.akamaihd.net/eum/results.txt",
+"type": "xhr"
+},
+{
+"t": 7.69,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/static-scripts/m/audioeye-scanner-esm/v11.2.49/audioeye-scanner-esm.js",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "eaaquyj2gzuaciabbjqja5iaafvoiznq-p5ynuk-8ff9940c5-clienttons-s.akamaihd.net",
+"url": "https://eaaquyj2gzuaciabbjqja5iaafvoiznq-p5ynuk-8ff9940c5-clienttons-s.akamaihd.net/eum/results.txt",
+"type": "xhr"
+},
+{
+"t": 7.69,
+"host": "sslwidget.criteo.com",
+"url": "https://sslwidget.criteo.com/event",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "x.bidswitch.net",
+"url": "https://x.bidswitch.net/sync",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "cm.g.doubleclick.net",
+"url": "https://cm.g.doubleclick.net/pixel",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "simage4.pubmatic.com",
+"url": "https://simage4.pubmatic.com/AdServer/SPug",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "criteo-sync.teads.tv",
+"url": "https://criteo-sync.teads.tv/um",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "criteo-partners.tremorhub.com",
+"url": "https://criteo-partners.tremorhub.com/sync",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "eb2.3lift.com",
+"url": "https://eb2.3lift.com/xuid",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "r.casalemedia.com",
+"url": "https://r.casalemedia.com/rum",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "gum.criteo.com",
+"url": "https://gum.criteo.com/sync",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "ad.yieldlab.net",
+"url": "https://ad.yieldlab.net/m",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "id5-sync.com",
+"url": "https://id5-sync.com/s/966/9.gif",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "ad.360yield.com",
+"url": "https://ad.360yield.com/match",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "exchange.mediavine.com",
+"url": "https://exchange.mediavine.com/usersync/push",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "sync.1rx.io",
+"url": "https://sync.1rx.io/usersync/criteodsp/k-EOPSYfoFI0EGzek_gfCvL2d9L3DwC8mjGvUnmw",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "c.bing.com",
+"url": "https://c.bing.com/c.gif",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "jadserve.postrelease.com",
+"url": "https://jadserve.postrelease.com/suid/1017",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "sync.outbrain.com",
+"url": "https://sync.outbrain.com/cookie-sync",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "cs.media.net",
+"url": "https://cs.media.net/cksync.php",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "simage2.pubmatic.com",
+"url": "https://simage2.pubmatic.com/AdServer/Pug",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "rtb-csync.smartadserver.com",
+"url": "https://rtb-csync.smartadserver.com/redir/",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "sync-t1.taboola.com",
+"url": "https://sync-t1.taboola.com/sg/criteortb-network/1/rtb-h/",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "dpm.demdex.net",
+"url": "https://dpm.demdex.net/ibs:dpid=28645&dpuuid=WP1WCl9hTHIxWTA2SkF0aExETmpXaTZsUEN0WSUyQm13ekpqV2h0ZXFCU0NGc05GVVNuRkRld3A5UlNhJTJGVzR5VEhpcmUlMkZs",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "r.casalemedia.com",
+"url": "https://r.casalemedia.com/rum",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "dis.criteo.com",
+"url": "https://dis.criteo.com/dis/rtb/google/cookiematch.aspx",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "sync.1rx.io",
+"url": "https://sync.1rx.io/usersync/criteodsp/k-EOPSYfoFI0EGzek_gfCvL2d9L3DwC8mjGvUnmw",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "dpm.demdex.net",
+"url": "https://dpm.demdex.net/demconf.jpg",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "sync.targeting.unrulymedia.com",
+"url": "https://sync.targeting.unrulymedia.com/csync/RX-09f14bbd-4cdc-48ed-9b2e-e92cf84c2670-003",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "gum.criteo.com",
+"url": "https://gum.criteo.com/sync",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "aa.agkn.com",
+"url": "https://aa.agkn.com/adscores/g.pixel",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "wsv3cdn.audioeye-services.com",
+"url": "https://wsv3cdn.audioeye-services.com/static-scripts/v2/2026-10-29/locales-de-compliance-json.bundle.js",
+"type": "script"
+},
+{
+"t": 7.69,
+"host": "ace8204d.akstat.io",
+"url": "https://ace8204d.akstat.io/",
+"type": "ping"
+},
+{
+"t": 7.69,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-a.svg",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-not.svg",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-10-60-usb-pd.svg",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-25-45.svg",
+"type": "image"
+},
+{
+"t": 7.69,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-g.svg",
+"type": "image"
+},
+{
+"t": 7.7,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-20-45-usb-pd.svg",
+"type": "image"
+},
+{
+"t": 7.7,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-f.svg",
+"type": "image"
+},
+{
+"t": 7.7,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-d.svg",
+"type": "image"
+},
+{
+"t": 7.7,
+"host": "resources.samsung.com",
+"url": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-e.svg",
+"type": "image"
+},
+{
+"t": 7.7,
+"host": "p.gsitrix.com",
+"url": "https://p.gsitrix.com/js/ax.php",
+"type": "xhr"
+},
+{
+"t": 7.7,
+"host": "p.gsitrix.com",
+"url": "https://p.gsitrix.com/js/ax.php",
+"type": "xhr"
+},
+{
+"t": 9.87,
+"host": "t.co",
+"url": "https://t.co/i/adsct",
+"type": "image"
+},
+{
+"t": 9.87,
+"host": "analytics.twitter.com",
+"url": "https://analytics.twitter.com/i/adsct",
+"type": "image"
+},
+{
+"t": 9.87,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/consent/log",
+"type": "fetch"
+},
+{
+"t": 9.87,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/cm/samsung.com.de/opt-out/domains",
+"type": "fetch"
+},
+{
+"t": 9.87,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/analytics",
+"type": "fetch"
+},
+{
+"t": 9.87,
+"host": "p.gsitrix.com",
+"url": "https://p.gsitrix.com/js/ax.php",
+"type": "xhr"
+},
+{
+"t": 9.89,
+"host": "smetrics.samsung.com",
+"url": "https://smetrics.samsung.com/ee/v1/privacy/set-consent",
+"type": "fetch"
+},
+{
+"t": 13.89,
+"host": "p.gsitrix.com",
+"url": "https://p.gsitrix.com/js/ax.php",
+"type": "xhr"
+},
+{
+"t": 13.89,
+"host": "t.co",
+"url": "https://t.co/i/adsct",
+"type": "image"
+},
+{
+"t": 13.89,
+"host": "analytics.twitter.com",
+"url": "https://analytics.twitter.com/i/adsct",
+"type": "image"
+}
+]

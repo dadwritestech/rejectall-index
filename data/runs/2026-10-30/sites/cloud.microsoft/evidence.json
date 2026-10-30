@@ -1,0 +1,98 @@
+{
+  "domain": "cloud.microsoft",
+  "url": "https://cloud.microsoft/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://m365.cloud.microsoft/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Accept",
+      "role": "accept",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Reject",
+      "role": "reject",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Manage cookies",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Privacy Statement",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Third-Party Cookies",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Learn more",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "here",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Privacy Statement",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 57,
+  "first_click_t": 18.12,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 18.12,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Reject",
+      "id": "a2f0-3",
+      "result": "ok"
+    }
+  ]
+}

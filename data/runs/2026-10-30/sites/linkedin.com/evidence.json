@@ -1,0 +1,182 @@
+{
+  "domain": "linkedin.com",
+  "url": "https://linkedin.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.linkedin.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "LinkedIn nimmt den Schutz Ihrer Privatsphäre sehr ernst LinkedIn und Drittanbieter setzen essenzielle und nicht zwingend erforderliche Cookies ein, um die LinkedIn Dienste bereitzustellen, zu schützen, zu analysieren und zu verbessern und um auf LinkedIn und außerhalb von LinkedIn relevante Anzeigen zu präsentieren (einschließlich zielgruppenspezifischer Anzeigen und Stellenanzeigen). Weitere Informationen finden Sie in unserer Cookie-Richtlinie. Wählen Sie „Akzeptieren“, um dieser Nutzung zuzustimmen, oder wählen Sie „Ablehnen“, um die nicht zwingend erforderlichen Cookies abzulehnen. Sie kön",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Einstellungen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Einstellungen für Nichtmitglieder",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookie-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Weiter mit Google",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mit E-Mail einloggen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Nutzervereinbarung",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutzrichtlinie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookie-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mitglied werden",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Info",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Barrierefreiheit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Nutzervereinbarung",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutzrichtlinie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookie-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Copyright-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Markenrichtlinine",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Community-Richtlinien",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Sprache",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 65,
+  "first_click_t": 8.97,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 8.97,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Ablehnen",
+      "id": "a1f0-4",
+      "result": "ok"
+    }
+  ]
+}

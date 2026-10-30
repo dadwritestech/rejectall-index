@@ -1,0 +1,392 @@
+[
+{
+"t": 0.0,
+"host": "samsungcloud.com",
+"url": "https://samsungcloud.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/",
+"type": "document"
+},
+{
+"t": 0.61,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/login",
+"type": "document"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/media/OneUISansGUI_300Light-s.p.246yy8nt-s_dk.woff2",
+"type": "font"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/media/OneUISansGUI_400Regular-s.p.1t1yc637xog1c.woff2",
+"type": "font"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/media/OneUISansGUI_600SemiBold-s.p.06qu50vejx_56.woff2",
+"type": "font"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/media/OneUISansGUI_700Bold-s.p.2ggtflhqvrvjs.woff2",
+"type": "font"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/0bnaudxv1lhtz.css",
+"type": "stylesheet"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/21bmb1yq_w1yt.css",
+"type": "stylesheet"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/09ovqec_b9pbo.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/007k8dk-7mwrm.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/1gz2f0pu0-9pu.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/turbopack-0wozl-nitpl66.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/183cs5406_nxj.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/1ljnawnve9ynx.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/17tkclw9i2anz.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/3eths29mpfi_t.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/3gmlgulj5y058.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/0nqmro5rc3wqy.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/05e5nfhx61zu4.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/2prch-czjn2yq.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/1sswn03jokdym.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/2h71f4f4we45q.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/03l2r75in40er.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/3wzpu8xnr1mir.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/119ib0iu6bc61.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/3hdfjt1qweg0z.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/1y8hb8idu0m4i.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/3ikmqw9e5fvxj.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/3vksr7qfpod30.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/2hymhybukp47x.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/2c6xlagyohmve.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/1-08hn6-eh3d9.js",
+"type": "script"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/0wjuo8_gbbrps.js",
+"type": "script"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/ers/v1/viewer-country",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/about",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/contactUs",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-settings",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-policy",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/contactUs/__next._tree.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/about/__next._tree.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-policy/__next._tree.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-settings/__next._tree.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/contactUs/__next._head.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/contactUs/__next._index.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-policy/__next._head.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-settings/__next._head.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-settings/__next.$d$locale.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-settings/__next.$d$locale.cookie-settings.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-settings/__next.$d$locale.cookie-settings.__PAGE__.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-policy/__next.$d$locale.cookie-policy.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/cookie-policy/__next.$d$locale.cookie-policy.__PAGE__.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/3bs1fn9-ozijk.js",
+"type": "script"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/about/__next._head.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/about/__next.$d$locale.about.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/about/__next.$d$locale.about.__PAGE__.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/contactUs/__next.$d$locale.contactUs.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/de/contactUs/__next.$d$locale.contactUs.__PAGE__.txt",
+"type": "fetch"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/232dpqly04n7o.js",
+"type": "script"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/1z07n-pbh-hof.js",
+"type": "script"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/0klc4lzh04xwr.js",
+"type": "script"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/21ojflh0h5vtq.js",
+"type": "script"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/2n4xg22z0vflm.js",
+"type": "script"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/1jzrxzag2la_4.js",
+"type": "script"
+},
+{
+"t": 7.25,
+"host": "www.samsungcloud.com",
+"url": "https://www.samsungcloud.com/_next/static/chunks/3gu26bsnj8cz3.js",
+"type": "script"
+}
+]

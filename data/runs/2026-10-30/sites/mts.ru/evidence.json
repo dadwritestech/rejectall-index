@@ -1,0 +1,541 @@
+{
+  "domain": "mts.ru",
+  "url": "https://mts.ru/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://moskva.mts.ru/personal",
+  "accept_clicks": 1,
+  "reject_clicks": null,
+  "reject_second_layer": true,
+  "reject_path": "none_found",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": true,
+  "llm_calls": [
+    {
+      "model": "gemma-4-12b",
+      "prompt": "These are clickable labels from a website's cookie consent banner.\n0: рекомендательные технологии\n1: ПОДРОБНЕЕ\n2: ПРИНЯТЬ\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+      "answer": "```json\n{\"accept\": 2, \"reject\": null, \"settings\": 1}\n```",
+      "error": null,
+      "ms": 3122,
+      "layer": 1,
+      "result": {
+        "a1f0-163": "accept",
+        "a1f0-162": "settings"
+      }
+    },
+    {
+      "model": "gemma-4-12b",
+      "prompt": "These are clickable labels from a website's cookie consent banner.\n0: https://id.mts.ru/companies.html\n1: https://support.microsoft.com/ru-ru/help/17442/windows-inter\n2: https://support.mozilla.org/ru-ru/kb/delete-cookies-remove-i\n3: http://help.opera.com/Windows/9.51/ru/cookies.html\n4: https://moskva.mts.ru/personal/cookie\n5: https://moskva.mts.ru/personal/cookie\n6: Политика обработки файлов cookie в ПАО «МТС»\n7: Узнать больше о приложении\n8: О компании\n9: Поддержка\n10: Контакты\n11: Новости\n12: Акции\n13: Карта салонов МТС\n14: Карьера в МТС\n15: Акционерам и инвесторам\n16: Связь, ТВ и интернет\n17: Тарифы мобильной связи\n18: Тарифы для спутникового ТВ\n19: Тарифы для часов и модемов\n20: Тарифы для домашнего телефона\n21: Мобильная связь\n22: Для дома\n23: Документы ПАО «МТС»\n24: Сертификаты безопасности Минцифры\n25: Правовая информация\n26: Комплаенс и деловая этика\n27: Раскрытие информации\n28: Политика обработки cookies\n29: Соглашение о пользовании системой\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+      "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": null}\n```",
+      "error": null,
+      "ms": 3065,
+      "layer": 2,
+      "result": {}
+    }
+  ],
+  "pre_consent_trackers": [
+    {
+      "domain": "mc.yandex.com",
+      "entity": "Yandex",
+      "category": "Advertising",
+      "requests": 22
+    },
+    {
+      "domain": "mail.ru",
+      "entity": "VKontakte",
+      "category": "Social",
+      "requests": 11
+    },
+    {
+      "domain": "adriver.ru",
+      "entity": "AdRiver",
+      "category": "Advertising",
+      "requests": 5
+    },
+    {
+      "domain": "mc.yandex.ru",
+      "entity": "Yandex",
+      "category": "Advertising",
+      "requests": 4
+    },
+    {
+      "domain": "an.yandex.ru",
+      "entity": "Yandex",
+      "category": "Advertising",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "llm_located": [
+    "settings"
+  ],
+  "banner_text": "Мы собираем файлы cookie и применяем рекомендательные технологии ПОДРОБНЕЕ ПРИНЯТЬ",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "ПРИНЯТЬ",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "рекомендательные технологии",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "ПОДРОБНЕЕ",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Узнать больше о приложении",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "О компании",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Поддержка",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Контакты",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Новости",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Акции",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Карта салонов МТС",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Карьера в МТС",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Акционерам и инвесторам",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Связь, ТВ и интернет",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Тарифы мобильной связи",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Тарифы для спутникового ТВ",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Тарифы для часов и модемов",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Тарифы для домашнего телефона",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Мобильная связь",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Для дома",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Документы ПАО «МТС»",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Сертификаты безопасности Минцифры",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Правовая информация",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Комплаенс и деловая этика",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Раскрытие информации",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Политика обработки cookies",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Соглашение о пользовании системой",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Правила применения рекомендательных технологий",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Условия использования сервиса",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Карта сайта",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "layer2": [
+    {
+      "text": "рекомендательные технологии",
+      "role": null,
+      "frame": 0,
+      "group": "0:b10f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "https://id.mts.ru/companies.html",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "https://support.microsoft.com/ru-ru/help/17442/windows-inter",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "https://support.mozilla.org/ru-ru/kb/delete-cookies-remove-i",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "http://help.opera.com/Windows/9.51/ru/cookies.html",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "https://moskva.mts.ru/personal/cookie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "https://moskva.mts.ru/personal/cookie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Политика обработки файлов cookie в ПАО «МТС»",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Узнать больше о приложении",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "О компании",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Поддержка",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Контакты",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Новости",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Акции",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Карта салонов МТС",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Карьера в МТС",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Акционерам и инвесторам",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Связь, ТВ и интернет",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Тарифы мобильной связи",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Тарифы для спутникового ТВ",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Тарифы для часов и модемов",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Тарифы для домашнего телефона",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Мобильная связь",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Для дома",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Документы ПАО «МТС»",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Сертификаты безопасности Минцифры",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Правовая информация",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Комплаенс и деловая этика",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Раскрытие информации",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Политика обработки cookies",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Соглашение о пользовании системой",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Правила применения рекомендательных технологий",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Условия использования сервиса",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Карта сайта",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "preticked_hidden": 0,
+  "pre_consent_requests": 247,
+  "first_click_t": 15.19,
+  "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg"
+  ],
+  "events": [
+    {
+      "t": 15.19,
+      "event": "click",
+      "why": "open_settings",
+      "text": "ПОДРОБНЕЕ",
+      "id": "a1f0-162",
+      "result": "ok"
+    }
+  ]
+}

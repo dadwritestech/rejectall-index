@@ -1,0 +1,1688 @@
+[
+{
+"t": 0.0,
+"host": "reg.ru",
+"url": "https://reg.ru/",
+"type": "document"
+},
+{
+"t": 6.27,
+"host": "reg.ru",
+"url": "https://reg.ru/",
+"type": "document"
+},
+{
+"t": 6.27,
+"host": "reg.ru",
+"url": "https://reg.ru/",
+"type": "document"
+},
+{
+"t": 6.27,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/",
+"type": "document"
+},
+{
+"t": 6.27,
+"host": "api.flocktory.com",
+"url": "https://api.flocktory.com/v2/loader.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/entry.DvsRkFd-.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ScHeader.nv8XRQXC.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/style.2RR2-h9A.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/FloatingElements.D8sNS0Zq.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiBreadcrumbs.CasxkaNa.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiIcon.BEjSii-U.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiLink.DyjA0niC.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/AdfoxContainer.C1LyFOHr.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/AmoFormDrawer.iCHNKP6J.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ProductCard.CYvqhj8E.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/useDomainForm.B7pKXobY.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiHeading.B94su87I.css",
+"type": "stylesheet"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DhPqA8Pg.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DGeod9Bs.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/6uuX7fyi.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/D_L2t-BB.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/skFIWniO.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CIDj2Xj0.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DooFW7w4.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Khobrnmn.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/jjgt3hQW.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Bxe63XF7.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/C8qgYTPX.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DrsxxS6Z.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/LjIX6kPu.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/K95cDwM9.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BZQz3Uo6.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ehqNPTaF.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CE-BQpff.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DVMnuXDv.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/vqeN_qkL.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DCkDYUS-.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DT2j70hQ.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BXIu3GDO.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BkDPg6Tg.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ClvqO-B1.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CntmiPIJ.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/2A8Bu1Ym.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/-nUYCh-R.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CL2eySrs.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Dsrse4r5.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/z8s16Gw8.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CgAuLqbZ.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BcYo5pTy.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CNCUXpn_.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CZMvBVw5.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/b-tWBi9d.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DjiDJseD.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/avCCvvxS.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/C6DMJK2c.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Dpg2imWB.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DGkOKMRQ.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/D7k5ES9Y.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CrcovdsE.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BFhIf0ZG.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Bgl4Nueg.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/u7GK_qaA.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CNyup5LC.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DfBolDeh.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Nk7wxUYB.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/C-MEDupB.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CggqqLrJ.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DVSxGr34.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CAp0eWHi.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/D8Rxd2_p.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BrnY5E-G.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/D7diLlJM.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BG-kIujD.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DknZDrQ9.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/HLo2LYWj.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CZFv_7xM.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/spomBZ-5.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CPY2ZIvF.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Gsfnrx-g.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/D68S-yzv.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DA8m0nxj.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Bmtmf7bD.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/C_TmKKp0.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CwvaCv4W.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/D87GcI5t.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/LR33jttb.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/jx9w-NK7.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ClLn62kA.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/B2JrRlpG.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/EZ0wLx5a.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Cl3Zk_bh.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CrkaFAEu.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DMp9IfG2.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ch9y3QPC.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/4b0ua3y7.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DTNkTCLY.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CJ5oZpmb.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BVtHlsCJ.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DwH9kL3M.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CYsmb7vK.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/u8wFsN47.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/8F1acwu7.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BNNG00YE.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/B262nAsS.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/7Mo9zkdv.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CaeaYB0n.js",
+"type": "script"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/favicon.CfRoFjU7.ico",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-accounting.JvWsFXde.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-alert.BHtvvTHy.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-antivirus.Db2IcGVe.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-cash.hKv3pd1r.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-colocation.By_UEMgx.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-constructor.Dn_yJke7.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-ddos.CeMCrALx.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-dns.CBh7t-0J.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-domain.B48dhKAL.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-forwarding.BvIueKV8.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-geo.BmPwfVf-.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-hosting.vzewkzmp.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-incognito.CMac3eAo.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-ip.BaTKc9iI.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-mail.DIUySqaW.png",
+"type": "other"
+},
+{
+"t": 6.27,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-nabor.CSsysejj.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-payment.DJIWGd6X.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-plan.CxAS-LGE.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-replain.DDLtZem6.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-rko.pwjcU2hi.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-seo.C9vDpr7U.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-ssl.BTZJpCDD.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-sert.Do85IRm5.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-server.BKR54_ar.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-support.B_MKH2dy.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-task.Dzj-FWqz.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ds-icons__rst-yclients.BSkIrl-P.png",
+"type": "other"
+},
+{
+"t": 6.28,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/reg-solutions__solutions-logo.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/amo-form-main-banner__img.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/Image_main_shop.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/image_main_hosting.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/image_main_mail.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/image_main_domain.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/Image_main_constructor.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/image_main_ssl.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "api.flocktory.com",
+"url": "https://api.flocktory.com/v2/provider/provider.html",
+"type": "document"
+},
+{
+"t": 6.28,
+"host": "api.flocktory.com",
+"url": "https://api.flocktory.com/u_shaman/setup-api",
+"type": "fetch"
+},
+{
+"t": 6.28,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/image_hero-2001_1769409015.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/amo-form-main-banner__bg.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/cloud-solutions-block-redesign-2026.webp",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/Geologica-Light.woff2",
+"type": "font"
+},
+{
+"t": 6.28,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/Geologica-Medium.woff2",
+"type": "font"
+},
+{
+"t": 6.28,
+"host": "api.flocktory.com",
+"url": "https://api.flocktory.com/underworld/tracks/ultimate.js",
+"type": "fetch"
+},
+{
+"t": 6.29,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/showcase-main-page__hero-slider_image_site.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/showcase-main-page__hero-slider_image_mail.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/seo_audit.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/images/seo-promotion.original.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/showcase-main-page__hero-slider_image_domains.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/showcase-main-page__hero-slider_image_hosting.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/showcase-main-page__hero-slider_image_ssl.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "img.reg.ru",
+"url": "https://img.reg.ru/news/showcase-main-page__hero-slider_image_cloud.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/images/dalganov_28026.original.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/images/reels_280926.original.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/images/alfa_15_280926.original.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/images/market_280926_1.original.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/%D0%92_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_1782894742.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/%D0%92_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_1768916283_dipoIFp_1781514096.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/%D0%92_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_1773914978_laxBxa2_1781513807.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/%D0%92_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_1784623864.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/%D0%92_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_1768916097_VrWyph2_1781513826.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.reg.ru",
+"url": "https://www.reg.ru/catalog-images/files/%D0%92_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_1768915931_tP4RcT2_1781513833.webp",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/index.DMtyjW0i.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DJcGjIQw.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "event-logger-bff.svc.reg.ru",
+"url": "https://event-logger-bff.svc.reg.ru/send-event",
+"type": "fetch"
+},
+{
+"t": 6.29,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/metrika/tag.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/main.BHf7lhrD.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "login.reg.ru",
+"url": "https://login.reg.ru/authenticate",
+"type": "fetch"
+},
+{
+"t": 6.29,
+"host": "header-bff.svc.reg.ru",
+"url": "https://header-bff.svc.reg.ru/support/phones",
+"type": "fetch"
+},
+{
+"t": 6.29,
+"host": "login.reg.ru",
+"url": "https://login.reg.ru/authenticate",
+"type": "fetch"
+},
+{
+"t": 6.29,
+"host": "event-logger-bff.svc.reg.ru",
+"url": "https://event-logger-bff.svc.reg.ru/send-event",
+"type": "fetch"
+},
+{
+"t": 6.29,
+"host": "external.login.reg.ru",
+"url": "https://external.login.reg.ru/api/accounts/providers",
+"type": "xhr"
+},
+{
+"t": 6.29,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/system/context.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/COj7R_on.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BCmPBaFh.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CbOjXYYn.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BEHRWwFu.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Cu1N5LdN.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/FaqItem.2doAsKW1.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BcmuUDhQ.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/wysiwyg-renderer.BY-LVitQ.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/yafUYfL4.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiCta.DzWNIPDl.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/7dxXUsti.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ContainerOutboxWide.D9hSrEEt.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BUazZfGS.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/FUiI9DtW.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiHeroCallLine.OFtXvfvY.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiHero6.Dd2GGBVd.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DvZbBjH6.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CSLKadKS.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/C_lzCadP.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiSlider.BYmUpBkk.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/useMetaTags.BaGmvRTa.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ProductHero.DbqD1FQ1.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ProductHeroBlock.BJ8v8GRj.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/v-arVijf.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/SKJ8hH95.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/useSolutionsCatalogApi.CZmkEpxV.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ProductCheckoutBlock.B5GrW3Qe.css",
+"type": "stylesheet"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/B-bV01Xt.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DiQIPpCD.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ProductService.BUlAtwkF.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/formatMonthlyPrice.TyyvQZWU.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/C2SJ74qf.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CardPriceFooter.CEn6my4S.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/D7O_ziBJ.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BkrrfCkg.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/EducationCard.BXRq_kmU.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/ProductEducation.CH-_b9W6.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Z-liwE6i.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/GalleryBlock.CJfyg6BO.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BwfOwSp_.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CxNt0uAT.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DmwzROli.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/index.CgZ2woby.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/C_R5Q0i_.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/o0527UFU.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiAdvantagesTileItem._g2ydWbM.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BZMrD-Al.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/useOfferwallComponents.CSX3ntnI.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/index.IBSeyHtC.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Ch9SKF7s.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/C0VDufw2.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BuGPtwSG.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BEtBhzIj.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BPwou_yL.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/useHostingPlans.C2cq0mfL.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CyG-PnMS.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiHero1.DDBuvnIi.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DWTcckbz.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Groups.BhHnFPfe.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/CTbW473R.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/PlanParamNoPhp.B19Osup1.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/C7mKXUHv.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/DuKWnh1Y.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Df6YHpqm.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/UiClientsSlider.BLAI5Jwq.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/BmyICohE.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/7Nqltig2.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/TextblockWithImage.DqMsBwie.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Db3uzeDl.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/HostingBenefits.BifXtUpd.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/index.B5G1vkzG.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/D2SiuR0U.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/Bonuses.5Po5wtSn.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/index.DA0Ee45A.css",
+"type": "stylesheet"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/h4mk490s.js",
+"type": "script"
+},
+{
+"t": 6.3,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/default.CnBnLmtS.css",
+"type": "stylesheet"
+},
+{
+"t": 6.31,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_check",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/metrika/advert.gif",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_start",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "login.reg.ru",
+"url": "https://login.reg.ru/refresh",
+"type": "fetch"
+},
+{
+"t": 6.31,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_decide",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/libs/libs-edc4844f.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/2dd2aa8bf0395a74.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/s3/home/fonts/ys/3/text-variable-full.woff2",
+"type": "font"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/ccda57a5cd08eacf.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/013f01b9aa50bd9c.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/libs/libs_render-edc4844f.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/caa55605de161fb4.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/safeframe-bundles/0.89/host.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/820eca693e08f767.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/1379221",
+"type": "fetch"
+},
+{
+"t": 6.31,
+"host": "login.reg.ru",
+"url": "https://login.reg.ru/refresh",
+"type": "fetch"
+},
+{
+"t": 6.31,
+"host": "yandex.ru",
+"url": "https://yandex.ru/adfox/699999/getBulk/v2",
+"type": "xhr"
+},
+{
+"t": 6.35,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/1379221/1",
+"type": "fetch"
+},
+{
+"t": 6.35,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_check",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/ytm-config/1379221",
+"type": "fetch"
+},
+{
+"t": 6.35,
+"host": "yandex.ru",
+"url": "https://yandex.ru/adfox/699999/event",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "avatars.mds.yandex.net",
+"url": "https://avatars.mds.yandex.net/get-adfox-content/2774030/260904_adfox_3461126_15512265.5b8f77d455284633235e8cdc241eeca8.png/optimize.webp",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/1379221",
+"type": "fetch"
+},
+{
+"t": 6.35,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/1379221/1",
+"type": "ping"
+},
+{
+"t": 6.35,
+"host": "login.reg.ru",
+"url": "https://login.reg.ru/refresh",
+"type": "fetch"
+},
+{
+"t": 6.36,
+"host": "showcase-static.reg.ru",
+"url": "https://showcase-static.reg.ru/_nuxt/static/builds/meta/5055b666-8a75-4470-a78d-837488396bcf.json",
+"type": "fetch"
+}
+]

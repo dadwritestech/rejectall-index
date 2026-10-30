@@ -1,0 +1,105 @@
+{
+  "domain": "chatgpt.com",
+  "url": "https://chatgpt.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://chatgpt.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Wir verwenden Cookies Cookies sorgen dafür, dass diese Website funktioniert, messen die Nutzung und unterstützen Marketingmaßnahmen. Verwalte deine Cookie-Einstellungen jederzeit. Weitere Informationen findest du in unserer Cookie-Richtlinie. Nicht unbedingt erforderliche ablehnen Alle akzeptieren",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Nicht unbedingt erforderliche ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g5",
+      "overlay": true
+    },
+    {
+      "text": "Alle akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g5",
+      "overlay": true
+    },
+    {
+      "text": "Anmelden",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Kostenlos registrieren",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Nutzungsbedingungen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzrichtlinie",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Mehr erfahren",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Verwalte",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g5",
+      "overlay": true
+    },
+    {
+      "text": "Cookie-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g5",
+      "overlay": true
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 306,
+  "first_click_t": 8.34,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 8.34,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Nicht unbedingt erforderliche ablehnen",
+      "id": "a1f0-22",
+      "result": "ok"
+    }
+  ]
+}

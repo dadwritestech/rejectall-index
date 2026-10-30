@@ -1,0 +1,4692 @@
+{
+ "meta": {
+  "date": "2026-10-30",
+  "vantage": {
+   "country": "DE",
+   "description": "One residential connection in Germany (the maintainer's machine)",
+   "locale": "de-DE",
+   "timezone": "Europe/Berlin"
+  },
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.34 Safari/537.36",
+  "browser": "chromium 151.0.7922.34",
+  "tracker_list": "Disconnect services.json + entities.json (CC BY-NC-SA 4.0)",
+  "tracker_list_sha256": "80e1bf6844c55f49/8c7e94ece4b7e3c2",
+  "scoring_version": 1,
+  "timing_s": {
+   "settle": 6.0,
+   "layer_wait": 1.0,
+   "after_wait": 4.0,
+   "pause_between_sites": 3.0
+  },
+  "llm": {
+   "model": "gemma-4-12b (local llama-server)",
+   "role": "locate buttons only",
+   "enabled": true
+  }
+ },
+ "sites": [
+  {
+   "domain": "google.com",
+   "url": "https://google.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.google.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "DE Anmelden Bevor Sie zu Google weitergehen Wir verwenden Cookies und Daten einschließlich IP-Adressen, um Google-Dienste zu erbringen und zu betreiben Ausfälle zu prüfen und Maßnahmen gegen Spam, Betrug und Missbrauch zu ergreifen Zielgruppeninteraktionen und Websitestatistiken zu analysieren, um zu verstehen, wie unsere Dienste verwendet werden, und die Qualität dieser Dienste zu verbessern Wenn Sie „Alle akzeptieren“ auswählen, verwenden wir Cookies und Daten einschließlich IP-Adressen auch, um neue Dienste zu entwickeln und zu verbessern Werbung auszuliefern und ihre Effektivität zu messen",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 39,
+   "first_click_t": 8.5,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 1,
+   "seconds": 12.6,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "cloudflare.com",
+   "url": "https://cloudflare.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.cloudflare.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Our site uses cookies Like most websites, we use cookies to make our site work the way you expect it to, improve your experience on our site, analyze site usage, and assist in our marketing efforts. By choosing \"Accept All Cookies\", you agree to the storing of all categories of cookies on your device. If you wish to accept or reject some categories of cookies, please click “Cookie Preferences.” Cookie Preferences Reject All Accept All Cookies",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 145,
+   "first_click_t": 8.89,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 2,
+   "seconds": 13.1,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "microsoft.com",
+   "url": "https://microsoft.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.microsoft.com/de-de",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 207,
+   "first_click_t": 11.69,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 10,
+   "seconds": 15.8,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://youtube.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.youtube.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Ein Google-Unternehmen de Anmelden Bevor Sie zu YouTube weitergehen Wir verwenden Cookies und Daten einschließlich IP-Adressen, um Google-Dienste zu erbringen und zu betreiben Ausfälle zu prüfen und Maßnahmen gegen Spam, Betrug und Missbrauch zu ergreifen Zielgruppeninteraktionen und Websitestatistiken zu analysieren, um zu verstehen, wie unsere Dienste verwendet werden, und die Qualität dieser Dienste zu verbessern Wenn Sie „Alle akzeptieren“ auswählen, verwenden wir Cookies und Daten einschließlich IP-Adressen auch, um neue Dienste zu entwickeln und zu verbessern Werbung auszuliefern und ihr",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 144,
+   "first_click_t": 9.11,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 11,
+   "seconds": 13.2,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "apple.com",
+   "url": "https://apple.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.apple.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 54,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 12,
+   "seconds": 10.6,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "hicloudcam.com",
+   "url": "https://hicloudcam.com/",
+   "status": "unmeasurable",
+   "reason": "load_error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hicloudcam.com/",
+   "final_url": null,
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "pre_consent_requests": 1,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 13,
+   "seconds": 0.3,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "instagram.com",
+   "url": "https://instagram.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.instagram.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Afrikaans العربية Čeština Dansk Deutsch Ελληνικά English English (UK) Español (España) Español فارسی Suomi Français עברית Bahasa Indonesia Italiano 日本語 한국어 Bahasa Melayu Norsk Nederlands Polski Português (Brasil) Português (Portugal) Русский Svenska ภาษาไทย Filipino Türkçe 中文(简体) 中文(台灣) বাংলা ગુજરાતી हिन्दी Hrvatski Magyar ಕನ್ನಡ മലയാളം मराठी नेपाली ਪੰਜਾਬੀ සිංහල Slovenčina தமிழ் తెలుగు اردو Tiếng Việt 中文(香港) Български Français (Canada) Română Српски Українська Die Verwendung von Cookies durch Instagram in diesem Browser erlauben? Wir verwenden Cookies und ähnliche Technologien, um Inhalte in Me",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 41,
+   "first_click_t": 8.74,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 14,
+   "seconds": 12.9,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "mail.ru",
+   "url": "https://mail.ru/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://mail.ru/",
+   "accept_clicks": 1,
+   "reject_clicks": 2,
+   "reject_second_layer": true,
+   "reject_path": "second_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "mc.yandex.com",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 20
+    },
+    {
+     "domain": "mc.yandex.ru",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 5
+    },
+    {
+     "domain": "bs.yandex.ru",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "yadro.ru",
+     "entity": "LiveInternet",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Einwilligung zu Cookies & Datenverarbeitung Auf dieser Website nutzen wir Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten (wie z.B. IP-Adressen oder Browserinformationen). Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung, personalisierten Werbung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an bis zu 0 Dritte weitergegeben und von diesen verarbeitet. Diese Einwilligung ist freiwillig, für die Nutzung unserer Website nicht erford",
+   "extra_banners": [],
+   "preticked_hidden": 0,
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 340,
+   "first_click_t": 14.9,
+   "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 17,
+   "seconds": 20.3,
+   "score": 73,
+   "grade": "C",
+   "penalties": [
+    [
+     "extra_reject_clicks",
+     15
+    ],
+    [
+     "pre_consent_trackers",
+     12
+    ]
+   ]
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://linkedin.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.linkedin.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "LinkedIn nimmt den Schutz Ihrer Privatsphäre sehr ernst LinkedIn und Drittanbieter setzen essenzielle und nicht zwingend erforderliche Cookies ein, um die LinkedIn Dienste bereitzustellen, zu schützen, zu analysieren und zu verbessern und um auf LinkedIn und außerhalb von LinkedIn relevante Anzeigen zu präsentieren (einschließlich zielgruppenspezifischer Anzeigen und Stellenanzeigen). Weitere Informationen finden Sie in unserer Cookie-Richtlinie. Wählen Sie „Akzeptieren“, um dieser Nutzung zuzustimmen, oder wählen Sie „Ablehnen“, um die nicht zwingend erforderlichen Cookies abzulehnen. Sie kön",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 65,
+   "first_click_t": 8.97,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 18,
+   "seconds": 13.1,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "triplinkintl.com",
+   "url": "https://triplinkintl.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.triplinkintl.com/",
+   "accept_clicks": 1,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": "none_found",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Sign In\n1: Cookie Statement.\n2: Acknowledge\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": 1, \"reject\": null, \"settings\": null}\n```\n\n*(Note: Based on the provided labels, \"Acknowledge\" (2) is the standard button for accepting the terms/cookies, and \"Cookie Statement\" (1) typically links",
+     "error": null,
+     "ms": 4237,
+     "layer": 1,
+     "result": {
+      "a2f0-13": "accept"
+     }
+    }
+   ],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [
+    "accept"
+   ],
+   "banner_text": "We Value Your Privacy Our website only uses necessary cookies. These cookies do not collect personal data for analysis and advertisement, and are essential for proper function and operation. For more information, see our Cookie Statement. Acknowledge",
+   "extra_banners": [],
+   "pre_consent_requests": 45,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 26,
+   "seconds": 16.9,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "amazon.com",
+   "url": "https://amazon.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.amazon.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "doubleclick.net",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 4
+    },
+    {
+     "domain": "adnxs.com",
+     "entity": "Microsoft",
+     "category": "Advertising",
+     "requests": 3
+    },
+    {
+     "domain": "adscale.de",
+     "entity": "Ströer Core",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "bidswitch.net",
+     "entity": "Criteo",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "casalemedia.com",
+     "entity": "IndexExchange",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "connatix.com",
+     "entity": "JWP Connatix",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "demdex.net",
+     "entity": "Adobe",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "fwmrm.net",
+     "entity": "Comcast",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "openx.net",
+     "entity": "OpenX",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "scorecardresearch.com",
+     "entity": "comScore",
+     "category": "Analytics",
+     "requests": 2
+    },
+    {
+     "domain": "semasio.net",
+     "entity": "SearchForce",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "smartadserver.com",
+     "entity": "Equativ",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "360yield.com",
+     "entity": "Azerion",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "3lift.com",
+     "entity": "TripleLift",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "agkn.com",
+     "entity": "TransUnion",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "dmxleo.com",
+     "entity": "DailyMotion",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "exelator.com",
+     "entity": "Nielsen",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "fout.jp",
+     "entity": "FreakOut",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "gumgum.com",
+     "entity": "GumGum",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "id5-sync.com",
+     "entity": "ID5",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "ispot.tv",
+     "entity": "iSpot",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "kargo.com",
+     "entity": "Kargo",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "loopme.me",
+     "entity": "LoopMe",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "mookie1.com",
+     "entity": "WPP",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "ninthdecimal.com",
+     "entity": "InMarket",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "postrelease.com",
+     "entity": "Life360",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "presage.io",
+     "entity": "Ogury",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "pubmatic.com",
+     "entity": "PubMatic",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "richaudience.com",
+     "entity": "EXTE",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "rubiconproject.com",
+     "entity": "Magnite",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "samba.tv",
+     "entity": "Samba.tv",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "samplicio.us",
+     "entity": "Cint",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "taboola.com",
+     "entity": "Taboola",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "tremorhub.com",
+     "entity": "Nexxen",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "yieldmo.com",
+     "entity": "Yieldmo",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "zeotap.com",
+     "entity": "Zeotap",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 202,
+   "pre_consent_requests": 229,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 32,
+   "seconds": 10.7,
+   "score": 60,
+   "grade": "C",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     40
+    ]
+   ]
+  },
+  {
+   "domain": "github.com",
+   "url": "https://github.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://github.com/?locale=de-de",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 166,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 34,
+   "seconds": 11.1,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "wikipedia.org",
+   "url": "https://wikipedia.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.wikipedia.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 7,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 37,
+   "seconds": 10.3,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "cloud.microsoft",
+   "url": "https://cloud.microsoft/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://m365.cloud.microsoft/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 57,
+   "first_click_t": 18.12,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 40,
+   "seconds": 22.2,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "netflix.com",
+   "url": "https://netflix.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.netflix.com/de/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Netflix und Drittanbieter verwenden Cookies und ähnliche Technologien auf dieser Website, um Informationen über Ihre Browsing-Aktivitäten zu erfassen, die wir zur Analyse Ihrer Nutzung der Website, zur Personalisierung unserer Dienstleistungen und zur Anpassung unserer Online-Werbung verwenden. Sie können die Auswahl annehmen, ablehnen oder personalisieren, indem Sie „Weitere Informationen“ auswählen. Netflix unterstützt die Prinzipien der Digital Advertising Alliance. Weitere Informationen Ablehnen Annehmen",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 75,
+   "first_click_t": 9.84,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 44,
+   "seconds": 14.0,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "bing.com",
+   "url": "https://bing.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.bing.com/?toWww=1&redig=56C70CDA012549A5BB9654A1EAC7F047",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Microsoft und unsere Drittanbieter verwenden Cookies und ähnliche Technologien zur Bereitstellung, Aufrechterhaltung und Verbesserung unserer Dienste und Anzeigen. Wenn Sie damit einverstanden sind, verwenden wir diese Daten für die Personalisierung von Anzeigen und die damit verbundenen Analysen. Sie können „Akzeptieren“ wählen, um diesen Verwendungen zuzustimmen, „Ablehnen“ wählen, um diese Verwendungen abzulehnen, oder auf „Weitere Optionen“ klicken, um Ihre Optionen zu überprüfen. Sie können Ihre Auswahl unten auf dieser Seite unter „Cookiepräferenzen verwalten“ ändern. Datenschutzbestimmu",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 310,
+   "first_click_t": 8.49,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 45,
+   "seconds": 12.6,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "x.com",
+   "url": "https://x.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: http 403",
+   "final_url": "https://x.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 1,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 47,
+   "seconds": 10.3,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "gandi.net",
+   "url": "https://gandi.net/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.gandi.net/en",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "aticdn.net",
+     "entity": "Piano",
+     "category": "Analytics",
+     "requests": 1
+    },
+    {
+     "domain": "xiti.com",
+     "entity": "Piano",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 21,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 51,
+   "seconds": 12.9,
+   "score": 94,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     6
+    ]
+   ]
+  },
+  {
+   "domain": "pinterest.com",
+   "url": "https://pinterest.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://de.pinterest.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Die Verwendung von Cookies akzeptieren? Wir verwenden Cookies, um dir personalisierte Anzeigen und Erlebnisse zu präsentieren und den Traffic auf unserer Webseite zu analysieren. In unseren Cookie-Richtlinien findest du weitere Infos. Alle ablehnen Ich möchte eine Auswahl treffen. Alle akzeptieren",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 148,
+   "first_click_t": 8.89,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 52,
+   "seconds": 13.0,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "icloud.com",
+   "url": "https://icloud.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found (consent-like overlay seen)",
+   "final_url": "https://www.icloud.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Zur iCloud.com-Homepage wechseln\n1: Hilfe\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": null}\n```",
+     "error": null,
+     "ms": 2936,
+     "layer": 1,
+     "result": {}
+    }
+   ],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [],
+   "pre_consent_requests": 28,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 54,
+   "seconds": 13.4,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "cloudflare.net",
+   "url": "https://cloudflare.net/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://cloudflare.net/home/default.aspx",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "cloudflareinsights.com",
+     "entity": "Cloudflare",
+     "category": "Analytics",
+     "requests": 2
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wenn Sie auf „Alle Cookies akzeptieren“ klicken, stimmen Sie der Speicherung von Cookies auf Ihrem Gerät zu, um die Websitenavigation zu verbessern, die Websitenutzung zu analysieren und unsere Marketingbemühungen zu unterstützen. Cookie-Einstellungen Alle ablehnen Alle Cookies akzeptieren",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 261,
+   "first_click_t": 11.25,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 58,
+   "seconds": 15.4,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "adobe.com",
+   "url": "https://adobe.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: title: Access Denied",
+   "final_url": "https://www.adobe.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 2,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 61,
+   "seconds": 10.2,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "wordpress.org",
+   "url": "https://wordpress.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://wordpress.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "analytics.google.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 2
+    },
+    {
+     "domain": "doubleclick.net",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 54,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 62,
+   "seconds": 11.3,
+   "score": 94,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     6
+    ]
+   ]
+  },
+  {
+   "domain": "tiktok.com",
+   "url": "https://tiktok.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.tiktok.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Cookies von TikTok in diesem Browser erlauben? TikTok nutzt Cookies und ähnliche Technologien, um seine Dienste bereitzustellen, sie zu verbessern, zu schützen und zu analysieren. Notwendige Cookies sind erforderlich, damit TikTok wie vorgesehen funktioniert. Wenn du „Alle erlauben“ auswählst, erlaubst du es uns, abhängig von deinen Einstellungen optionale Cookies zu zusätzlichen Zwecken, wie z. B. der Messung der Effektivität und Relevanz von Anzeigen, einschließlich personalisierter Anzeigen auf TikTok.com, zu nutzen. Optionale Cookies helfen uns auch in weiteren Punkten, z. B. bei der Messu",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 371,
+   "first_click_t": 10.12,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 63,
+   "seconds": 14.3,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "myfritz.net",
+   "url": "https://myfritz.net/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://sso.myfritz.net/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 41,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 65,
+   "seconds": 10.6,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "yahoo.com",
+   "url": "https://yahoo.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://de.yahoo.com/?p=us",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "google-analytics.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 13
+    },
+    {
+     "domain": "googlesyndication.com",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "taboola.com",
+     "entity": "Taboola",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [
+    {
+     "domain": "adtrafficquality.google",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 5
+    },
+    {
+     "domain": "doubleclick.net",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "scorecardresearch.com",
+     "entity": "comScore",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Alle akzeptieren Alle ablehnen Datenschutzeinstellungen verwalten",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 226,
+   "first_click_t": 9.35,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 71,
+   "seconds": 13.5,
+   "score": 91,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     9
+    ]
+   ]
+  },
+  {
+   "domain": "digicert.com",
+   "url": "https://digicert.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.digicert.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "demdex.net",
+     "entity": "Adobe",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "g2.com",
+     "entity": "G2",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "g2crowd.com",
+     "entity": "G2",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 50,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 72,
+   "seconds": 11.4,
+   "score": 91,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     9
+    ]
+   ]
+  },
+  {
+   "domain": "opera.com",
+   "url": "https://opera.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.opera.com/de",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "untick_and_save_layer1",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Werbung und Personalisierung\n1: Datenschutzerklärung\n2: Cookie-Richtlinie\n3: Alle akzeptieren\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": 3, \"reject\": null, \"settings\": null}\n```",
+     "error": null,
+     "ms": 3016,
+     "layer": 1,
+     "result": {
+      "a1f0-92": "accept"
+     }
+    }
+   ],
+   "pre_consent_trackers": [
+    {
+     "domain": "clarity.ms",
+     "entity": "Microsoft",
+     "category": "Analytics",
+     "requests": 3
+    },
+    {
+     "domain": "bat.bing.com",
+     "entity": "Microsoft",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "google-analytics.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 1
+    },
+    {
+     "domain": "googlesyndication.com",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [],
+   "banner_text": "Cookies Notwendige Cookies Notwendige Cookies sind für die Funktionalität der Website erforderlich. Die optionalen Marketing- und Analyse-Cookies helfen uns bei der Messung von Kampagnen und ermöglichen es unseren Partnern, einschließlich Google, relevante Werbung und Personalisierung bereitzustellen. Marketing-Cookies Analyse-Cookies Durch die Annahme stimmst du der Verwendung von Cookies für die angegebenen Zwecke zu. Du kannst deine Zustimmung jederzeit widerrufen und die Weitergabe dieser Daten stoppen, indem du unten auf der Webseite von Opera auf \"Cookie-Zustimmung\" klickst. Weitere Info",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 68,
+   "first_click_t": 11.99,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 76,
+   "seconds": 16.1,
+   "score": 88,
+   "grade": "B",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     12
+    ]
+   ]
+  },
+  {
+   "domain": "spotify.com",
+   "url": "https://spotify.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://open.spotify.com/intl-de/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "sentry.io",
+     "entity": "FunctionalSoftware",
+     "category": "Analytics",
+     "requests": 4
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Deine Privatsphäre ist uns wichtig Wir und unsere 96 Partner speichern Informationen auf Geräten und/oder greifen darauf zu, z. B. eindeutige IDs in Cookies, um personenbezogene Daten zu verarbeiten. Klicke unten auf „Cookie-Einstellungen“, um mehr über die Zwecke zu erfahren, für die wir und unsere Partner Cookies verwenden, oder um die Einstellungen zu ändern. Du kannst deine Einstellungen jederzeit überprüfen oder deine Einwilligung widerrufen, indem du in unserer Cookie-Richtlinie auf den Link zu deinen Cookie-Einstellungen klickst. Diese Entscheidungen werden unseren Partnern mitgeteilt u",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 406,
+   "first_click_t": 8.91,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 77,
+   "seconds": 13.1,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "roblox.com",
+   "url": "https://roblox.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.roblox.com/de",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "sentry.io",
+     "entity": "FunctionalSoftware",
+     "category": "Analytics",
+     "requests": 2
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wir verwenden Cookies, um deine Erfahrung auf unserer Website zu personalisieren und zu verbessern. Besuche unsere Datenschutzrichtlinien für weitere Informationen über unsere Datensammelpraktiken. Wenn du auf „Zustimmen“ klickst, akzeptierst du unsere Verwendung von Cookies, die für diese Zwecke in den Einstellungen aufgeführt sind. Um Einsicht auf die komplette Liste der Unternehmen zu gelangen, die diese Cookies und weitere Technologien verwenden, und um uns mitzuteilen, ob sie diese auf deinem Gerät verwenden dürfen oder nicht, greife auf das Cookie Consent Tool zu. Diese Mitteilung wird d",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 249,
+   "first_click_t": 9.55,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 78,
+   "seconds": 13.7,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "baidu.com",
+   "url": "https://baidu.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.baidu.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 76,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 82,
+   "seconds": 17.7,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "ntp.org",
+   "url": "https://ntp.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.ntp.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "adtrafficquality.google",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 5
+    },
+    {
+     "domain": "clarity.ms",
+     "entity": "Microsoft",
+     "category": "Analytics",
+     "requests": 5
+    },
+    {
+     "domain": "google-analytics.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 2
+    },
+    {
+     "domain": "googlesyndication.com",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 37,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 85,
+   "seconds": 12.3,
+   "score": 88,
+   "grade": "B",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     12
+    ]
+   ]
+  },
+  {
+   "domain": "vimeo.com",
+   "url": "https://vimeo.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found (consent-like overlay seen)",
+   "final_url": "https://vimeo.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Video player Completely customizable\n1: Record Capture and share quickly\n2: Video editor Fast, simple, in-browser editing\n3: Video maker No experience required\n4: Vimeo AI Smart editing and translation\n5: Analytics Track engagement data\n6: Integrations Connect your favorite tools\n7: Vimeo Review update New Get faster, clearer feedback\n8: Vimeo Streaming is here Build your streaming service\n9: Premiere Pro integration Make editing faster\n10: Best of the Year See the must-watch shorts\n11: Video library Organize content securely\n12: Webinars Host live or pre-recorded\n13: Live streaming Broadcast to global audiences\n14: Vimeo On Demand List your videos for sale\n15: Vimeo Streaming Launch a subscription service\n16: See all features\n17: Video pros\n18: Marketing teams\n19: Communications teams\n20: L&D leaders\n21: Content businesses\n22: Small businesses\n23: Educators\n24: Retail\n25: Tech / SaaS\n26: Financial services\n27: See all use cases\n28: Translate audio and captions Save time and money on localiza\n29: Overview\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": null}\n```",
+     "error": null,
+     "ms": 3043,
+     "layer": 1,
+     "result": {}
+    }
+   ],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [],
+   "pre_consent_requests": 176,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 87,
+   "seconds": 12.8,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "qq.com",
+   "url": "https://qq.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.qq.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 276,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 90,
+   "seconds": 18.5,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "nginx.org",
+   "url": "https://nginx.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://nginx.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 7,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 91,
+   "seconds": 10.3,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "msn.com",
+   "url": "https://msn.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.msn.com/de-de",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "ad-delivery.net",
+     "entity": "AdDelivery",
+     "category": "Advertising",
+     "requests": 11
+    },
+    {
+     "domain": "doubleclick.net",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 7
+    },
+    {
+     "domain": "btloader.com",
+     "entity": "eyeo",
+     "category": "Advertising",
+     "requests": 6
+    },
+    {
+     "domain": "dns-finder.com",
+     "entity": "DNS-Finder",
+     "category": "Analytics",
+     "requests": 2
+    },
+    {
+     "domain": "webcontentassessor.com",
+     "entity": "TMTDigital",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Microsoft tritt für den Schutz Ihrer Privatsphäre ein. Microsoft und unsere Drittanbieter verwenden Cookies, um Informationen wie eindeutige IDs und personenbezogene Daten/personenbezogene Informationen zu speichern und darauf zuzugreifen, um unsere Dienste und Anzeigen bereitzustellen, zu warten und zu verbessern. Wenn Sie zustimmen, personalisieren MSN und Microsoft Bing die angezeigten Inhalte und Anzeigen. Sie können „Akzeptieren“ auswählen, um diesen Verwendungen zuzustimmen, oder klicken Sie auf „Einstellungen verwalten“, um Ihre Optionen zu prüfen und Ihr Recht auf Einspruch gegen legit",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 499,
+   "first_click_t": 8.89,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 92,
+   "seconds": 13.1,
+   "score": 85,
+   "grade": "B",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     15
+    ]
+   ]
+  },
+  {
+   "domain": "mozilla.org",
+   "url": "https://mozilla.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found (consent-like overlay seen)",
+   "final_url": "https://www.mozilla.org/de/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Produkte\n1: Über uns\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": null}\n```",
+     "error": null,
+     "ms": 3130,
+     "layer": 1,
+     "result": {}
+    }
+   ],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [],
+   "pre_consent_requests": 49,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 95,
+   "seconds": 13.9,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "f5.com",
+   "url": "https://f5.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found (consent-like overlay seen)",
+   "final_url": "https://www.f5.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: PLATFORM\n1: SOLUTIONS\n2: PRODUCTS\n3: PARTNERS\n4: RESOURCES\n5: COMPANY\n6: Open search\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": null}\n```",
+     "error": null,
+     "ms": 2926,
+     "layer": 1,
+     "result": {}
+    }
+   ],
+   "pre_consent_trackers": [
+    {
+     "domain": "tags.tiqcdn.com",
+     "entity": "Tealium",
+     "category": "FingerprintingInvasive",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [],
+   "pre_consent_requests": 89,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 96,
+   "seconds": 14.2,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "epicgames.com",
+   "url": "https://epicgames.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://store.epicgames.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "cloudflareinsights.com",
+     "entity": "Cloudflare",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 232,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 98,
+   "seconds": 12.1,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "wordpress.com",
+   "url": "https://wordpress.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://wordpress.com/de/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 1,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Als Open-Source-Unternehmen nehmen wir deine Privatsphäre sehr ernst und möchten so transparent wie möglich agieren. Wir verwenden Cookies, um bestimmte persönliche Daten von dir zu sammeln (wie deine Browserdaten, deine IP-Adresse und andere eindeutige Kennungen). Einige dieser Cookies sind absolut notwendig, damit unsere Dienste funktionieren, andere wiederum kannst du auswählen, um deine Nutzung unserer Website und Dienste zu optimieren. Anpassen Alle akzeptieren Nicht essenzielle Cookies ablehnen",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 65,
+   "first_click_t": 8.9,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 99,
+   "seconds": 13.0,
+   "score": 95,
+   "grade": "A",
+   "penalties": [
+    [
+     "preticked_toggles",
+     5
+    ]
+   ]
+  },
+  {
+   "domain": "sentry.io",
+   "url": "https://sentry.io/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://sentry.io/welcome/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "plausible.io",
+     "entity": "Plausible",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 74,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 102,
+   "seconds": 12.1,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "reddit.com",
+   "url": "https://reddit.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.reddit.com/?solution=ecde1bb3e544af4cecde1bb3e544af4c&js_challenge=1&jsc_token=2824be10929bdc604753c70a67a1c331319bcfa0f54b3ef37a7d471c28226a3c&jsc_orig_r=",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 135,
+   "first_click_t": 11.41,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 103,
+   "seconds": 15.7,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "europa.eu",
+   "url": "https://europa.eu/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://european-union.europa.eu/index_de",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Diese Website verwendet Cookies. Mehr erfahren Sie auf unserer Cookies-Seite oder über den Link in der Fußzeile. Über diesen Link können Sie auch Ihre Einstellungen ändern. Alle Cookies akzeptieren Nur unbedingt notwendige Cookies akzeptieren",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 63,
+   "first_click_t": 8.48,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 109,
+   "seconds": 12.6,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "ui.com",
+   "url": "https://ui.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://ui.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 2,
+   "reject_second_layer": true,
+   "reject_path": "untick_and_save_layer2",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookies Settings Accept All Cookies",
+   "extra_banners": [],
+   "preticked_hidden": 0,
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 192,
+   "first_click_t": 8.38,
+   "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 110,
+   "seconds": 13.7,
+   "score": 85,
+   "grade": "B",
+   "penalties": [
+    [
+     "extra_reject_clicks",
+     15
+    ]
+   ]
+  },
+  {
+   "domain": "chatgpt.com",
+   "url": "https://chatgpt.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://chatgpt.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wir verwenden Cookies Cookies sorgen dafür, dass diese Website funktioniert, messen die Nutzung und unterstützen Marketingmaßnahmen. Verwalte deine Cookie-Einstellungen jederzeit. Weitere Informationen findest du in unserer Cookie-Richtlinie. Nicht unbedingt erforderliche ablehnen Alle akzeptieren",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 306,
+   "first_click_t": 8.34,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 112,
+   "seconds": 12.5,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "intuit.com",
+   "url": "https://intuit.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.intuit.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "go-mpulse.net",
+     "entity": "Akamai",
+     "category": "Analytics",
+     "requests": 2
+    },
+    {
+     "domain": "tags.tiqcdn.com",
+     "entity": "Tealium",
+     "category": "FingerprintingInvasive",
+     "requests": 2
+    },
+    {
+     "domain": "akstat.io",
+     "entity": "Akamai",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wir verwenden Cookies und ähnliche Technologien auf unserer Website. Einige Cookies sind erforderlich, da sie für die Funktionsfähigkeit unserer Websites und den Schutz Ihrer Daten und unserer Systeme erforderlich sind. Wenn Sie uns dies erlauben, verwenden wir Cookies, um Ihre Präferenzen zu speichern, unsere Websites und Inhalte zu personalisieren, unsere Dienste zu verbessern und anzupassen und relevantere Werbung bereitzustellen. Sie können die Einstellungen akzeptieren, ablehnen oder anpassen, indem Sie auf die folgenden Optionen klicken. Sie können Ihre Auswahl jederzeit aktualisieren, i",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 139,
+   "first_click_t": 9.51,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 115,
+   "seconds": 13.7,
+   "score": 91,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     9
+    ]
+   ]
+  },
+  {
+   "domain": "ipify.org",
+   "url": "https://ipify.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.ipify.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "crazyegg.com",
+     "entity": "Crazy Egg",
+     "category": "Analytics",
+     "requests": 2
+    },
+    {
+     "domain": "linkedin.com",
+     "entity": "Microsoft",
+     "category": "Social",
+     "requests": 2
+    },
+    {
+     "domain": "analytics.google.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 1
+    },
+    {
+     "domain": "doubleclick.net",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 26,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 116,
+   "seconds": 11.3,
+   "score": 88,
+   "grade": "B",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     12
+    ]
+   ]
+  },
+  {
+   "domain": "samsung.com",
+   "url": "https://samsung.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.samsung.com/de/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "criteo.com",
+     "entity": "Criteo",
+     "category": "Advertising",
+     "requests": 8
+    },
+    {
+     "domain": "1rx.io",
+     "entity": "Nexxen",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "casalemedia.com",
+     "entity": "IndexExchange",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "demdex.net",
+     "entity": "Adobe",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "go-mpulse.net",
+     "entity": "Akamai",
+     "category": "Analytics",
+     "requests": 2
+    },
+    {
+     "domain": "pubmatic.com",
+     "entity": "PubMatic",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "360yield.com",
+     "entity": "Azerion",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "3lift.com",
+     "entity": "TripleLift",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "ads-twitter.com",
+     "entity": "Twitter",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "agkn.com",
+     "entity": "TransUnion",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "akstat.io",
+     "entity": "Akamai",
+     "category": "Analytics",
+     "requests": 1
+    },
+    {
+     "domain": "bidswitch.net",
+     "entity": "Criteo",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "doubleclick.net",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "dwin1.com",
+     "entity": "Awin",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "id5-sync.com",
+     "entity": "ID5",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "media.net",
+     "entity": "media.net",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "mediavine.com",
+     "entity": "Mediavine",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "outbrain.com",
+     "entity": "Teads",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "postrelease.com",
+     "entity": "Life360",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "smartadserver.com",
+     "entity": "Equativ",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "taboola.com",
+     "entity": "Taboola",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "teads.tv",
+     "entity": "Teads",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "tremorhub.com",
+     "entity": "Nexxen",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "unrulymedia.com",
+     "entity": "Nexxen",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "upsellit.com",
+     "entity": "UpsellIt",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "yieldlab.net",
+     "entity": "VirtualMinds",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [
+    {
+     "domain": "t.co",
+     "entity": "Twitter",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "twitter.com",
+     "entity": "Twitter",
+     "category": "Social",
+     "requests": 2
+    }
+   ],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Samsung Electronics und seine Partner nutzen Cookies und ähnliche Technologien (folgend \"Technologien\"), um Informationen auf deinem Gerät zu speichern und darauf zuzugreifen. Einige Technologien sind technisch notwendig, damit unsere Seite zuverlässig funktioniert. Wir möchten aber auch optionale/nicht notwendige Technologien einsetzen, um dir die beste Nutzererfahrung zu bieten. Sie erlauben uns, die Frequentation und Nutzung der Webseite zu messen, dir auf unserer Seite und Partnerwebseiten relevante und personalisierte Inhalte/Werbung zeigen zu können und deinen Standort abzurufen. Mithilf",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 154,
+   "first_click_t": 9.82,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 121,
+   "seconds": 14.0,
+   "score": 60,
+   "grade": "C",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     40
+    ]
+   ]
+  },
+  {
+   "domain": "okcdn.ru",
+   "url": "https://okcdn.ru/",
+   "status": "unmeasurable",
+   "reason": "bot wall: http 403",
+   "final_url": "https://st.okcdn.ru/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 2,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 122,
+   "seconds": 10.6,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "skybridge.click",
+   "url": "https://skybridge.click/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://skybridge.click/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 123,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 124,
+   "seconds": 12.6,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "office365.com",
+   "url": "https://office365.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: http 403",
+   "final_url": "https://office365.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 1,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 126,
+   "seconds": 10.6,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "t-online.de",
+   "url": "https://t-online.de/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.t-online.de/",
+   "accept_clicks": 1,
+   "reject_clicks": 4,
+   "reject_second_layer": true,
+   "reject_path": "per_purpose_and_save_layer2",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": true,
+   "verified": false,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wie wollen Sie t-online nutzen?\n\nKostenfrei mit Werbung\n\nNutzen Sie t-online wie gewohnt mit der üblichen Werbung und Tracking. Details finden Sie in den Datenschutzhinweisen und dem Datenschutz-Manager.\n\nZUSTIMMEN\n\nMit Ihrem Klick erteilen Sie eine Einwilligung gemäß § 25 Abs. 1 TDDDG i.V.m. Art. 6 Abs. 1 lit. a) DSGVO, die Sie in unserem Datenschutz-Manager jederzeit individuell anpassen können.\n\n...oder mit t-online PUR-Abo\n\nNutzen Sie t-online nahezu werbefrei und ohne Werbetracking für 2,99€/ Monat, monatlich kündbar. Details finden Sie in den Datenschutzhinweisen (PUR).\n\nJETZT SICHERN\n\nB",
+   "extra_banners": [],
+   "preticked_hidden": 0,
+   "remaining_consent_buttons": [
+    "Zustimmen",
+    "Zustimmen",
+    "Ablehnen",
+    "Zustimmen",
+    "Ablehnen",
+    "AUSGEWÄHLTEM ZUSTIMMEN",
+    "Alle Zustimmungen widerrufen"
+   ],
+   "pre_consent_requests": 158,
+   "first_click_t": 8.99,
+   "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 128,
+   "seconds": 20.4,
+   "score": 25,
+   "grade": "F",
+   "penalties": [
+    [
+     "pay_or_ok",
+     30
+    ],
+    [
+     "extra_reject_clicks",
+     45
+    ]
+   ]
+  },
+  {
+   "domain": "nic.ru",
+   "url": "https://nic.ru/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://nic.ru/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "mc.yandex.com",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 9
+    },
+    {
+     "domain": "mc.yandex.ru",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 4
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 89,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 130,
+   "seconds": 10.5,
+   "score": 94,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     6
+    ]
+   ]
+  },
+  {
+   "domain": "openai.com",
+   "url": "https://openai.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://openai.com/de-DE/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "cloudflareinsights.com",
+     "entity": "Cloudflare",
+     "category": "Analytics",
+     "requests": 2
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wir verwenden Cookies Wir verwenden Cookies, um die Funktionalität dieser Website zu gewährleisten, das Nutzungsverhalten zu analysieren und Marketingmaßnahmen zu unterstützen. Besuchen Cookies verwalten, um die Einstellungen jederzeit zu ändern. Weitere Informationen findest du in unserer Cookie-Richtlinie. Cookies verwalten Nicht essenzielle Cookies ablehnen Alle akzeptieren",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 234,
+   "first_click_t": 8.72,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 133,
+   "seconds": 12.9,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "dropbox.com",
+   "url": "https://dropbox.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.dropbox.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "ads-twitter.com",
+     "entity": "Twitter",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [
+    {
+     "domain": "t.co",
+     "entity": "Twitter",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "twitter.com",
+     "entity": "Twitter",
+     "category": "Social",
+     "requests": 1
+    }
+   ],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wir verwenden Cookies, um unsere Dienste bereitzustellen, zu verbessern, zu schützen und zu bewerben. Sehen Sie sich unsere Datenschutzrichtlinie und die FAQs zur Datenschutzrichtlinie an, um mehr zu erfahren. Sie können Ihre persönlichen Präferenzen, einschließlich Ihrer Einstellung „Verkaufen oder teilen Sie meine persönlichen Daten nicht mit Dritten“, über die Schaltfläche „Cookies anpassen“ unten verwalten. Cookies anpassen Ablehnen Alle annehmen",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 239,
+   "first_click_t": 12.81,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 135,
+   "seconds": 17.0,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "android.com",
+   "url": "https://android.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.android.com/",
+   "accept_clicks": null,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Weitere Informationen\n1: Ausblenden\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": null, \"reject\": 1, \"settings\": 0}\n```",
+     "error": null,
+     "ms": 3104,
+     "layer": 1,
+     "result": {
+      "a2f0-1": "reject",
+      "a2f0-0": "settings"
+     }
+    }
+   ],
+   "pre_consent_trackers": [
+    {
+     "domain": "google-analytics.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 2
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [
+    "reject",
+    "settings"
+   ],
+   "banner_text": "Auf www.android.com werden Google eigene Cookies verwendet, um Google-Dienste bereitzustellen, deren Qualität zu verbessern und Datenverkehr zu analysieren. Weitere Informationen Ausblenden",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 88,
+   "first_click_t": 13.86,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 137,
+   "seconds": 18.0,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "nih.gov",
+   "url": "https://nih.gov/",
+   "status": "unmeasurable",
+   "reason": "bot wall: challenge frame",
+   "final_url": "https://www.nih.gov/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 13,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 142,
+   "seconds": 11.8,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "apache.org",
+   "url": "https://apache.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://apache.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 53,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 144,
+   "seconds": 10.7,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "webex.com",
+   "url": "https://webex.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: title: Access Denied",
+   "final_url": "https://www.webex.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 2,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 147,
+   "seconds": 10.8,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "vk.ru",
+   "url": "https://vk.ru/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://r3-test.vk.ru/challenge.html?tid=gdlukVXzlyTCHmI7aqQGNudQILM2Qw&hash429=L0wzw8gbOug95J7K60JjnjZL1pVMrhMhbXbsqpm1F5ZqcOIpRZWQ0pk9Sv1yyu-CvTGtHXy0gpyuNNTCzZMVjDqsgwCcFsfHbFYCvCjDjBSY3Y4fSKmJWQtELIc8IFAsV-BCscLWZ317wirS&sign=Y8JCEcQSoIcYtyCIHwmcGA&back=https%3A%2F%2Fvk.ru%2F&origin=&lang_id=",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "tns-counter.ru",
+     "entity": "Mediascope",
+     "category": "Analytics",
+     "requests": 6
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 224,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 148,
+   "seconds": 12.3,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "archive.org",
+   "url": "https://archive.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://archive.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 97,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 150,
+   "seconds": 11.2,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "vk.com",
+   "url": "https://vk.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://vk.com/challenge.html?tid=rTjff2OX9PsrmgNeLqAoO3gV8ZKO_Q&hash429=0yXw0t18caiZXW_4j7gLf531GrpraqCYAyr-0b3906jZ2n_6I3jzSSpS2IbhlBgRfNT7QPwFxVoqe2-UntqKUgiONA2Y8WdMaEACFV8txj9Vr9cM8N_0W_v2mCgvZud-84z-2sGUAS3hoIsF&redirect=/&sign=pnv2ABrgtHyFuTSapu1W6g&lang_id=",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 2,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 153,
+   "seconds": 10.3,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "reg.ru",
+   "url": "https://reg.ru/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://reg.ru/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "mc.yandex.com",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 9
+    },
+    {
+     "domain": "flocktory.com",
+     "entity": "QIWIGroup",
+     "category": "Advertising",
+     "requests": 4
+    },
+    {
+     "domain": "mc.yandex.ru",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 2
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 281,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 155,
+   "seconds": 10.5,
+   "score": 91,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     9
+    ]
+   ]
+  },
+  {
+   "domain": "snapchat.com",
+   "url": "https://snapchat.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found (consent-like overlay seen)",
+   "final_url": "https://www.snapchat.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Datenschutzbestimmungen\n1: Servicebestimmungen\n2: Lustige Videos\n3: Themen entdecken\n4: Fußzeile einblenden\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": null}\n```",
+     "error": null,
+     "ms": 2990,
+     "layer": 1,
+     "result": {}
+    }
+   ],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [],
+   "pre_consent_requests": 73,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 156,
+   "seconds": 13.6,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "duckdns.org",
+   "url": "https://duckdns.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.duckdns.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "analytics.google.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 1
+    },
+    {
+     "domain": "doubleclick.net",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 20,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 159,
+   "seconds": 11.2,
+   "score": 94,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     6
+    ]
+   ]
+  },
+  {
+   "domain": "godaddy.com",
+   "url": "https://godaddy.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: title: Access Denied",
+   "final_url": "https://www.godaddy.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 2,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 160,
+   "seconds": 10.2,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "tumblr.com",
+   "url": "https://tumblr.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.tumblr.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "sentry.io",
+     "entity": "FunctionalSoftware",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Privatsphäre und Cookies auf Tumblr\n\nWir nehmen deine Privatsphäre ernst und wollen so transparent wie möglich sein. Deshalb: Wir (und unsere 181 Partner) verwenden Cookies, um einige persönliche Daten von dir zu sammeln. Einige dieser Cookies brauchen wir unbedingt, damit alles funktioniert, und andere kannst du auswählen, um deine Erfahrungen bei der Nutzung unserer Website und unserer Dienste zu optimieren. Du hast es in der Hand!\n\nDarüber hinaus speichern wir und unsere Werbepartner Informationen auf deinem Gerät und/oder greifen darauf zu und verarbeiten auch personenbezogene Daten, wie e",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 126,
+   "first_click_t": 8.97,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 161,
+   "seconds": 13.1,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "nytimes.com",
+   "url": "https://nytimes.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: challenge frame",
+   "final_url": "https://www.nytimes.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 8,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 163,
+   "seconds": 10.4,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "gravatar.com",
+   "url": "https://gravatar.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://gravatar.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 1,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "As an open source company, we take your privacy seriously and want to be as transparent as possible. So: We use cookies to collect some personal data from you (like your browsing data, IP addresses, and other unique identifiers). Some of these cookies we absolutely need in order to make things work, and others you can choose in order to optimize your experience while using our site and services. Customize Accept All Decline Non-Essential Cookies",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 33,
+   "first_click_t": 9.39,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 165,
+   "seconds": 13.5,
+   "score": 95,
+   "grade": "A",
+   "penalties": [
+    [
+     "preticked_toggles",
+     5
+    ]
+   ]
+  },
+  {
+   "domain": "ubuntu.com",
+   "url": "https://ubuntu.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://ubuntu.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 2,
+   "reject_second_layer": true,
+   "reject_path": "untick_and_save_layer2",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "clarity.ms",
+     "entity": "Microsoft",
+     "category": "Analytics",
+     "requests": 3
+    },
+    {
+     "domain": "googlesyndication.com",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 3
+    },
+    {
+     "domain": "bat.bing.com",
+     "entity": "Microsoft",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "google-analytics.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 2
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Your tracker settings We use cookies and similar methods to recognize visitors and remember preferences. We also use them to measure campaign effectiveness and analyze traffic on our websites. By selecting ‘Accept‘, you consent to the use of these methods by us and trusted third parties. For further details or to change your consent choices at any time see our cookie policy. Manage your tracker settings Accept all",
+   "extra_banners": [],
+   "preticked_hidden": 0,
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 69,
+   "first_click_t": 8.61,
+   "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 168,
+   "seconds": 13.8,
+   "score": 73,
+   "grade": "C",
+   "penalties": [
+    [
+     "extra_reject_clicks",
+     15
+    ],
+    [
+     "pre_consent_trackers",
+     12
+    ]
+   ]
+  },
+  {
+   "domain": "telegram.org",
+   "url": "https://telegram.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://telegram.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 54,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 170,
+   "seconds": 10.4,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "shopify.com",
+   "url": "https://shopify.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.shopify.com/de",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Alle akzeptieren Ablehnen Shopify und unsere Partner verwenden Cookies und andere Technologien, um dein Erlebnis zu personalisieren, dir personalisierte Anzeigen zu zeigen und Analysen durchzuführen. Weitere Informationen findest du in unserer Cookie-Richtlinie.",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 94,
+   "first_click_t": 8.35,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 171,
+   "seconds": 12.5,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "afternic.com",
+   "url": "https://afternic.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.afternic.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wir nutzen Cookies. Wir nutzen spezielle Funktionen wie Cookies, um wesentliche Dienste und Funktionen unserer Website zu ermöglichen und Daten darüber zu sammeln, wie Besucher mit unserer Website, unseren Produkten und Diensten interagieren. Durch Klick auf „Akzeptieren“ stimmst du unserer Nutzung dieser Funktionen für Zwecke von Werbung, Analyse und Support zu. Datenschutzbestimmungen Verwalten Ablehnen Akzeptieren",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 57,
+   "first_click_t": 9.82,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 175,
+   "seconds": 13.9,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "paypal.com",
+   "url": "https://paypal.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.paypal.com/de/home",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wenn Sie Cookies akzeptieren, verwenden wir diese, um Ihre Erfahrung zu verbessern und anzupassen und unseren Partnern zu ermöglichen, Ihnen personalisierte PayPal-Anzeigen zu zeigen, wenn Sie andere Websites besuchen. Cookies verwalten und mehr erfahren Akzeptieren Ablehnen Close",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 139,
+   "first_click_t": 8.74,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 176,
+   "seconds": 12.9,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "samsungcloud.com",
+   "url": "https://samsungcloud.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.samsungcloud.com/de/login",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Samsung und Cookies Unsere Webseite verwendet Cookies, um eine optimale Benutzererfahrung und relevantere Werbung für dich bereitzustellen. Du kannst alle Cookies akzeptieren oder deine Voreinstellungen verwalten. In den Datenschutzrichtlinie und der Cookies findest du weitere Informationen. Cookies verwalten Weiter ohne zu akzeptieren Alle Cookies akzeptieren",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 65,
+   "first_click_t": 9.28,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 178,
+   "seconds": 13.4,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "scorecardresearch.com",
+   "url": "https://scorecardresearch.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.scorecardresearch.com/Home.aspx",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "google-analytics.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 3
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 18,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 179,
+   "seconds": 10.9,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "flickr.com",
+   "url": "https://flickr.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://flickr.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Speichern Alle akzeptieren Nicht wesentliche Cookies ablehnen",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 67,
+   "first_click_t": 9.07,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 180,
+   "seconds": 13.2,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "w3.org",
+   "url": "https://w3.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.w3.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 26,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 181,
+   "seconds": 10.3,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "discord.com",
+   "url": "https://discord.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://discord.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Discord Wenn Sie auf „Alle Cookies akzeptieren“ klicken, stimmen Sie der Speicherung von Cookies auf Ihrem Gerät zu, um die Websitenavigation zu verbessern, die Websitenutzung zu analysieren und unsere Marketingbemühungen zu unterstützen. Cookie-Einstellungen Alle ablehnen Alle Cookies akzeptieren",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 121,
+   "first_click_t": 8.85,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 184,
+   "seconds": 13.0,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "creativecommons.org",
+   "url": "https://creativecommons.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://creativecommons.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "analytics.google.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 3
+    },
+    {
+     "domain": "doubleclick.net",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 2
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 41,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 185,
+   "seconds": 11.1,
+   "score": 94,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     6
+    ]
+   ]
+  },
+  {
+   "domain": "pki.goog",
+   "url": "https://pki.goog/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://pki.goog/",
+   "accept_clicks": 1,
+   "reject_clicks": null,
+   "reject_second_layer": true,
+   "reject_path": "none_found",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Learn more\n1: OK, got it\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": 1, \"reject\": null, \"settings\": 0}\n```",
+     "error": null,
+     "ms": 2979,
+     "layer": 1,
+     "result": {
+      "a1f0-1": "accept",
+      "a1f0-0": "settings"
+     }
+    },
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Learn more\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": 0}\n```",
+     "error": null,
+     "ms": 3049,
+     "layer": 2,
+     "result": {
+      "b10f0-0": "settings"
+     }
+    }
+   ],
+   "pre_consent_trackers": [
+    {
+     "domain": "google-analytics.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 3
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [
+    "settings"
+   ],
+   "banner_text": "This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. Learn more OK, got it",
+   "extra_banners": [],
+   "preticked_hidden": 0,
+   "pre_consent_requests": 24,
+   "first_click_t": 11.4,
+   "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg"
+   ],
+   "rank": 187,
+   "seconds": 24.6,
+   "score": 57,
+   "grade": "D",
+   "penalties": [
+    [
+     "no_reject_path",
+     40
+    ],
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "mts.ru",
+   "url": "https://mts.ru/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://moskva.mts.ru/personal",
+   "accept_clicks": 1,
+   "reject_clicks": null,
+   "reject_second_layer": true,
+   "reject_path": "none_found",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": true,
+   "llm_calls": [
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: рекомендательные технологии\n1: ПОДРОБНЕЕ\n2: ПРИНЯТЬ\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": 2, \"reject\": null, \"settings\": 1}\n```",
+     "error": null,
+     "ms": 3122,
+     "layer": 1,
+     "result": {
+      "a1f0-163": "accept",
+      "a1f0-162": "settings"
+     }
+    },
+    {
+     "model": "gemma-4-12b",
+     "prompt": "These are clickable labels from a website's cookie consent banner.\n0: https://id.mts.ru/companies.html\n1: https://support.microsoft.com/ru-ru/help/17442/windows-inter\n2: https://support.mozilla.org/ru-ru/kb/delete-cookies-remove-i\n3: http://help.opera.com/Windows/9.51/ru/cookies.html\n4: https://moskva.mts.ru/personal/cookie\n5: https://moskva.mts.ru/personal/cookie\n6: Политика обработки файлов cookie в ПАО «МТС»\n7: Узнать больше о приложении\n8: О компании\n9: Поддержка\n10: Контакты\n11: Новости\n12: Акции\n13: Карта салонов МТС\n14: Карьера в МТС\n15: Акционерам и инвесторам\n16: Связь, ТВ и интернет\n17: Тарифы мобильной связи\n18: Тарифы для спутникового ТВ\n19: Тарифы для часов и модемов\n20: Тарифы для домашнего телефона\n21: Мобильная связь\n22: Для дома\n23: Документы ПАО «МТС»\n24: Сертификаты безопасности Минцифры\n25: Правовая информация\n26: Комплаенс и деловая этика\n27: Раскрытие информации\n28: Политика обработки cookies\n29: Соглашение о пользовании системой\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+     "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": null}\n```",
+     "error": null,
+     "ms": 3065,
+     "layer": 2,
+     "result": {}
+    }
+   ],
+   "pre_consent_trackers": [
+    {
+     "domain": "mc.yandex.com",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 22
+    },
+    {
+     "domain": "mail.ru",
+     "entity": "VKontakte",
+     "category": "Social",
+     "requests": 11
+    },
+    {
+     "domain": "adriver.ru",
+     "entity": "AdRiver",
+     "category": "Advertising",
+     "requests": 5
+    },
+    {
+     "domain": "mc.yandex.ru",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 4
+    },
+    {
+     "domain": "an.yandex.ru",
+     "entity": "Yandex",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "llm_located": [
+    "settings"
+   ],
+   "banner_text": "Мы собираем файлы cookie и применяем рекомендательные технологии ПОДРОБНЕЕ ПРИНЯТЬ",
+   "extra_banners": [],
+   "preticked_hidden": 0,
+   "pre_consent_requests": 247,
+   "first_click_t": 15.19,
+   "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg"
+   ],
+   "rank": 189,
+   "seconds": 28.9,
+   "score": 45,
+   "grade": "D",
+   "penalties": [
+    [
+     "no_reject_path",
+     40
+    ],
+    [
+     "pre_consent_trackers",
+     15
+    ]
+   ]
+  },
+  {
+   "domain": "ebay.com",
+   "url": "https://ebay.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: http 403",
+   "final_url": "https://www.ebay.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 3,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 190,
+   "seconds": 10.5,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "soundcloud.com",
+   "url": "https://soundcloud.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://soundcloud.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Ihre Privatsphäre ist uns wichtig Wir und unsere 129 Partner speichern und/ oder greifen auf Informationen auf einem Gerät zu, z.B. auf eindeutige Kennungen in Cookies, um personenbezogene Daten zu verarbeiten. Sie können Ihre Präferenzen akzeptieren oder verwalten, einschließlich Ihres Widerspruchsrechts bei berechtigtem Interesse. Klicken Sie dazu bitte unten oder besuchen Sie jederzeit die Seite der Datenschutzrichtlinie. Diese Präferenzen werden unseren Partnern signalisiert und haben keinen Einfluss auf Surfdaten. Wir und unsere Partner verarbeiten Daten, um Folgendes bereitzustellen: Ver",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 114,
+   "first_click_t": 8.44,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 192,
+   "seconds": 12.7,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "theguardian.com",
+   "url": "https://theguardian.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.theguardian.com/europe",
+   "accept_clicks": 1,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": "none_found",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": true,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": "sourcepoint",
+   "http_status": 200,
+   "banner_text": "Personalised advertising\n- it's your choice\nIndependent, quality original journalism needs your support. Please choose an option.\nAccept personalised advertising and all cookies\n\nWe use cookies and similar technologies to support the Guardian and personalise your experience in other ways. To do this we work with a cross section of 141 partners.\n\nor\n\nReject all and subscribe to Guardian Ad-Lite for €5 per month\n\nRead the Guardian website without personalised advertising. This does not include ad-free. You will still see non-personalised advertising and we may still use cookies and similar techn",
+   "extra_banners": [],
+   "pre_consent_requests": 116,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 197,
+   "seconds": 8.6,
+   "score": 30,
+   "grade": "F",
+   "penalties": [
+    [
+     "pay_or_ok",
+     30
+    ],
+    [
+     "no_reject_path",
+     40
+    ]
+   ]
+  },
+  {
+   "domain": "medium.com",
+   "url": "https://medium.com/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://medium.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "cloudflareinsights.com",
+     "entity": "Cloudflare",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 107,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 201,
+   "seconds": 10.6,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "hichina.com",
+   "url": "https://hichina.com/",
+   "status": "unmeasurable",
+   "reason": "load_error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hichina.com/",
+   "final_url": null,
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "pre_consent_requests": 1,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 202,
+   "seconds": 0.3,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "stripe.com",
+   "url": "https://stripe.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://stripe.com/de",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Wir verwenden Cookies für Marketingzwecke und um Ihr Nutzererlebnis zu verbessern. Lesen Sie unsere Cookie-Richtlinie oder Verwaltung von Cookies. Alle akzeptieren Alle ablehnen 6 Sales-Mitarbeiter/innen verfügbar Besprechen Sie Ihre Geschäftsbedürfnisse mit uns. Jetzt chatten mit Sales",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 129,
+   "first_click_t": 8.79,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 203,
+   "seconds": 13.1,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "mtgglobals.com",
+   "url": "https://mtgglobals.com/",
+   "status": "unmeasurable",
+   "reason": "load_error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mtgglobals.com/",
+   "final_url": null,
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "pre_consent_requests": 1,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 205,
+   "seconds": 0.1,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "doi.org",
+   "url": "https://doi.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.doi.org/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 24,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 209,
+   "seconds": 10.4,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "oracle.com",
+   "url": "https://oracle.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: http 403",
+   "final_url": "https://www.oracle.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 4,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 212,
+   "seconds": 10.8,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "forter.com",
+   "url": "https://forter.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.forter.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "googlesyndication.com",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "google-analytics.com",
+     "entity": "Google",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [
+    {
+     "domain": "track.hubspot.com",
+     "entity": "HubSpot",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "cta-service-cms2.hubspot.com",
+     "entity": "HubSpot",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "hs-analytics.net",
+     "entity": "HubSpot",
+     "category": "Analytics",
+     "requests": 1
+    },
+    {
+     "domain": "js.hubspot.com",
+     "entity": "HubSpot",
+     "category": "Advertising",
+     "requests": 1
+    }
+   ],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookies Settings Reject All Accept All Cookies",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 75,
+   "first_click_t": 8.59,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 214,
+   "seconds": 12.7,
+   "score": 94,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     6
+    ]
+   ]
+  },
+  {
+   "domain": "bbc.com",
+   "url": "https://bbc.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.bbc.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": false,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "dotmetrics.net",
+     "entity": "DotMetrics",
+     "category": "Advertising",
+     "requests": 4
+    }
+   ],
+   "trackers_after_reject": [
+    {
+     "domain": "googlesyndication.com",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 21
+    },
+    {
+     "domain": "doubleverify.com",
+     "entity": "DoubleVerify",
+     "category": "Analytics",
+     "requests": 10
+    },
+    {
+     "domain": "cxense.com",
+     "entity": "Piano",
+     "category": "Advertising",
+     "requests": 9
+    },
+    {
+     "domain": "adtrafficquality.google",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 5
+    },
+    {
+     "domain": "doubleclick.net",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 4
+    },
+    {
+     "domain": "webcontentassessor.com",
+     "entity": "TMTDigital",
+     "category": "Advertising",
+     "requests": 3
+    },
+    {
+     "domain": "dv.tech",
+     "entity": "DoubleVerify",
+     "category": "Advertising",
+     "requests": 2
+    },
+    {
+     "domain": "scorecardresearch.com",
+     "entity": "comScore",
+     "category": "Analytics",
+     "requests": 2
+    },
+    {
+     "domain": "flashtalking.com",
+     "entity": "Mediaocean",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "speedcurve.com",
+     "entity": "Embrace",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "Let us know you agree to advertising cookies\n\nWe and our 54 partners use cookies and similar technologies to collect and process personal data from your device, such as your IP address and the pages you visit.\n\n\n\n\nWe use this data to help us to better understand our audiences and to improve and personalise your experience. We also use this data to manage the advertising shown on our services. We make money from these ads, which in turn helps to fund our services and the creation of more BBC content.\n\n\n\n\nPlease let us know if you agree to:\n\nStore and/or access information on a device\nPersonalis",
+   "extra_banners": [
+    "Let us know you agree to cookies We use cookies to give you the best online experience. Please let us know if you agree to all of these cookies. Yes, I agree No, take me to settings"
+   ],
+   "remaining_consent_buttons": [
+    "Yes, I agree"
+   ],
+   "pre_consent_requests": 129,
+   "first_click_t": 10.47,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 216,
+   "seconds": 14.6,
+   "score": 97,
+   "grade": "A",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     3
+    ]
+   ]
+  },
+  {
+   "domain": "criteo.com",
+   "url": "https://criteo.com/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.criteo.com/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [
+    {
+     "domain": "nr-data.net",
+     "entity": "New Relic",
+     "category": "Analytics",
+     "requests": 4
+    },
+    {
+     "domain": "amplitude.com",
+     "entity": "Amplitude",
+     "category": "Analytics",
+     "requests": 1
+    },
+    {
+     "domain": "dreamdata.cloud",
+     "entity": "Dreamdata",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "googlesyndication.com",
+     "entity": "Google",
+     "category": "Advertising",
+     "requests": 1
+    },
+    {
+     "domain": "newrelic.com",
+     "entity": "New Relic",
+     "category": "Analytics",
+     "requests": 1
+    }
+   ],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Privacy Policy More Information Deny Accept All",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 172,
+   "first_click_t": 9.58,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 217,
+   "seconds": 13.8,
+   "score": 85,
+   "grade": "B",
+   "penalties": [
+    [
+     "pre_consent_trackers",
+     15
+    ]
+   ]
+  },
+  {
+   "domain": "forbes.com",
+   "url": "https://forbes.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: challenge frame",
+   "final_url": "https://forbes.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 7,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 220,
+   "seconds": 10.4,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "wikimedia.org",
+   "url": "https://wikimedia.org/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://www.wikimedia.org//",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 21,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 223,
+   "seconds": 10.4,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "sciencedirect.com",
+   "url": "https://sciencedirect.com/",
+   "status": "unmeasurable",
+   "reason": "bot wall: http 403",
+   "final_url": "https://sciencedirect.com/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 6,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 224,
+   "seconds": 10.2,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "twitch.tv",
+   "url": "https://twitch.tv/",
+   "status": "measured",
+   "reason": null,
+   "final_url": "https://www.twitch.tv/",
+   "accept_clicks": 1,
+   "reject_clicks": 1,
+   "reject_second_layer": false,
+   "reject_path": "first_layer_button",
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": true,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "banner_text": "",
+   "extra_banners": [],
+   "remaining_consent_buttons": [],
+   "pre_consent_requests": 328,
+   "first_click_t": 10.78,
+   "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+   ],
+   "rank": 225,
+   "seconds": 14.9,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  },
+  {
+   "domain": "researchgate.net",
+   "url": "https://researchgate.net/",
+   "status": "unmeasurable",
+   "reason": "bot wall: challenge frame",
+   "final_url": "https://www.researchgate.net/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 403,
+   "pre_consent_requests": 11,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 226,
+   "seconds": 10.5,
+   "score": null,
+   "grade": "?",
+   "penalties": []
+  },
+  {
+   "domain": "mit.edu",
+   "url": "https://mit.edu/",
+   "status": "no_banner",
+   "reason": "no consent buttons found",
+   "final_url": "https://web.mit.edu/",
+   "accept_clicks": null,
+   "reject_clicks": null,
+   "reject_second_layer": null,
+   "reject_path": null,
+   "preticked_toggles": 0,
+   "preticked_legit_interest": 0,
+   "pay_or_ok": false,
+   "verified": null,
+   "llm_used": false,
+   "llm_calls": [],
+   "pre_consent_trackers": [],
+   "trackers_after_reject": [],
+   "cmp_hint": null,
+   "http_status": 200,
+   "pre_consent_requests": 34,
+   "first_click_t": null,
+   "screenshots": [
+    "01_landing.jpg"
+   ],
+   "rank": 227,
+   "seconds": 11.4,
+   "score": 100,
+   "grade": "A",
+   "penalties": []
+  }
+ ]
+}

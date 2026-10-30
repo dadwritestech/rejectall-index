@@ -1,0 +1,27 @@
+{
+  "domain": "vk.com",
+  "url": "https://vk.com/",
+  "status": "no_banner",
+  "reason": "no consent buttons found",
+  "final_url": "https://vk.com/challenge.html?tid=rTjff2OX9PsrmgNeLqAoO3gV8ZKO_Q&hash429=0yXw0t18caiZXW_4j7gLf531GrpraqCYAyr-0b3906jZ2n_6I3jzSSpS2IbhlBgRfNT7QPwFxVoqe2-UntqKUgiONA2Y8WdMaEACFV8txj9Vr9cM8N_0W_v2mCgvZud-84z-2sGUAS3hoIsF&redirect=/&sign=pnv2ABrgtHyFuTSapu1W6g&lang_id=",
+  "accept_clicks": null,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": null,
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "pre_consent_requests": 2,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

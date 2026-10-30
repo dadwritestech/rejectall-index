@@ -1,0 +1,1532 @@
+[
+{
+"t": 0.0,
+"host": "openai.com",
+"url": "https://openai.com/",
+"type": "document"
+},
+{
+"t": 0.16,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/",
+"type": "document"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/32bx2qwwho1bb.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2c5-yd4np9o5-.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1ifugxnpah-yf.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3zuggv3eyf10s.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3ko1oymi5nfar.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/10pb8gxdv1z34.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2tythkjpl6r5f.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2tfoxfimdwy_7.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/418g1ki4urs7i.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1prewc-3cdbd0.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3c_sg8x_2epsx.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0gbul3xhdgefu.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1jmgj_2hfvjks.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1or-2zl77210f.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3j1x1w4jck9h4.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/44k54u4tcqll1.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3eiqstuav1vis.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/19bjkywjud_2y.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/07zrps_9-m8oe.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2srrq-aemsrwb.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2ukcifkl0hfxn.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/03hc2mj_hz2t8.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0ifi67wxrbsaq.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2wilwq6zdj4qv.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0af8wc8u13r__.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0376dr0tsi7m6.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1mt7s6y2o0q8h.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3lnmrljte3cky.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0z06ivb_yk16w.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2vsizjyu9ey9a.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/23c_up3_tvpch.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0h-tu49j5vys7.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0j6dvdpebovbg.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1jdld30hx4b7h.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/21np-4pg3n6e4.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0kot-pc9l0eki.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3qa9oe41s73c4.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/07uzjfe_ryny9.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/39l43y11w8l-1.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/19zikxxdr931a.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0_awaze9bmqit.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0ojaroe934i_g.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/199w-v6wvp-zb.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/05gefdxk6i2-5.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1j_y_-61xz3hf.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2tq6_5lsfwjvq.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0trxx6ogzbpei.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/35jo094as2mbn.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/03vd5dr9686se.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1z8wlv1671bq6.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0p8ob9ost0_t-.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1_x5r-7pr219e.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2vloba8rlrfir.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2vxvft1j6ucpe.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3ws6s-63hssiy.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/28wzqp0yyw6uz.css",
+"type": "stylesheet"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/25yb5lqg5g0ce.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0_117zg1o44na.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/32xc8b9s2mp2l.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2ndl2agt5o7tu.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0p7r12bg_mh3_.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/turbopack-1byz1flvc-bu1.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2q5a6nsxaqc_7.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1br05cn_u-wl1.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1-norvjn2ux2z.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1sk0xa9r3uf78.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2dl83jqfnfm5a.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/03xnqj6jwrt67.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1jft2k3pzxrhc.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1axdz4i88w887.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1dtgbyxul5d8t.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1it9q5v39p4av.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3_e_7blvxjvoh.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/260z1tiu6saup.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1s6g7_u4awed6.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/27am0wkazfxix.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0ul-cz0_lexx6.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3yz71w2_8ixgg.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0hq330a3mtrts.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3v4vaeos67yif.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2ksxljj4twdus.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3bia-4wez4_rn.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1rasrp580hxgh.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0g-_ylpxdhe-9.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/12k5wrury2qsq.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3ryum6fjk379z.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/31-elu-xlwudx.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1hpmmhtgg8ubs.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2elld-ri_fosc.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3c-zrl37fkkfh.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1naxmytifygt7.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1hkb5cs23llvi.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0hs25f7psmwik.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3v56tp_x63mm-.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3p8v59toros27.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/21fq2-iq7297q.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/43bdv6xlnvce-.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3l8z4c2y9867k.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0s5vdp8jq8q3l.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0cwxpztuk2yv8.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0qmurtovjo025.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/35or1xoobkzj2.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2hhvf6cnvj9cn.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3bozljljwyokc.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/39x7ugton8_1l.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2pr6_w_3o7ldu.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2nn3_a14wceu2.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/41ucvfmrmj4_h.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0ufpjn2glcvg6.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/306y5biielv_n.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/28v3q7kpohtyu.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0ou1pq-louc7h.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2yu5b7b7o9e9d.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1_0g7feco-bn1.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/444xd8q-ph1jw.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2nom5lmfzm_8s.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1wrk63g0m5rck.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1nby_mkb_9uuk.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0a6ubr4ud2trf.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/06l3emz0usvcr.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0v63o_421hq_u.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0ye_33stopb34.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0a0731-p7dni8.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/22fh-fs2n_9q_.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3gmopmjtomiq3.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0cdvkxviio0sg.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0aqg7v4h6inio.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2764er-p9o1af.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2pyiev5dzb1-j.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0zep918e9m-b9.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2lc0pgd0plj8r.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1den392fqhgg7.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/37j-g2qbz-z20.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/34wg8985s6a31.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0z1m5e7ayn9zh.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/22_3p7ua0mvpc.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1qp3o142f-njv.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0qltbrrojqliw.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3hkaq7vt34i8y.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0zemhcr7z9586.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1uftkkn_mwscs.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3dyexle272e8-.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1ibqrthj52_pg.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3xoxhvgjsfz_0.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3faxckkjzs6_x.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2_lphceg4oqu_.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0j-6kk-2eni0v.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/12592wi1s7pvs.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2ufxxrvto7tj4.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3x6c9bri29x6i.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2lb62ufvsc91z.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/252dagizanesh.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/15irbgic7v241.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/3ty3m_xxl5_0q.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0urmpt5un-hme.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2t405kwuk-ht4.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0hma671al41ir.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1x2dyifh82t89.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/2hsg2kliwjlig.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0l2v3-6-7346m.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/10i3t9c3u9_7i.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/1ij5td-z-zva6.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/23snirx0fdz36.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/25tbm0s6-sxl-.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/_next/static/immutable/chunks/0ex01d7sdvrot.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "static.cloudflareinsights.com",
+"url": "https://static.cloudflareinsights.com/beacon.min.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/6A4TNlyfbaFa9hFjse6N54/34a0605cb33eaebbf2c90d8fe4b1f107/Art_Card_16x9.png",
+"type": "image"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/magnifying-glass-lg.svg",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/xmark-lg.svg",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/sidebar.svg",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/play-sm-fill.svg",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/x-logo.svg",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/youtube-logo.svg",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/linkedin-logo.svg",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/github-logo.svg",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/instagram-logo.svg",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/tiktok-logo.svg",
+"type": "other"
+},
+{
+"t": 0.44,
+"host": "cdn.openai.com",
+"url": "https://cdn.openai.com/common/fonts/openai-sans/v4/OpenAISans-Medium.woff2",
+"type": "font"
+},
+{
+"t": 0.44,
+"host": "cdn.openai.com",
+"url": "https://cdn.openai.com/common/fonts/openai-sans/v4/OpenAISans-Regular.woff2",
+"type": "font"
+},
+{
+"t": 0.44,
+"host": "cdn.openai.com",
+"url": "https://cdn.openai.com/common/fonts/openai-sans/v4/OpenAISans-Semibold.woff2",
+"type": "font"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/1YAlC4a6FgYc9r73SDH0Ef/bcd6bdf945006094fbc327ac46dee04d/new-approach-to-research-model-containment-cover.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/2TCcE1IdEPpWT2vaC3PDWu/e78bceb30c38422b1461a2326838e762/Art_Card___1_1_1080x1080.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/4nEE8sUTl3LEhrhTSjX3M4/448a13dd2d7f5d809e1fcdeba3001f15/model-spec-update-more-capable-beneficial-ai-cover.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/5UED38veljkDWUT9l9b6eR/5d17087c963ea51bf01c1fbd754f19d9/scaling-ai-biological-data-cover.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/aCCKzOGT6S74nQ6fkqoiC/f707768c583e7aa12d237c5917080f32/openai-to-acquire-orchestra-bio-cover.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/6nM6RNbnqtlPZZQDx71iMm/46843eaee86998217108580d428ea457/atv-hero-square-x480.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/7bhGkj1QoCeQpqYhTldQLx/b84d760a2f127d930cc2dec9f3d59e17/tbb-retouched-art-card-1260x1260.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/7gq9TtEoObNfTco2uH48q8/3b7813b2b5c5bce4a22a45a7220ac3f7/antibiotic-hero-1x1-preview.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png",
+"type": "image"
+},
+{
+"t": 0.46,
+"host": "openai.com",
+"url": "https://openai.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "openai.com",
+"url": "https://openai.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/c787ce48cf6b/main.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/projects/oai/settings",
+"type": "fetch"
+},
+{
+"t": 0.61,
+"host": "openai.com",
+"url": "https://openai.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.1408558226428691:1793351366:ablC9gMjA1R7YMyeWFcBosBeNN7-G2ZWsYIeF0QGp2g/a52975818b0e3ecf",
+"type": "xhr"
+},
+{
+"t": 0.63,
+"host": "ab.chatgpt.com",
+"url": "https://ab.chatgpt.com/v1/initialize",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/backend/gate/3510127618/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/backend/gate/3914628198/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/backend/gate/3157804138/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/magnifying-glass-lg.svg",
+"type": "other"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/xmark-lg.svg",
+"type": "other"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/_vercel/speed-insights/script.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "cloudflareinsights.com",
+"url": "https://cloudflareinsights.com/cdn-cgi/rum",
+"type": "xhr"
+},
+{
+"t": 6.64,
+"host": "cdn.openai.com",
+"url": "https://cdn.openai.com/ctf-cdn/intelligent-ui/Intelligent-UI_1x1.mp4",
+"type": "media"
+},
+{
+"t": 6.64,
+"host": "cdn.openai.com",
+"url": "https://cdn.openai.com/ctf-cdn/intelligent-ui/Intelligent-UI_1x1.mp4",
+"type": "media"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/research/index/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/business/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/api/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/about/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/icons/cms/dbb6e7ac01deaca0/pause-sm-fill.svg",
+"type": "other"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/research/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/index/gpt-6-for-everyone/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/policies/cookie-policy/",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "ab.chatgpt.com",
+"url": "https://ab.chatgpt.com/v1/rgstr",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "statsigapi.net",
+"url": "https://statsigapi.net/v1/sdk_exception",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/p",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/t",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/t",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/t",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/t",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "ab.chatgpt.com",
+"url": "https://ab.chatgpt.com/v1/rgstr",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "ab.chatgpt.com",
+"url": "https://ab.chatgpt.com/v1/rgstr",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "ab.chatgpt.com",
+"url": "https://ab.chatgpt.com/v1/rgstr",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "ab.chatgpt.com",
+"url": "https://ab.chatgpt.com/v1/rgstr",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/t",
+"type": "fetch"
+},
+{
+"t": 6.64,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/t",
+"type": "fetch"
+},
+{
+"t": 8.67,
+"host": "ab.chatgpt.com",
+"url": "https://ab.chatgpt.com/v1/rgstr",
+"type": "fetch"
+},
+{
+"t": 8.67,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/t",
+"type": "fetch"
+},
+{
+"t": 8.67,
+"host": "chatgpt.com",
+"url": "https://chatgpt.com/ces/v1/t",
+"type": "fetch"
+},
+{
+"t": 8.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/",
+"type": "fetch"
+},
+{
+"t": 8.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/",
+"type": "fetch"
+},
+{
+"t": 8.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/research/index/",
+"type": "fetch"
+},
+{
+"t": 8.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/business/",
+"type": "fetch"
+},
+{
+"t": 8.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/api/",
+"type": "fetch"
+},
+{
+"t": 8.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/about/",
+"type": "fetch"
+},
+{
+"t": 12.78,
+"host": "cloudflareinsights.com",
+"url": "https://cloudflareinsights.com/cdn-cgi/rum",
+"type": "ping"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/",
+"type": "document"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/research/",
+"type": "fetch"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/index/gpt-6-for-everyone/",
+"type": "fetch"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/research/index/",
+"type": "fetch"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/business/",
+"type": "fetch"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/",
+"type": "document"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/api/",
+"type": "fetch"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/de-DE/about/",
+"type": "fetch"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+"type": "script"
+},
+{
+"t": 12.78,
+"host": "openai.com",
+"url": "https://openai.com/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js",
+"type": "script"
+},
+{
+"t": 12.78,
+"host": "challenges.cloudflare.com",
+"url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js",
+"type": "script"
+},
+{
+"t": 12.79,
+"host": "openai.com",
+"url": "https://openai.com/cdn-cgi/challenge-platform/h/g/fo/3793872531:1793351358:cQEvw8vX1rFIMto1L7s4OmFkCqkZqc5296_U0ZqoSqc/a52975b77bcbe0c9/MWagy5PXTvOaZkk3qpunsHmqG1iL4W.Z_ClmE5GO44U-1793353240-1.2.1.1-kBupG2tqOqxAWAEniYg1BuC8ZJRnFFBwF7G.BH6w67eb5N5DUXD6GODH7Iddibqz",
+"type": "xhr"
+},
+{
+"t": 12.79,
+"host": "challenges.cloudflare.com",
+"url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/6x7rn/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+"type": "document"
+},
+{
+"t": 12.87,
+"host": "challenges.cloudflare.com",
+"url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/675142412:1793351361:hZ3I2zrEbW813zCAzfoYT7-rKpUAzjihK86DVC-1kSA/a52975b8a890e0db/CuyhrHgwfz3nzG6Ht2Cr-oyJOXU3DmWT36fglgdO0IUhkb3SO8-q-iCNqW972os0EXL_4PEFOgm_ZmqMVWGBCJk6P0nivWECJuYWT_GHa7Tpw2PcpWrPrUb27nq2cJrsoA",
+"type": "xhr"
+}
+]

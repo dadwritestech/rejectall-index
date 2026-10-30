@@ -1,0 +1,362 @@
+[
+{
+"t": 0.0,
+"host": "afternic.com",
+"url": "https://afternic.com/",
+"type": "document"
+},
+{
+"t": 0.55,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/",
+"type": "document"
+},
+{
+"t": 0.95,
+"host": "img1.wsimg.com",
+"url": "https://img1.wsimg.com/cdnassets/m/345153719ca5d6b1/webimage-mrq-afternic-homepage-tablet_768x271_4x.png",
+"type": "image"
+},
+{
+"t": 0.95,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/wrhs-next/fa5cc0ecd004c671e417885c39c4bd96/consent-main.css",
+"type": "stylesheet"
+},
+{
+"t": 0.95,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/wrhs-next/2c209ed65a23ffa93b408c4393366b39/storefront-header.css",
+"type": "stylesheet"
+},
+{
+"t": 0.95,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/react/18/jsx/react.umd.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/react/18/jsx/react-dom.umd.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/wrhs-next/2c209ed65a23ffa93b408c4393366b39/storefront-header.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/css/f552def92be0732d.css",
+"type": "stylesheet"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/css/954d6673010f5027.css",
+"type": "stylesheet"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/css/5a406080fd1e22f9.css",
+"type": "stylesheet"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/chunks/webpack-645d3d9ff4955eec.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/chunks/framework-c2251c006349df97.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/chunks/main-0c248829a08803ab.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/chunks/pages/_app-533cdf416f533020.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/chunks/58f2080a-b475edc6c415f4de.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/chunks/e1926d2f-2826f920cf9f120a.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/chunks/7814-ae42bc6fd338213f.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/chunks/4766-3f7df4f3b37dbcec.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/chunks/pages/%5Bmarket%5D/%5Bplid%5D/%5Bcurrency%5D/%5BpageHash%5D/%5BhcsExperimentsHash%5D/%5BcacheBustKey%5D/static/%5B...slug%5D-3408e8a470666d13.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/isHIlHK3DmJss-Pplwy8d/_buildManifest.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/storefront-assets/k262/_next/static/isHIlHK3DmJss-Pplwy8d/_ssgManifest.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "img1.wsimg.com",
+"url": "https://img1.wsimg.com/private_label/497036/desktopLogo.b7ef694a5296a547306e6916f69abc3e.png",
+"type": "image"
+},
+{
+"t": 0.95,
+"host": "img1.wsimg.com",
+"url": "https://img1.wsimg.com/private_label/497036/mobileLogo.96206a3baa78b49c9747cd9f5aec3e31.svg",
+"type": "image"
+},
+{
+"t": 0.95,
+"host": "img1.wsimg.com",
+"url": "https://img1.wsimg.com/cdnassets/transform/3d6158ae-c9dd-4305-885b-d0cb9d0ac321/HPMRQD",
+"type": "image"
+},
+{
+"t": 0.95,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/wrhs-next/bef4ed2785a8eda178da67de008789f1/heartbeat.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/wrhs-next/64a07d64cf0437bd8eb8a0f6551682e6/scc-afternic-c1.min.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/wrhs-next/0c88e97f83f13b701e3465ec49b671d6/TrackingData.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/wrhs-next/aba8063c0df0ff78b071233ecafe854d/sherpa-loader.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/5cYR__qa/Zk4/erQ/6FJlJFlz0-/GhEO8mL3E1/UC9xYRtQBw/PCY/FJltWOSxUAQ",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "ds-aksb-a.akamaihd.net",
+"url": "https://ds-aksb-a.akamaihd.net/aksb.min.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/fonts/4.11.0/GDSherpa-vf4.woff2",
+"type": "font"
+},
+{
+"t": 1.15,
+"host": "www.godaddy.com",
+"url": "https://www.godaddy.com/shop-assist/v1/assets/px-assets-sherpa",
+"type": "fetch"
+},
+{
+"t": 1.28,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/wrhs-next/7901ab9b8e5ba17f14533296dbd75892/consent-main.js",
+"type": "script"
+},
+{
+"t": 1.3,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/hamburger.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/invoice.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/user-circle.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/exchange.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/sm-business.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/world.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/thumbs-up.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/user.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "gui.afternic.com",
+"url": "https://gui.afternic.com/pcjson/applicationheader",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/facebook.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/twitter.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/ux-assets/@ux/icon/5.0.0/afternic-domaining.svg",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "img6.wsimg.com",
+"url": "https://img6.wsimg.com/wrhs-next/2c209ed65a23ffa93b408c4393366b39/browser-deprecation-banner.storefront-header.js",
+"type": "script"
+},
+{
+"t": 1.42,
+"host": "img1.wsimg.com",
+"url": "https://img1.wsimg.com/cdnassets/transform/ad34c8d7-a545-4ddd-8678-2f3e3cc4cf4e/Afternic-dashboard-domain",
+"type": "image"
+},
+{
+"t": 1.42,
+"host": "img1.wsimg.com",
+"url": "https://img1.wsimg.com/cdnassets/transform/95523865-14c2-48a0-a9f8-535ac14e65d6/feat-convert-sales-desktop_1470x540_3x",
+"type": "image"
+},
+{
+"t": 1.42,
+"host": "img1.wsimg.com",
+"url": "https://img1.wsimg.com/cdnassets/transform/747fb6bd-a451-4e31-a0b7-375871e06751/feat-experts-to-close-the-deal-desktop_1470x540_3x",
+"type": "image"
+},
+{
+"t": 1.77,
+"host": "img1.wsimg.com",
+"url": "https://img1.wsimg.com/tagging/js/g.js",
+"type": "script"
+},
+{
+"t": 1.77,
+"host": "img1.wsimg.com",
+"url": "https://img1.wsimg.com/signals/js/plugins/scc-web-vitals/scc-web-vitals.min.js",
+"type": "script"
+},
+{
+"t": 7.77,
+"host": "ds-aksb-a.akamaihd.net",
+"url": "https://ds-aksb-a.akamaihd.net/RRT",
+"type": "xhr"
+},
+{
+"t": 7.77,
+"host": "j801z2j1zehm-ds-aksb-a.akamaihd.net",
+"url": "https://j801z2j1zehm-ds-aksb-a.akamaihd.net/2/628588/b",
+"type": "image"
+},
+{
+"t": 7.77,
+"host": "csp.secureserver.net",
+"url": "https://csp.secureserver.net/eventbus/web",
+"type": "fetch"
+},
+{
+"t": 7.77,
+"host": "csp.secureserver.net",
+"url": "https://csp.secureserver.net/eventbus/web",
+"type": "fetch"
+},
+{
+"t": 7.77,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/5cYR__qa/Zk4/erQ/6FJlJFlz0-/GhEO8mL3E1/UC9xYRtQBw/PCY/FJltWOSxUAQ",
+"type": "xhr"
+},
+{
+"t": 13.86,
+"host": "csp.secureserver.net",
+"url": "https://csp.secureserver.net/eventbus/web",
+"type": "fetch"
+},
+{
+"t": 13.86,
+"host": "csp.secureserver.net",
+"url": "https://csp.secureserver.net/eventbus/web",
+"type": "fetch"
+},
+{
+"t": 13.86,
+"host": "www.afternic.com",
+"url": "https://www.afternic.com/5cYR__qa/Zk4/erQ/6FJlJFlz0-/GhEO8mL3E1/UC9xYRtQBw/PCY/FJltWOSxUAQ",
+"type": "xhr"
+}
+]

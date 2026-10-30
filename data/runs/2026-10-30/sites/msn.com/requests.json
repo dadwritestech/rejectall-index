@@ -1,0 +1,4922 @@
+[
+{
+"t": 0.0,
+"host": "msn.com",
+"url": "https://msn.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "www.msn.com",
+"url": "https://www.msn.com/",
+"type": "document"
+},
+{
+"t": 0.15,
+"host": "www.msn.com",
+"url": "https://www.msn.com/de-de",
+"type": "document"
+},
+{
+"t": 0.2,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/MSCMP/1.14/entry.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "www.msn.com",
+"url": "https://www.msn.com/bundles/v1/homePage/latest/SSR-extension.8206fbc79939688d.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/vendors.d7d4b0f9df793c36.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/microsoft.06c091abfda8af93.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/common.39e96b52c8ea0dc1.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experience.5250a8a59a7d4787.js",
+"type": "script"
+},
+{
+"t": 0.21,
+"host": "www.msn.com",
+"url": "https://www.msn.com/bundles/v1/homePage/latest/web-worker.23626e01067123bf.js",
+"type": "script"
+},
+{
+"t": 0.21,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/resolver/api/resolve/v3/config/",
+"type": "fetch"
+},
+{
+"t": 0.21,
+"host": "adsdk.microsoft.com",
+"url": "https://adsdk.microsoft.com/ast/ast.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/MSCMP/1.14/assets/de-de.json",
+"type": "fetch"
+},
+{
+"t": 0.26,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/adsdk/MSCMP/1.0.15/sdk.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/adsdk/MSCMP/1.0.15/9ffd572e17ac0d4d3a4e.js",
+"type": "script"
+},
+{
+"t": 0.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/common-feed-libs.08bab552c97078c3.js",
+"type": "script"
+},
+{
+"t": 0.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_topics-shared-state_dist_TopicData_connector_js-libs_topics-shared-state_dist_TopicData_-530013.df3d553c1fdf8984.js",
+"type": "script"
+},
+{
+"t": 0.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/topic-data-connector.df77536d1972ddc3.js",
+"type": "script"
+},
+{
+"t": 0.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_me-stripe-wc_dist_index_js.40f0226d7e784a89.js",
+"type": "other"
+},
+{
+"t": 0.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_display-ads-wc_dist_index_js.f2f24991478f7199.js",
+"type": "other"
+},
+{
+"t": 0.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/adsdk/MSCMP/1.0.15/15d4984c5a76ac7e7cf1.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/adsdk/MSCMP/1.0.15/4c23c60d3f66440ee265.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "c.msn.com",
+"url": "https://c.msn.com/c.gif",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/adboxes/egb/punder.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/adboxes/ubo/safu/safu.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/adboxes/general.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/service/news/feed/pages/weblayout",
+"type": "fetch"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_money-data-transformers_src_MoneyDataTransformers_utils_ts.109e94d42f6e3715.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_social-data-service_dist_service_SocialService_js.c261ec01dd917d3b.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_sports-data-service_dist_SportsDataMapper_js.f961c5c3bdda7e9b.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_feed-layout_dist_card-templates_content-card_ContentCardDataMapper_js.4c06c0ba9ea2c453.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_feed-layout_dist_card-templates_responsive-ad-card_ResponsiveAdCardDataMapper_js-libs_fe-b23283.c3596f0d2860d332.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_feed-layout_dist_card-templates_hide-story-card_templates_HideStoryAdFeedbackConfirmatio-f9a062.3a79d08357334968.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-201ed3.0a3589113a703818.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_channel-page-utils_dist_UrlUtilities_js-libs_experiences-base_dist_utilities_CountdownPr-813ebf.5b074a58083cccbd.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageLoadError_js-libs_ads-utils_dist_logging_sendAdImageSi-456cd5.60f370092c658ced.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/getFeedManager.1d40ac82c8e11b5c.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/statics/fonts/SegoeUI-Roman-VF-subset_web.woff2",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/super-nav.a1a8085440c006fe.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_card-components_dist_card-flipper_index_js-cs-core-desktop_info-pane_dist_ind-b7d417.86e1df4ded631bf2.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-57e0f5.6e85ae86c4ed5820.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-container_dist_register_CsFeedInfopane24Module_js.2415874eb2eac25d.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-4b9706.c0c5b6cd9eca534f.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_responsive-card_dist_index_js-libs_ads-utils_dist_shouldUseNewFeedbackUrlTrea-bd5c6b.a6a8ec207a0557dc.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_desktop-feed-card-shared_dist_subcomponents_ad-choice_AdChoice_template_js-cs-1d3e0e.2d590a40926e279f.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/arrow_up_24_regular.svg",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/adsdk/MSCMP/1.0.15/purposes/v175/de.json",
+"type": "xhr"
+},
+{
+"t": 0.43,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/brand/new-msn-logo-color-black.svg",
+"type": "image"
+},
+{
+"t": 0.43,
+"host": "mem.gfx.ms",
+"url": "https://mem.gfx.ms/meversion",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "c.bing.com",
+"url": "https://c.bing.com/c.gif",
+"type": "image"
+},
+{
+"t": 0.51,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/waterfall-view-feed.571b1543aa1f7794.js",
+"type": "script"
+},
+{
+"t": 0.53,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBGgbuP",
+"type": "fetch"
+},
+{
+"t": 0.54,
+"host": "js.monitor.azure.com",
+"url": "https://js.monitor.azure.com/scripts/c/ms.shared.analytics.mectrl-3.gbl.min.js",
+"type": "script"
+},
+{
+"t": 0.54,
+"host": "mem.gfx.ms",
+"url": "https://mem.gfx.ms/scripts/me/MeControl/10.25136.1/de-DE/meBoot.min.js",
+"type": "script"
+},
+{
+"t": 0.57,
+"host": "c.msn.com",
+"url": "https://c.msn.com/c.gif",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 0.63,
+"host": "mem.gfx.ms",
+"url": "https://mem.gfx.ms/scripts/me/MeControl/10.25136.1/de-DE/meCore.min.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "mem.gfx.ms",
+"url": "https://mem.gfx.ms/me/mecache",
+"type": "document"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/msnews/publishers-service-client.9a73837b3fcb7a53.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dPwFU.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1QcSbY.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_responsive-sd-card_dist_sd-card_register_js-libs_wpo_dist_promotions_FeedCFHe-5c3e68.d87d9a6be8a1acf5.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_windows-widget-shared_dist_WidgetHelper_js.98bfe479b1c82102.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_ruby-widget-card_dist_index_js.dc945169ce20f069.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_card-shared_dist_HoverTelemetry_js-libs_casual-games-data-service_dist_Casual-4f136c.645c3f09a9714d23.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/casual-games-card.856c02a19b3ed54c.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-common-utils_dist_data_FeedWeatherDataUtils_js-libs_weather-shared_dist_weatherO-325cd5.5bfa4c2f4f1d443e.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-shared-wc_dist_weather-card_weather-card_template_js-libs_weather-skycode-mappin-a84f79.f03ae703a1c37845.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-shared-wc_dist_utilities_entry_cardSelector_BackgroundMappingHelper_js-libs_weat-fa872a.c04804401e0e06c3.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-card-wc.08a7ba97d87a0e16.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-card-data-connector_dist_index_js.7c3fc6b848a6f572.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/nativeadstemplates.0ae79f671746ceec.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/auction",
+"type": "xhr"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/caret_left_24_filled.svg",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dkPtC.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA29QfOH.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2geplS.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RgKS3.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/msn-consent-sharing.70079bc13b82d241.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-cards_dist_cards_super-infopane_CardActionTemplates_js.d8b579afa2dad0b6.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2goRdm.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RZxZt.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/fluent-icons/dismiss_20_regular.svg",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/fluent-icons/more_horizontal_20_regular.svg",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/auth/msal-browser-5.6.2.min.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/diagnostic-web-vitals.b3a28232fce0f4dd.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_common-settings-dialog_dist_index_js.3a5338e85fc21197.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/marketComplianceException.832baf9521de5e4b.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/superBreakingNews.7d6ba2b1a01ce4f9.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/pill-wc.6001f414858ac4de.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_shouldUseNewFeedbackUrlTreatment_js-libs_core_dist_widgets_SharedWidgetUt-e546ac.b4aeb0975dc9f49d.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/card-actions-wc.7083077f85b0107d.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/toast-wc.336ab38f46373d9b.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/social-bar-wc.99c25cd886f74aac.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/digest-card.c1b3cca68f6cd83d.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2btGjP.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SolXs.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gluFi.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1S09zh.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA29hNk2.img",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1QhLsp.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dUHM3.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA27DvID.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2goizD.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Sx1BC.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2e7k1I.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Ss7aw.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2g79OZ.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1STy7x.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gk5LC.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gkCKK.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TOZI1.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gkt9A.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VDxjr.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23JNkN.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA26NYdV.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RyNMx.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gkowT.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SsjHW.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gl9VG.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RktUs.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gltO4.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1UQbvC.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2glkli.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RZD2I.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gl7UG.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gbiM1.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1QhbjT.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2glUhL.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RzluG.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2glctN.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1S5KOG.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gkjOP.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Svqot.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gmbQg.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TgR1o.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gp6II.img",
+"type": "image"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/publisher-subscribe-follow-button.9bf51ebd9c6a6662.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_page-refresh-wc_dist_index_js.76a448dfbf78f5d1.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_conditional-banner-hp-wc_dist_index_js.75e130d209ad4e68.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/nurturing-banner.42d6fc4fd3397d40.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_me-stripe-wc_dist_index_js.40f0226d7e784a89.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_display-ads-wc_dist_index_js.f2f24991478f7199.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/hp-feed-switch.b1c0c1524f604d72.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_homepage-footer_dist_index_js.6760ef96d18859fb.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/welcomeGreetingLight.ef47830002538a4e.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_iris-data-connector_dist_index_js.e7cb3f6db66005fc.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-minimap-wc.5292f56d82537b25.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-card-wc-ntp.880d8e35f8c56afa.js",
+"type": "script"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/more_horizontal_16_regular.svg",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/caret_left_16_filled.svg",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_shouldUseNewFeedbackUrlTreatment_js-libs_core_dist_widgets_SharedWidgetUt-c9ee77.26eb1a5160504db9.js",
+"type": "script"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/tcfConsentBanner.47dc3b400fd8606c.js",
+"type": "script"
+},
+{
+"t": 6.65,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/service/news/feed",
+"type": "fetch"
+},
+{
+"t": 6.65,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/icons/NtpTopStories.svg",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Sx1BC.img",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SAvJs.img",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TOZI1.img",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "login.microsoftonline.com",
+"url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize",
+"type": "document"
+},
+{
+"t": 6.65,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_share-view_dist_index_js.28eaaab9a7ba5bad.js",
+"type": "script"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB174vsT",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18wU7w",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBtDidm",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYMDHp",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAVfoma",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGpOUO",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13Q6AL",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1K99Xj",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGUW9m",
+"type": "image"
+},
+{
+"t": 6.65,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1cG73h",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/icons/office-icons/OneDrive_24x.svg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/icons/office-icons/OneNote_24x.svg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB174eDU",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1BpRUr",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB179U7O",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "btloader.com",
+"url": "https://btloader.com/tag",
+"type": "script"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/tmt/v3/de-de_script.js",
+"type": "script"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/homepage-footer/threeDotsSVG.svg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v10/Condition_Card/D200PartlySunnyV2.svg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "arc.msn.com",
+"url": "https://arc.msn.com/v4/api/selection",
+"type": "fetch"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-card-wc-init-account-type.95d16d6ebe926469.js",
+"type": "script"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/background/v2.0/jpg/partlysunny_day.jpg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/icons-wc/icons/dark-mode/detectLocDark.svg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/chevron_down_12_regular.svg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v10/AQI/aq3.svg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v10/NoColor_Card/rightArrow.svg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/background/v2.0/jpg/sunny.jpg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/eu/33_21_6_202610301000.jpg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/eu/34_21_6_202610301000.jpg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/eu/33_22_6_202610301000.jpg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/eu/34_22_6_202610301000.jpg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "ecn.dev.virtualearth.net",
+"url": "https://ecn.dev.virtualearth.net/REST/v1/Imagery/Map/roadondemandfull/48.090,11.528/6",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/minimap/wcicons/aqi.svg",
+"type": "image"
+},
+{
+"t": 6.66,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/minimap/wcicons/right_arrow.svg",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/service/msn/user",
+"type": "fetch"
+},
+{
+"t": 6.67,
+"host": "scripts.mf.webcontentassessor.com",
+"url": "https://scripts.mf.webcontentassessor.com/scripts/46c9de6d5e074e83727ad553d679809d3fa5e82e81170a58124571e4cc7a7de0.json",
+"type": "xhr"
+},
+{
+"t": 6.67,
+"host": "aadcdn.msftauth.net",
+"url": "https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_8k_MLTH5HA-ha6OAu4vroQ2.js",
+"type": "script"
+},
+{
+"t": 6.67,
+"host": "cdn.btloader.com",
+"url": "https://cdn.btloader.com/cchecker.html",
+"type": "document"
+},
+{
+"t": 6.67,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.67,
+"host": "ad.doubleclick.net",
+"url": "https://ad.doubleclick.net/favicon.ico",
+"type": "fetch"
+},
+{
+"t": 6.67,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.67,
+"host": "ab.dns-finder.com",
+"url": "https://ab.dns-finder.com/meta/dns",
+"type": "fetch"
+},
+{
+"t": 6.67,
+"host": "btloader.com",
+"url": "https://btloader.com/trustedIframe.html",
+"type": "document"
+},
+{
+"t": 6.67,
+"host": "cdn.api.btloader.com",
+"url": "https://cdn.api.btloader.com/device",
+"type": "fetch"
+},
+{
+"t": 6.67,
+"host": "api.btloader.com",
+"url": "https://api.btloader.com/exd",
+"type": "fetch"
+},
+{
+"t": 6.67,
+"host": "login.microsoftonline.com",
+"url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize",
+"type": "document"
+},
+{
+"t": 6.67,
+"host": "aadcdn.msauth.net",
+"url": "https://aadcdn.msauth.net/shared/1.0/content/js/FetchSessions_Core_H5IgszKn6xuaSfUqCqn3HQ2.js",
+"type": "script"
+},
+{
+"t": 6.67,
+"host": "login.live.com",
+"url": "https://login.live.com/Me.htm",
+"type": "document"
+},
+{
+"t": 6.67,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/served",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/served",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/served",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/served",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/served",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/served",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/served",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/served",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/served",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.67,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info.add39d482db9c71e.js",
+"type": "script"
+},
+{
+"t": 6.67,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info.cf5234ff81f6269f.js",
+"type": "script"
+},
+{
+"t": 6.67,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cRE4f.img",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gkZoV.img",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gjSBM.img",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1FfLV4.img",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1QeWYF.img",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ge5Z9.img",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/fluent-icons/play_20_filled.svg",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gl1bn.img",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TIZR4.img",
+"type": "image"
+},
+{
+"t": 6.67,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_VideoCardManager_js.3dbb96108a14a61b.js",
+"type": "script"
+},
+{
+"t": 6.67,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_fundamentals_dist_utilities_InViewportUtility_js-libs_video-card-plugin-factory_dist_Vid-286842.4764995d2cde1fe5.js",
+"type": "script"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-quote-vertical-watchlist.5c585faafc1a2700.js",
+"type": "script"
+},
+{
+"t": 6.68,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_sports-data-transformers_src_SportsMatchTransformer_ts-web-components_sports-info-match_-e8b077.15b61ce57a2bcde5.js",
+"type": "script"
+},
+{
+"t": 6.68,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-match-list.26687adae4d6b811.js",
+"type": "script"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/finance/1stparty/FinanceTaskbarIcons/Finance_Stock_Increase_Decrease/Finance_stock_up_green_72x72.png",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/finance/1stparty/FinanceTaskbarIcons/Finance_Stock_Increase_Decrease/Stock_down_orange_72x72.png",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-service.8fde28d65823c809.js",
+"type": "script"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/info_16_regular.svg",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2goRHq.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2goeFd.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gkyre.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gkSJo.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SomXi.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gkFA0.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2a5izw.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gm496.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gdSwW.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Svgl7.img",
+"type": "image"
+},
+{
+"t": 6.68,
+"host": "ib.msn.com",
+"url": "https://ib.msn.com/ut/v3",
+"type": "xhr"
+},
+{
+"t": 6.68,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/service/Finance/Charts",
+"type": "fetch"
+},
+{
+"t": 6.68,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/service/Finance/ExchangeStatistics",
+"type": "fetch"
+},
+{
+"t": 6.68,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "www.msn.com",
+"url": "https://www.msn.com/staticsb/statics/latest/auth/auth-redirect-blank-bridge.html",
+"type": "document"
+},
+{
+"t": 6.69,
+"host": "ad.doubleclick.net",
+"url": "https://ad.doubleclick.net/favicon.ico",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/auth/msal-redirect-bridge-5.6.2.min.js",
+"type": "script"
+},
+{
+"t": 6.69,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-utils.5bd39da134a55ee5.js",
+"type": "script"
+},
+{
+"t": 6.69,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.69,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "ad.doubleclick.net",
+"url": "https://ad.doubleclick.net/favicon.ico",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "ab.dns-finder.com",
+"url": "https://ab.dns-finder.com/meta/dns",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.69,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/viewed",
+"type": "image"
+},
+{
+"t": 6.69,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.69,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 6.69,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "ad.doubleclick.net",
+"url": "https://ad.doubleclick.net/favicon.ico",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "ad.doubleclick.net",
+"url": "https://ad.doubleclick.net/favicon.ico",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "ad.doubleclick.net",
+"url": "https://ad.doubleclick.net/favicon.ico",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 6.69,
+"host": "ad-delivery.net",
+"url": "https://ad-delivery.net/px.gif",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "ad.doubleclick.net",
+"url": "https://ad.doubleclick.net/favicon.ico",
+"type": "fetch"
+},
+{
+"t": 6.69,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.69,
+"host": "api.btloader.com",
+"url": "https://api.btloader.com/pv",
+"type": "fetch"
+},
+{
+"t": 6.7,
+"host": "www.bing.com",
+"url": "https://www.bing.com/api/v2/mediation/tracking",
+"type": "image"
+},
+{
+"t": 6.7,
+"host": "srtb.msn.com",
+"url": "https://srtb.msn.com/notify/viewed",
+"type": "image"
+},
+{
+"t": 6.7,
+"host": "www.bing.com",
+"url": "https://www.bing.com/aes/c.gif",
+"type": "image"
+},
+{
+"t": 6.7,
+"host": "www.msn.com",
+"url": "https://www.msn.com/homepage/service-worker.js",
+"type": "script"
+},
+{
+"t": 6.7,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/accountLinkingNotice.7514813f77262714.js",
+"type": "fetch"
+},
+{
+"t": 6.7,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/ai-mode-context.43f1921abb096518.js",
+"type": "fetch"
+},
+{
+"t": 6.7,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/articleRelatedStories.60a8dbd3839dd0bd.js",
+"type": "fetch"
+},
+{
+"t": 6.7,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/articleTopComment.ce5bf1f1c8c381f6.js",
+"type": "fetch"
+},
+{
+"t": 6.71,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/background-gallery.a1c2219e83d27a2d.js",
+"type": "fetch"
+},
+{
+"t": 6.73,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/bingHealthCard.177773cdbaa60fa7.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/boost-ad-card.bc0a320ed8dad151.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/card-action-service.687eb67a2092ba13.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/card-actions-wc.7083077f85b0107d.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cardTypeToCardInterfaceMapForUmf.701dc34a6e012c96.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/casual-games-card.856c02a19b3ed54c.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/casual-games-carousel-card.d6b4748dd7c40e25.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/casual-games-pill.32363e9ad8e083d6.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/channel-store.29e40b754202a80a.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/ChannelStoreMarketSelector.34a8263218e6ad25.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/ChinaLanguageMismatchCoachMark.f0c4bd05cd6aa02a.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/clarity.b4b40a0a5fb8af5c.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/CnexEndBanner.556e106b4ddd88ae.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/codex-bing-chat.24b25e3cc2cdd767.js",
+"type": "fetch"
+},
+{
+"t": 8.74,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cold-start-gif.9d780783db9d550d.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cold-start-wc.8c370d6ae2b18a2b.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/common-auto-suggest.23955f3f8fdd141a.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/common-feed-libs.08bab552c97078c3.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/common-settings-edgenext.ebb83925545457ba.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/common.39e96b52c8ea0dc1.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/community-active-discussions.9ac777994f78d8c0.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/community-card.e583afb03d112e20.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/community-creation-ideas.e1c35306d9d4c028.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/components_weather-popup_dist_index_js.e418efedc3fe938f.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/content-group-card.339fa2d634dd95df.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/contextual-feedback-wc.27f8ac08d4b0bc94.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/creator-spotlight-card.0b6da989d61349ac.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_card-components_dist_card-flipper_index_js-cs-core-desktop_desktop-feed-card--bcdfbd.c7aa1afe09942238.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_card-components_dist_card-flipper_index_js-cs-core-desktop_info-pane_dist_ind-b7d417.86e1df4ded631bf2.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_card-shared_dist_debugger_index_js.c82a89002b16ad62.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_card-shared_dist_HoverTelemetry_js-libs_casual-games-data-service_dist_Casual-4f136c.645c3f09a9714d23.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_desktop-feed-card-shared_dist_subcomponents_ad-choice_AdChoice_template_js-cs-1d3e0e.2d590a40926e279f.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_desktop-feed-card-shared_dist_subcomponents_ad-choice_AdChoice_template_js-cs-43ae19.6fecffa9179ddf30.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_responsive-card_dist_index_js-libs_ads-utils_dist_shouldUseNewFeedbackUrlTrea-bd5c6b.a6a8ec207a0557dc.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_responsive-list_dist_index_js.fbcc7251c67d4937.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_responsive-sd-card_dist_sd-card_register_js-libs_wpo_dist_promotions_FeedCFHe-5c3e68.d87d9a6be8a1acf5.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_ruby-content-card_dist_index_js.52ed351046704699.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/cs-core-desktop_ruby-widget-card_dist_index_js.dc945169ce20f069.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/daily-brief-card.2204e6d25a8e1d45.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/daily-moments-card.90fbea50c25c27c2.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/daily-wonder-card.b83a34dd7f0520a2.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/daily-wonder-copilot-card.0e6b353904204c0e.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/dense-card.54aea7fefa85cbfb.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/dev-tools.f8f042a40e21f109.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/diagnostic-web-vitals.b3a28232fce0f4dd.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/digest-card.c1b3cca68f6cd83d.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/donation-npo-card.bda80b9f7301c56e.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/election-card.3a818b384c26c533.js",
+"type": "fetch"
+},
+{
+"t": 8.75,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/entertainment-premier-card.3fafee298fc8b2fe.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/EsportsDataService.3bbce37c50d4232f.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experience.5250a8a59a7d4787.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_breaking-news-wc_dist_index_js.18ba43ae58640b0a.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_card-action-wc_dist_CardActionWC_constants_js-libs_ads-utils_dist_shouldUseNewFee-98f6ee.79f23c75601931ec.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_casual-games-stripe-carousel-card_dist_index_js.da2c86eb47ae800a.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_conditional-banner-hp-wc_dist_index_js.75e130d209ad4e68.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_content-group-card_dist_carousel-utils_CarouselInit_js.ceddc00c43a96d2d.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_creator-spotlight-card_dist_components_navPillHover_js-libs_core_dist_utilities_S-c57c05.9521ce0b71fc9592.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_display-ads-wc_dist_index_js.f2f24991478f7199.js",
+"type": "fetch"
+},
+{
+"t": 8.76,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_entry-point-hp-wc_dist_lazy-loadings_widgetLayoutTemplateMaps_js.2ca1e684aacf54b8.js",
+"type": "fetch"
+},
+{
+"t": 8.82,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_entry-point-hp-wc_dist_lazy-loadings_widgetsFeedManager_js.b84aefdec95149e8.js",
+"type": "fetch"
+},
+{
+"t": 8.82,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_feedback-dialog-wc_dist_index_js.a6c0d8aa7ebcf575.js",
+"type": "fetch"
+},
+{
+"t": 8.82,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_homepage-footer_dist_index_js.6760ef96d18859fb.js",
+"type": "fetch"
+},
+{
+"t": 8.82,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_mail-signout-banner_dist_index_js.f75138ffac93de78.js",
+"type": "fetch"
+},
+{
+"t": 8.82,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_me-stripe-wc_dist_index_js.40f0226d7e784a89.js",
+"type": "fetch"
+},
+{
+"t": 8.82,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_money-info-card-wc_dist_index_js-libs_feedback-service_dist_FeedbackAuth_js-node_-c541ca.eb5e11d791862334.js",
+"type": "fetch"
+},
+{
+"t": 8.82,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_page-refresh-wc_dist_index_js.76a448dfbf78f5d1.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_recipes-sd-card_src_index_ts.099f2c6de9c1a921.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_recommended-sites-wc_dist_index_js-node_modules_cs-core_design-system_dist_esm_de-96405d.6567263231979e3e.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_search-history-edgenext-wc_dist_index_js.1306f56862857446.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_shopping-carousel-wc_dist_index_js-libs_shopping-utils_dist_Decoration_generateDe-82c064.449a2d96f4a41c35.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_shopping-entry-base-experience_dist_ShoppingEntryBaseExperience_js.e305eeb23299e0ce.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_shopping-entry-base-experience_dist_utils_formatter_utils_js-libs_channel-page-ut-9a50c6.b267dc8b6fd9f0d0.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_CopilotCard_CopilotCard_styles_js.930470055dd8c9cd.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_CopilotCard_CopilotCard_template_js.137a779fe389203a.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_DailyQuiz_DailyQuizCard_styles_js.75f79b4e136f3604.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_DailyQuiz_DailyQuizCard_template_js.a7b1c8bb7400c477.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_FollowedPublishers_FollowedPublishersCard-146167.a34d92725194eba4.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_FollowedPublishers_FollowedPublishersCard-a83ffc.92f4c125d11ecff6.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_LocalEvents_LocalEventsCard_styles_js.02bcacb90643bf2a.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_LocalEvents_LocalEventsCard_template_js.e301eaea5c187f34.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_OnThisDay_OnThisDayCard_styles_js.bca2a144e89f59c8.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_OnThisDay_OnThisDayCard_template_js.87f1713627935284.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_PublisherSpotlight_PublisherSpotlightCard-613f5f.2a4fe12ec7f6451d.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_PublisherSpotlight_PublisherSpotlightCard-a2f35d.dccd83870fc67665.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_RealEstate_RealEstate_styles_js.c67c204de72f570e.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_ContentTemplates_RealEstate_RealEstate_template_js.fa996fed3c31859c.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_Mappers_CopilotCard_CopilotCardMapper_js.71769aa8d9ac3c98.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_Mappers_DailyQuiz_DailyQuizCardMapper_js.c70acfb8dd60de22.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_Mappers_FollowedPublishers_FollowedPublishersCardMapper_js.13f7f451a32d1d09.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_Mappers_LocalEvents_LocalEventsCardMapper_js.83d5d060a91d7888.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_Mappers_OnThisDay_OnThisDayCardMapper_js.1993de8ac4c48b71.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_Mappers_PublisherSpotlight_PublisherSpotlightCardMapper_js.e3d021f2addefa27.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_spotlight-card-wc_dist_Mappers_RealEstate_RealEstateCardMapper_js.93396677d0b3f388.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_top-sites-edgenext-wc_dist_TopSitesEdgeNextWC_actionMenu_js.26e62369f1ce8c2e.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_top-sites-edgenext-wc_dist_TopSitesEdgeNextWC_addDialog_js.ebd054598972d4f2.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_top-sites-edgenext-wc_dist_TopSitesEdgeNextWC_editDialog_js.f73b262556e23d7c.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_traffic-hero_dist_components_transit_index_js.97e4e5baedf2f899.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_travel-sd-carrentals-card_dist_index_js.63d27997b823de6b.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_travel-sd-flights-card_dist_index_js.c89ca18e73d93620.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_video-card-wc_dist_components_carded-container_index_js.88b5acdb9304ff92.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_video-card-wc_dist_components_gamepad-youtube-player-controls_index_js.92e2a410fa7c94ec.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_video-card-wc_dist_components_PlutoTvPlayerElement_js.e50dfe1a69faa605.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_video-card-wc_dist_index_js-libs_ads-utils_dist_GDPRHelper_js-libs_fundamentals_d-de5b41.31953dc09791fec8.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_views-native-ad_dist_components_AdFeedbackHideStoryCard_index_js.0580d627868b24a6.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_waterfall-view-feed_dist_Utils_ContentPrefetcher_js.31c6ce72cd95030a.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_welcome-greeting-wc_dist_components_finance-greeting_index_js.50aaa38ce1f5c36a.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/experiences_welcome-greeting-wc_dist_components_weather-popup_index_js.054157f6bbcad82f.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/exploration-banner.104cd390396e18d5.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/feed-navigation-hp.fdfe008459dc281d.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/feedback.b0829eede03b0e0a.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/feedDependencies.4289879df85b6637.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/feeds-notification-toast.2e253eddecf3e61e.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/finance-quote-pill.41b0caa42f2289f8.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/float-button-group-wc.8800d370377244d9.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/following-fre-confirmation.d7a31e123cf05b79.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/following-fre-full-width.7d33416b322c4ab4.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/general-elections.d258fad6bab4b28a.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/getFeedManager.1d40ac82c8e11b5c.js",
+"type": "fetch"
+},
+{
+"t": 8.83,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/grid-view-feed.fbeee083a66c7d12.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/health-augment-card.53372c2af74026a8.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/health-tip-wc.642b08cba4398a53.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/healthFitnessCarousel.c17ccf3cf9acded0.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/horoscope-answer-card-wc.a6574c9d6490547e.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/hot-list-card.85626c0f2ea7735b.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/hp-feed-switch.b1c0c1524f604d72.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/inline-curation-chips.b7fabb19f3776c98.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/inline-head.6e2ac56adc53d832.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/interest-fre-card.d428eb2ff6f2a040.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/interest-management-card.3f5e34dcd55466d2.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/interests-wc.7ed0b1bd46b2c332.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/issue-reporting-wc.afeb9cbd19fc6a1e.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/lazy.dfd1f0b0d922d0a1.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ad-service_dist_index_js.f9aa0cffd69c7e7b.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ad-service_dist_utils_MockVaAuctionResponse_js.4d4bb0a5af706386.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-manager_dist_index_js.eb30e19be3408aa0.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_GDPRHelper_js-web-components_native-ad-video_dist_index_js.2743e202819f0ff1.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageLoadError_js-libs_ads-utils_dist_logging_sendAdImageSi-456cd5.60f370092c658ced.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-1855fc.46fe28477d833d1d.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-1a1ee0.f7c60359d057a8c3.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-1c0bac.9085ae6778dfab7d.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-33243a.b8275a2cb0d0c2ee.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-3b8f08.5ee12fdb664ffde0.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-481e81.05400dfc50257cfd.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-4b9706.c0c5b6cd9eca534f.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-612bf6.dbd7738e3418d195.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-6fd802.d2005c3780bd2aa0.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-74ab18.774701a37c406f09.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-ce4314.78dca6c4a7656a33.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_core_dist_interaction-tracke-bb9148.46d76d96b34c4946.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_shouldUseNewFeedbackUrlTreatment_js-libs_core_dist_widgets_SharedWidgetUt-c9ee77.26eb1a5160504db9.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_ads-utils_dist_shouldUseNewFeedbackUrlTreatment_js-libs_core_dist_widgets_SharedWidgetUt-e546ac.b4aeb0975dc9f49d.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_auth_dist_index_js.8889d6138d907a5e.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_card-overlap-monitor_dist_CardOverlapMonitor_js-libs_channel-page-utils_dist_UrlUtilitie-32d4b5.4c101d735335b81f.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_card-overlap-monitor_dist_CardOverlapMonitor_js-libs_channel-page-utils_dist_UrlUtilitie-5a8ba3.40369bd1cdd01add.js",
+"type": "fetch"
+},
+{
+"t": 8.84,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_category-data-connector_dist_index_js.2f0a86befeeba177.js",
+"type": "fetch"
+},
+{
+"t": 8.85,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_channel-page-utils_dist_UrlUtilities_js-libs_experiences-base_dist_utilities_CountdownPr-813ebf.5b074a58083cccbd.js",
+"type": "fetch"
+},
+{
+"t": 8.85,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_cookie-utils_dist_index_js.e7adb22f355fed69.js",
+"type": "fetch"
+},
+{
+"t": 8.91,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_copilot-bridge_dist_index_js.8194fd29ed522f13.js",
+"type": "fetch"
+},
+{
+"t": 8.93,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_display-ads-manager_dist_index_js.18bbfba247f759b6.js",
+"type": "fetch"
+},
+{
+"t": 8.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_edgechromium-util_dist_index_js.924c02d312e61a1a.js",
+"type": "fetch"
+},
+{
+"t": 8.94,
+"host": "ib.msn.com",
+"url": "https://ib.msn.com/ut/v3",
+"type": "xhr"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_entry-point-shared-utils_dist_index_js.1eb0c078e28f76a5.js",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_experiences-page-base-wc_dist_index_js.7bb8b328b371455d.js",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_feed-api-contracts_dist_index_js.ca4f7f40dbcd169e.js",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_feed-layout_dist_card-templates_content-card_ContentCardDataMapper_js.4c06c0ba9ea2c453.js",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_feed-layout_dist_card-templates_hide-story-card_templates_HideStoryAdFeedbackConfirmatio-f9a062.3a79d08357334968.js",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_feed-layout_dist_card-templates_responsive-ad-card_ResponsiveAdCardDataMapper_js-libs_fe-b23283.c3596f0d2860d332.js",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_feedback-data-connector_dist_index_js.1545887b677bce28.js",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_finance-service-library_dist_FinanceServices_js-libs_finance-service-library_dist_redux_-2aebd8.78ef351b2e954fb4.js",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_finance-service-library_dist_index_js.4beaa4e2fd2e6952.js",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_following-experience-manager_dist_index_js.05b878b5320556cb.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_fundamentals_dist_utilities_InViewportUtility_js-libs_video-card-plugin-factory_dist_Vid-286842.4764995d2cde1fe5.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_gamepad-utils_dist_index_js.1ab1710bc88f2bc0.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_icons-wc_icons_Edit_svg-libs_traffic_dist_index_js-node_modules_fluentui_svg-icons_icons-cbe83b.60eefe2175b85330.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_icons-wc_icons_MoreV2_svg-libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-li-f9ab58.39ca6f24f2a4ea85.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_icons-wc_icons_MoreV2_svg-libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-li-ff9c2e.3e0f166f5aace47e.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-201ed3.0a3589113a703818.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-57e0f5.6e85ae86c4ed5820.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-f1aa5f.5c6081b546da6a3d.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-f5696a.0bd6554d80f34acb.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_iris-data-connector_dist_index_js.e7cb3f6db66005fc.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_location-data-connector_dist_index_js.e825ce92a52c4de9.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_money-data-transformers_src_MoneyDataTransformers_utils_ts.109e94d42f6e3715.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_navigation-data-connector_dist_index_js.db3bf49774a33877.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_niche-interest-service_dist_index_js.6afeaae4eba40aee.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_oneservice-card-provider_dist_default_FollowingDefaultProng1FRE_json.6030e19f03e9c241.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_oneservice-card-provider_dist_default_FollowingGridViewProng2FRE_json.c210227ca63137c0.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_placement-manager_dist_index_js.7f25d78d13f35892.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_recommended-interest-service_dist_index_js.73d3bb3074b62e8d.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_rewards-data-connector_dist_index_js.27ceef81c1595ba3.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_shopping-service-clients_dist_shopping-carousel-service-client_ShoppingCarouselServiceCl-4e11ea.4fe3da30460abdc8.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_smartlist-shared-data_dist_index_js.346443571b4caa89.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_social-data-service_dist_service_SocialService_js.c261ec01dd917d3b.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_social-post-utils_dist_index_js.f1fea6cce729cbda.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_sports-data-service_dist_SportsDataMapper_js.f961c5c3bdda7e9b.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_sports-data-transformers_src_SportsMatchTransformer_ts-web-components_sports-info-match_-e8b077.15b61ce57a2bcde5.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_sports-service-connector_dist_segments_index_js.7ca29674a140c509.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_telemetry-data-connector_dist_index_js.6088909bf64041ee.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_topics-shared-state_dist_CustomChannelIds_js.98958e8ac315f47e.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_topics-shared-state_dist_TopicData_connector_js-libs_topics-shared-state_dist_TopicData_-530013.df3d553c1fdf8984.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_travel_dist_index_js.8f5ae32211f5a55e.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-card-plugin-factory_dist_VideoAdManager_js-web-components_content-video-player_dis-8d2c5a.52fa173a58881855.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_CorriereTVPlayer_js.0256802fbc96aab5.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_DailymotionPlayer_js.4138eaf6212c61ff.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_ExpressenPlayer_js.f1df15009d1b8ba1.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_GenericIframePlayer_js.0477336f6f2afa27.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_GlomexPlayer_js.507dd5a0e78d328e.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_HuyaPlayer_js.f38d6cae871c5d37.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_MediasetPlayer_js.bf9f711ab59ffbf3.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_MTVKatsomoPlayer_js.cfb81d34de5d685a.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_NBCSportsPlayer_js.b1f177bd803a39ab.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_OathPlayer_js.3b239365e2b7fca2.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_PlutoTvPlayer_js.81735c282e2f4470.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_RAIPlayer_js.3e7fa8185b581686.js",
+"type": "fetch"
+},
+{
+"t": 12.95,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_RenminPlayer_js.8323a20010a128fa.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_ShortTvPlayer_js.d5f94746fc023c3e.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_StadiumPlayer_js.e8bd654201b180d5.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_TimesOfIndiaPlayer_js.18cd670c3ff40437.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_YiDianPlayer_js.47d654695ad29b8f.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_players_YouTubePlayer_js.a648dfad39fc5b04.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_video-manager_dist_VideoCardManager_js.3dbb96108a14a61b.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_views-helpers_dist_data-models_video_PreviewEvents_js-node_modules_microsoft_fast-jss-ut-2cf869.bf1becbbe87ce127.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_views-helpers_dist_data-models_video_PreviewEvents_js-node_modules_microsoft_fast-jss-ut-8c0ac2.edbd5865e5dfd6c2.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_views-helpers_dist_views-coachmark-helper_ViewsFRECoachmarkPromises_js.1fdffe726d966914.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_watch-utils_dist_components_AsyncViewer_js.7937a47141e4b4f2.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-card-data-connector_dist_index_js.7c3fc6b848a6f572.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-common-utils_dist_data_FeedWeatherDataUtils_js-libs_weather-shared_dist_weatherO-325cd5.5bfa4c2f4f1d443e.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-data-connector_dist_index_js.bcb55d738361c30c.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-shared-wc_dist_index_js-_a0c80.f4c12397ded8f967.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-shared-wc_dist_index_js-_a0c81.aa8f8c48b2d52868.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-shared-wc_dist_utilities_entry_cardSelector_BackgroundMappingHelper_js-libs_weat-fa872a.c04804401e0e06c3.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_weather-shared-wc_dist_weather-card_weather-card_template_js-libs_weather-skycode-mappin-a84f79.f03ae703a1c37845.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_windows-widget-shared_dist_compliance_setupMockFeedRegistration_js.c714462d87721a5c.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/libs_windows-widget-shared_dist_WidgetHelper_js.98bfe479b1c82102.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/lottie-web.193630b1fa2023c9.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/market-language-toggle-wc.fce39392c708b964.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/MarketChangedCoachMark.203139c768ac908a.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/marketComplianceException.832baf9521de5e4b.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/MarketMismatchCoachMark.abed819161437601.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/marketplace-card-wc.e1012a1b44e41d14.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/MarketRoamingCoachMark.779ad6de12c68954.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/microsoft.06c091abfda8af93.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/moment-in-time-hero.36148318a4d48f46.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-augment-card.7072668f9aef0359.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-card-default.6235ab5008d48271.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-card-dynamic-tabs.c0b818fec4fa4776.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-earnings-quote-list.1b49d8dd63d6799c.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-ai-insights.7c6efb2317bcd148.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-edu-add-panel.ae2a8be58b81dc2d.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-edu-add-pill.d85bb817b3de2565.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-event-brief.0bb5f2bcc518ef0e.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-greetings-service.f1762cbbf0e86867.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-horizontal-quote-list.be25f1fad9d710ec.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-larger-pill.8e8baa5f38c3486e.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-market-movers.c030dc778b775f51.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-market-summary.db6aa27897ca8069.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-price-spotlight-v2.e2c3f4dab02aba46.js",
+"type": "fetch"
+},
+{
+"t": 12.96,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-price-spotlight.2dbdfa0c9ce1b2b6.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-radar-graph.a030992a288956ac.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-service.8fde28d65823c809.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-spotlight-currency-v2.dcacd59c128f51ca.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-spotlight-currency.5768f15a200f2bc3.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-spotlight-earnings.f9982c98b6cbe627.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-spotlight-news-content-card.70b1d694aaf8b0ec.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-spotlight-news-group-card.1d8378cb222e1c63.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-spotlight-pre-earnings.58a0f5902f006b4e.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info-watchlist-ideas.3c57dd7534b9b46c.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-info.add39d482db9c71e.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-quote-vertical-quote-list.f447186f0c85b99e.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-quote-vertical-watchlist-v2.96782e8491725858.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-quote-vertical-watchlist.5c585faafc1a2700.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/money-watchlist-summary.f3844757c328eb36.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/ms-rewards-wc.81d341d487ff0c4a.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/msn-consent-sharing.70079bc13b82d241.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/msn-feed.b8191c6eef8799fd.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/msnews/publishers-service-client.9a73837b3fcb7a53.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/na-call-to-action.72183083a69b163e.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/na-decoration-combo.6be3556201b25918.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/na-like-button.babfa57bc97e6bf9.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/na-trending.b69aa8e899c88b2f.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/nas-highlight-v1.6709786d5cd6b4a1.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/nas-highlight-v3v4.2e4b0bc2054de350.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/nativeadsdecorations.3bd4af2c0ff32a5e.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/nativeadstemplates.0ae79f671746ceec.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/navigation-page-experience.0726eb76ca932b29.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/node_modules_cs-core_sd-card_dist_esm_sd-card_styles_js.3d05080ed17f8304.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/node_modules_d3-transition_src_index_js-_30230.1096bb1758d7a83c.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/node_modules_d3-transition_src_index_js-_30231.64b17e9503f229ce.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/node_modules_intersection-observer_intersection-observer_js.c92a00c7c618b058.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/node_modules_sortablejs_modular_sortable_esm_js.d6ad0b523812c059.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/node_modules_video_js_dist_video_es_js.e2e0baed8f419778.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/node_modules_xmlbuilder2_lib_xmlbuilder2_min_js.df37596d48d54af1.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/notification-bell-wc.3fe2b8b9b0112f6c.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/notification-mini-card.e5c86f3b406bbc92.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/nurturing-banner.42d6fc4fd3397d40.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/nurturing-coach-mark.e319e4ea72f927c2.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/nurturing-placement-manager.4164c8313bd21c6f.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/on-this-day-card-wc.8e92da2f70323812.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/partial-call-debug.4497b526be7c6a88.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/personalize-nav-button.35ba0cfa2e147b42.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/picks-card-brief-mock.b86e704f7e602eac.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/pill-wc.6001f414858ac4de.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/polls-card-wc.5df72c1f1d832f33.js",
+"type": "fetch"
+},
+{
+"t": 12.97,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/polls-service.f11f6c18c315c3cf.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/poweredby-legend-wc.08e3e8ad143c8895.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/premium-profile-promo-card.224f01a56fcd0508.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/prism-carousel-card.c9912d0582e9f46f.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/prism-sd-card.d32e359ecd74a5f3.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/publisher-subscribe-follow-button.9bf51ebd9c6a6662.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/qna-card.0560ac11c30932d1.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/quiz-card.ed656658bd8dab36.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/real-estate-card.a1b097af9fa00a37.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/recipes-sd-card.2c0bf4768ad274fa.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/rewards-card-wc.12ae2943fe14bb9d.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/rich-calendar-card.d5ddcc8cab43e480.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/rich-calendar-component-spotlight.38be2f586f9b6d74.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/rich-calendar-component.91d4bc5d8896c600.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/ruby-comment-preview.248aefd8c6f1c817.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/rubyFeed.61e4f1e0585df10a.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/RubyFeedbackCoachMark.6ad12fe379e65efe.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/RubySwitchErrorCoachmark.6c7d3515b66ba873.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sbi-dialog.53774b88d1b71fa0.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/service/msn/user",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/scrollPerfMetricTrackers.67344893e25ab7de.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sd-card-mask-wc.e143178abee1c20d.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/select-carousel.e4d2057d08d2499c.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shared-hero-news-card.2b2771ef37a09653.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shared-links.a8f5c3cdee3fa09a.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sharepoint-news-card.0b84c334e6667408.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shopping-augment-card.a3e8712f447d8b16.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shopping-banner-sd-card.1c2113d9e9c98d85.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shopping-buying-guides-card.82c0131abf367e06.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shopping-card-wce.78922f290bd89fa9.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shopping-events-deal-card.5f15af2c5d15a8b2.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shopping-grouped-carousel.3476b7daf9eb6dd1.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shopping-river-card.cca91388ce2474f5.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/shopping-sd-card.f3f684f93e4cd787.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sign-in-coachmark.92997cad0e293887.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sign-in-flyout-wc.43c367e808599ab2.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/signal-overlay.8dd8115f140e4118.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/social-avatar.4f2204ebd28a3cda.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/social-bar-wc.99c25cd886f74aac.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/social-data-service.5515b1038b390dfe.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/social-report-button.ceda041eda8baf4f.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/social-report-menu.5203f7bdd4c54df9.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/social-utils.8b9c6a79f0a278c8.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-augment-card.2810b20330bd6f96.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-countdown.b393eb8758f41f8a.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-cricket-v2.44c4d3feb8e8615c.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-cricket.ba98cf3db30a3fe7.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-data-service.1f9187f0f84dffea.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-event-country.c902929ff39112b1.js",
+"type": "fetch"
+},
+{
+"t": 12.98,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-event-results.0b8e23fbf4e0985d.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-event-schedule.d734ddacd8967b5e.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-fre.5d63d5f7f4a2425c.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-edu-add-panel.8f73171fed3b9e26.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-edu-add-pill.9615f53478e0ba89.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-event-brief.820d9cbba15fb4ce.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-hide-popup.ceb910c2a89359fe.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-large-ruby-pill.e62da3ff2db369e9.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-match-confetti.17edef5f2472cf24.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-medal-v2.beef1e168726aba5.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-medal.37a748e659e9d629.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-ruby-pill.a90e55b94458789a.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-span.0460a5b170f27a08.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-spotlight-2c.e9c51b5411c307e4.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-spotlight-cricket-v2.94f335ce6f163a58.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-spotlight-cricket.080c3a02f0c41f91.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-spotlight-golf.fe7e8232a5af0cd6.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-spotlight-race.fb6a3af0951bc2be.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-spotlight-tennis.7fb5ff67116868c3.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-standings-rankings.2b83e225556a7fdc.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info-utils.5bd39da134a55ee5.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-info.cf5234ff81f6269f.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-leaderboard.ace56b37f2e83bbd.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-marchmadness.53a5528a7b19003a.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-match-list.26687adae4d6b811.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-recent-medal.86127f0c947ceec9.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-spotlight.fbd2e3c87d405c70.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-tennis.b7f55d0a264257fb.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-tournament-status-row.2e4ff53430498153.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/sports-tournaments-list.a4da559c2b66a873.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/spotlight-card-wc.96cd670bf05ac9c0.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/SSR-extension.8206fbc79939688d.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/stack-card.6a43ddcdc6c37cd3.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/streaks-badge-wc.2cd1fc1ecc28c2e4.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/stripe-wc.b642a29448b2fa63.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/super-nav-icons.dfa58d549489c4ac.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/super-nav.a1a8085440c006fe.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/superBreakingNews.7d6ba2b1a01ce4f9.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/tcfConsentBanner.47dc3b400fd8606c.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/telemetry-validation.ac402722798c2f63.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/toast-wc.336ab38f46373d9b.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/top-comments-card.eb4ca9369046138c.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/topic-data-connector.df77536d1972ddc3.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/traffic-card-wc.2ee1207c0902ca44.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/traffic-hero.49e87f878467eee6.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/travel-carousel.7e8f6b31ac0440f7.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/travel-destination.cd717578ed312801.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/travel-flight-carousel.8c28bb0b34ba063a.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/travel-hotel-carousel.c11e73bef1e8bf12.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/travel-sd-destinations-card.f6ec9d2ab18fb1e7.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/travel-sd-flights-card.8ca750e28bf01e8e.js",
+"type": "fetch"
+},
+{
+"t": 12.99,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/travel-sd-hotels-card.c97f423e4982346f.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/travel-sd-themes-card.476b5244ee383d91.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/trending-search-card.3242a1b247be082b.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/vendors.d7d4b0f9df793c36.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/vertical-nav-icons-legacy.1a226ae10c2a5b6f.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/views-native-mon.9faf422928b2eb5d.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/viewsPromoCard.402eb5a6154824a5.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/VpReadyHelper.d3b959f24da8fd1c.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/waffle-wc.e7dce98d82a0f14b.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/waterfall-view-feed.571b1543aa1f7794.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/waterfallCardTypeToCardInterfaceMapForUmf.dcc6e52c5209046a.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-card-backup-mapper.517e4597c64e0944.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-card-wc-deferred.4898f40c92e2462d.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-card-wc-init-account-type.95d16d6ebe926469.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-card-wc-ntp.880d8e35f8c56afa.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-card-wc-ssr-preload.a9899f308c9157db.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-card-wc.08a7ba97d87a0e16.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-data-lazy-services.0c1c01a56fb8299d.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-hero-experience.f5692c3676091ed0.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-lazy-utils.f9fe72a24811af33.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-legacy-card-deferred.23068fdf9a17ff20.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-legacy-card.8acdb59b393109f9.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-minimap-wc.5292f56d82537b25.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-one-liner.981b6b20f7eb3217.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-shared-wc-deferred-content.332d3fbd5a587b7d.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-shared-wc-deferred-dailysummary-chart.74449348ee322d63.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-shared-wc-deferred-dev.b6ca6d657571cb3f.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-shared-wc-deferred-svgchart-content.89b39deca1aa6ff0.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-shared-wc-deferred-tide-chart.0a98102d625854cf.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-shared-wc-deferred-trend-chart.a91d6ba9d70e2c24.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-svg-chart.4875f1f9843cc0bc.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-top-section-card.34fe32e06a5332a8.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-topsection-card-deferred.a5bcc6962fd81100.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/weather-video-entry-wc.bb39835fee8710b9.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_common-settings-dialog_dist_index_js.3a5338e85fc21197.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_content-video-player_dist_index_js.035e468c442a16d2.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_content-video-player_dist_sub-components_AboveControlBarHost_js.2cdd6af56c34427c.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_content-video-player_dist_sub-components_VideoAdLabel_js.a638fe223647aab3.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_content-video-player_dist_sub-components_VideoJsCCToggleButton_js.be765a71e7690a27.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_content-video-player_dist_Utils_AdControlBarStyles_js.f71b5c7f1f586894.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_copilot-daily-card_dist_utils_ImageRotator_js.9e7f010af0091151.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_fast-msft-web-components_dist_index_js.2b74d011d82f4850.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_info-pane_dist_info-pane-panel_index_js-web-components_info-pane_dist_info-pan-2dcb29.fc88a75eb1c8a089.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_info-pane_dist_info-pane-panel_index_js-web-components_info-pane_dist_info-pan-aa6c9f.19403a402573bcbd.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_money-info-content-component_dist_MoneyInfoContentComponent_js-web-components_-29e290.c750c7b1b01dd5be.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_native-ad-report-ad_dist_index_js.1086f51d2742464a.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_native-ad-video_dist_index_js.8125b97806d21b25.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_render-mode-indicator_dist_index_js.b6e1bd49e24ebfcb.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_ruby-pivot-manager_dist_index_js.2f0cc735455e3b0b.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_share-view_dist_index_js.28eaaab9a7ba5bad.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_shopping-super-carousel_dist_ShoppingProductCard_ShoppingProductCard_js-web-co-f4f3aa.40cabda09f1dc0ed.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_stock-chart_dist_index_js.60177f22aba5fa98.js",
+"type": "fetch"
+},
+{
+"t": 13.0,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-cards_dist_cards_super-infopane_CardActionTemplates_js.d8b579afa2dad0b6.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-cards_dist_cards_super-native-ad-card_native-ad-card-intra-article_register_js.222e3428f2f64e8f.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-cards_dist_cards_super-native-ad-card_native-ad-card-intra-article-left--f3bc9f.0674599b2f8c15c0.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-container_dist_register_CsFeedInfopane24Module_js.2415874eb2eac25d.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-container_dist_register_CsFeedInfopane28Module_js.e643d93561da7880.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-container_dist_register_CsFeedInfopane28Slim1Module_js.25a15390d0df8df5.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-container_dist_register_CsFeedInfopaneModule_js.c29c8be17757c41b.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-container_dist_register_CsFeedNoHoverChannelModule_js.82dc1725d19981a3.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_super-container_dist_register_CsFeedNoHoverModule_js.66f1889bf714d1cd.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_traffic-card_dist_index_js.1dd36cc182fce917.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_traffic-card-settings_dist_index_js-_eec20.af8ff41dd23d836c.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_traffic-card-settings_dist_index_js-_eec21.85492b1df8db4007.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_traffic-location-settings_dist_index_js.9a5b6dff2044f6ef.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-components_views-news-letter_dist_index_js.5b60554b43fa2d6e.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/web-worker.23626e01067123bf.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/welcome-greeting-wc.77bf4bde3e437a43.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/welcomeGreetingLight.ef47830002538a4e.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/homePage/latest/widgets-region.5fa651bd62a1fb10.js",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/fluent-icons/dismiss_20_regular.svg",
+"type": "image"
+},
+{
+"t": 13.01,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/fluent-icons/more_horizontal_20_regular.svg",
+"type": "image"
+}
+]

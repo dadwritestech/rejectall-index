@@ -1,0 +1,80 @@
+[
+{
+"t": 0.0,
+"host": "nih.gov",
+"url": "https://nih.gov/",
+"type": "document"
+},
+{
+"t": 0.52,
+"host": "www.nih.gov",
+"url": "https://www.nih.gov/",
+"type": "document"
+},
+{
+"t": 0.97,
+"host": "nih.gov",
+"url": "https://nih.gov/",
+"type": "document"
+},
+{
+"t": 0.97,
+"host": "www.nih.gov",
+"url": "https://www.nih.gov/",
+"type": "document"
+},
+{
+"t": 1.12,
+"host": "www.nih.gov",
+"url": "https://www.nih.gov/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+"type": "script"
+},
+{
+"t": 1.46,
+"host": "challenges.cloudflare.com",
+"url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js",
+"type": "script"
+},
+{
+"t": 1.49,
+"host": "www.nih.gov",
+"url": "https://www.nih.gov/cdn-cgi/challenge-platform/h/g/fo/3793872531:1793351358:cQEvw8vX1rFIMto1L7s4OmFkCqkZqc5296_U0ZqoSqc/a52976ea487c7279/hcV5wTv51SfJ7qk0DQTrTxykftOORuNyeawgQjU9SvA-1793353289-1.2.1.1-tF1n1Djn.LgAYDzYKtJFdML3HOVdV8A26x_r9qnpM9xF9EeYOHHftH28BQJy2miX",
+"type": "xhr"
+},
+{
+"t": 7.58,
+"host": "challenges.cloudflare.com",
+"url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/we6md/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+"type": "document"
+},
+{
+"t": 9.58,
+"host": "challenges.cloudflare.com",
+"url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/675142412:1793351361:hZ3I2zrEbW813zCAzfoYT7-rKpUAzjihK86DVC-1kSA/a52976ee3b141dbb/Cj8AFo8M3OPPgC99LBR94qNLFlQFKuDAabuEzFOHdNmwugPEi7MyOSTfebNlOZBx_scRbD1eQppYnrcknezBHxEO880iFMV7fzMYKxYIHuHRj-hYNZInWFhllhO3xNdTDA",
+"type": "xhr"
+},
+{
+"t": 9.62,
+"host": "hagen.challenges.cloudflare.com",
+"url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a52976ee3b141dbb/Cj8AFo8M3OPPgC99LBR94qNLFlQFKuDAabuEzFOHdNmwugPEi7MyOSTfebNlOZBx_scRbD1eQppYnrcknezBHxEO880iFMV7fzMYKxYIHuHRj-hYNZInWFhllhO3xNdTDA",
+"type": "fetch"
+},
+{
+"t": 9.63,
+"host": "challenges.cloudflare.com",
+"url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a52976ee3b141dbb/1793353295974/d6d0309c177137b5cf3f080c64af4bc71e5fa1e030c66a43b0fb425554ffdace/CjAXWWZpAKZ1-mrK3a0FbS1SMt1GqiMxFrS5JkdmmHWf4hQggUeuoddm8Azg2SqNBI8ptw0FjtLyOQdSn0Ig2MrUzsMpM11KheWqk-NJhmHTBIicvI-WJv6IVohBmFrA7dg36_2",
+"type": "fetch"
+},
+{
+"t": 11.77,
+"host": "challenges.cloudflare.com",
+"url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a52976ee3b141dbb/1793353295977/CqB5zvcj0Tgyq6gcChYdANmvio6XfGu0SdOFP6wRXHhrLF4qgjPYfbgmp-5hFm7no2bq5RpaFGUw1cJ4NKvgfzDPjiZUg0IjNIZdS1MfkgAVwI4lUTokGV44Q5jMDrif0t_HrO-HdHo_QVCISD0STXt_piaJ68L0L8QNB70x_pL_pDPRtAmxQK69BK04GeoEyyA1DFqwD",
+"type": "image"
+},
+{
+"t": 11.77,
+"host": "challenges.cloudflare.com",
+"url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/675142412:1793351361:hZ3I2zrEbW813zCAzfoYT7-rKpUAzjihK86DVC-1kSA/a52976ee3b141dbb/Cj8AFo8M3OPPgC99LBR94qNLFlQFKuDAabuEzFOHdNmwugPEi7MyOSTfebNlOZBx_scRbD1eQppYnrcknezBHxEO880iFMV7fzMYKxYIHuHRj-hYNZInWFhllhO3xNdTDA",
+"type": "xhr"
+}
+]

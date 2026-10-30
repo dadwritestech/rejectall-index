@@ -1,0 +1,1016 @@
+[
+{
+"t": 0.0,
+"host": "t-online.de",
+"url": "https://t-online.de/",
+"type": "document"
+},
+{
+"t": 0.11,
+"host": "www.t-online.de",
+"url": "https://www.t-online.de/",
+"type": "document"
+},
+{
+"t": 0.18,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/unified/wrapperMessagingWithoutDetection.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2022/09/QNvnp9NzyEao/0x0:1920x1080/fit-in/150x0/filters:blur(25)/image.png",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2022/09/QNvnp9NzyEao/0x0:1920x1080/fit-in/646x0/image.png",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "www.t-online.de",
+"url": "https://www.t-online.de/metatag/live/scg_t-o-home/metaTag.min.js",
+"type": "script"
+},
+{
+"t": 0.19,
+"host": "pur.t-online.de",
+"url": "https://pur.t-online.de/now.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/3815.e6182a7b109ea324.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/8471-b09479ca75c73e2a.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/4656-8b6f979d5e864526.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/7661-216ded3927c270cb.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/4126-57c519d11bb862f0.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/1551.708b91bd30764bc8.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/4212.cbe4cd7d642f6e13.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/321.c56154b3f0e559ab.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/6085.89c425d18fe4f3d7.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/7417.8e91c3f359e859b2.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/2860.82b32742959624c1.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/29804798.1f320edbffc633bb.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/5037.e90766157c17924a.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/9976.10ab44cd2face16e.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/4580.a36272be6cf00ae4.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/5532.f7ad57a2cb62c704.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/webpack-69948d51406df0a1.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/framework-7784ef2580539a14.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/main-f74be0da3dc37362.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/pages/_app-6d6f97953962536c.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/7394-1ffa7a8d3c5f2118.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/44-9df89d3bacfa3382.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/6621-2866be66d712e197.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/2977-434a1272b4f9f4e5.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/727-27d056ad6c47a250.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/4230-20146561ec09ba90.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/8459-171a3c9df9e96513.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/pages/section-b8de62ac16b15b54.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/9GxXaK2enDbeR3gLzo5RX/_buildManifest.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/9GxXaK2enDbeR3gLzo5RX/_ssgManifest.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/image.e47c3ca7.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "sdc-next-statics-prod.dcp.stroeerws.de",
+"url": "https://sdc-next-statics-prod.dcp.stroeerws.de/embeds/t-sdc-football-competition-overview.0a496c7837e0ac0052ed.css",
+"type": "stylesheet"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/SWvYIU-hsmcu/304x391:3728x2485/fit-in/168x0/october-25-2026-washington-district-of-columbia-united-states-president-donald-trump-speaks-to-the-press-before-departing-the-white-house-en-route-to-port-huron-michigan-where-he-is-scheduled-to-hold-a-political-rally-was",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/09/HNghYoHZYT9-/16x0:2016x1344/fit-in/168x0/ein-binnenschiff-faehrt-auf-dem-rhein-bei-kaub-an-der-burg-pfalzgrafenstein-luftaufnahme-mit-einer-drohne-der-pegel-kaub-gilt-fuer-die-schifffahrt-als-neuralgischer-punkt-bei-der-frage-nach-einer-durchgehenden-passierbarkeit",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2021/09/68260288v4/72x0:775x517/fit-in/168x0/auch-bei-der-luftwaffe-bestand-aufgrund-des-zum-teil-erheblich-in-die-jahre-gekommenen-materials-enormer-modernisierungsbedarf-kampfbomber-von-typ-sukhoi-su-34.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/07/LpbCqgIjsxRr/419x293:2893x1929/fit-in/168x0/joachim-gauck-bei-der-verleihung-des-internationalen-brueckepreises-der-europastadt-goerlitz-er-zeigt-verstaendnis-fuer-die-sorge-vor-identitaetsverlust-archivbild.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/81x13sJNFTgx/800x518:3868x2578/fit-in/168x0/franca-lehfeldt-sie-ist-journalistin-unternehmerin-und-mutter.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/flff5zBHlJNd/4x0:3810x2540/fit-in/168x0/jan-lennard-struff-er-praesentiert-sich-aktuell-in-starker-form.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/Dq7WMdqMQTQ2/977x627:1009x673/fit-in/168x0/aurora-ramazzotti-die-tochter-von-eros-ramazzotti-und-michelle-hunziker-ist-seit-juli-mit-goffredo-cerza-verheiratet.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/TB1PUzhbsOgD/0x0:2048x1365/fit-in/168x0/rettungswagen-stehen-an-einer-strasse-die-zahl-der-verletzten-ist-noch-unklar.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/04/GA85I6iEDM6Y/0x0:4000x2667/fit-in/168x0/der-iran-krieg-treibt-die-spritpreise-nach-oben-verbraucher-koennen-aber-etwas-tun-um-mehr-netto-aus-ihrem-bruttogehalt-herauszuholen.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/5tPyIZflkgII/0x0:2048x1365/fit-in/168x0/die-proteste-in-frankreich-sind-eine-inspiration-fuer-gen-z-regelt-die-gruppierung-distanziert-sich-aber-von-gewalt-archivbild.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2021/09/65937136v2/50x0:540x360/fit-in/168x0/stumpfe-messer-sind-nervig-und-gefaehrlich-ein-einfacher-trick-hilft-als-sofortmassnahme.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/LnyAaZBNp7-k/146x0:1620x1080/fit-in/168x0/die-geschenkbox-enthaelt-37-pralinen-in-sieben-geschmacksrichtungen-ki-hintergrund.png",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "sdc-next-statics-prod.dcp.stroeerws.de",
+"url": "https://sdc-next-statics-prod.dcp.stroeerws.de/embeds/runtime.704aeae34684c60b48c7.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "sdc-next-statics-prod.dcp.stroeerws.de",
+"url": "https://sdc-next-statics-prod.dcp.stroeerws.de/embeds/t-sdc-football-competition-overview.f0cb7740e70a1a9461e8.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "sdc-next-statics-prod.dcp.stroeerws.de",
+"url": "https://sdc-next-statics-prod.dcp.stroeerws.de/embeds/t-sdc-results-companion.511e278271a14d044354.css",
+"type": "stylesheet"
+},
+{
+"t": 0.2,
+"host": "widgets.engagement-prod.stroeerws.de",
+"url": "https://widgets.engagement-prod.stroeerws.de/static/directlinks/games1/Bubble_Shooter_Pro_T-Online_Asset_Quadrat.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "widgets.engagement-prod.stroeerws.de",
+"url": "https://widgets.engagement-prod.stroeerws.de/static/directlinks/games1/DAILY_SUDOKU_ICON.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "widgets.engagement-prod.stroeerws.de",
+"url": "https://widgets.engagement-prod.stroeerws.de/static/directlinks/games1/Garden_Tales_2_IM.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "widgets.engagement-prod.stroeerws.de",
+"url": "https://widgets.engagement-prod.stroeerws.de/static/directlinks/games1/L777.jpeg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "widgets.engagement-prod.stroeerws.de",
+"url": "https://widgets.engagement-prod.stroeerws.de/static/directlinks/games1/Kreuzwortraetsel_2026_IM.png",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "widgets.engagement-prod.stroeerws.de",
+"url": "https://widgets.engagement-prod.stroeerws.de/static/directlinks/games1/jackpot.jpeg",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/VYsveYVPWUmH/0x273:5250x2953/fit-in/150x0/filters:blur(25)/unhealthy-woman-battling-runny-nose-sneezing-wrapped-in-warm-blanket-on-sofa-sick-female-sitting-on-couch-sneezing-into-tissue-blowing-nose-cold-symptoms-congestion-discomfort-seasonal-illness-unhealthy-wom",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/IpCYiLFeYfyV/0x107:2048x1152/fit-in/150x0/filters:blur(25)/bundeskanzler-friedrich-merz-cdu-besucht-am-rande-seiner-reise-nach-japan-das-unternehmen-kyoto-fusioneering-der-kanzler-besucht-auf-seiner-asien-reise-nach-singapur-und-japan-auch-noch-suedkorea-zu-dpa-mer",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/f15YG2QHYGpP/791x49:1257x707/fit-in/150x0/filters:blur(25)/us-praesident-donald-trump-befindet-sich-gerade-im-wahlkampf-endspurt-vor-den-midterms-archivbild.jpg",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/r41RTRi0gw36/73x8:1769x995/fit-in/150x0/filters:blur(25)/lennart-karl-mit-seiner-partnerin-zoe-kaeppele.jpg",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/9eTMRLUbho46/0x107:2048x1152/fit-in/150x0/filters:blur(25)/linke-fraktionsvorsitzende-elif-eralp-hat-betont-konsequent-gegen-gewalt-und-kriminalitaet-vorgehen-zu-wollen.jpg",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/07/UHAEZzLnFsK3/0x99:2048x1152/fit-in/150x0/filters:blur(25)/eines-der-ehrgeizigsten-projekte-bei-helsing-ist-die-entwicklung-des-unbemannten-kampfflugzeugs-ca-1-europa-archivbild.jpg",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/07/TQXxAGBFGkRl/0x194:5795x3260/fit-in/150x0/filters:blur(25)/image.jpg",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/Roboto-Regular.1e2d4d3a.woff2",
+"type": "font"
+},
+{
+"t": 0.24,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/Roboto-Bold.12893bfc.woff2",
+"type": "font"
+},
+{
+"t": 0.24,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/RobotoSerif-SemiBoldItalic.09b7080b.woff2",
+"type": "font"
+},
+{
+"t": 0.24,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/RobotoSerif-SemiBold.2d3419ee.woff2",
+"type": "font"
+},
+{
+"t": 0.26,
+"host": "www.t-online.de",
+"url": "https://www.t-online.de/metatag/live/scg_t-o-home/core.2.66.0.679575408544817fb97b.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/cloudy.30c8fdc0.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/dax-chart.fe0cdf3d.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/t-online-desktop.327ab976.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/search-glass.49476f85.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/home-bold.3f89bc70.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/menu.9f2a3cbc.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/VYsveYVPWUmH/0x273:5250x2953/fit-in/646x0/unhealthy-woman-battling-runny-nose-sneezing-wrapped-in-warm-blanket-on-sofa-sick-female-sitting-on-couch-sneezing-into-tissue-blowing-nose-cold-symptoms-congestion-discomfort-seasonal-illness-unhealthy-woman-battling-runny",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/IpCYiLFeYfyV/0x107:2048x1152/fit-in/646x0/bundeskanzler-friedrich-merz-cdu-besucht-am-rande-seiner-reise-nach-japan-das-unternehmen-kyoto-fusioneering-der-kanzler-besucht-auf-seiner-asien-reise-nach-singapur-und-japan-auch-noch-suedkorea-zu-dpa-merz-nordkorea-bedro",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/authors/2023/11/3BYnznKLPnsh/465x0:1399x1399/fit-in/80x0/johannes-bebermeier.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/arrow-button-left-desktop.903d94d0.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/arrow-button-right-desktop.040a9bf7.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/contenttype-text.07135829.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/contenttype-video.9fe7822d.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/contenttype-giga.8e4d32f3.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/arrow-right.e0621f5f.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/magazin-wordmark.a1505f59.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/7-pWP2L6PMVc/3x0:1915x1077/fit-in/292x0/image.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/aKgghIGMr09w/1419x0:5773x5773/fit-in/72x0/hinterhofidylle-hier-lebt-jeder-sein-eigenes-leben-und-doch-schreibt-die-nachbarschaft-die-schoensten-gemeinsamen-geschichten.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/04/YcGBKdXGI-rc/20x0:284x160/fit-in/1366x0/image.png",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/04/PDwcqekEMIfO/175x0:450x450/fit-in/80x0/kreuzwortraetsel-xs.png",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/04/7YVCSoXGrqGg/175x0:450x450/fit-in/80x0/sudogenie.png",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/authors/2025/07/Qdsx3jeAgTEH/500x0:3000x3000/fit-in/48x0/image.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/location-pin-light.5dfb7ecd.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/setup-black-magenta.c927e714.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2023/04/P1srvSIdRNRO/134x69:1855x1236/fit-in/168x0/ein-mann-in-handschellen-symbolbild-der-freund-des-opfers-wurde-am-donnerstagabend-20-april-2023-von-der-polizei-festgenommen.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/arrow-right-black-magenta.cac8ff48.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/authors/2024/02/3bbtPXrTy2Ll/284x0:1700x1700/fit-in/48x0/image.jpg",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "sdc-next-statics-prod.dcp.stroeerws.de",
+"url": "https://sdc-next-statics-prod.dcp.stroeerws.de/embeds/t-sdc-results-companion.d7359292242870bf24ff.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/t-fin-stream-landingpage.173cc848233d955969fb.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/runtime.f8f47d6daec3d16697b1.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/t-fin-stream-landingpage.a54903875f96a7094cd3.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "portal.finanzdaten.t-online.de",
+"url": "https://portal.finanzdaten.t-online.de/finanzen/boerse/api/patrack.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "widgets.engagement-prod.stroeerws.de",
+"url": "https://widgets.engagement-prod.stroeerws.de/static/embeds/enga-directlinks-games.e62da273ca9275f8673d.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "widgets.engagement-prod.stroeerws.de",
+"url": "https://widgets.engagement-prod.stroeerws.de/static/embeds/runtime.e238a62deac2edef6356.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "widgets.engagement-prod.stroeerws.de",
+"url": "https://widgets.engagement-prod.stroeerws.de/static/embeds/enga-directlinks-games.bfc8e35d2a4f6b723699.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/e21acfzIDU/150x165:131x131/fit-in/200x70/backup-eine-verbot-godfather-tackle-GhKnD.png",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/unified/4.41.0/gdpr-tcf.e7290277d588e0de9bb9.bundle.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/wrapper/v2/meta-data",
+"type": "xhr"
+},
+{
+"t": 0.38,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/wrapper/v2/messages",
+"type": "xhr"
+},
+{
+"t": 0.42,
+"host": "portal.finanzdaten.t-online.de",
+"url": "https://portal.finanzdaten.t-online.de/api/finance/instrumentPerformance/DE0008469008/",
+"type": "fetch"
+},
+{
+"t": 0.42,
+"host": "www.t-online.de",
+"url": "https://www.t-online.de/gtm.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/7415.5c0b1579933c8267.js",
+"type": "script"
+},
+{
+"t": 0.46,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/chunks/5039.e953e770cf9b7707.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/regio-select-white.ad058059.svg",
+"type": "image"
+},
+{
+"t": 0.49,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/curved-arrow-magenta.8b3c5592.svg",
+"type": "image"
+},
+{
+"t": 0.49,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/close-icon-round.7a0c9568.svg",
+"type": "image"
+},
+{
+"t": 0.49,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/chevron-right.c8aa85d7.svg",
+"type": "image"
+},
+{
+"t": 0.49,
+"host": "pur.t-online.de",
+"url": "https://pur.t-online.de/properties/fade8c10/config.json",
+"type": "fetch"
+},
+{
+"t": 0.54,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/index.html",
+"type": "document"
+},
+{
+"t": 0.57,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.57,
+"host": "data.rt.t-online.de",
+"url": "https://data.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.57,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/Notice.9cce2.css",
+"type": "stylesheet"
+},
+{
+"t": 0.57,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/polyfills.01516.js",
+"type": "script"
+},
+{
+"t": 0.57,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/Notice.fcfb9.js",
+"type": "script"
+},
+{
+"t": 0.58,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.59,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.59,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.59,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.59,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.59,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.59,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.59,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 0.61,
+"host": "pur.t-online.de",
+"url": "https://pur.t-online.de/chunks/cp-chunk-cmp-sourcepoint.20261026104603-5a64cce020.js",
+"type": "script"
+},
+{
+"t": 0.64,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/consent/tcfv2/vendor-list/categories",
+"type": "fetch"
+},
+{
+"t": 0.68,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/consent/tcfv2/vendor-list/categories",
+"type": "fetch"
+},
+{
+"t": 0.68,
+"host": "data.rt.t-online.de",
+"url": "https://data.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 6.8,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/e3cae0s8om/150x165:131x131/fit-in/200x70/lane-paper-13DdJc.png",
+"type": "image"
+},
+{
+"t": 6.8,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/859fcdEvI6/150x165:131x131/partner-taboola-api-media-video/fit-in/200x70/jaw-vampir-inseln-ofen-rally-13DdJc.png",
+"type": "image"
+},
+{
+"t": 6.8,
+"host": "www.t-online.de",
+"url": "https://www.t-online.de/api/search/zero-input",
+"type": "fetch"
+},
+{
+"t": 6.8,
+"host": "s.tstat.net",
+"url": "https://s.tstat.net/s/paper/_next/static/media/trend-up.31f85b59.svg",
+"type": "image"
+},
+{
+"t": 6.86,
+"host": "sdc-next-statics-prod.dcp.stroeerws.de",
+"url": "https://sdc-next-statics-prod.dcp.stroeerws.de/embeds/d5dd2cad0226fcad2a30.svg",
+"type": "image"
+},
+{
+"t": 6.86,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/7a1c162bd5cd965cecf0.svg",
+"type": "image"
+},
+{
+"t": 6.86,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/071b367de44efb23d7eb.svg",
+"type": "image"
+},
+{
+"t": 6.86,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/bcee0ae00fabb4601614.svg",
+"type": "image"
+},
+{
+"t": 6.86,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/2dda068ce03cbf9e7e17.svg",
+"type": "image"
+},
+{
+"t": 6.86,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/fa3312ea3e64a5283350.svg",
+"type": "image"
+},
+{
+"t": 6.86,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/f7a1cf94d4ed9ef69f99.svg",
+"type": "image"
+},
+{
+"t": 6.86,
+"host": "fin-statics-prod.dcp.stroeerws.de",
+"url": "https://fin-statics-prod.dcp.stroeerws.de/embeds/ea25497369f4427662cf.svg",
+"type": "image"
+},
+{
+"t": 8.91,
+"host": "events.rt.t-online.de",
+"url": "https://events.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 8.91,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/f15YG2QHYGpP/791x49:1257x707/fit-in/646x0/us-praesident-donald-trump-befindet-sich-gerade-im-wahlkampf-endspurt-vor-den-midterms-archivbild.jpg",
+"type": "image"
+},
+{
+"t": 10.04,
+"host": "data.rt.t-online.de",
+"url": "https://data.rt.t-online.de/nopii",
+"type": "image"
+},
+{
+"t": 10.04,
+"host": "frontend-next-api.sportdaten.t-online.de",
+"url": "https://frontend-next-api.sportdaten.t-online.de/api/sportevents/todayLive/",
+"type": "fetch"
+},
+{
+"t": 10.04,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/privacy-manager/index.html",
+"type": "document"
+},
+{
+"t": 10.04,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/PrivacyManager.ba23a.css",
+"type": "stylesheet"
+},
+{
+"t": 10.04,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/polyfills.01516.js",
+"type": "script"
+},
+{
+"t": 10.04,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/PrivacyManager.199c0.js",
+"type": "script"
+},
+{
+"t": 10.04,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/mms/v2/message",
+"type": "fetch"
+},
+{
+"t": 10.04,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/consent/tcfv2/privacy-manager/privacy-manager-view",
+"type": "fetch"
+},
+{
+"t": 10.04,
+"host": "consent.t-online.de",
+"url": "https://consent.t-online.de/consent/tcfv2/consent/v3/1951",
+"type": "fetch"
+},
+{
+"t": 14.84,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/2026/10/r41RTRi0gw36/73x8:1769x995/fit-in/646x0/lennart-karl-mit-seiner-partnerin-zoe-kaeppele.jpg",
+"type": "image"
+},
+{
+"t": 14.89,
+"host": "images.t-online.de",
+"url": "https://images.t-online.de/authors/2022/08/EM1DACjCoKNv/284x0:1701x1701/fit-in/80x0/image.jpg",
+"type": "image"
+}
+]

@@ -1,0 +1,360 @@
+{
+  "domain": "opera.com",
+  "url": "https://opera.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.opera.com/de",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "untick_and_save_layer1",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": true,
+  "llm_calls": [
+    {
+      "model": "gemma-4-12b",
+      "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Werbung und Personalisierung\n1: Datenschutzerklärung\n2: Cookie-Richtlinie\n3: Alle akzeptieren\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+      "answer": "```json\n{\"accept\": 3, \"reject\": null, \"settings\": null}\n```",
+      "error": null,
+      "ms": 3016,
+      "layer": 1,
+      "result": {
+        "a1f0-92": "accept"
+      }
+    }
+  ],
+  "pre_consent_trackers": [
+    {
+      "domain": "clarity.ms",
+      "entity": "Microsoft",
+      "category": "Analytics",
+      "requests": 3
+    },
+    {
+      "domain": "bat.bing.com",
+      "entity": "Microsoft",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "google-analytics.com",
+      "entity": "Google",
+      "category": "Analytics",
+      "requests": 1
+    },
+    {
+      "domain": "googlesyndication.com",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "llm_located": [],
+  "banner_text": "Cookies Notwendige Cookies Notwendige Cookies sind für die Funktionalität der Website erforderlich. Die optionalen Marketing- und Analyse-Cookies helfen uns bei der Messung von Kampagnen und ermöglichen es unseren Partnern, einschließlich Google, relevante Werbung und Personalisierung bereitzustellen. Marketing-Cookies Analyse-Cookies Durch die Annahme stimmst du der Verwendung von Cookies für die angegebenen Zwecke zu. Du kannst deine Zustimmung jederzeit widerrufen und die Weitergabe dieser Daten stoppen, indem du unten auf der Webseite von Opera auf \"Cookie-Zustimmung\" klickst. Weitere Info",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Auswahl akzeptieren",
+      "role": "save",
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Alle akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Back to Main Page",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Browser",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Opera Browser AKTUALISIERT",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Opera Air",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Opera GX",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Opera Neon NEU",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Opera Mini",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Herunterladen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Funktionen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Vergleich von Browsern",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutz & Sicherheit",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Über Opera",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Über Opera",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Opera Blog",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Hilfe",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Jetzt herunterladen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Jetzt herunterladen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Werbung und Personalisierung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Cookie-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Mehr erfahren",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Jetzt herunterladen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Jetzt herunterladen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Ad Blocker",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Kostenloses VPN",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "VPN Pro",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Opera AI",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Integrierte Messenger",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Integrierte Soziale Medien",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "WEITERE FUNKTIONEN",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Produkte",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Spielen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Addons",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Opera-Konto",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Hintergrundbilder",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Opera Ads",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Browser-KI",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "AI Benchmark",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 68,
+  "first_click_t": 11.99,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 11.99,
+      "event": "click",
+      "why": "save_layer1",
+      "text": "Auswahl akzeptieren",
+      "id": "a1f0-91",
+      "result": "ok"
+    }
+  ]
+}

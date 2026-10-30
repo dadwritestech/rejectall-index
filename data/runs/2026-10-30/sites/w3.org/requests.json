@@ -1,0 +1,158 @@
+[
+{
+"t": 0.0,
+"host": "w3.org",
+"url": "https://w3.org/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "www.w3.org",
+"url": "https://www.w3.org/",
+"type": "document"
+},
+{
+"t": 0.08,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/styles/core.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/styles/advanced.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/js/libraries/fontfaceobserver.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/logos/w3c-2025/svg/w3c.svg",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/svg/search.svg",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/svg/avatar.svg",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "www.w3.org",
+"url": "https://www.w3.org/cms-uploads/Hero-illustrations/groups-2025.svg",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/styles/print.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/fonts/notosans/notosans-regular.woff2",
+"type": "font"
+},
+{
+"t": 0.11,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/js/main.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/js/members.js",
+"type": "script"
+},
+{
+"t": 0.13,
+"host": "www.w3.org",
+"url": "https://www.w3.org/account/user-menu/",
+"type": "xhr"
+},
+{
+"t": 0.15,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/fonts/notosans/notosans-bold.woff2",
+"type": "font"
+},
+{
+"t": 0.15,
+"host": "www.w3.org",
+"url": "https://www.w3.org/cms-uploads/_920xAUTO_crop_center-center_none/banner1.jpg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "www.w3.org",
+"url": "https://www.w3.org/cms-uploads/_920xAUTO_crop_center-center_none/ryan-quintal-US9Tc9pKNBU-unsplash.jpg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "www.w3.org",
+"url": "https://www.w3.org/cms-uploads/_920xAUTO_crop_center-center_none/marvin-meyer-SYTO3xs06fU-unsplash.jpg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/svg/mastodon.svg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "www.w3.org",
+"url": "https://www.w3.org/assets/website-2021/svg/github.svg",
+"type": "image"
+},
+{
+"t": 0.23,
+"host": "www.w3.org",
+"url": "https://www.w3.org/thumbnails/250/logos/organizations/128554.png",
+"type": "image"
+},
+{
+"t": 0.23,
+"host": "www.w3.org",
+"url": "https://www.w3.org/thumbnails/250/logos/organizations/36700.png",
+"type": "image"
+},
+{
+"t": 0.23,
+"host": "www.w3.org",
+"url": "https://www.w3.org/thumbnails/250/logos/organizations/48024.png",
+"type": "image"
+},
+{
+"t": 0.23,
+"host": "www.w3.org",
+"url": "https://www.w3.org/thumbnails/250/logos/organizations/1060.png",
+"type": "image"
+},
+{
+"t": 0.23,
+"host": "www.w3.org",
+"url": "https://www.w3.org/thumbnails/250/logos/organizations/126165.png",
+"type": "image"
+},
+{
+"t": 0.23,
+"host": "www.w3.org",
+"url": "https://www.w3.org/thumbnails/250/logos/organizations/59545.png",
+"type": "image"
+}
+]

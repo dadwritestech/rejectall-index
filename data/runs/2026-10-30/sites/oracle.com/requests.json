@@ -1,0 +1,26 @@
+[
+{
+"t": 0.0,
+"host": "oracle.com",
+"url": "https://oracle.com/",
+"type": "document"
+},
+{
+"t": 0.5,
+"host": "www.oracle.com",
+"url": "https://www.oracle.com/",
+"type": "document"
+},
+{
+"t": 0.59,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css2",
+"type": "stylesheet"
+},
+{
+"t": 0.67,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+}
+]

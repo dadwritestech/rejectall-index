@@ -1,0 +1,644 @@
+[
+{
+"t": 0.0,
+"host": "medium.com",
+"url": "https://medium.com/",
+"type": "document"
+},
+{
+"t": 0.07,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "glyph.medium.com",
+"url": "https://glyph.medium.com/css/unbound.css",
+"type": "stylesheet"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/static/manifest-7fb477b9.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/entry-BAHigM6MuY.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BqzzkwLpWX.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-D0yGm3bSxV.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-LoTckoY0rH.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-C2rA8DHH5h.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/entry-Csz8PDnQ-0.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DrvRLlNLi2.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BGrffNE2YP.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-D8r6r9VMXa.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BhYk7KH4G3.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/entry-Dge5hdoNtN.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-Db22i9ZO_m.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-r5js3u9-HG.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BK-Y32BcoA.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-D_jNyS1gTe.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-CeJYCeWaic.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BOBwYwHOAg.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DENwt2infh.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DYZWqzBlJb.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BOw6DWID4F.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-ZgLjnAqX90.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BXTNICAExe.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-D31eanUc7e.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-C1y0gTWqa7.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DHdq3dIthF.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DjGqBGfGyE.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-hcivd106_j.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DrLWR-BM1P.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BWNBkaK8-2.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-C-DXY24BX5.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BB8hxcibhM.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-krVVwsx1di.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-COyPiUgJ7J.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DjHDSDYRB-.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DFMW_TyfWw.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DqriSscbWz.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-CWYU9g43-d.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-D1dsaklu2f.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BAcqhDQlYm.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DQ9JEsCRF9.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-C_BGZpjEJt.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-sKESbBk88R.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-CfIJQC6g1e.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BF4EfrJJEP.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/entry-BQPctnPfGJ.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DRQCoJ1fb7.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-D_zZliq-bx.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-Cpcpdy6pX0.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DxTnbO90hS.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-CYfzJOG2Z4.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-D-xbcwIj2Y.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-C6csyLt6gg.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-Bs2M34YNzL.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-CF1W01LAP_.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-CV9PHPLAcf.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DsH0LxGmKa.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-8LUYf4K3hi.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BnSZFFX2FG.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DhwT8NjY3Q.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DW1Im7Jlrl.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DscKnZIfjj.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DYrdYa-Jq5.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-Dc8frPiWBG.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-B_JqeKPQps.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-CtUIymGP4E.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-Blj3uhSPEm.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-D0_FvYZDQs.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BNadjHNFqV.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BnIE6xL6fR.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-F-RzlpS7ve.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-BtwocJsbVa.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-YbX7zOjp5u.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-B8ghRjQBo-.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-sDKtwaLgWF.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-CAof6PyVT4.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-DJueHbrPLT.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk--tUEjAmgDM.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-B5WnciDRGJ.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-B3W_NzAeRI.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "miro.medium.com",
+"url": "https://miro.medium.com/v2/format:webp/4*SdjkdS98aKH76I8eD0_qjw.png",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "static.cloudflareinsights.com",
+"url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "medium.com",
+"url": "https://medium.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+"type": "script"
+},
+{
+"t": 0.12,
+"host": "glyph.medium.com",
+"url": "https://glyph.medium.com/font/b492c44/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-400-normal.woff",
+"type": "font"
+},
+{
+"t": 0.12,
+"host": "glyph.medium.com",
+"url": "https://glyph.medium.com/font/4a44748/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/gt-super-400-normal.woff",
+"type": "font"
+},
+{
+"t": 0.12,
+"host": "medium.com",
+"url": "https://medium.com/cdn-cgi/challenge-platform/h/g/scripts/precursor/c787ce48cf6b/main.js",
+"type": "script"
+},
+{
+"t": 0.19,
+"host": "medium.com",
+"url": "https://medium.com/cdn-cgi/challenge-platform/h/g/precursor/c787ce48cf6b/0.2658328899872755:1793351366:XinsQyFpL2upFbMfC00kLDwxKU5ps70jpaQygbq1z1U/a529820f9c039222",
+"type": "xhr"
+},
+{
+"t": 0.22,
+"host": "cdn-client.medium.com",
+"url": "https://cdn-client.medium.com/lite/assets/chunk-C177ljcpd_.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "medium.com",
+"url": "https://medium.com/_/clientele/reports/performance/",
+"type": "fetch"
+},
+{
+"t": 0.32,
+"host": "medium.com",
+"url": "https://medium.com/_/clientele/reports/performance/",
+"type": "fetch"
+},
+{
+"t": 0.36,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/anchor",
+"type": "document"
+},
+{
+"t": 0.36,
+"host": "medium.com",
+"url": "https://medium.com/_/graphql",
+"type": "fetch"
+},
+{
+"t": 0.36,
+"host": "medium.com",
+"url": "https://medium.com/_/graphql",
+"type": "fetch"
+},
+{
+"t": 0.36,
+"host": "medium.com",
+"url": "https://medium.com/_/graphql",
+"type": "fetch"
+},
+{
+"t": 0.41,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/styles__ltr.css",
+"type": "stylesheet"
+},
+{
+"t": 0.41,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 0.46,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/webworker.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 0.49,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__de.js",
+"type": "other"
+},
+{
+"t": 6.52,
+"host": "medium.com",
+"url": "https://medium.com/_/clientele/reports/performance/",
+"type": "fetch"
+},
+{
+"t": 6.52,
+"host": "medium.com",
+"url": "https://medium.com/cdn-cgi/rum",
+"type": "xhr"
+},
+{
+"t": 6.52,
+"host": "medium.com",
+"url": "https://medium.com/_/graphql",
+"type": "fetch"
+}
+]

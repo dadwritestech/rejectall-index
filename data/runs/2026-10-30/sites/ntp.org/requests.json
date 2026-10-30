@@ -1,0 +1,224 @@
+[
+{
+"t": 0.0,
+"host": "ntp.org",
+"url": "https://ntp.org/",
+"type": "document"
+},
+{
+"t": 0.48,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/",
+"type": "document"
+},
+{
+"t": 1.25,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 1.25,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css",
+"type": "stylesheet"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/scss/nwtime.min.ae1d5c07cd13e892cfcd5091bb2030d2.css",
+"type": "stylesheet"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/images/logo.png",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/images/ntp_logo.jpg",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/images/icons/heart.svg",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "cse.google.com",
+"url": "https://cse.google.com/cse.js",
+"type": "script"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/images/icons/download.svg",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/images/icons/bug.svg",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "www.nwtime.org",
+"url": "https://www.nwtime.org/images/support.jpg",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/images/icons/discourse.svg",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/images/icons/newspaper.svg",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/images/icons/linkedin.svg",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "www.ntp.org",
+"url": "https://www.ntp.org/images/icons/facebook.svg",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "www.clarity.ms",
+"url": "https://www.clarity.ms/tag/c33igkoodm",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "scripts.clarity.ms",
+"url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "www.google.com",
+"url": "https://www.google.com/cse/static/element/dc6f600a0d4404e5/cse_element__en.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "www.google.com",
+"url": "https://www.google.com/cse/static/element/dc6f600a0d4404e5/default_v6+en.css",
+"type": "stylesheet"
+},
+{
+"t": 1.34,
+"host": "www.google.com",
+"url": "https://www.google.com/cse/static/style/look/v6/minimalist.css",
+"type": "stylesheet"
+},
+{
+"t": 1.42,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 1.46,
+"host": "cse.google.com",
+"url": "https://cse.google.com/adsense/search/async-ads.js",
+"type": "script"
+},
+{
+"t": 1.46,
+"host": "www.google.com",
+"url": "https://www.google.com/cse/static/css/v2/clear.png",
+"type": "image"
+},
+{
+"t": 1.46,
+"host": "www.google.com",
+"url": "https://www.google.com/cse/static/images/1x/en/branding.png",
+"type": "image"
+},
+{
+"t": 1.46,
+"host": "clients1.google.com",
+"url": "https://clients1.google.com/generate_204",
+"type": "image"
+},
+{
+"t": 1.55,
+"host": "t.clarity.ms",
+"url": "https://t.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 1.9,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-s.woff2",
+"type": "font"
+},
+{
+"t": 2.26,
+"host": "ep1.adtrafficquality.google",
+"url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+"type": "xhr"
+},
+{
+"t": 8.27,
+"host": "ep2.adtrafficquality.google",
+"url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+"type": "script"
+},
+{
+"t": 8.27,
+"host": "ep2.adtrafficquality.google",
+"url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+"type": "document"
+},
+{
+"t": 8.27,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/bg/qzufwwu-DL1SGmIgZ-88s5tLEgy8cZKtw51byKBrkPk.js",
+"type": "script"
+},
+{
+"t": 8.27,
+"host": "ep2.adtrafficquality.google",
+"url": "https://ep2.adtrafficquality.google/generate_204",
+"type": "image"
+},
+{
+"t": 8.27,
+"host": "ep1.adtrafficquality.google",
+"url": "https://ep1.adtrafficquality.google/pagead/sodar",
+"type": "image"
+},
+{
+"t": 8.27,
+"host": "t.clarity.ms",
+"url": "https://t.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 8.27,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 12.28,
+"host": "t.clarity.ms",
+"url": "https://t.clarity.ms/collect",
+"type": "xhr"
+}
+]

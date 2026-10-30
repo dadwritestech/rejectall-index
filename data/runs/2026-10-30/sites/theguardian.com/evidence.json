@@ -1,0 +1,311 @@
+{
+  "domain": "theguardian.com",
+  "url": "https://theguardian.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.theguardian.com/europe",
+  "accept_clicks": 1,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": "none_found",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": true,
+  "verified": null,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": "sourcepoint",
+  "http_status": 200,
+  "banner_text": "Personalised advertising\n- it's your choice\nIndependent, quality original journalism needs your support. Please choose an option.\nAccept personalised advertising and all cookies\n\nWe use cookies and similar technologies to support the Guardian and personalise your experience in other ways. To do this we work with a cross section of 141 partners.\n\nor\n\nReject all and subscribe to Guardian Ad-Lite for €5 per month\n\nRead the Guardian website without personalised advertising. This does not include ad-free. You will still see non-personalised advertising and we may still use cookies and similar techn",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Accept all",
+      "role": "accept",
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Reject all and subscribe",
+      "role": "pay",
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Accessibility settings",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "141 partners",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": ".",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "privacy policy",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "cookie policy",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Store and/or access information on a device",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Personalised advertising, advertising measurement, audience ",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Personalised content and content measurement",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "sign in",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "News",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Opinion",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Sport",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Culture",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Lifestyle",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Sign up for our email",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "About us",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Help",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Complaints & corrections",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Contact us",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Tip us off",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "SecureDrop",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Privacy policy",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookie policy",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Tax strategy",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Terms & conditions",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "All topics",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "All writers",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Newsletters",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Digital newspaper archive",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Bluesky",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Facebook",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Instagram",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "LinkedIn",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Threads",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "TikTok",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "YouTube",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Advertise with us",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Tips",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "pre_consent_requests": 116,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

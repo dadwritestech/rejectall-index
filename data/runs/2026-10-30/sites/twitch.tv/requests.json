@@ -1,0 +1,2048 @@
+[
+{
+"t": 0.0,
+"host": "twitch.tv",
+"url": "https://twitch.tv/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "www.twitch.tv",
+"url": "https://www.twitch.tv/",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/config/settings.d940f762af49552350cd072cbba87193.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/eppo/api/flag-config/v1/config",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/core-ed50dd7cf0ed58d80a54.css",
+"type": "stylesheet"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/polyfills-6ed86cd57b821c1ee1c5.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/flags-4d4be6e38592e09dacd9.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/52361-097bd02758e61713f079.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/26136-1eb62228f21016125b92.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/89570-a7883f53553d4955e0ee.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/3166-efd1ac9bd34a0cd8afd7.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/87690-1c82b476866a5078360c.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/39247-947dcb7a9cc679940650.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/23277-41091dd55605271a12c6.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/21001-4b965d418bf142d8de80.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/73409-92cead23ff2739cd8bbc.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/62101-ac6b822e38ba84834621.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/62260-7a638e8b2ac64f058044.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/92536-2ee57b7dc21d6653b338.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/23496-aa8aecb3761d8e3b2821.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/31305-476f5992a5d681b3576f.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/78377-cfd113d4393c57538974.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/88852-5739797235e4c991f608.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/22011-684c9d2457c5737a1a01.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/65830-39f5ba3acc78d1c03edd.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/9216-1732b3b1906c041d13e8.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/41291-dbed5c6effe204a1ce20.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/37910-6cbd7c37844b1a7e4e1c.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/11786-64af4a6a95cb8a549cae.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/5445-aa3cf06c24b967b86ba6.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/1309-d860ad074b16689b1694.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/77086-2ce3284841e200e64d45.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/80998-95b4be52fdcc67a049b7.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/20953-dc5347d0133429ce0531.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/84603-59a08b82578309fd3d28.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/97842-53afec6112c6841b52bd.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/64860-274a3e79b940b0cbefd8.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/63635-ab2fe37b6b6987754005.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/62958-ed2e2cc99fd2d696fa12.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/74418-0e1bebd9fb4d256c55ba.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/57955-4db1acdadd8fca3d30da.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/83323-92309b305d170b12667b.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/90720-2199c7b91dab2fe3f8c3.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/57195-135e01529acdd95ea968.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/70205-8ba790bec7fad25ef1ec.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/77971-993650186002193eae7f.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/4855-2148a996268e647b8100.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/4503-a8cc00d4a224b42e6756.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/33940-0d1eada63fea2b36096c.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/76965-b94779764f59445fbdec.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/56208-7106dfb219b5d6dce159.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/30892-382682f75c6727c3a0f0.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/72968-00c2e11924c17382abce.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/35757-0eb326d7c55018ae8d96.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/46553-c6b810a519bb7dcd1f71.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/50340-0afa930098dc631b7cfc.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/68400-dfc62b266973d8b25cea.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/20896-f59e1238963e7f647d54.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/97413-0cb0262774e6beb00307.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/81989-ca49519f8140d272748e.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/81518-9bf0518ef282921f900a.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/995-20c2a4ff3392ac8c5f4c.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/73899-780fb37aa4b76dd56339.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/54826-b3a906e29f5dec296b19.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/25865-97444505774bc2c3210b.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/2283-84b9d0afe4c1868a506f.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/71134-c762ce50be0a8c8d2038.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/29072-3136689554fa8f9edd69.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/96322-6ef0ab60bb4e27956876.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/33267-fe2598a414861a0bb185.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/46776-060060f1637c3144a01a.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/38823-5995c912d0525a774daa.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/90497-11d0e18300d8acec55d3.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/55194-cfa8d5e066d0d4756abe.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/34849-5ad424c506548db95550.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/35729-f5154521b7d88fde3d2c.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/52282-c119c4dce2f04f1b3bc6.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/95120-f52df6708e20038c91fe.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/52930-4da998207440184289b7.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/91492-7bc8128fe78887f9cfd9.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/15971-53074cddd14eaa4844d3.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/28166-d2dd7a36f47297c91aad.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/29139-c564cb4ad001b1d5c982.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/6311-5053889d6ed453350872.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/91869-40fcaec91e5b5c06367b.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/65261-8a8a48ff3133d87e1938.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/46694-86282c4c6373d601047d.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/73911-cfe131a48fb4cdc9438a.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/8679-edb86260a683120a4f6d.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/8698-85c1d42dfd5abe9a51a4.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/1566-cac3b1c8225088d4f495.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/82367-ca032820706f4bc16f8d.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/43653-bbabc6669c357b9afaf7.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/34759-6d267bd66c89e564ab2a.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.clips-viewer-exports.viewer-exports-modal.components.hook-component-4698837d2629f0f4e954.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/87426-77b35e99d35ca8b5a9fb.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/23958-136270147c12d762a0d3.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/81986-6a25bab5b67de435db2d.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/83759-f2129d1f11ffd68ed201.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/32459-fed60b2d8eb4fbef371b.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/29-c207d3ae868810ada00a.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/30883-9b035ab3ce8ff14f5d57.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/27803-da338877270b4569667a.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/34169-dd89ec1ffd5bbba68c34.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/90563-6d3ebc004b137e4731ae.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/core-9a86fb86bc1cd87c1e55.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "spade.twitch.tv",
+"url": "https://spade.twitch.tv/track",
+"type": "xhr"
+},
+{
+"t": 0.36,
+"host": "k.twitchcdn.net",
+"url": "https://k.twitchcdn.net/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/core.locales.de-3e4a3cef85011cd8972c.js",
+"type": "script"
+},
+{
+"t": 0.38,
+"host": "k.twitchcdn.net",
+"url": "https://k.twitchcdn.net/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/mfc",
+"type": "fetch"
+},
+{
+"t": 0.49,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/28144-c83a464f79c8d2e50f86.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/79797-2991b8d0129d57c33b15.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/18900-204893340b8c346c9f8e.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/12973-ea7b057e8a05944e1847.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/81796-94acd5407e5a11159699.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/65557-5ba217ba5737867b8fe2.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/72643-23d7e40ccd59421a4cdf.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/98288-5c3a3898b853c89fad85.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/71982-0514420eceebde2136f6.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/61888-1f100e57df6f36125c14.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.front-36abf4a349291cf59504.css",
+"type": "stylesheet"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.front-856c0af5d9d0ae46f40e.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/44682-1ece436dd0e7b05c713f.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/68199-5ca46df4ad407e2280e7.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/player-core-variant-a-83164faa8c2e8b36f8d1.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/inter-latin-variable-wghtOnly-normal-383d894ed1f69dd95820.woff2",
+"type": "font"
+},
+{
+"t": 0.5,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/Roobert-Medium-417d5246124d150d8282.woff2",
+"type": "font"
+},
+{
+"t": 0.51,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 0.54,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/amazon-ivs-wasmworker.min-1da59c3161bea7d07190.js",
+"type": "other"
+},
+{
+"t": 0.56,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/An-AmazonCompanyBlack-296f14d538c74f16ca78.png",
+"type": "image"
+},
+{
+"t": 0.57,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 0.57,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/amazon-ivs-wasmworker.min-c59680e32a66fdf283ad.wasm",
+"type": "fetch"
+},
+{
+"t": 6.59,
+"host": "k.twitchcdn.net",
+"url": "https://k.twitchcdn.net/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp",
+"type": "document"
+},
+{
+"t": 6.59,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/cookie_pink-e5a8e8f65d332dabb8b0.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "edge.ads.twitch.tv",
+"url": "https://edge.ads.twitch.tv/ads/format",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "k.twitchcdn.net",
+"url": "https://k.twitchcdn.net/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/Roobert-Regular-62f5cf0ef63ddd1ff1db.woff2",
+"type": "font"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/Roobert-SemiBold-3b15a6369038c1c15954.woff2",
+"type": "font"
+},
+{
+"t": 6.6,
+"host": "s.amazon-adsystem.com",
+"url": "https://s.amazon-adsystem.com/",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/91176-7b77c3759774b10f57ec.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.consent.components.cmp-api-5789b9d82ccba882630d.css",
+"type": "stylesheet"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.consent.components.cmp-api-71aac0904279d2c1274e.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.ads.components.dsa-wizard.components.dsa-modal.dsa-modal-manager-4fa559dd017e49a2e780.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.ads.components.dsa-wizard.components.dsa-button.component-046165a1200c4e4652d6.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/config/manifest.json",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.dmca-strike-banner-78fb4ea7d850e210d96c.css",
+"type": "stylesheet"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.dmca-strike-banner-cdd5882e00719bf563b6.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/61266-d31228a4c053ee8d1f73.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.verify-email-585bdce47055613e2daf.css",
+"type": "stylesheet"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.verify-email-d92ad58770fc51c8c82a.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/9523-c9c8a1f7e22a83208515.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/6969-35ae38dbd6ee1e5bb0a5.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/22990-cf6b51184a1fe879c12c.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/36318-3cc303cf4ae13154b732.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/70074-cfe1dc171cbbce0caa7f.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/74614-61f251857b82da4ec45c.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/3657-fad9d00c3064ae778b63.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/65418-fd1c9fbc45c2f5bf28a6.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/64726-054f60f07e486067bc9e.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/60075-3d6149861119b6e35d83.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.auth.components.account-checkup-manager-74e822828d4689318b21.css",
+"type": "stylesheet"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.auth.components.account-checkup-manager-ef1283c9300be03c443d.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.sprig-manager.component-6910936f1025770fc811.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/68588-78f4c3820da09fb614bf.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.whispers.components.whisper-threads-bar-0e1ce9fe76e0908fc424.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.upsell-bottom-banner.upsell-signup-77147e0bc6b00b2e0165.css",
+"type": "stylesheet"
+},
+{
+"t": 6.6,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.upsell-bottom-banner.upsell-signup-10f1a131d298adb2ea4d.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf4d614e-35d9-43ec-8dc4-63de61989132-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db21bfad-d140-4360-8215-4dd7c23534cf-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7da4012-90f0-43a1-b8bf-f246f7189fcc-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd90a9ed-e485-418c-b0ba-7adfe23781bf-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e72d0086-9d9d-4155-bdd0-86404dd5b581-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/55ea932f-491c-47c7-aebf-0f90ed997162-profile_image-70x70.jpeg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e65df5a7-85e8-4eff-a956-2a2001e0ce36-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/021a8f42-1f2c-4156-b939-b0de1404fac3-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ca65c72-26bc-4fcb-878d-cc29d2f45bfe-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/199ad016-0034-4571-b559-d98bc35c838c-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf4d614e-35d9-43ec-8dc4-63de61989132-profile_image-50x50.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nooreax-640x360.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db21bfad-d140-4360-8215-4dd7c23534cf-profile_image-50x50.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niklaswilson-640x360.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/ttv-boxart/509658-188x250.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/ttv-boxart/21779-188x250.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/ttv-boxart/516575-188x250.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/ttv-boxart/509672-188x250.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/ttv-boxart/18122-188x250.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f752b9a6-a1b2-4987-ac39-35c3b0249082-profile_image-50x50.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_renekreher-640x360.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb982f7d-0387-421c-98dc-43300e2da8ba-profile_image-50x50.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minuself-640x360.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/953ab63f-bdf7-46b4-bd54-0f03ebfa7dc4-profile_image-50x50.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milschbaum-640x360.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "edge.ads.twitch.tv",
+"url": "https://edge.ads.twitch.tv/ads",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/coolcat-d243b0f48c65f03923d8.png",
+"type": "image"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/clips-main-710486be5dd9cb608bd2.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/clips-main-c7dea015717c7828298e.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/core-9a86fb86bc1cd87c1e55.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/core-ed50dd7cf0ed58d80a54.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/minimal-cfbf8350e7b6c5cce12a.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/minimal-f4a4d144c2183d29d8c3.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.channel.components.channel-shell.components.chat-shell.components.chat-live-416cc6804d18f748696f.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.channel.components.channel-shell.components.chat-shell.components.chat-live-fde0298907fd944eeaf7.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.channel.components.channel-shell.components.watch-page-track-eaa5f10af68d3021ceea.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.directory-game-09162b5519649ce72566.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.directory-game-c6878b1849a645b3490d.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.following-481ba9de80f263c24cfe.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.following-717db11968832e044b6b.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.front-36abf4a349291cf59504.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.front-856c0af5d9d0ae46f40e.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.settings-63f14bd647176117085a.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.settings-c971229713b831dc6ee3.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.subs-1c4791b9ba21151b6cc4.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.subs-checkout.components.subs-checkout-page-2dfcd6072ea5730b6c8f.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.subs-checkout.components.subs-checkout-page-9b4223e1d90a08e38a77.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.subs.components.subs-broadcaster-page-33488b02c2bb1a1bd107.css",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/pages.subs.components.subs-broadcaster-page-c73f04d5e0ae0075aa69.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/player-core-base-e21d7431ad5fa22e9890.js",
+"type": "other"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/43826-3ad9606415b6caaebc52.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/25911-48a02a37a181a5e5bf19.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/36563-351fbfbc9d3c1c3c42b0.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/52044-02a5866b36db7ebfb59c.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/55343-a6daa823c830b439201c.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/44342-a2e767d9050f1e1931d4.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/70522-90a1bc389247652365c6.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/25913-23a92480ea1697c12105.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/94268-61843148053ca6358bbb.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/37916-351cbea0e3d6a42a729d.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/62770-f772cd55f810662c2a28.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/82194-7261b3f966385bf8dcef.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.whispers-97341205591f9c2f3b8c.css",
+"type": "stylesheet"
+},
+{
+"t": 6.61,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.whispers-80d78b0dc613238ceb44.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/95784-e04709972b28a87635a7.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/8490-d19a20ce047a68616088.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/64587-e4e124ff5eab3f3c1775.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/68487-55ee772a00ad95c1ea27.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/27505-ae4c9123f811690e83c4.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/23461-8b10e87de8c42e6febc7.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/60464-e949fd1789f8ae96d10b.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/78586-4b128b0403c5dad10b70.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/39702-cf95398acb676cce7fc6.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/10992-9fbd580cc237e547be62.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/24775-4e477fe977162ff11ab8.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/63772-252da0bd911139aa2b99.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.creator-messages.components.creator-messages-nav-button-e8b8208faaf1385453eb.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.creator-messages.components.creator-messages-nav-button-f025445418e0b0307a19.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.video-player-core.components.video-ads.stream-display-ad.pushdown.portal-51ef65a454bead56ec1d.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.video-player-core.components.video-ads.stream-display-ad.pushdown.portal-6b14d3a759ee7ae5c22c.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/25276-f7c7e2ba8b6c1525c4a3.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/49797-cf202917070a9dfd2e0c.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/34695-d95eab2b0dd73700cda8.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.channel-celebrations.components.celebration-display-6349fcb210522743ac7f.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.channel-celebrations.components.celebration-display-dca02892b366213c5353.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.video-player-core.components.video-ads.audio-ad-overlay.component-3f26977f46df13d09fd6.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.video-player-core.components.video-ads.audio-ad-overlay.component-e5b968124ba74fb7fa3f.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.channel-skins.video-overlay-fc11a1e8be1802b0586d.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.channel-skins.video-overlay-4764957e79c2530a79a6.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/69584-baadd3f8e4d3a3d03ff4.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.ads.components.client-side-video-ads.instream-and-vertical-video-ad-player-af10434179a151f9fdd6.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.ads.components.client-side-video-ads.instream-and-vertical-video-ad-player-ce654ba980a01d3e009d.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "assets.twitch.tv",
+"url": "https://assets.twitch.tv/assets/features.video-player-core.components.video-ads.pushdown-sda-eligibility-4a3ae7cfe8e05638a920.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_areslps-320x180.jpg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mcralphracing-320x180.jpg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/57f4f586-8f77-4a4c-8bf7-46c731f83551-profile_image-150x150.jpeg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cozyrosyyy-320x180.jpg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lebenshof_mutimbauch-320x180.jpg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lefloidlive-320x180.jpg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "cloudflare.com",
+"url": "https://cloudflare.com/cdn-cgi/trace",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "reporting.cdndex.io",
+"url": "https://reporting.cdndex.io/error",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "reporting.cdndex.io",
+"url": "https://reporting.cdndex.io/error",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7da4012-90f0-43a1-b8bf-f246f7189fcc-profile_image-50x50.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_exsl95-640x360.jpg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6f5f16e-da3b-4618-8b77-e2b529833d96-profile_image-70x70.jpeg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c4fa04-7c6f-442f-81a7-8516a86e819f-profile_image-70x70.jpeg",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "player.stats.live-video.net",
+"url": "https://player.stats.live-video.net/",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "usher.ttvnw.net",
+"url": "https://usher.ttvnw.net/api/v2/channel/hls/cozyrosyyy.m3u8",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/sponsorships-campaign-assets/3KhFJcmqF3PZ4F0LIO3czOAsiiG/ASSET_TYPE_ADVERTISER_LOGO/3KhFJa1hQFbAo9yvBdbxlkaQEZR",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "player.stats.live-video.net",
+"url": "https://player.stats.live-video.net/",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CtQHaQHZwwFeMK9yDgePGK0pLiV0gkvx7QwSvInfpYt3Z_KPS8-MOypPLlysqLhD6gcMcz2CgCfsGLYlqX6O7lcwynxKtP_P5Q83L4G0hqrdU6S8lTLV6Iis6o0yFoXBCvvk8y33a5_9Gx9hoiLysTHZNWSUSpDdF1ZEVkXARt3Wmes5WSkFt5nAXcpatxRAOOH95Sc3KSImREXKN-eRPS3iWQpcfE94TQCOGH6vWsvP9JS538ijD3WTJp6xvN_",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/v1/segment/Cu4CVpFGGK67ysIFtvqLrusZRjxGNXem8O9SiN2tT5cCZiRHxs-nMxGDzJt_SUJblj14hDynAU7OhCbLKzvTN1O6TfFfVuMaVxGn6OzT-OQt8ouyOr8PxqyEAZ_d-C7nl-j5faiRIFK-oKamfCvMW9EnglrewHyUUtyKK5VIij8EyqnZFw1fRnNmDZ1wgAIM-vZq6WzTZKQmnwrEt-Q1u5nNEs5oOYUJbLG33diI_e1T9C38Z",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CtQHaQHZwwFeMK9yDgePGK0pLiV0gkvx7QwSvInfpYt3Z_KPS8-MOypPLlysqLhD6gcMcz2CgCfsGLYlqX6O7lcwynxKtP_P5Q83L4G0hqrdU6S8lTLV6Iis6o0yFoXBCvvk8y33a5_9Gx9hoiLysTHZNWSUSpDdF1ZEVkXARt3Wmes5WSkFt5nAXcpatxRAOOH95Sc3KSImREXKN-eRPS3iWQpcfE94TQCOGH6vWsvP9JS538ijD3WTJp6xvN_",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "global.poe.live-video.net",
+"url": "https://global.poe.live-video.net/",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CtwH-buhSazaakPeCbKr9YbCJXcQj1wXq4w1p7Ybn2mS2IitcdP_n7a_sJtwECPRXig7LGAcS4qApyNsGhRO4I780DRZg6Qod945gAaF12ZVN0933TXLDfv3JBo_nBMs_7ZkM76xnBCG6tMFNhESck5UDxvsg8qEoaWesRWninyfKtKEii0rQAdxFA9ooZ5WgZoQYn03R7HxdykQhMxIRpbX0g49wkjFsMsiCkOJ2Yk4uh-BqKlwwaq5W55UWdJ",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/probe",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CuQHHvfIjdzgp8fqBP6eu-jYo7wQgrTNcKq5zaP62zlXC5A3dIUhVGtAHZgiyruVJcta1zOv56mJwn19SqC1IbGBDXb0xgyvEhtGQN5V16HPIMdkGQChomAw3IdIFY1tA-aamFsnluzRoTsnCsY7DzzhuqXBOew2LEtfhI2fO3jDSErF10IyGUEuA9RuRysDQs71sPCHNhICTImhVNtzBV3PIUWszVR15906lH7IUjRZHs652etbzfyYmgddTbY",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/v1/segment/Cu4ClBxEDHkL-rUhP4sgvLsskXeA2bL0np6PDVtpYGhw_RVxCuPj-XhYE6ehWW0HML-6X4D8PoUZLZo6I-PBj2K6mXMryXxMgNMRwG6dl45Qw3mThDqNmVl_GRMf5PitWvu5npOZoOciCKCJMmpoHAu0de7Eu32Gcr45QgH7qaqFt34aLNODqu6oXjSLkxKtgyeV_07jjCFepVLzVPD6on3ssoVIlmbByeHpmICvTV-UP0ImB",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bbdb858e-7f5f-4a6c-a23d-51fa557bebe2-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e60f4548-024e-4285-8b4c-35bf56349c67-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CuQHHvfIjdzgp8fqBP6eu-jYo7wQgrTNcKq5zaP62zlXC5A3dIUhVGtAHZgiyruVJcta1zOv56mJwn19SqC1IbGBDXb0xgyvEhtGQN5V16HPIMdkGQChomAw3IdIFY1tA-aamFsnluzRoTsnCsY7DzzhuqXBOew2LEtfhI2fO3jDSErF10IyGUEuA9RuRysDQs71sPCHNhICTImhVNtzBV3PIUWszVR15906lH7IUjRZHs652etbzfyYmgddTbY",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CuQHHvfIjdzgp8fqBP6eu-jYo7wQgrTNcKq5zaP62zlXC5A3dIUhVGtAHZgiyruVJcta1zOv56mJwn19SqC1IbGBDXb0xgyvEhtGQN5V16HPIMdkGQChomAw3IdIFY1tA-aamFsnluzRoTsnCsY7DzzhuqXBOew2LEtfhI2fO3jDSErF10IyGUEuA9RuRysDQs71sPCHNhICTImhVNtzBV3PIUWszVR15906lH7IUjRZHs652etbzfyYmgddTbY",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/probe",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/v1/segment/Cu4Cb1AgWzoBLu3vB2dtIdvK6DZD3yTldl50RKb_HMuwFQlU7OCybFF1g1HF1tVkS_ulMNqREUQFmaaHWDb0r9Sbh-W3_a6k8QSwxFOeTzE4Au7I_AJNq5bDuFG8ouTMJPnXG1Hp7WHP7xbTyqV1IMkF64VbQ7smPg6Jnb1JMPSNLR09oaDPQ9ni_36KJ-D_r3NMSpi_HMCO4edVTnWqHPqu-hGGc_zjTHndUKWNDrdKpHWYy",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce759136-1800-4784-a36b-72f11ae9807f-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 6.63,
+"host": "prod.ivs-device-config.live-video.net",
+"url": "https://prod.ivs-device-config.live-video.net/player-web-v1.json",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 6.63,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CuQHHvfIjdzgp8fqBP6eu-jYo7wQgrTNcKq5zaP62zlXC5A3dIUhVGtAHZgiyruVJcta1zOv56mJwn19SqC1IbGBDXb0xgyvEhtGQN5V16HPIMdkGQChomAw3IdIFY1tA-aamFsnluzRoTsnCsY7DzzhuqXBOew2LEtfhI2fO3jDSErF10IyGUEuA9RuRysDQs71sPCHNhICTImhVNtzBV3PIUWszVR15906lH7IUjRZHs652etbzfyYmgddTbY",
+"type": "fetch"
+},
+{
+"t": 8.68,
+"host": "k.twitchcdn.net",
+"url": "https://k.twitchcdn.net/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/tl",
+"type": "xhr"
+},
+{
+"t": 8.68,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CuQHHvfIjdzgp8fqBP6eu-jYo7wQgrTNcKq5zaP62zlXC5A3dIUhVGtAHZgiyruVJcta1zOv56mJwn19SqC1IbGBDXb0xgyvEhtGQN5V16HPIMdkGQChomAw3IdIFY1tA-aamFsnluzRoTsnCsY7DzzhuqXBOew2LEtfhI2fO3jDSErF10IyGUEuA9RuRysDQs71sPCHNhICTImhVNtzBV3PIUWszVR15906lH7IUjRZHs652etbzfyYmgddTbY",
+"type": "fetch"
+},
+{
+"t": 8.68,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/probe",
+"type": "fetch"
+},
+{
+"t": 8.68,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/v1/segment/Cu4Cbx5YZWTYYGKKrzRv_kN8oZr755dYctSsOJsNEyT7DZGTSkzJC4cybxPbXYuqpZL_c08T3JtvfDEFmAquH9bYOWIXfJNw9wTnl22p_4n_TrsiZ0ALYZEdesLmfG7FW7LpRdpt3I8VFmj0DfB7AR4Dvd3mZKXvID8N0NQWCP1aJ-IxTdNgINdvcedwfSNdotcK5qC2UbIN96fSbjQ8-e6UHDlqV2eq2gWJb3ADp4dmHYFhL",
+"type": "fetch"
+},
+{
+"t": 8.68,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/integrity",
+"type": "fetch"
+},
+{
+"t": 8.68,
+"host": "5295b6.rufio.hls.live-video.net",
+"url": "https://5295b6.rufio.hls.live-video.net/v1/segment/CszZZEV8I26zN_QE6yvMrPl6aoGVJGM8v0G0rE3x7U0u-uO3G2l3CBdafHitI3eL_7Nq8TKErE3xtF3Ds7iY0IGdxalbI_UZ6HiuvUb6Wdz3SQl_yz5QSz12cpwTKDNAjjIHO9leuWTuGa0WKiEdDB0bvTGYvPhw4UMxjAhh75M8IQ3-VCmfZOfwKAYTYqt7SSLFT1dKEsxxkNCJ56W8Db32UGtdaLcRczuiffxDTzuxqUybmBZCh3DQ5",
+"type": "fetch"
+},
+{
+"t": 8.69,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 8.69,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e60f4548-024e-4285-8b4c-35bf56349c67-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 10.72,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/probe",
+"type": "fetch"
+},
+{
+"t": 10.72,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/v1/segment/Cu4CSXEluTQhwd0hVs7665ujP1Qj9-Kq8BVSt0EU0RYnAb_0rqBxf67dBFr8Esn5QmS4xT4PLCCo4AcHz5Au43HsFIJpPDMaNWdB4ffV5PCH4LQ9yWXOwsWPFbNJEQWELfuECaNJ_M0qYtgDXvUJ3EMSXP6r9xNNuAmR4QO2ppuaLIhqXJvBCuqYS5JD2ppnGr9T24gylsAZB-7ZECi0rPpX92IdpjWD4wwJhyPkluZpLUu2j",
+"type": "fetch"
+},
+{
+"t": 10.72,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CuQHHvfIjdzgp8fqBP6eu-jYo7wQgrTNcKq5zaP62zlXC5A3dIUhVGtAHZgiyruVJcta1zOv56mJwn19SqC1IbGBDXb0xgyvEhtGQN5V16HPIMdkGQChomAw3IdIFY1tA-aamFsnluzRoTsnCsY7DzzhuqXBOew2LEtfhI2fO3jDSErF10IyGUEuA9RuRysDQs71sPCHNhICTImhVNtzBV3PIUWszVR15906lH7IUjRZHs652etbzfyYmgddTbY",
+"type": "fetch"
+},
+{
+"t": 10.72,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce759136-1800-4784-a36b-72f11ae9807f-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 14.83,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 14.83,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CuQHHvfIjdzgp8fqBP6eu-jYo7wQgrTNcKq5zaP62zlXC5A3dIUhVGtAHZgiyruVJcta1zOv56mJwn19SqC1IbGBDXb0xgyvEhtGQN5V16HPIMdkGQChomAw3IdIFY1tA-aamFsnluzRoTsnCsY7DzzhuqXBOew2LEtfhI2fO3jDSErF10IyGUEuA9RuRysDQs71sPCHNhICTImhVNtzBV3PIUWszVR15906lH7IUjRZHs652etbzfyYmgddTbY",
+"type": "fetch"
+},
+{
+"t": 14.83,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/probe",
+"type": "fetch"
+},
+{
+"t": 14.84,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/v1/segment/Cu4CCSC9Y5EuS5M_fG_wx6XRTlAlWRQ0ZkFGHpSZ1TX7cToCy5c6KAQouFaOWdQFaNS9zY0LnHZQRJXTGXRnT6gSVstoHDYO66IhoyuQrRyTaTaG6Y4AnkV_e9lx8xKGyqFCOq3C8nslOMYuBv9aBJeKdOVmNdhR7v3Cx7v_3ni7shRUpe43P7CJV1KqyzDj75ZArW8INJ59esgvzctyNfl4wE74ncBn0fZiRWsPuS_9WhcM7",
+"type": "fetch"
+},
+{
+"t": 14.84,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 14.84,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CuQHHvfIjdzgp8fqBP6eu-jYo7wQgrTNcKq5zaP62zlXC5A3dIUhVGtAHZgiyruVJcta1zOv56mJwn19SqC1IbGBDXb0xgyvEhtGQN5V16HPIMdkGQChomAw3IdIFY1tA-aamFsnluzRoTsnCsY7DzzhuqXBOew2LEtfhI2fO3jDSErF10IyGUEuA9RuRysDQs71sPCHNhICTImhVNtzBV3PIUWszVR15906lH7IUjRZHs652etbzfyYmgddTbY",
+"type": "fetch"
+},
+{
+"t": 14.84,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/probe",
+"type": "fetch"
+},
+{
+"t": 14.84,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/v1/segment/Cu4CxsNoPqk3rKEV53McpfkcBUkisg_M1ImEhq9dljx71H1lT0NLRLUKVEWyQyRdS7DqbT1wClb14Sb-Ka6adbhyqv3_KTM4JzTKp3pGKEUU8Dk2u2-0BZpG0i7rIe_3_WRoTboBRIVJk615PQpY7L0IJiueskhK-mP0xnZ14f5J7FIoyRCGrDSB28Dr5nhTb6XS0Y-LM6uawj48dc7fGVmnQsUCS-IxtjRIo1dPw6RE2JqXw",
+"type": "fetch"
+},
+{
+"t": 14.84,
+"host": "gql.twitch.tv",
+"url": "https://gql.twitch.tv/gql",
+"type": "fetch"
+},
+{
+"t": 14.84,
+"host": "static-cdn.jtvnw.net",
+"url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce759136-1800-4784-a36b-72f11ae9807f-profile_image-70x70.png",
+"type": "image"
+},
+{
+"t": 14.86,
+"host": "euc11.playlist.ttvnw.net",
+"url": "https://euc11.playlist.ttvnw.net/v1/playlist/CuQHHvfIjdzgp8fqBP6eu-jYo7wQgrTNcKq5zaP62zlXC5A3dIUhVGtAHZgiyruVJcta1zOv56mJwn19SqC1IbGBDXb0xgyvEhtGQN5V16HPIMdkGQChomAw3IdIFY1tA-aamFsnluzRoTsnCsY7DzzhuqXBOew2LEtfhI2fO3jDSErF10IyGUEuA9RuRysDQs71sPCHNhICTImhVNtzBV3PIUWszVR15906lH7IUjRZHs652etbzfyYmgddTbY",
+"type": "fetch"
+},
+{
+"t": 14.88,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/probe",
+"type": "fetch"
+},
+{
+"t": 14.89,
+"host": "f3c469a86b72.j.cloudfront.hls.ttvnw.net",
+"url": "https://f3c469a86b72.j.cloudfront.hls.ttvnw.net/v1/segment/Cu4CUa5zdNqs3L4FQ7Pe5MZSfVWr7T-ACUXmt6UO_C4wJzN1B1j0ftYqm3oIrN3Pa25HYGPQ8OYPBX0VIa86iv5jNNq4FvOeBo8W-cL1yeXICPQHtPpodcsUdQrY_kXRDDeoVOg7rOqNaQVriVyneOrQWiOD8WW0bZPreQVWUgOyQ56Foyan1CkRfM8RRDeybs6tOUNo_InH1ZYgHvU8KbjVWo2RwTSOLucGqVd0kgvR85voK",
+"type": "fetch"
+}
+]

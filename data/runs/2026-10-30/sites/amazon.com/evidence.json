@@ -1,0 +1,244 @@
+{
+  "domain": "amazon.com",
+  "url": "https://amazon.com/",
+  "status": "no_banner",
+  "reason": "no consent buttons found",
+  "final_url": "https://www.amazon.com/",
+  "accept_clicks": null,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": null,
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "doubleclick.net",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 4
+    },
+    {
+      "domain": "adnxs.com",
+      "entity": "Microsoft",
+      "category": "Advertising",
+      "requests": 3
+    },
+    {
+      "domain": "adscale.de",
+      "entity": "Ströer Core",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "bidswitch.net",
+      "entity": "Criteo",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "casalemedia.com",
+      "entity": "IndexExchange",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "connatix.com",
+      "entity": "JWP Connatix",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "demdex.net",
+      "entity": "Adobe",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "fwmrm.net",
+      "entity": "Comcast",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "openx.net",
+      "entity": "OpenX",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "scorecardresearch.com",
+      "entity": "comScore",
+      "category": "Analytics",
+      "requests": 2
+    },
+    {
+      "domain": "semasio.net",
+      "entity": "SearchForce",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "smartadserver.com",
+      "entity": "Equativ",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "360yield.com",
+      "entity": "Azerion",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "3lift.com",
+      "entity": "TripleLift",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "agkn.com",
+      "entity": "TransUnion",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "dmxleo.com",
+      "entity": "DailyMotion",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "exelator.com",
+      "entity": "Nielsen",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "fout.jp",
+      "entity": "FreakOut",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "gumgum.com",
+      "entity": "GumGum",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "id5-sync.com",
+      "entity": "ID5",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "ispot.tv",
+      "entity": "iSpot",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "kargo.com",
+      "entity": "Kargo",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "loopme.me",
+      "entity": "LoopMe",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "mookie1.com",
+      "entity": "WPP",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "ninthdecimal.com",
+      "entity": "InMarket",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "postrelease.com",
+      "entity": "Life360",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "presage.io",
+      "entity": "Ogury",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "pubmatic.com",
+      "entity": "PubMatic",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "richaudience.com",
+      "entity": "EXTE",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "rubiconproject.com",
+      "entity": "Magnite",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "samba.tv",
+      "entity": "Samba.tv",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "samplicio.us",
+      "entity": "Cint",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "taboola.com",
+      "entity": "Taboola",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "tremorhub.com",
+      "entity": "Nexxen",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "yieldmo.com",
+      "entity": "Yieldmo",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "zeotap.com",
+      "entity": "Zeotap",
+      "category": "Advertising",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 202,
+  "pre_consent_requests": 229,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

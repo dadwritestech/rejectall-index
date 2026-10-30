@@ -1,0 +1,248 @@
+[
+{
+"t": 0.0,
+"host": "myfritz.net",
+"url": "https://myfritz.net/",
+"type": "document"
+},
+{
+"t": 0.07,
+"host": "www.myfritz.net",
+"url": "https://www.myfritz.net/devices/",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/reporting-bundle.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/css/myfritz-discovery-bootstrap-v2.css",
+"type": "stylesheet"
+},
+{
+"t": 0.1,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/jquery.slim.min.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/popper.min.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/bootstrap.min.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "www.myfritz.net",
+"url": "https://www.myfritz.net/devices/assets/extra-app-config.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "www.myfritz.net",
+"url": "https://www.myfritz.net/devices/polyfills-DVBPDC2B.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "www.myfritz.net",
+"url": "https://www.myfritz.net/devices/main-XUB4GH3B.js",
+"type": "script"
+},
+{
+"t": 0.19,
+"host": "www.myfritz.net",
+"url": "https://www.myfritz.net/devices/styles-TCK5RVZL.css",
+"type": "stylesheet"
+},
+{
+"t": 0.2,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-Regular.ttf.woff2",
+"type": "font"
+},
+{
+"t": 0.21,
+"host": "piwik.avm.de",
+"url": "https://piwik.avm.de/piwik/piwik.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.myfritz.net",
+"url": "https://www.myfritz.net/devices/config/environment",
+"type": "fetch"
+},
+{
+"t": 0.28,
+"host": "www.myfritz.net",
+"url": "https://www.myfritz.net/devices/assets/i18n/en.json",
+"type": "xhr"
+},
+{
+"t": 0.28,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/realms/myfritz/protocol/openid-connect/auth",
+"type": "document"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/css/myfritz-bootstrap.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/resources/tqgit/login/myfritz/css/styles.css",
+"type": "stylesheet"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/resources/tqgit/login/myfritz/js/login-fp.js",
+"type": "script"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/jquery.slim.min.js",
+"type": "script"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/popper.min.js",
+"type": "script"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/uap.min.js",
+"type": "script"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/myffp.min.js",
+"type": "script"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/bootstrap.min.js",
+"type": "script"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/icons/generic/fritz-logo-white.svg",
+"type": "image"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/images/help.png",
+"type": "image"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/resources/tqgit/login/myfritz/js/login.js",
+"type": "script"
+},
+{
+"t": 0.31,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/resources/tqgit/login/myfritz/js/pweye.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/resources/tqgit/login/myfritz/js/url-history.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/js/announcements-bundle.js",
+"type": "script"
+},
+{
+"t": 0.32,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/icons/generic/fritz-logo-red.svg",
+"type": "image"
+},
+{
+"t": 0.32,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/resources/tqgit/login/myfritz/js/load-pwk.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-Black.ttf.woff2",
+"type": "font"
+},
+{
+"t": 0.36,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-Regular.ttf.woff2",
+"type": "font"
+},
+{
+"t": 0.37,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/images/login-background.png",
+"type": "image"
+},
+{
+"t": 0.37,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/fonts/fds-iconfont/FDS-Iconfont.woff2",
+"type": "font"
+},
+{
+"t": 0.37,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-Semibold.ttf.woff2",
+"type": "font"
+},
+{
+"t": 0.37,
+"host": "sso.myfritz.net",
+"url": "https://sso.myfritz.net/static/fonts/fontawesome-webfont.woff",
+"type": "font"
+},
+{
+"t": 0.37,
+"host": "piwik.avm.de",
+"url": "https://piwik.avm.de/piwik/piwik.js",
+"type": "script"
+},
+{
+"t": 0.46,
+"host": "piwik.avm.de",
+"url": "https://piwik.avm.de/piwik/piwik.php",
+"type": "ping"
+},
+{
+"t": 0.47,
+"host": "gateway.myfritz.net",
+"url": "https://gateway.myfritz.net/api/announcement/v1/public/de",
+"type": "xhr"
+}
+]

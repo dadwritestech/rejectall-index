@@ -1,0 +1,842 @@
+[
+{
+"t": 0.0,
+"host": "reddit.com",
+"url": "https://reddit.com/",
+"type": "document"
+},
+{
+"t": 0.04,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/",
+"type": "document"
+},
+{
+"t": 0.08,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/",
+"type": "document"
+},
+{
+"t": 0.33,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/events/preload-head",
+"type": "other"
+},
+{
+"t": 0.33,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/shreddit/styles-css-B5YFo3Js.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "i.redd.it",
+"url": "https://i.redd.it/cms/b306fd8870bfee4b_snoo_map.png",
+"type": "image"
+},
+{
+"t": 0.45,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_2qh1i/styles/communityIcon_p6kb2m6b185b1.png",
+"type": "image"
+},
+{
+"t": 0.45,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_2rfxx/styles/communityIcon_9yj66cjf8oq61.png",
+"type": "image"
+},
+{
+"t": 0.45,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_2xinb/styles/communityIcon_qqtvyeb0bj221.png",
+"type": "image"
+},
+{
+"t": 0.45,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_388p4/styles/communityIcon_hlczkoi3mr3d1.jpg",
+"type": "image"
+},
+{
+"t": 0.45,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_2s0fe/styles/communityIcon_2cbkzwfs6kr21.png",
+"type": "image"
+},
+{
+"t": 0.49,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 0.49,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/update-recaptcha",
+"type": "fetch"
+},
+{
+"t": 0.49,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/data-protection-consent",
+"type": "fetch"
+},
+{
+"t": 0.5,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/shreddit/assets/pix/ads/1.png",
+"type": "image"
+},
+{
+"t": 0.5,
+"host": "w3-reporting.reddit.com",
+"url": "https://w3-reporting.reddit.com/reports",
+"type": "ping"
+},
+{
+"t": 0.5,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/perfMetrics",
+"type": "ping"
+},
+{
+"t": 0.51,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/shreddit/assets/ad/image/1.png",
+"type": "image"
+},
+{
+"t": 0.52,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/styling-overrides/",
+"type": "fetch"
+},
+{
+"t": 0.6,
+"host": "w3-reporting.reddit.com",
+"url": "https://w3-reporting.reddit.com/policy",
+"type": "fetch"
+},
+{
+"t": 0.6,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/client",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "appleid.cdn-apple.com",
+"url": "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/graphql",
+"type": "fetch"
+},
+{
+"t": 0.65,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 0.66,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/7jhvwsc5aezz_t5_3nqvj/snoo_thoughtful",
+"type": "image"
+},
+{
+"t": 0.69,
+"host": "preview.redd.it",
+"url": "https://preview.redd.it/finding-these-in-my-bed-every-day-what-is-it-v0-of9kx9dxpfyh1.jpeg",
+"type": "image"
+},
+{
+"t": 0.69,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/ad1td4bx9ezz_t5_3nqvj/upvote",
+"type": "image"
+},
+{
+"t": 0.71,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_kz98g/styles/communityIcon_87lo7rect6x71.png",
+"type": "image"
+},
+{
+"t": 0.71,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_75mtee/styles/profileIcon_5n1rff7h2j1a1.png",
+"type": "image"
+},
+{
+"t": 0.71,
+"host": "external-preview.redd.it",
+"url": "https://external-preview.redd.it/dHZxcHkyMHdmZnloMURsCptBfgqJ6xM4GkkX8gfm6ZvenJUX2ywUZ_X_04cB.jpeg",
+"type": "image"
+},
+{
+"t": 0.71,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_2r397/styles/communityIcon_ds28lp4dy5rg1.png",
+"type": "image"
+},
+{
+"t": 0.71,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_35m5e/styles/communityIcon_7sjei2quwpw91.png",
+"type": "image"
+},
+{
+"t": 0.72,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/feeds/popular-feed",
+"type": "fetch"
+},
+{
+"t": 0.72,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 0.72,
+"host": "alb.reddit.com",
+"url": "https://alb.reddit.com/i.gif",
+"type": "image"
+},
+{
+"t": 0.72,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 0.77,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 0.77,
+"host": "alb.reddit.com",
+"url": "https://alb.reddit.com/i.gif",
+"type": "image"
+},
+{
+"t": 0.77,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 0.77,
+"host": "alb.reddit.com",
+"url": "https://alb.reddit.com/i.gif",
+"type": "image"
+},
+{
+"t": 0.77,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/style",
+"type": "stylesheet"
+},
+{
+"t": 0.78,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/button",
+"type": "document"
+},
+{
+"t": 0.78,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 0.82,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/anchor",
+"type": "document"
+},
+{
+"t": 0.82,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 0.83,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/sw.js",
+"type": "script"
+},
+{
+"t": 0.85,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/shreddit/action-bar-client-css-Bux5jrvN.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/shreddit/comment-preview-unit-client-css-CES0qfzD.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 0.92,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/webworker.js",
+"type": "script"
+},
+{
+"t": 0.92,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+"type": "image"
+},
+{
+"t": 0.93,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 0.95,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v62/4UaRrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iq2vgCI.woff2",
+"type": "font"
+},
+{
+"t": 0.96,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "other"
+},
+{
+"t": 0.97,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/events/preload-head",
+"type": "fetch"
+},
+{
+"t": 6.98,
+"host": "w3-reporting.reddit.com",
+"url": "https://w3-reporting.reddit.com/reports",
+"type": "ping"
+},
+{
+"t": 6.98,
+"host": "preview.redd.it",
+"url": "https://preview.redd.it/finding-these-in-my-bed-every-day-what-is-it-v0-wgdre7dxpfyh1.jpeg",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "preview.redd.it",
+"url": "https://preview.redd.it/finding-these-in-my-bed-every-day-what-is-it-v0-fsinmadxpfyh1.jpeg",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "preview.redd.it",
+"url": "https://preview.redd.it/finding-these-in-my-bed-every-day-what-is-it-v0-sco23adxpfyh1.jpeg",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/compression-dictionaries/br/dict-2c37346f688ffbd4606891f5772447e7ac3b5d42eb9c6302edb30ad48ad12f6f.dat",
+"type": "other"
+},
+{
+"t": 6.98,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 6.98,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 6.98,
+"host": "external-preview.redd.it",
+"url": "https://external-preview.redd.it/dHZxcHkyMHdmZnloMURsCptBfgqJ6xM4GkkX8gfm6ZvenJUX2ywUZ_X_04cB.jpeg",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 6.98,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/HLSPlaylist.m3u8",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "i.redd.it",
+"url": "https://i.redd.it/snoovatar/snoo_assets/marketing/bravo_40.png",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_360.m3u8",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_AUDIO_128.m3u8",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_360.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_AUDIO_128.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_360.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_AUDIO_128.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/reload",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_AUDIO_128.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_360.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_AUDIO_128.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_360.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_AUDIO_128.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "v.redd.it",
+"url": "https://v.redd.it/r291ai0wffyh1/CMAF_360.mp4",
+"type": "xhr"
+},
+{
+"t": 6.98,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 6.98,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/graphql",
+"type": "fetch"
+},
+{
+"t": 6.98,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/clr",
+"type": "fetch"
+},
+{
+"t": 6.98,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/dhbi1omcaezz_t5_3nqvj/snoo_simple_smile",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/wzeq05mbqjkc1_t5_22i0/transparent",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/5atpv9pyenjf1_t5_2qh1i/donkey_right",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/7jhvwsc5aezz_t5_3nqvj/snoo_thoughtful",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/0uuesjpo525d1_t5_4kmgkj/sticker_2",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/29ipi68ejaif1_t5_5tdqj0/DumpsterFire_APNG",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/f0fypg8k1guz_t5_3nqvj/doge",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/aaw00nxcc5te1_t5_cz8tl0/poopnice",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "emoji.redditmedia.com",
+"url": "https://emoji.redditmedia.com/jcx2u2uy584d1_t5_2r4mj/wasgeht",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "external-preview.redd.it",
+"url": "https://external-preview.redd.it/eWw4dnhwc2p2c3RoMS_0XihfTCh0OsSiyE91iG6XSmUMPpvrPLuxbB2Y65Km.jpeg",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "external-preview.redd.it",
+"url": "https://external-preview.redd.it/aXRuYmhyM205bHdoMdqSGV5953PmOPqRTQN77lW0Um-w1Cs8mJGZtAILgcG7.jpeg",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "external-preview.redd.it",
+"url": "https://external-preview.redd.it/what-is-growling-from-the-street-gutter-at-me-and-my-dog-on-v0-cHZrbzA4OWppZ3loMeX01tfRvdbP5mSQmKZF0q7mAXWIUv3bDp97AdxMzkGg.jpeg",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "external-preview.redd.it",
+"url": "https://external-preview.redd.it/usa-ga-charger-meets-a-truck-trying-to-make-a-wide-turn-v0-eWM5dnI5a3o4Z3loMaGRuN_DZUwhTHYWeKU6g66SbB6YvmuWVHSGUZ6P50VA.png",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "external-preview.redd.it",
+"url": "https://external-preview.redd.it/tiktoker-tries-to-show-love-to-homeless-person-for-content-v0-aDYyajBkM25vZ3loMbxxn21CRRV2xJwH6j4TMMkjVBxkA0oSMVoKOK5X8ZY1.png",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "external-preview.redd.it",
+"url": "https://external-preview.redd.it/funniest-snl-clip-ive-ever-seen-v0-NTE1OTc0eGNnZnloMYgrWCklwdXlpEiJxLWfdLoJ5t6C94Ahq8H8YuvDSl3c.jpeg",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "i.redd.it",
+"url": "https://i.redd.it/snoovatar/snoo_assets/marketing/Heartwarming_40.png",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "i.redd.it",
+"url": "https://i.redd.it/snoovatar/snoo_assets/marketing/mindblown_40.png",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "i.redd.it",
+"url": "https://i.redd.it/snoovatar/snoo_assets/marketing/Lol_40.png",
+"type": "image"
+},
+{
+"t": 6.98,
+"host": "i.redd.it",
+"url": "https://i.redd.it/snoovatar/snoo_assets/marketing/regret_40.png",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_2qib0/styles/communityIcon_s4g0fz2yssma1.png",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "preview.redd.it",
+"url": "https://preview.redd.it/man-gets-worlds-first-double-arm-and-shoulder-transplant-v0-4c7monmy2kyh1.jpeg",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_3ii04/styles/communityIcon_zfy6pyor6dj81.png",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_22i0/styles/communityIcon_iohlccw565a81.png",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "external-preview.redd.it",
+"url": "https://external-preview.redd.it/6EPjIiALY_pfdZSKQalS5QpbLJ5IJflCSQqTUh5538s.jpeg",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_iwx5ea/styles/communityIcon_k3yabz6t59ch1.png",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "preview.redd.it",
+"url": "https://preview.redd.it/i-get-paid-to-not-officiate-weddings-v0-nrl6jf2mnfyh1.jpeg",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "styles.redditmedia.com",
+"url": "https://styles.redditmedia.com/t5_99kvpx/styles/profileIcon_xc126vvvoize1.jpg",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "www.redditstatic.com",
+"url": "https://www.redditstatic.com/js/concat",
+"type": "script"
+},
+{
+"t": 6.99,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "pi.reddit.com",
+"url": "https://pi.reddit.com/v4/p",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "alb.reddit.com",
+"url": "https://alb.reddit.com/i.gif",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "w3-reporting.reddit.com",
+"url": "https://w3-reporting.reddit.com/reports",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 9.14,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 9.14,
+"host": "alb.reddit.com",
+"url": "https://alb.reddit.com/i.gif",
+"type": "image"
+},
+{
+"t": 9.14,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 11.25,
+"host": "play.google.com",
+"url": "https://play.google.com/log",
+"type": "fetch"
+},
+{
+"t": 11.35,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 15.45,
+"host": "w3-reporting.reddit.com",
+"url": "https://w3-reporting.reddit.com/reports",
+"type": "ping"
+},
+{
+"t": 15.45,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 15.54,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+},
+{
+"t": 15.54,
+"host": "alb.reddit.com",
+"url": "https://alb.reddit.com/i.gif",
+"type": "image"
+},
+{
+"t": 15.57,
+"host": "www.reddit.com",
+"url": "https://www.reddit.com/svc/shreddit/events",
+"type": "fetch"
+}
+]

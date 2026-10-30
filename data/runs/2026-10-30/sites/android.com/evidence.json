@@ -1,0 +1,332 @@
+{
+  "domain": "android.com",
+  "url": "https://android.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.android.com/",
+  "accept_clicks": null,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": true,
+  "llm_calls": [
+    {
+      "model": "gemma-4-12b",
+      "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Weitere Informationen\n1: Ausblenden\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+      "answer": "```json\n{\"accept\": null, \"reject\": 1, \"settings\": 0}\n```",
+      "error": null,
+      "ms": 3104,
+      "layer": 1,
+      "result": {
+        "a2f0-1": "reject",
+        "a2f0-0": "settings"
+      }
+    }
+  ],
+  "pre_consent_trackers": [
+    {
+      "domain": "google-analytics.com",
+      "entity": "Google",
+      "category": "Analytics",
+      "requests": 2
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "llm_located": [
+    "reject",
+    "settings"
+  ],
+  "banner_text": "Auf www.android.com werden Google eigene Cookies verwendet, um Google-Dienste bereitzustellen, deren Qualität zu verbessern und Datenverkehr zu analysieren. Weitere Informationen Ausblenden",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Weitere Informationen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Ausblenden",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Jetzt kaufen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Video Play/pause",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Die neuesten Funktionen ansehen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Go to the next page",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Video Play/pause",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Die Möglichkeiten von KI entdecken",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Weitere Informationen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Sicherheit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutz",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Physische Sicherheit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Funktionen für Nutzer mit beeinträchtigem Sehvermögen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Funktionen für Nutzer mit beeinträchtigem Hörvermögen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Funktionen für Nutzer mit Bewegungs einschränkungen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Gemini",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Circle to Search",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mehr KI",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Android TV",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Digitaler Autoschlüssel",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Google Mobile-Dienste (GMS)",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Googlebook",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Übersicht",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Geräte für Unternehmen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Support für Unternehmen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Android Enterprise-Blog",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Android-Blog",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Pressebereich",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Presseteam kontaktieren",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Ressourcen für Entwickler",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Android Studio und SDK",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Open-Source-Projekt für Android",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "So funktioniert Google Play",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Hilfe",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mein Gerät finden",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "An Nutzerstudien teilnehmen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Android",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 88,
+  "first_click_t": 13.86,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 13.86,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Ausblenden",
+      "id": "a2f0-1",
+      "result": "ok"
+    }
+  ]
+}

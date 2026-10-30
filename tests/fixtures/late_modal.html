@@ -1,0 +1,6 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Late</title><style>.bn{position:fixed;bottom:0;left:0;right:0;background:#eee;padding:20px;z-index:99}.hide{display:none}</style></head><body><h1>Broadcaster</h1>
+<div class="bn" id="ownbar" style="height:60px"><p>We use cookies.</p><button onclick="this.parentNode.remove()">Yes, I agree</button><button>No, take me to settings</button></div>
+<script>setTimeout(()=>{const d=document.createElement('div');d.id='tcf';d.setAttribute('role','dialog');
+d.style.cssText='position:fixed;top:10%;left:20%;width:60%;height:70%;background:#fff;z-index:100';
+d.innerHTML='<p>We and our 54 partners use cookies and process personal data.</p><button id=a>I agree</button><button id=r>I do not agree</button><button>Manage options</button>';
+document.body.appendChild(d);d.querySelectorAll('#a,#r').forEach(b=>b.onclick=()=>d.remove());},500)</script></body></html>

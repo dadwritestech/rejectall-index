@@ -1,0 +1,14 @@
+[
+{
+"t": 0.0,
+"host": "vk.com",
+"url": "https://vk.com/",
+"type": "document"
+},
+{
+"t": 0.16,
+"host": "vk.com",
+"url": "https://vk.com/challenge.html",
+"type": "document"
+}
+]

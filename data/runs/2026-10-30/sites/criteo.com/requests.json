@@ -1,0 +1,1046 @@
+[
+{
+"t": 0.0,
+"host": "criteo.com",
+"url": "https://criteo.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/",
+"type": "document"
+},
+{
+"t": 0.1,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/fonts/mona-sans/Mona-Sans-RegularWide.woff",
+"type": "font"
+},
+{
+"t": 0.1,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/fonts/graphik-lc/Graphik-Regular-Cy-Web.woff2",
+"type": "font"
+},
+{
+"t": 0.1,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/fonts/graphik-lc/Graphik-Medium-Cy-Web.woff2",
+"type": "font"
+},
+{
+"t": 0.1,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/fonts/graphik-lc/Graphik-Semibold-Cy-Web.woff2",
+"type": "font"
+},
+{
+"t": 0.1,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/fonts/fa-solid-900.woff2",
+"type": "font"
+},
+{
+"t": 0.1,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/fonts/fa-brands-400.woff2",
+"type": "font"
+},
+{
+"t": 0.1,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/css/theme.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/sass/select2.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/tablepress-combined.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/plugins/tablepress-responsive-tables/css/tablepress-responsive.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-includes/js/jquery/jquery.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-includes/js/jquery/jquery-migrate.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/js/cookies.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "cdn.jsdelivr.net",
+"url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2026/06/Button.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/img/criteo-logo-orange.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2026/10/Rethink-app-retargeting.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2026/10/Best-Practices-badge-%E2%80%93-380%C3%97175-2.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2026/10/full-funnel-holiday-marketing-strategy.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/04/Academy-featured.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2023/02/Careers-Featured-Image-v2-1.jpg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Homepage-Hero-bg.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/bounding-box.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/PG_Logo_SVG.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/comcast.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/shopify-2.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/09/WPP-Media_Wordmark_White.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/deliveroo-1.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/04/hp-advertisers-icon-1.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/bento-retailers.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/bento-publishers.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/bento-agencies.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/hp-bento-performance-media-4.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/hp-bento-advertisers-retail-media.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/adidas_logo.svg.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/ysl_beauty_logo.svg.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/hp-bento-retailers-goals.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/hp-bento-retailers-brandsagencies.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/freshdirect_logo.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/hp-bento-publishers-commerce-difference.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/hp-bento-publishers-criteo-demand.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/publishers-commerce-media-2.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/raptive_logo.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/hp-bento-agencies-commerce-Al.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/hp-bento-agencies-product-level-insights.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/agencies_efficient-outcomes.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/omg_logo.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/aventon-seeklogo.com-2.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Adele-Nasr-Headshot.jpg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2026/02/Wine-Country-Logo-250.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2024/05/Patch-Media-ss-logo.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2024/01/Represent_Black.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Group-1000004380.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Group-1000004326.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Frame-1000004615.svg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/js/widgets/v3/widgets.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/plugins/rw-quick-page-and-post-redirects/js/qppr_frontend_script.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/js/popper.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/js/bs4.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/js/iframe.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/js/select2.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/js/theme.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/js/scrolllock.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.0/jquery.matchHeight-min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/plugins/motionpage/assets/js/gsap/gsap.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/plugins/motionpage/assets/js/gsap/SplitText.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/plugins/motionpage/assets/js/gsap/ScrollTrigger.min.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "cdn.jsdelivr.net",
+"url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js",
+"type": "script"
+},
+{
+"t": 0.19,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/img/arrow-2023-black.svg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/img/icon-search-white.svg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/img/arrow-2023-white.svg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Customer-Acquisition.svg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Customer-Retention.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Contextual-Advertising.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Retail-Media-Platform.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Audiences.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Dynamic-Retargeting.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Video-Advertising.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Ad-Trust-and-Safety.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Addresssability.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/img/carousel-nav-black.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2026/02/Wine-Country-hero-e1772035182800.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2024/05/Patch-Media-ss-hero.jpg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2024/10/Represent-Clothing-ss-hero-min.png",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/img/technology_Illustration_XL-LG.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/750M-Asset.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/img/contact-sales-2025.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2025/03/Lets-talk.png",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/img/arrow-2025-purple.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/img/x_logo.svg",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/fonts/fa-brands-400.woff",
+"type": "font"
+},
+{
+"t": 0.2,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/js/wavegradient.js",
+"type": "script"
+},
+{
+"t": 0.21,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/themes/criteo2017/fonts/fa-brands-400.ttf",
+"type": "font"
+},
+{
+"t": 0.24,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff2",
+"type": "font"
+},
+{
+"t": 0.31,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/widgets/v3/offset-website",
+"type": "document"
+},
+{
+"t": 0.4,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/ErrorContent.Dp4rwa0M.css",
+"type": "stylesheet"
+},
+{
+"t": 0.4,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/D3E3_sXO.js",
+"type": "script"
+},
+{
+"t": 0.4,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/3b81Zzg9.js",
+"type": "script"
+},
+{
+"t": 0.4,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/DuSk8IsZ.js",
+"type": "script"
+},
+{
+"t": 0.4,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/D91VIP7q.js",
+"type": "script"
+},
+{
+"t": 0.4,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/builds/meta/41364f8d-1f15-4c7a-b2c1-42a4a987a5fc.json",
+"type": "other"
+},
+{
+"t": 0.42,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/CaHteq90.js",
+"type": "other"
+},
+{
+"t": 0.42,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/BHg9PtNA.js",
+"type": "other"
+},
+{
+"t": 0.46,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/Manrope-normal-400-latin.DHIcAJRg.woff2",
+"type": "font"
+},
+{
+"t": 0.47,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_nuxt/offset-website.Cs00L6hr.css",
+"type": "stylesheet"
+},
+{
+"t": 0.51,
+"host": "cdn.eu.amplitude.com",
+"url": "https://cdn.eu.amplitude.com/libs/analytics-browser-2.9.0-min.js.gz",
+"type": "script"
+},
+{
+"t": 0.51,
+"host": "web.cmp.usercentrics.eu",
+"url": "https://web.cmp.usercentrics.eu/ui/loader.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "www2.criteo.com",
+"url": "https://www2.criteo.com/pdt.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "unpkg.com",
+"url": "https://unpkg.com/web-vitals@2.1.0/dist/web-vitals.umd.js",
+"type": "script"
+},
+{
+"t": 0.53,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/ccm/collect",
+"type": "fetch"
+},
+{
+"t": 0.54,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/assets/js/bootstrap.min.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_i18n/en/messages.json",
+"type": "fetch"
+},
+{
+"t": 0.57,
+"host": "widgets.tree-nation.com",
+"url": "https://widgets.tree-nation.com/_i18n/en/messages.json",
+"type": "fetch"
+},
+{
+"t": 0.58,
+"host": "web.cmp.usercentrics.eu",
+"url": "https://web.cmp.usercentrics.eu/ui/v/4.26.0/WebSdk.lib.2adb78e5.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "v1.api.service.cmp.usercentrics.eu",
+"url": "https://v1.api.service.cmp.usercentrics.eu/latest/ruleSetData",
+"type": "fetch"
+},
+{
+"t": 0.66,
+"host": "v1.api.service.cmp.usercentrics.eu",
+"url": "https://v1.api.service.cmp.usercentrics.eu/latest/core/eETjrQB6y3u-TA",
+"type": "fetch"
+},
+{
+"t": 0.68,
+"host": "web.cmp.usercentrics.eu",
+"url": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+"type": "document"
+},
+{
+"t": 0.68,
+"host": "app.usercentrics.eu",
+"url": "https://app.usercentrics.eu/session/1px.png",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "v1.api.service.cmp.usercentrics.eu",
+"url": "https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/eETjrQB6y3u-TA/8.1.72/8.1.72",
+"type": "fetch"
+},
+{
+"t": 0.73,
+"host": "web.cmp.usercentrics.eu",
+"url": "https://web.cmp.usercentrics.eu/ui/v/4.26.0/GdprCmpController.7cf86ca8.js",
+"type": "script"
+},
+{
+"t": 0.75,
+"host": "uct.service.usercentrics.eu",
+"url": "https://uct.service.usercentrics.eu/uct",
+"type": "image"
+},
+{
+"t": 0.76,
+"host": "cdn.drda.io",
+"url": "https://cdn.drda.io/scripts/analytics/next/dreamdata.cl.min.js",
+"type": "script"
+},
+{
+"t": 0.76,
+"host": "consent-api.service.consent.usercentrics.eu",
+"url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+"type": "fetch"
+},
+{
+"t": 0.76,
+"host": "web.cmp.usercentrics.eu",
+"url": "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.90eada8b.js",
+"type": "script"
+},
+{
+"t": 0.76,
+"host": "web.cmp.usercentrics.eu",
+"url": "https://web.cmp.usercentrics.eu/ui/v/4.26.0/UcGdprCmpView.44ce6a49.js",
+"type": "script"
+},
+{
+"t": 0.78,
+"host": "uct.service.usercentrics.eu",
+"url": "https://uct.service.usercentrics.eu/uct",
+"type": "image"
+},
+{
+"t": 0.78,
+"host": "web.cmp.usercentrics.eu",
+"url": "https://web.cmp.usercentrics.eu/ui/v/4.26.0/sections.5a153160.js",
+"type": "script"
+},
+{
+"t": 0.8,
+"host": "web.cmp.usercentrics.eu",
+"url": "https://web.cmp.usercentrics.eu/ui/v/4.26.0/secondLayer.03af4dcd.js",
+"type": "script"
+},
+{
+"t": 0.81,
+"host": "web.cmp.usercentrics.eu",
+"url": "https://web.cmp.usercentrics.eu/ui/v/4.26.0/getToastifyStyle.4f0a73d7.js",
+"type": "script"
+},
+{
+"t": 0.81,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/assets/js/init.min.js",
+"type": "script"
+},
+{
+"t": 0.87,
+"host": "cdn.dreamdata.cloud",
+"url": "https://cdn.dreamdata.cloud/api/v1/p",
+"type": "fetch"
+},
+{
+"t": 0.91,
+"host": "www2.criteo.com",
+"url": "https://www2.criteo.com/analytics",
+"type": "xhr"
+},
+{
+"t": 0.91,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/assets/styles/init.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.92,
+"host": "criteo.my.salesforce-scrt.com",
+"url": "https://criteo.my.salesforce-scrt.com/embeddedservice/v1/embedded-service-config",
+"type": "fetch"
+},
+{
+"t": 0.92,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/assets/htdocs/filepreview.min.html",
+"type": "document"
+},
+{
+"t": 0.92,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/",
+"type": "document"
+},
+{
+"t": 0.92,
+"host": "criteo.my.salesforce-scrt.com",
+"url": "https://criteo.my.salesforce-scrt.com/embeddedservice/v1/businesshours",
+"type": "fetch"
+},
+{
+"t": 1.02,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/assets/js/filepreview.min.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/assets/styles/filepreview.min.css",
+"type": "stylesheet"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/framework/81f9765ff3/prod/lwr_loader",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/framework/69353f3b2d/prod/lwr_bootstrap",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/framework/203fd77f45/prod/lwr_app_bootstrap_hook",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/framework/c6f5ab53a7/prod/lwr_lwc",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/framework/6de35fcd10/prod/lwr_app",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/view/f72eed2ef17f3b9bc408c38de2070f6d/prod/en-US/home_view",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/component/46e285668fa0af66aeabbfffe41f3aeb/prod/en-US/force/ldsEngineWebruntime_cmp",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/component/2e18f25caaabd15224694dd01ef047e9/prod/en-US/force/ldsWebruntimeOneStoreInit_cmp",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/component/259a789b5905e4a3e65c0942cc97421d/prod/en-US/force/luvioLwcBindings_cmp",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/component/5b8557d8725fba2dbf2e6a4968ec430c/prod/en-US/force/luvioRuntimeWebruntime_cmp",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/view/8603e197ff5c4c9c273d18a5093dbfdb/prod/en-US/frame_view",
+"type": "script"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/assets/styles/embedded-messaging-styling.min.css",
+"type": "stylesheet"
+},
+{
+"t": 1.05,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/assets/styles/salesforce-lightning-design-system.min.css",
+"type": "stylesheet"
+},
+{
+"t": 1.16,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/o11y/246/config",
+"type": "fetch"
+},
+{
+"t": 1.16,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/module/%40salesforce%2FfeatureFlag%2FBaseComponents.org.enablePrivateMethodsComponents262Dev",
+"type": "script"
+},
+{
+"t": 1.19,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/log/metrics",
+"type": "ping"
+},
+{
+"t": 1.33,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/component/f2955555e0a68e9a0806e1fb4ad01992/prod/en-US/lightning/auraDynamic_cmp",
+"type": "script"
+},
+{
+"t": 1.35,
+"host": "js-agent.newrelic.com",
+"url": "https://js-agent.newrelic.com/nr-full-1.324.1.min.js",
+"type": "script"
+},
+{
+"t": 7.36,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/sfsites/c/resource/Graphik",
+"type": "font"
+},
+{
+"t": 7.36,
+"host": "www.criteo.com",
+"url": "https://www.criteo.com/wp-content/uploads/2026/02/Icon-v1.png",
+"type": "image"
+},
+{
+"t": 7.36,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/component/769a3bbaf4b329a78402db88550744d6/prod/en-US/o11y/simple_collector_cmp",
+"type": "script"
+},
+{
+"t": 7.36,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/component/0af3d31fc8338a2518abfa12ed682846/prod/en-US/o11y/collectors_cmp",
+"type": "script"
+},
+{
+"t": 7.36,
+"host": "criteo.my.site.com",
+"url": "https://criteo.my.site.com/ESWCriteoAssistant1769612549601/webruntime/log/metrics",
+"type": "fetch"
+},
+{
+"t": 7.36,
+"host": "bam.nr-data.net",
+"url": "https://bam.nr-data.net/1/bb94583995",
+"type": "xhr"
+},
+{
+"t": 7.36,
+"host": "bam.nr-data.net",
+"url": "https://bam.nr-data.net/events/1/bb94583995",
+"type": "xhr"
+},
+{
+"t": 7.36,
+"host": "bam.nr-data.net",
+"url": "https://bam.nr-data.net/jserrors/1/bb94583995",
+"type": "xhr"
+},
+{
+"t": 7.36,
+"host": "bam.nr-data.net",
+"url": "https://bam.nr-data.net/events/1/bb94583995",
+"type": "xhr"
+},
+{
+"t": 9.62,
+"host": "uct.service.usercentrics.eu",
+"url": "https://uct.service.usercentrics.eu/uct",
+"type": "image"
+},
+{
+"t": 9.62,
+"host": "consent-api.service.consent.usercentrics.eu",
+"url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+"type": "fetch"
+}
+]

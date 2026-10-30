@@ -1,0 +1,422 @@
+[
+{
+"t": 0.0,
+"host": "linkedin.com",
+"url": "https://linkedin.com/",
+"type": "document"
+},
+{
+"t": 0.2,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/",
+"type": "document"
+},
+{
+"t": 0.67,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/8bnxn2t783wxez9h12gkxfnlx",
+"type": "stylesheet"
+},
+{
+"t": 0.67,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+"type": "image"
+},
+{
+"t": 0.67,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/azyj0u7xl6tpxe5fn3t3djk7p",
+"type": "script"
+},
+{
+"t": 0.67,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/26g24klhu4k9p8zgtz6fs4k01",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/29rdkxlvag0d3cpj96fiilbju",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/fx69lqty609xpf6l4xb6bs3a",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/51t74mlo1ty7vakn3a80a9jcp",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/8bnxn2t783wxez9h12gkxfnlx",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/26g24klhu4k9p8zgtz6fs4k01",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/azyj0u7xl6tpxe5fn3t3djk7p",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/homepage-guest/manifest.json",
+"type": "manifest"
+},
+{
+"t": 6.79,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/litms/api/metadata/user",
+"type": "xhr"
+},
+{
+"t": 6.79,
+"host": "platform.linkedin.com",
+"url": "https://platform.linkedin.com/litms/utag/homepage-guest-frontend/utag.js",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/4zqr0f9jf98vi2nkijyc3bex2",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/5ofmdgombsj3cqmfn03qb7h60",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/29h8hsjuomfp50lam5ipnc3uh",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/admayac2rnonsqhz9v3rzwcyu",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "static.licdn.com",
+"url": "https://static.licdn.com/aero-v1/sc/h/c4cba545dp8erex8bfiynf35e",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/homepage-guest/api/ingraphs/gauge",
+"type": "fetch"
+},
+{
+"t": 6.79,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/security/csp",
+"type": "other"
+},
+{
+"t": 6.79,
+"host": "ponf.linkedin.com",
+"url": "https://ponf.linkedin.com/pixel/tracking.png",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise.js",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "li.protechts.net",
+"url": "https://li.protechts.net/index.html",
+"type": "document"
+},
+{
+"t": 6.79,
+"host": "edge-auth.microsoft.com",
+"url": "https://edge-auth.microsoft.com/v0.5/signinprompt",
+"type": "document"
+},
+{
+"t": 6.79,
+"host": "edge-auth.microsoft.com",
+"url": "https://edge-auth.microsoft.com/v0.5/signinbutton",
+"type": "document"
+},
+{
+"t": 6.8,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/button",
+"type": "document"
+},
+{
+"t": 6.8,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/status",
+"type": "xhr"
+},
+{
+"t": 6.8,
+"host": "client.protechts.net",
+"url": "https://client.protechts.net/PXdOjV695v/main.min.js",
+"type": "script"
+},
+{
+"t": 6.8,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 6.8,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+},
+{
+"t": 6.8,
+"host": "tzm.protechts.net",
+"url": "https://tzm.protechts.net/ns",
+"type": "xhr"
+},
+{
+"t": 6.8,
+"host": "collector-pxdojv695v.protechts.net",
+"url": "https://collector-pxdojv695v.protechts.net/api/v2/msft",
+"type": "xhr"
+},
+{
+"t": 6.8,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/litms/api/events/tms-load",
+"type": "xhr"
+},
+{
+"t": 6.8,
+"host": "edge-auth.microsoft.com",
+"url": "https://edge-auth.microsoft.com/v0.5/js/ms_auth_server_button.min.js",
+"type": "script"
+},
+{
+"t": 6.8,
+"host": "edge-auth.microsoft.com",
+"url": "https://edge-auth.microsoft.com/v0.5/css/easyauth.min.css",
+"type": "stylesheet"
+},
+{
+"t": 6.8,
+"host": "edge-auth.microsoft.com",
+"url": "https://edge-auth.microsoft.com/v0.5/js/ms_auth_server_button.min.js",
+"type": "script"
+},
+{
+"t": 6.8,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/anchor",
+"type": "document"
+},
+{
+"t": 6.8,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/homepage-guest/api/ingraphs/counter",
+"type": "fetch"
+},
+{
+"t": 6.8,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v62/4UaRrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iq2vgCI.woff2",
+"type": "font"
+},
+{
+"t": 6.8,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/platform-telemetry/li/apfcDf",
+"type": "xhr"
+},
+{
+"t": 6.83,
+"host": "edge-auth.microsoft.com",
+"url": "https://edge-auth.microsoft.com/metric",
+"type": "fetch"
+},
+{
+"t": 6.83,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/styles__ltr.css",
+"type": "stylesheet"
+},
+{
+"t": 6.83,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 6.83,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/webworker.js",
+"type": "script"
+},
+{
+"t": 6.83,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+"type": "image"
+},
+{
+"t": 6.83,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 6.83,
+"host": "ri.px-cloud.net",
+"url": "https://ri.px-cloud.net/index.js",
+"type": "script"
+},
+{
+"t": 6.83,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+},
+{
+"t": 6.83,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+},
+{
+"t": 6.83,
+"host": "collector-pxdojv695v.protechts.net",
+"url": "https://collector-pxdojv695v.protechts.net/api/v2/msft",
+"type": "xhr"
+},
+{
+"t": 6.83,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+},
+{
+"t": 6.83,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+},
+{
+"t": 6.83,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__de.js",
+"type": "other"
+},
+{
+"t": 6.85,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+},
+{
+"t": 8.87,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+},
+{
+"t": 9.01,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/cookie-consent/",
+"type": "xhr"
+},
+{
+"t": 13.01,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "play.google.com",
+"url": "https://play.google.com/log",
+"type": "fetch"
+},
+{
+"t": 13.01,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/li/track",
+"type": "fetch"
+}
+]

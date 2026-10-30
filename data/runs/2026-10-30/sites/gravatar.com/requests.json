@@ -1,0 +1,206 @@
+[
+{
+"t": 0.0,
+"host": "gravatar.com",
+"url": "https://gravatar.com/",
+"type": "document"
+},
+{
+"t": 0.45,
+"host": "s.gravatar.com",
+"url": "https://s.gravatar.com/css/landing-page/landing-page.css",
+"type": "stylesheet"
+},
+{
+"t": 0.45,
+"host": "s.gravatar.com",
+"url": "https://s.gravatar.com/js/landing-page/landing-page.js",
+"type": "script"
+},
+{
+"t": 0.58,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/card-joe.png",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/card-sofia.png",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/card-tina.png",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/card-jessica.png",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/card-ethan.png",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/card-placeholder.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/multi-identity-large-cover.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/multi-identity-small-cover.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/profile-privacy-large-cover.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/profile-privacy-small-cover.png",
+"type": "image"
+},
+{
+"t": 0.61,
+"host": "gravatar.com",
+"url": "https://gravatar.com/icons/privacy-options.svg",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "s0.wp.com",
+"url": "https://s0.wp.com/wp-content/js/bilmur.min.js",
+"type": "script"
+},
+{
+"t": 0.63,
+"host": "stats.wp.com",
+"url": "https://stats.wp.com/w.js",
+"type": "script"
+},
+{
+"t": 0.63,
+"host": "s1.wp.com",
+"url": "https://s1.wp.com/wp-content/mu-plugins/a8c-analytics/a8c-analytics.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "gravatar.com",
+"url": "https://gravatar.com/fonts/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSh0me8iUI0.woff2",
+"type": "font"
+},
+{
+"t": 0.69,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/profile-bg-01.png",
+"type": "image"
+},
+{
+"t": 0.69,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/profile-bg-02.png",
+"type": "image"
+},
+{
+"t": 0.69,
+"host": "gravatar.com",
+"url": "https://gravatar.com/images/homepage/profile-tina-large.png",
+"type": "image"
+},
+{
+"t": 0.74,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/g.gif",
+"type": "image"
+},
+{
+"t": 0.75,
+"host": "s1.wp.com",
+"url": "https://s1.wp.com/wp-content/mu-plugins/a8c-analytics/965.a8c-analytics.js",
+"type": "script"
+},
+{
+"t": 0.8,
+"host": "s1.wp.com",
+"url": "https://s1.wp.com/wp-content/mu-plugins/a8c-analytics/235.a8c-analytics.js",
+"type": "script"
+},
+{
+"t": 0.83,
+"host": "s1.wp.com",
+"url": "https://s1.wp.com/wp-content/mu-plugins/a8c-analytics/126.a8c-analytics.js",
+"type": "script"
+},
+{
+"t": 0.85,
+"host": "public-api.wordpress.com",
+"url": "https://public-api.wordpress.com/geo/",
+"type": "fetch"
+},
+{
+"t": 1.05,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/g.gif",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 7.34,
+"host": "s.gravatar.com",
+"url": "https://s.gravatar.com/videos/homepage/multi-identity-large.mp4",
+"type": "media"
+},
+{
+"t": 7.34,
+"host": "s.gravatar.com",
+"url": "https://s.gravatar.com/videos/homepage/profile-privacy-large.mp4",
+"type": "media"
+},
+{
+"t": 7.34,
+"host": "s.gravatar.com",
+"url": "https://s.gravatar.com/videos/homepage/profile-privacy-large.mp4",
+"type": "media"
+},
+{
+"t": 9.43,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+}
+]

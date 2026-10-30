@@ -1,0 +1,315 @@
+{
+  "domain": "youtube.com",
+  "url": "https://youtube.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.youtube.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Ein Google-Unternehmen de Anmelden Bevor Sie zu YouTube weitergehen Wir verwenden Cookies und Daten einschließlich IP-Adressen, um Google-Dienste zu erbringen und zu betreiben Ausfälle zu prüfen und Maßnahmen gegen Spam, Betrug und Missbrauch zu ergreifen Zielgruppeninteraktionen und Websitestatistiken zu analysieren, um zu verstehen, wie unsere Dienste verwendet werden, und die Qualität dieser Dienste zu verbessern Wenn Sie „Alle akzeptieren“ auswählen, verwenden wir Cookies und Daten einschließlich IP-Adressen auch, um neue Dienste zu entwickeln und zu verbessern Werbung auszuliefern und ihr",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Alle ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Alle akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Weitere Optionen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Startseite",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Shorts",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Abos",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Mein YouTube",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Verlauf",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Anmelden",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Musik",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Filme & Shows",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Live",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Mehr anzeigen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "YouTube Premium",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "YouTube Music",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "YouTube Kids",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "YouTube Labs",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Meldeverlauf",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Info",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Presse",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Urheberrecht",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Kontakt",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Creator",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Werben",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Entwickler",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Impressum",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Verträge hier kündigen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Nutzungsbedingungen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutz",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Richtlinien & Sicherheit",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Wie funktioniert YouTube?",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Neue Funktionen testen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "de",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Anmelden",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Cookies",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Nutzungsbedingungen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Weitere Informationen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Einstellung aktualisieren",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 144,
+  "first_click_t": 9.11,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 9.11,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Alle ablehnen",
+      "id": "a1f0-55",
+      "result": "ok"
+    }
+  ]
+}

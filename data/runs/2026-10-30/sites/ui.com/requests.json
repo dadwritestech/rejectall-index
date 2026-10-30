@@ -1,0 +1,1220 @@
+[
+{
+"t": 0.0,
+"host": "ui.com",
+"url": "https://ui.com/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/224b28b6-c7e2-45ef-9c82-fe34c2648b5a/OtAutoBlock.js",
+"type": "script"
+},
+{
+"t": 0.05,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+"type": "script"
+},
+{
+"t": 0.05,
+"host": "ui.com",
+"url": "https://ui.com/microsite/fonts/ui-sans-v11-regular.woff2",
+"type": "font"
+},
+{
+"t": 0.05,
+"host": "ui.com",
+"url": "https://ui.com/microsite/fonts/ui-sans-v11-bold.woff2",
+"type": "font"
+},
+{
+"t": 0.05,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/facebook-B7be6w__.svg",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/x-BKHLq6KV.svg",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/youtube-D2yBN67Q.svg",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/instagram-CPI8zy2F.svg",
+"type": "image"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/index-DiZVqdsF.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/rolldown-runtime-CNOWq4Kh.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/vendor-data-DS4o8bBN.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/vendor-react-eZqbpN5X.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/vendor-carousel-BNInEa1z.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/vendor-router-D6kRXcx5.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/size-CBsoYAXi.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/uicStyleInject-CltXl2cN.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/themeStamp-B-Hd_BY5.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/resolvePropWithContext-Cp7agzBP.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/utils-Bywh4qkr.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/constants-CYpkiLT8.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/vendor-utils-DRN0a1vC.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useEvent-CwdEEw-3.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useControlledState-vL_F7RMz.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/helpers-By32CP0d.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Tooltip-B2lj19NT.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Button-juI2p5qB.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Tooltip_Default-CxOfUjB_.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Tooltip-D3dViEmW.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Header.styles-DUffyGw7.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/SiteSettingsContext-CGQiZOZ8.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/mapping-BEf24pDy.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/close-BeBOBoZ3.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/constants-COiHLm0T.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/vendor-styled-CieYzQ5I.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useTranslation-BBPxavWP.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/MicrositeProductPageContext-qf3rb7Zo.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Text-Dpnc3cL-.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Text_Block-DcwPW4vt.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useEvaluateTruncation-gz3TM3Nd.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useDeprecationWarning-DhH_wiJW.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/cloneTriggerChild-ZnS13AKb.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Popover-DV9z9v-S.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Heading_Block-STwTuGMn.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/assertThisInitialized-DmRUdtTW.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useUICTranslation-DYjf3emg.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/BadgeIndicator-BUk9KJj6.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/StyleableSvgImage-BooTkyO8.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useInert-C-seqEnZ.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/ScrollWrapper-73Oc34gP.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/asset-ebhKD5zd.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/AuthContext-DDUS74g8.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/vendor-gsap-Bj9xA4oh.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/layout-CgCwx8Gc.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/types-C-BKgfJk.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 0.06,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 0.06,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 0.06,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 0.06,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/rack-GwodzbZG.mp4",
+"type": "media"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/logoUnifi-BeB3oKkZ.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/arrowDown-eGC0_du7.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/arrowRight-BuWxNu0e.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/globe-CjJ4rqPK.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/collapseArrow-CQdPR2RD.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/play-BXeFfzAB.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/maersk-logo-DikQNtBG.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Banff-logo-DTYUetgb.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/orderco-logo-DrEdB97q.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Crumble-cookies-logo-9b89DNZh.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/hilton-logo-Dql4TjSN.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Core-Yoga-Logo-D-xZXCeR.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Rutgers-logo-BdbS-lNU.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Montgomery-Academy-L_pkILbf.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Nation-Safe-Drivers-Logo-CXTRXpdh.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/IntelyCare-Logo-BzSJMlzi.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/BG-Logo-E9VIRY1-.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/chickfila-logo-gCs5DZJz.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/FluidTruck-Logo-DQXfzeCu.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/NBA-logo-KitwWeU1.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/US-Soccer-Logo-DIeqirKK.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Ursa-Major-Logo-S2CsOezg.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Zoho-Logo-CukLc8vq.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Hogsalt-DtOnLWRH.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/apple-logo-DqS0RwK7.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/cloudkitchens-logo-_dU_pxXi.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/FedExForum-BC_ZezPR.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Spinoso-Group-Logo-C7uCKA7h.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/micro-center-logo-BIrJg5qf.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/bay-college-CR8TyW7o.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/dole-logo-xa7b3azt.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/university-of-virginia-logo-BVP4d8a3.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/hawaii-academy-BrlQlb9R.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Lake-Louise-Logo-BSPVWk6l.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Mount-Univ-Logo-OLl_O2-m.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/microsoft-logo-D_eXjdET.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/TopGolf-logo-BGK0sVz_.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/WinterPark-Logo-BXWbA0TC.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/baseball-logo-D0HXFv-w.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Pax8-Logo-CDrBQ_RJ.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Venture-Global-LNG-BW9x_aqP.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Humane-Logo-CNVD7qAW.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/nasa-logo-BfD-Gs9E.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/lexis-logo-dqp-wXox.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/EVO-logo-Cob9uyHw.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/hampton-logo-CeAkgHyB.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/kunes-logo-DnV6Y_8U.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/drakesw-logo-DXfc772V.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Planet-logo-OAY_jskC.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Autin-Logo-CgcvTsqe.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/columbia-univeristy-logo-TJ5mdZBz.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/KOA-logo-Cd-PkpvM.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Johnson-Univ-Logo-BirCZeRm.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Hardin-Jefferson-logo-qztjFWCI.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/sandboxvr-logo-B0loxAzO.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/fedex-GDA-ayUo.svg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/grizzlies-BIkQhbeo.svg",
+"type": "image"
+},
+{
+"t": 0.12,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/utils-Rw3SOhpa.js",
+"type": "script"
+},
+{
+"t": 0.13,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/style-inject.es-c1209dab-DKOCyJpo.js",
+"type": "script"
+},
+{
+"t": 0.13,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/iconWrapper-5415974f-BouIIWwJ.js",
+"type": "script"
+},
+{
+"t": 0.13,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/warnDev-Cl82RwTm.js",
+"type": "script"
+},
+{
+"t": 0.13,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/CloseTertiaryIcon-DjaCHRHJ.js",
+"type": "script"
+},
+{
+"t": 0.14,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Text-7gs00vNi.js",
+"type": "script"
+},
+{
+"t": 0.16,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useDragScroll-CCGpa7U8.js",
+"type": "script"
+},
+{
+"t": 0.16,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/errors-BVIaNHxY.js",
+"type": "script"
+},
+{
+"t": 0.16,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/resolveWidth-g-iEoSAA.js",
+"type": "script"
+},
+{
+"t": 0.16,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/palette-BEmulxSk.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Landing-C4x7Uu5b.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/logoWrapper-e3080550-BYRJhE85.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/ArrowLeftPrimaryIcon-CEdAHiHe.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/ArrowRightPrimaryIcon-DrCqe6Tr.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/CheckmarkIcon-CPeQUcGq.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/DashboardIcon-CDrlC0Ou.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/GlobeMapIcon-Cbzf995D.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/NetworkLogo-CCRBOTIk.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/NextAiIcon-DSz8z1Mo.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/OfficeIcon-C7NiYOSg.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/UdmIcon-CAFbracR.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/UpdateIcon-MEN_P2Gc.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useResizeDetector-AMBhnbs6.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/VideoModal-D-6-463N.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/FieldError-CfHNHmhv.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/SliderFormatRenderer-DB95LjqZ.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Label_HelpMessage-Bc4hjk6-.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/SemanticIndicator_Default-CXDWLGZ2.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/InfoIcon-CbgsRIA1.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useTranslation-CL865bpp.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/play-BC62kIrr.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Head-BfZaJu_9.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Head-CEY9Bm9t.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/focusVisible-bvjsC1pg.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/MicrositeHeading-BBzxiGPh.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useTabAutoplay-BQI1TDfM.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/assets-CYBfqZUa.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useDestroyVideoRef-BhOr0RGA.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/dist-DhWTjtFu.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/StyledContainer-BSi3Tfka.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/ProgressAnimationButton-ChWiZQ5S.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/string-DOq1B8gf.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/useInitialAutoscrollToFragment-BCQoPHPV.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/Carousel.styles-BXCywJpU.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/lcpImage-CUvZrZPf.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/224b28b6-c7e2-45ef-9c82-fe34c2648b5a/224b28b6-c7e2-45ef-9c82-fe34c2648b5a.json",
+"type": "xhr"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/imageOptimizer-CbKnjN3r.js",
+"type": "script"
+},
+{
+"t": 6.28,
+"host": "geolocation.onetrust.com",
+"url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+"type": "xhr"
+},
+{
+"t": 6.28,
+"host": "megaphone.svc.ui.com",
+"url": "https://megaphone.svc.ui.com/v1/announcements",
+"type": "fetch"
+},
+{
+"t": 6.28,
+"host": "sso.ui.com",
+"url": "https://sso.ui.com/api/sso/v1/user/self",
+"type": "fetch"
+},
+{
+"t": 6.28,
+"host": "store.ui.com",
+"url": "https://store.ui.com/api/geo-ip",
+"type": "fetch"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/hologram-network-CY_pEWOj.mp4",
+"type": "media"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/networking-tablet-DrKl2BZ-.mp4",
+"type": "media"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/networking-mobile-BI9C6vA3.mp4",
+"type": "media"
+},
+{
+"t": 6.28,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202511.1.0/otBannerSdk.js",
+"type": "script"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/networking-tablet-DrKl2BZ-.mp4",
+"type": "media"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/networking-mobile-BI9C6vA3.mp4",
+"type": "media"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/hologram-network-CY_pEWOj.mp4",
+"type": "media"
+},
+{
+"t": 6.28,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/224b28b6-c7e2-45ef-9c82-fe34c2648b5a/1bc4a072-82f8-4d69-9491-7c6d2ce070fc/en.json",
+"type": "fetch"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/hologram-network-CY_pEWOj.mp4",
+"type": "media"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/networking-tablet-DrKl2BZ-.mp4",
+"type": "media"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/networking-mobile-BI9C6vA3.mp4",
+"type": "media"
+},
+{
+"t": 6.28,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202511.1.0/assets/otFloatingRounded.json",
+"type": "fetch"
+},
+{
+"t": 6.28,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202511.1.0/assets/v2/otPcCenter.json",
+"type": "fetch"
+},
+{
+"t": 6.28,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202511.1.0/assets/otCommonStyles.css",
+"type": "fetch"
+},
+{
+"t": 6.28,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/ot_close.svg",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+"type": "fetch"
+},
+{
+"t": 6.28,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/96f1ca68-577c-4f78-ac3b-e26f1dd45343/d440dd9b-b108-412d-8fa1-d95cc2afe04a/48703706-f2fd-48a4-a91c-e3b19f8d3786/120x40-3.png",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+"type": "image"
+},
+{
+"t": 6.28,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/account-BvmcCkFm.svg",
+"type": "image"
+},
+{
+"t": 13.6,
+"host": "privacyportal.onetrust.com",
+"url": "https://privacyportal.onetrust.com/request/v1/consentreceipts/anonymous",
+"type": "xhr"
+},
+{
+"t": 13.6,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 13.6,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 13.6,
+"host": "images.svc.ui.com",
+"url": "https://images.svc.ui.com/",
+"type": "image"
+},
+{
+"t": 13.6,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/hologram-protect-H_j290TP.mp4",
+"type": "media"
+},
+{
+"t": 13.6,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/find-anything-tablet-BkW1SQNt.mp4",
+"type": "media"
+},
+{
+"t": 13.6,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/find-anything-mobile-CUmGh-BI.mp4",
+"type": "media"
+},
+{
+"t": 13.6,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/hologram-protect-H_j290TP.mp4",
+"type": "media"
+},
+{
+"t": 13.6,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/find-anything-mobile-CUmGh-BI.mp4",
+"type": "media"
+},
+{
+"t": 13.6,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/find-anything-mobile-CUmGh-BI.mp4",
+"type": "media"
+},
+{
+"t": 13.6,
+"host": "ui.com",
+"url": "https://ui.com/microsite/static/hologram-protect-H_j290TP.mp4",
+"type": "media"
+}
+]

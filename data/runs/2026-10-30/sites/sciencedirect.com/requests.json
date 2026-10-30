@@ -1,0 +1,38 @@
+[
+{
+"t": 0.0,
+"host": "sciencedirect.com",
+"url": "https://sciencedirect.com/",
+"type": "document"
+},
+{
+"t": 0.13,
+"host": "sdfestaticassets-us-east-1.sciencedirectassets.com",
+"url": "https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg",
+"type": "image"
+},
+{
+"t": 0.13,
+"host": "sciencedirect.com",
+"url": "https://sciencedirect.com/craft/hosnb",
+"type": "ping"
+},
+{
+"t": 0.13,
+"host": "sciencedirect.com",
+"url": "https://sciencedirect.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+"type": "script"
+},
+{
+"t": 6.15,
+"host": "sciencedirect.com",
+"url": "https://sciencedirect.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/c787ce48cf6b/main.js",
+"type": "script"
+},
+{
+"t": 6.15,
+"host": "sciencedirect.com",
+"url": "https://sciencedirect.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.1408558226428691:1793351366:ablC9gMjA1R7YMyeWFcBosBeNN7-G2ZWsYIeF0QGp2g/a529857cc9400f9e",
+"type": "xhr"
+}
+]

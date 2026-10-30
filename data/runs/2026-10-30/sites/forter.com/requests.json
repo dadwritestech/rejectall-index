@@ -1,0 +1,698 @@
+[
+{
+"t": 0.0,
+"host": "forter.com",
+"url": "https://forter.com/",
+"type": "document"
+},
+{
+"t": 0.08,
+"host": "www.forter.com",
+"url": "https://www.forter.com/",
+"type": "document"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/hero-phone.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/css/normalize.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/css/bootstrap-reboot.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/css/custom.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/css/tailwind.dist.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/css/global-buttons.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/css/home.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/css/css-576.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/4eb1648e-7110-4ffb-b4d8-11815dcc7ca3/OtAutoBlock.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/4eb1648e-7110-4ffb-b4d8-11815dcc7ca3/otSDKStub.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/webmcp.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/adida.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/asics.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/ebay.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/grubhub.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/hellofresh.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/instacart.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/nordstorm.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/pacsun.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/wayfair.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/skim-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/loccitane-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/priceline-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/asos-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/shein-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/reebok-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/lg-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/seatgrak-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/saks-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/deckers-logo.png.webp",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/cart.svg",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/window.svg",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/chat.svg",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/user.svg",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/brain.svg",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/world.svg",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "js.hsforms.net",
+"url": "https://js.hsforms.net/forms/v2.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/js/custom-alpine.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/js/alpine-collapse.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/js/alpine-intersect.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/js/alpine.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/js/persistant-utm.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/fonts/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+"type": "font"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/fonts/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2",
+"type": "font"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/fonts/poppins/v20/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+"type": "font"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/fonts/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
+"type": "font"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/fonts/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
+"type": "font"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/hero-card-2.webp",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/agent-ready/checkout.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/agent-ready/experience.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/agent-ready/performance.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/agent-ready/integration.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/home/animate/platform-1.webp",
+"type": "image"
+},
+{
+"t": 0.3,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/4eb1648e-7110-4ffb-b4d8-11815dcc7ca3/4eb1648e-7110-4ffb-b4d8-11815dcc7ca3.json",
+"type": "xhr"
+},
+{
+"t": 0.34,
+"host": "geolocation.onetrust.com",
+"url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+"type": "xhr"
+},
+{
+"t": 0.37,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202307.1.0/otBannerSdk.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/4eb1648e-7110-4ffb-b4d8-11815dcc7ca3/01a08704-72a4-7918-9c1f-5eedbb0adf44/en.json",
+"type": "fetch"
+},
+{
+"t": 0.46,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202307.1.0/assets/otFlat.json",
+"type": "fetch"
+},
+{
+"t": 0.46,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202307.1.0/assets/v2/otPcCenter.json",
+"type": "fetch"
+},
+{
+"t": 0.46,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202307.1.0/assets/otCookieSettingsButton.json",
+"type": "fetch"
+},
+{
+"t": 0.46,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202307.1.0/assets/otCommonStyles.css",
+"type": "fetch"
+},
+{
+"t": 0.46,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/ccm/collect",
+"type": "fetch"
+},
+{
+"t": 0.48,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/ot_close.svg",
+"type": "image"
+},
+{
+"t": 0.48,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+"type": "fetch"
+},
+{
+"t": 0.49,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+"type": "image"
+},
+{
+"t": 0.49,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+"type": "image"
+},
+{
+"t": 0.52,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/ccm/collect",
+"type": "fetch"
+},
+{
+"t": 6.53,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 6.53,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 8.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/j/4f71121f-815f-4faf-92da-c4ea2dceaa2c.js",
+"type": "script"
+},
+{
+"t": 8.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-includes/js/jquery/jquery.min.js",
+"type": "script"
+},
+{
+"t": 8.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/js/custom.js",
+"type": "script"
+},
+{
+"t": 8.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/js/js.cookie.min.js",
+"type": "script"
+},
+{
+"t": 8.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/js/splide.min.js",
+"type": "script"
+},
+{
+"t": 8.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/js/home.js",
+"type": "script"
+},
+{
+"t": 8.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/wp-content/themes/blank/js/impact-2026.js",
+"type": "script"
+},
+{
+"t": 8.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/cache/min/1/2776164.js",
+"type": "script"
+},
+{
+"t": 12.63,
+"host": "c04d800a6f00.cdn4.forter.com",
+"url": "https://c04d800a6f00.cdn4.forter.com/sn/c04d800a6f00/script.js",
+"type": "script"
+},
+{
+"t": 12.63,
+"host": "js.hs-analytics.net",
+"url": "https://js.hs-analytics.net/analytics/1791834000000/2776164.js",
+"type": "script"
+},
+{
+"t": 12.63,
+"host": "js.hubspot.com",
+"url": "https://js.hubspot.com/web-interactives-embed.js",
+"type": "script"
+},
+{
+"t": 12.63,
+"host": "forms.hsforms.com",
+"url": "https://forms.hsforms.com/embed/v3/form/2776164/b81b0db5-1916-4e6d-8d6d-80cbf520f325/json",
+"type": "xhr"
+},
+{
+"t": 12.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-plane.webp",
+"type": "image"
+},
+{
+"t": 12.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-burger.webp",
+"type": "image"
+},
+{
+"t": 12.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-dog.webp",
+"type": "image"
+},
+{
+"t": 12.63,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-phone.webp",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-smile.webp",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-red-sweater.webp",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-burger-classic.webp",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-red-room.webp",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-statue-closeup.webp",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-greens-sweater.webp",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-puppy-yellow.webp",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "www.forter.com",
+"url": "https://www.forter.com/wp-content/themes/blank/img/impact-2026/carousel-phone-orange.webp",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "cta-service-cms2.hubspot.com",
+"url": "https://cta-service-cms2.hubspot.com/web-interactives/public/v1/embed/combinedConfigs",
+"type": "fetch"
+},
+{
+"t": 12.64,
+"host": "forms-na1.hsforms.com",
+"url": "https://forms-na1.hsforms.com/embed/v3/counters.gif",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "forms-na1.hsforms.com",
+"url": "https://forms-na1.hsforms.com/embed/v3/counters.gif",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "perf-na1.hsforms.com",
+"url": "https://perf-na1.hsforms.com/embed/v3/counters.gif",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "cdn0.forter.com",
+"url": "https://cdn0.forter.com/c04d800a6f00/15813446961b438788abefebcee54853/prop.json",
+"type": "xhr"
+},
+{
+"t": 12.64,
+"host": "cdn0.forter.com",
+"url": "https://cdn0.forter.com/c04d800a6f00/15813446961b438788abefebcee54853/prop.json",
+"type": "xhr"
+},
+{
+"t": 12.64,
+"host": "cdn0.forter.com",
+"url": "https://cdn0.forter.com/c04d800a6f00/15813446961b438788abefebcee54853/prop.json",
+"type": "xhr"
+},
+{
+"t": 12.64,
+"host": "15813446961b438788abefebcee54853-c04d800a6f00.cdn.forter.com",
+"url": "https://15813446961b438788abefebcee54853-c04d800a6f00.cdn.forter.com/prop.json",
+"type": "ping"
+},
+{
+"t": 12.64,
+"host": "cdn0.forter.com",
+"url": "https://cdn0.forter.com/c04d800a6f00/15813446961b438788abefebcee54853/wpt.json",
+"type": "xhr"
+},
+{
+"t": 12.64,
+"host": "track.hubspot.com",
+"url": "https://track.hubspot.com/__ptq.gif",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "track.hubspot.com",
+"url": "https://track.hubspot.com/__ptq.gif",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/ot_persistent_cookie_icon.png",
+"type": "image"
+},
+{
+"t": 12.64,
+"host": "privacyportal.onetrust.com",
+"url": "https://privacyportal.onetrust.com/request/v1/consentreceipts",
+"type": "xhr"
+},
+{
+"t": 12.64,
+"host": "cdn3.forter.com",
+"url": "https://cdn3.forter.com/events",
+"type": "ping"
+},
+{
+"t": 12.64,
+"host": "15813446961b438788abefebcee54853-c04d800a6f00.cdn.forter.com",
+"url": "https://15813446961b438788abefebcee54853-c04d800a6f00.cdn.forter.com/prop.json",
+"type": "ping"
+},
+{
+"t": 12.64,
+"host": "cdn6.forter.com",
+"url": "https://cdn6.forter.com/c04d800a6f00/15813446961b438788abefebcee54853/prop.json",
+"type": "ping"
+},
+{
+"t": 12.64,
+"host": "15813446961b438788abefebcee54853-c04d800a6f00.cdn.forter.com",
+"url": "https://15813446961b438788abefebcee54853-c04d800a6f00.cdn.forter.com/prop.json",
+"type": "ping"
+}
+]

@@ -1,0 +1,341 @@
+{
+  "domain": "intuit.com",
+  "url": "https://intuit.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.intuit.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "go-mpulse.net",
+      "entity": "Akamai",
+      "category": "Analytics",
+      "requests": 2
+    },
+    {
+      "domain": "tags.tiqcdn.com",
+      "entity": "Tealium",
+      "category": "FingerprintingInvasive",
+      "requests": 2
+    },
+    {
+      "domain": "akstat.io",
+      "entity": "Akamai",
+      "category": "Analytics",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Wir verwenden Cookies und ähnliche Technologien auf unserer Website. Einige Cookies sind erforderlich, da sie für die Funktionsfähigkeit unserer Websites und den Schutz Ihrer Daten und unserer Systeme erforderlich sind. Wenn Sie uns dies erlauben, verwenden wir Cookies, um Ihre Präferenzen zu speichern, unsere Websites und Inhalte zu personalisieren, unsere Dienste zu verbessern und anzupassen und relevantere Werbung bereitzustellen. Sie können die Einstellungen akzeptieren, ablehnen oder anpassen, indem Sie auf die folgenden Optionen klicken. Sie können Ihre Auswahl jederzeit aktualisieren, i",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Einstellungen anpassen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Alle ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Alle akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Manage cookies",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookie-Erklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "About Intuit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Investor Relations",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Corporate Responsibility",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Partner with Intuit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Contact Us",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "TurboTax",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "TurboTax Live",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Credit Karma",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Credit Cards",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Personal Loans",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Auto Loans",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Home Loans",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "QuickBooks Solopreneur",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "QuickBooks",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Accounting Software",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Payroll",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Online Payments",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Invoicing Software",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Time Tracking",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Term Loans",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Line of Credit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Bookkeeper Services",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mailchimp",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "TurboTax Live for Business",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Business Credit Card",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Intuit Accountant Suite",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Lacerte Tax",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "ProConnect Tax",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "ProSeries Tax",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "ProAdvisor Program",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Sitemap",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Select Country",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "About Intuit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Join Our Team",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Press Room",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 139,
+  "first_click_t": 9.51,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 9.51,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Alle ablehnen",
+      "id": "a1f0-72",
+      "result": "ok"
+    }
+  ]
+}

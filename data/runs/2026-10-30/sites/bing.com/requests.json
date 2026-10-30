@@ -1,0 +1,1904 @@
+[
+{
+"t": 0.0,
+"host": "bing.com",
+"url": "https://bing.com/",
+"type": "document"
+},
+{
+"t": 0.1,
+"host": "www.bing.com",
+"url": "https://www.bing.com/",
+"type": "document"
+},
+{
+"t": 0.23,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 0.25,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/VL4lCDw1C2TbRTbOI8U7rpiqIBg.br.css",
+"type": "other"
+},
+{
+"t": 0.25,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/C29j_SFE6-a8s0cWL6Cq81juG44.br.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.bing.com",
+"url": "https://www.bing.com/rp/27Vz3W6Rs2YDH6N3BJknX6EvNwA.br.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/iVcg2v9EqZ9-3lU6wV1CN02efh8.br.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "www.bing.com",
+"url": "https://www.bing.com/fd/ls/l",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "www.bing.com",
+"url": "https://www.bing.com/images/sbi",
+"type": "fetch"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/jYi0zjkb-vXq9sww13ujPTnNdmk.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/DWZSY9SRnkHaYWjJ109REMim90A.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/9uYIRoQB-ThMq970XKGeKvrMhL0.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/ZJ1v6v1PrTehjlO33dPqRZxj9NQ.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/lmnTBioq3dO0hAP3YgrH0XVd-V8.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/gWvxcIaH_1lxHhdq0B1snvYwtgk.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/5RUBu5dEYIDzWQtuZRVAHjBjuyc.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/T7cVxIKqe81HjiY8-QrAoD30sRw.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/ZW2Gl8UdpOCZZBtXZxjDUO85q8k.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/B24V7oRNcKlYD0grEC7dedPRKJ0.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/FpU2UT_q8E-USkeri9nAkIZtzdM.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/4vv-DanX2rm7WJGe7SbIjRLDU0Y.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/orGeYJXWw9-q1PqQpOMsDIipO_I.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/rhsDXajgieH1V9klCWImM_Pe7IE.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/PAkjlXnrWM0Sq4luiSIzjOJZvdM.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/HiZryPkWE_jtXjwjCgDaZt4BO9U.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/pIsV-Vu8gcSZd8I9mOs0Dd-zW3E.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/LlsAjMw__o-S9pAvtYJXuhy2esw.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/KLrSbzDKMog0mCiPcB9iwoEvlE4.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/inzVW6HEsrxKdP-1iXlzZi-upJc.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/Zdlv4y_cp43ReMhQqtwOOc332I0.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/Y0Peppz92vRXSxl_AgzPr0mEXxg.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/-NOG4O6kmATviKN5ue80cINVzwo.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/mulHhLPL5_vmDi6Mbp-GkZFSQdU.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/EnxEroh24xBAWPmv7ifBWLFZZUY.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/F5ic_OlJ6y_FT-FNkCarzWvvP34.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/bBf3avWyLUFIUG4aErdVmxVxW2I.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/zhAyM5yqapMccl08bU_FOaqDkQA.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rs/6s/rF/nj/nt6a1ZR520utsLoZmSYgwxdOPgI.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/HMRoiCAlVyAjFa_7ZBDBZKfByzk.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/UQkW31Vym8-UsXPt-w8EpIe1nvg.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/BrpxSx5hYXbHIZZk1qlX1sdzG44.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/o30qBZtnNlNDAKP3Ejrn8RPKbtg.br.js",
+"type": "xhr"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/jYi0zjkb-vXq9sww13ujPTnNdmk.br.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/DWZSY9SRnkHaYWjJ109REMim90A.br.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/9uYIRoQB-ThMq970XKGeKvrMhL0.br.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/Ti454WwUop21ClX5ZbIln95qasM.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/psQtAt_abRSCgVf7zRF3KZ1n2-E.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/R26WBsZbcppsoeYgMplxrgu53kM.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/ZJ1v6v1PrTehjlO33dPqRZxj9NQ.br.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/lmnTBioq3dO0hAP3YgrH0XVd-V8.br.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/gWvxcIaH_1lxHhdq0B1snvYwtgk.br.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/5RUBu5dEYIDzWQtuZRVAHjBjuyc.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/hp/api/v1/trivia",
+"type": "fetch"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/hp/api/v1/carousel",
+"type": "fetch"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/hp/api/model",
+"type": "fetch"
+},
+{
+"t": 6.32,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/T7cVxIKqe81HjiY8-QrAoD30sRw.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/f21jlSMmEDN43OaavcdaB-7Phq0.svg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/UusW4P7f5q9mXctgEuZhyIziufA.svg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/4A9D07RlW6M7gPmPQQydX3khDJc.svg",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/notifications/render",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/ZW2Gl8UdpOCZZBtXZxjDUO85q8k.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/B24V7oRNcKlYD0grEC7dedPRKJ0.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/FpU2UT_q8E-USkeri9nAkIZtzdM.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/VL4lCDw1C2TbRTbOI8U7rpiqIBg.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/4vv-DanX2rm7WJGe7SbIjRLDU0Y.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/orGeYJXWw9-q1PqQpOMsDIipO_I.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/rhsDXajgieH1V9klCWImM_Pe7IE.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/PAkjlXnrWM0Sq4luiSIzjOJZvdM.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/HiZryPkWE_jtXjwjCgDaZt4BO9U.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/pIsV-Vu8gcSZd8I9mOs0Dd-zW3E.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/LlsAjMw__o-S9pAvtYJXuhy2esw.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/KLrSbzDKMog0mCiPcB9iwoEvlE4.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/inzVW6HEsrxKdP-1iXlzZi-upJc.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/Zdlv4y_cp43ReMhQqtwOOc332I0.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/Y0Peppz92vRXSxl_AgzPr0mEXxg.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/-NOG4O6kmATviKN5ue80cINVzwo.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/gCet4jZ76t3LUczY_kgOhL7RlyI.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/JXjEFVMV8d--8ks54brRGwiW86M.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/mulHhLPL5_vmDi6Mbp-GkZFSQdU.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/EnxEroh24xBAWPmv7ifBWLFZZUY.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/F5ic_OlJ6y_FT-FNkCarzWvvP34.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/bBf3avWyLUFIUG4aErdVmxVxW2I.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/zhAyM5yqapMccl08bU_FOaqDkQA.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/rewardsapp/ncheader",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rs/6s/rF/nj/nt6a1ZR520utsLoZmSYgwxdOPgI.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/HMRoiCAlVyAjFa_7ZBDBZKfByzk.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/UQkW31Vym8-UsXPt-w8EpIe1nvg.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.msn.com",
+"url": "https://www.msn.com/pcs/api/widget/bingHomepage/widgetfeed",
+"type": "fetch"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/BrpxSx5hYXbHIZZk1qlX1sdzG44.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/rewardsapp/reportActivity",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/o30qBZtnNlNDAKP3Ejrn8RPKbtg.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/web/xlsc.aspx",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/QAonm2c6XtA2pE4dlIPwwHb4o8I.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/Hrve5vNZ54nHAgGUDTcdY6ac8Ec.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/af9LTc0WRA6nNz0w6XB3mlZ8o9E.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/fd/auth/signin/v2",
+"type": "document"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/rewardsapp/widgetassets/prod/medallion/latest/js/widget.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "4.bing.com",
+"url": "https://4.bing.com/ipv6test/test",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/ipv6test/test",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/88F_WFp57AEhbuX2xUzJp0yKLEM.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/Dud4xpMDoLN4YQq_0Lz-gGQyKiY.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.bing.com",
+"url": "https://www.bing.com/rp/3sti29Lev-2zsaRcJkEL_QbLxuU.png",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/C29j_SFE6-a8s0cWL6Cq81juG44.br.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/iVcg2v9EqZ9-3lU6wV1CN02efh8.br.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "login.microsoftonline.com",
+"url": "https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize",
+"type": "document"
+},
+{
+"t": 6.33,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/-5KD0kp0XJ4f-tKx0_7xGVcKmog.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.33,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/5-y8FBmAkXLBZZghI-X94CRnsqg.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.33,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/Ierf94ckcjrcCwHOPBln5qm8Xzk.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.33,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/C9bIwrgNDRP7hwfGEVx2jtZDGm8.br.css",
+"type": "stylesheet"
+},
+{
+"t": 6.33,
+"host": "r.bing.com",
+"url": "https://r.bing.com/rp/r-xmwLodJIpdWxvzU21BsQDIqpo.br.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/resolver/api/resolve/v3/config/",
+"type": "fetch"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/vendors.e927d72b3e67b8b3.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/microsoft.72e89fe1d838d44c.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/common.079d4257aaa62c7e.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/experience.11c2d14c0a2bb479.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "c.msn.com",
+"url": "https://c.msn.com/c.gif",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "login.live.com",
+"url": "https://login.live.com/oauth20_authorize.srf",
+"type": "document"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/service/news/feed/pages/weblayout",
+"type": "fetch"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/libs_contextual-feedback-manager_dist_ContextualFeedbackController_js-libs_experiences-base_d-a18136.ab0cc6b72ce61e5a.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/experiences_bing-homepage-feed_dist_lazy-loadings_feedManager_js.8543719b0af5709d.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/waterfall-view-feed.ae0600d98a2d1e4a.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/web-components_super-cards_dist_cards_sub-components_flipper-next_FlipperNext_template_js-web-55eb54.320b3378cdddf2cf.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/web-components_super-container_dist_register_CsFeedInfopane24Module_js.50bfed083d4d877c.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/web-components_super-container_dist_register_CsFeedVideoCardModule_js.d65711d339c426da.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/web-components_super-container_dist_register_CsWaterfallFeedModule_js.dc6b54537441fdb3.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "c.bing.com",
+"url": "https://c.bing.com/c.gif",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBGgbuP",
+"type": "fetch"
+},
+{
+"t": 6.34,
+"host": "c.msn.com",
+"url": "https://c.msn.com/c.gif",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/social-bar-wc.3d73f1b2bd5777b4.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.34,
+"host": "www.bing.com",
+"url": "https://www.bing.com/identity/idtokenv2",
+"type": "document"
+},
+{
+"t": 6.34,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.34,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.34,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RZxZt.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/cs-core-desktop_responsive-sd-card_dist_sd-card_register_js.92d3edc940ee713b.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/digest-card.447bcec4c09eb095.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/libs_windows-widget-shared_dist_WidgetHelper_js-libs_windows-widget-shared_dist_auth_AuthHelp-7d3387.b448ded87a2ef330.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/weather-card.607735c2c4b02acc.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/common-sports-telemetry.3e6f41f95f996dec.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/common-money-lib.b37a08e40d0ee87d.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/money-info.bb689f0ea88067ae.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/caret_left_24_filled.svg",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1QcSbY.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/fluent-icons/play_20_filled.svg",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Ss7aw.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RgKS3.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1QhbjT.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RktUs.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/fluent-icons/dismiss_20_regular.svg",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/fluent-icons/more_horizontal_20_regular.svg",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/web-components_super-cards_dist_cards_super-infopane_CardActionTemplates_js.48943c5e4cafdcee.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/libs_video-manager_dist_index_js.f8ff32a66d04b866.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/card-actions-wc.cf94325fc69cf5ef.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/toast.95a3e787f752a72c.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA29QfOH.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1QhLsp.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1S5KOG.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Sx1BC.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RzluG.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1STy7x.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VDxjr.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RyEHG.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RDGoJ.img",
+"type": "image"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/publisher-subscribe-follow-button.8303b31aded0f885.js",
+"type": "script"
+},
+{
+"t": 6.34,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.34,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/web-components_follow-publisher-button_dist_index_js.7106c6a4fec192a0.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics//latest/icons/NtpTopStories.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/more_horizontal_16_regular.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/caret_left_16_filled.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Sx1BC.img",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SAvJs.img",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1RDGoJ.img",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/money-quote-vertical-watchlist.ea3bf64396cabb6b.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/weather-minimap-wc.a7ef95d5daa8c540.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/weather-card-wc-ntp.08cd653ef54d6852.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/web-components_share-view_dist_index_js.3304975220c336a3.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/finance/1stparty/FinanceTaskbarIcons/Finance_Stock_Increase_Decrease/Finance_stock_up_green_72x72.png",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/finance/1stparty/FinanceTaskbarIcons/Finance_Stock_Increase_Decrease/Stock_down_orange_72x72.png",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/money-info-service.4811a99f9efe7af2.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/weather-card-wc-init-account-type.5bc4895426a17d33.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/background/v2.0/jpg/partlysunny_day.jpg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/icons-wc/icons/dark-mode/detectLocDark.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/chevron_down_12_regular.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/MSIAWwA=/Condition/D200PartlySunnyV2.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v10/AQI/aq3.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v10/NoColor_Card/rightArrow.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/background/v2.0/jpg/sunny.jpg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/eu/33_21_6_202610301000.jpg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/eu/34_21_6_202610301000.jpg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/eu/33_22_6_202610301000.jpg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/eu/34_22_6_202610301000.jpg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "ecn.dev.virtualearth.net",
+"url": "https://ecn.dev.virtualearth.net/REST/v1/Imagery/Map/roadondemandfull/48.090,11.528/6",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/minimap/wcicons/aqi.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/weathermapdata/1/static/minimap/wcicons/right_arrow.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/service/Finance/Charts",
+"type": "fetch"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/service/Finance/ExchangeStatistics",
+"type": "fetch"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/common-sports-lib.925393ca48047c37.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/sports-info.c61438c235eac223.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TgR1o.img",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Svqot.img",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TIZR4.img",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SxbkX.img",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/web-components_super-cards_dist_cards_super-carousel_carousel_register_js.d945580f454ca648.js",
+"type": "script"
+},
+{
+"t": 6.36,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/casual-games-carousel-card.c77db2a06cc9689b.js",
+"type": "script"
+},
+{
+"t": 6.36,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SsjHW.img",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SolXs.img",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1S09zh.img",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "th.bing.com",
+"url": "https://th.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "img-s-msn-com.akamaized.net",
+"url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Snri3.img",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/sports-match-list.c5141dd8fb32f53b.js",
+"type": "script"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/staticsb/statics/latest/fluent-icons/info_16_regular.svg",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.36,
+"host": "www.bing.com",
+"url": "https://www.bing.com/th",
+"type": "image"
+},
+{
+"t": 6.37,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.37,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/sports-info-utils.8c172a6dcdd4dc1a.js",
+"type": "script"
+},
+{
+"t": 6.37,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 6.37,
+"host": "www.bing.com",
+"url": "https://www.bing.com/web/xlsc.aspx",
+"type": "xhr"
+},
+{
+"t": 6.37,
+"host": "www.bing.com",
+"url": "https://www.bing.com/web/xlsc.aspx",
+"type": "xhr"
+},
+{
+"t": 6.37,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 8.41,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 8.53,
+"host": "www.bing.com",
+"url": "https://www.bing.com/fd/ls/GLinkPingPost.aspx",
+"type": "ping"
+},
+{
+"t": 8.53,
+"host": "www.bing.com",
+"url": "https://www.bing.com/web/xlsc.aspx",
+"type": "ping"
+},
+{
+"t": 12.53,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/libs_location-service_dist_AutoSuggestService_index_js-libs_location-service_dist_profiles_We-48fb3b.3722a501781e3b78.js",
+"type": "script"
+},
+{
+"t": 12.53,
+"host": "assets.msn.com",
+"url": "https://assets.msn.com/bundles/v1/bingHomepage/latest/weather-card-wc-deferred.fa0e09837b41dbfb.js",
+"type": "script"
+},
+{
+"t": 12.53,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+},
+{
+"t": 12.53,
+"host": "www.bing.com",
+"url": "https://www.bing.com/web/xlsc.aspx",
+"type": "xhr"
+},
+{
+"t": 12.53,
+"host": "browser.events.data.msn.com",
+"url": "https://browser.events.data.msn.com/OneCollector/1.0",
+"type": "ping"
+}
+]

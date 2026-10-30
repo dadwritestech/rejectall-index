@@ -1,0 +1,698 @@
+[
+{
+"t": 0.0,
+"host": "theguardian.com",
+"url": "https://theguardian.com/",
+"type": "document"
+},
+{
+"t": 0.04,
+"host": "www.theguardian.com",
+"url": "https://www.theguardian.com/",
+"type": "document"
+},
+{
+"t": 0.07,
+"host": "www.theguardian.com",
+"url": "https://www.theguardian.com/europe",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/polyfill.io/v3/polyfill.min.js",
+"type": "other"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/frameworks.client.web.c82a8172be7aa46261c9.js",
+"type": "other"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/index.client.web.064e1b7d0f7353fb7a60.js",
+"type": "other"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/commercial/b35bb3b18d3f9790b0d8/graun.standalone.commercial.js",
+"type": "other"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/static/frontend/fonts/guardian-headline/noalts-not-hinted/GHGuardianHeadline-Bold.woff2",
+"type": "font"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Regular.woff2",
+"type": "font"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/polyfill.io/v3/polyfill.min.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/frameworks.client.web.c82a8172be7aa46261c9.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/index.client.web.064e1b7d0f7353fb7a60.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/commercial/b35bb3b18d3f9790b0d8/graun.standalone.commercial.js",
+"type": "script"
+},
+{
+"t": 0.1,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/static/frontend/css/print.css",
+"type": "stylesheet"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/108d77aa9a7e3e386ad4f99d5bc2c215e24cdafa/0_0_2623_2623/master/2623.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/uploads/2018/01/10/Peter_Bradshaw,_L.png",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/uploads/2017/10/09/Simon-Jenkins,-L.png",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/6c3dcf076474b83a41ffa343627553682e8ea037/1120_0_4480_4480/master/4480.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/e8e0ad2fd2a98c5f1432cad251a54a9e72c15c97/76_3_3895_3894/master/3895.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/8c547c6a05cfe49f8cf7aa96e47f8571769f80d3/0_224_2732_2732/master/2732.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/c88d8154f76fef59b24c916cab7348652d9f113c/481_0_4070_3256/master/4070.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/a6b3ac40349761781230e42b4b12f1be82db7244/634_0_4560_3648/master/4560.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/d97953e1840d136eda579333a938ce8c88e36400/1010_0_7911_6328/master/7911.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/f61c68451a0200a42ded508078a5b237cbfce221/201_544_2375_1900/master/2375.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/83caa07081e6e2c646d87ef61759f208ba1ecce2/0_493_2976_2381/master/2976.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/c1e07dea6cc3e91e73543eb9734d161c2a81af1c/466_177_2767_2214/master/2767.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/97e1c3e1f50c4260373821af06446263ed696cf0/1532_402_5032_4027/master/5032.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/9aa4e1ddebae2518b26025974c624af6d3aa638e/1_0_2815_2253/master/2815.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/518145a27078a2e967550d126752fd6982d10f2e/0_0_3962_3169/master/3962.jpg",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/uploads/2025/06/26/David_Van_Reybrouck.png",
+"type": "image"
+},
+{
+"t": 0.1,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/uploads/2017/10/09/Simon-Jenkins,-L.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/uploads/2025/05/07/Alex_Bronzini-Vender.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/uploads/2025/10/27/Sr%C4%91an_Cvijic%CC%81.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "static.theguardian.com",
+"url": "https://static.theguardian.com/commercial/sponsor/25/Aug/2026/9897de2d-6da1-4fc4-b0c2-a5fe55b2847b-Vinted_green_280.png",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/static/frontend/fonts/guardian-textsans/noalts-not-hinted/GuardianTextSans-Regular.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/static/frontend/fonts/guardian-textsans/noalts-not-hinted/GuardianTextSans-Bold.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/static/frontend/fonts/guardian-headline/noalts-not-hinted/GHGuardianHeadline-Medium.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/381dceac245ca56f761e45cb844e43c32d370302/427_0_5000_4000/master/5000.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/9aadd098dbc9cb51895320ee3fac240111f92c2d/781_0_3942_3153/master/3942.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/1d4ed70b0ce892d544f7461f5b9743858031f6a4/480_0_5000_4000/master/5000.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/f3c74e7c4ac1807de8a223b57b97aaf8478bdc25/103_0_5000_4002/master/5000.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/a37607a64431e610c660e5c142967110c3222380/481_0_3540_2832/master/3540.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/20338a3fdc07b6a5ad74680869cd506e61175f60/316_165_2237_1789/master/2237.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/3068666e708e5c38b8ece525a54df3213d3d5c3b/250_32_2800_2241/master/2800.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/966a1aced392e5c6f27e30d0c7d1e01097536e89/47_0_3541_2834/master/3541.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/ff3357e060d64adc48e88b1399e603abdbc4d574/0_0_3750_3000/master/3750.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/45b775938ef866af30283aa372e1d089fd0ffaea/625_0_3977_3181/master/3977.jpg",
+"type": "image"
+},
+{
+"t": 0.19,
+"host": "i.guim.co.uk",
+"url": "https://i.guim.co.uk/img/media/b0fcb75944057b7ba681de100c8535424d495034/302_0_2996_2398/master/2996.jpg",
+"type": "image"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/5030.client.web.f230b81c225d4f966b70.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/2726.client.web.e13ebef98f1d924986d4.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/2075.client.web.f23883965fec077fbf90.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/767.client.web.74abab8423d89cabfd13.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/Metrics-island.client.web.c32f3b4d0232cb52f72c.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/SetABTests-island.client.web.33a306406e5e8fe74357.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/SetAdTargeting-island.client.web.15f4f2e869691979faec.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/1139.client.web.380963b968fd35142ffd.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/4042.client.web.9e5d5ac0b3915cfdee9c.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/2203.client.web.12c10e6c818a0a15634c.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/3632.client.web.111924ff3bbd04fd8fff.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/TopBar-island.client.web.ea5ca84837a9fbf7e076.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/5524.client.web.ba35d3dc2dd93bf5974a.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/6743.client.web.6ed8b77be4791fd12917.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/Titlepiece-island.client.web.541f2369fe4756aa6e4c.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/1",
+"type": "fetch"
+},
+{
+"t": 0.22,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/2",
+"type": "fetch"
+},
+{
+"t": 0.22,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/2",
+"type": "fetch"
+},
+{
+"t": 0.22,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/unified/wrapperMessagingWithoutDetection.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/2",
+"type": "fetch"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/8252.client.web.ee293dec6a4b43728efb.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/6696.client.web.4b7eae6e8acf0ddda888.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/DirectoryPageNav-island.client.web.bfd5662302c936cccc1a.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/1771.client.web.66d730d4ce34f92944d1.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/1665.client.web.4f8c48e3cddd4f29cde0.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/7.client.web.5e4cbca9cb2e4a211d89.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/4068.client.web.645bbd52bdade9aac5d2.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/6090.client.web.a613c4866de358b91c5b.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/734.client.web.205505b027a2b19ed9f5.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/7657.client.web.7aff6254f73ee7aea5ef.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/2580.client.web.7270f037a3a4edd3923d.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/ScrollableHighlights-island.client.web.8577df62869c84aa5e71.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/unified/4.41.0/gdpr-tcf.e7290277d588e0de9bb9.bundle.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/wrapper/v2/meta-data",
+"type": "xhr"
+},
+{
+"t": 0.29,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/4501.client.web.f40cb0ec45e365f68df6.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/wrapper/v2/messages",
+"type": "xhr"
+},
+{
+"t": 0.31,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/2",
+"type": "fetch"
+},
+{
+"t": 0.34,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/wrapper/v2/pv-data",
+"type": "xhr"
+},
+{
+"t": 0.34,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/2",
+"type": "fetch"
+},
+{
+"t": 0.34,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/2",
+"type": "fetch"
+},
+{
+"t": 0.34,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/index.html",
+"type": "document"
+},
+{
+"t": 0.35,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/AlreadyVisited-island.client.web.5442c018ea2daaa05e14.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/AdmiralScript-island.client.web.ae156bd04d0dc63fa989.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/FocusStyles-island.client.web.2b54fbd3a93e324c04f2.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/Notice.9cce2.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/polyfills.01516.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/Notice.fcfb9.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/ShowHideContainers-island.client.web.4efb20ea6fe1f90920f4.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/BrazeMessaging-island.client.web.086011d521f546d6d854.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/ReaderRevenueDev-island.client.web.cce0b7f20e33f36133e6.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/GoogleOneTap-island.client.web.d033b79a5b4969de141d.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/EditionSwitcherBanner-island.client.web.ece6c989b5bb8b3af1da.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/9056.client.web.3506b1ea49bb0f749cfe.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/7903.client.web.bd24f5af3af943c91b9e.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "assets.guim.co.uk",
+"url": "https://assets.guim.co.uk/assets/StickyBottomBanner-island.client.web.78c102006201aca00e80.js",
+"type": "script"
+},
+{
+"t": 0.4,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/consent/tcfv2/vendor-list/categories",
+"type": "fetch"
+},
+{
+"t": 0.41,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/2",
+"type": "fetch"
+},
+{
+"t": 0.41,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/2",
+"type": "fetch"
+},
+{
+"t": 6.41,
+"host": "sourcepoint.theguardian.com",
+"url": "https://sourcepoint.theguardian.com/consent/tcfv2/vendor-list/categories",
+"type": "fetch"
+},
+{
+"t": 6.41,
+"host": "media.guim.co.uk",
+"url": "https://media.guim.co.uk/8c1c22e152b853e10ff3e1511aa2da58ee04351b/0_0_512_512/512.png",
+"type": "image"
+},
+{
+"t": 6.41,
+"host": "media.guim.co.uk",
+"url": "https://media.guim.co.uk/843ea07704db2a72afc0f835b7b2d4beafc189df/0_0_512_512/140.jpg",
+"type": "image"
+},
+{
+"t": 6.41,
+"host": "interactive.guim.co.uk",
+"url": "https://interactive.guim.co.uk/fonts/guss-webfonts/GHGuardianHeadline/GHGuardianHeadline-Bold.woff2",
+"type": "font"
+},
+{
+"t": 6.41,
+"host": "interactive.guim.co.uk",
+"url": "https://interactive.guim.co.uk/fonts/guss-webfonts/GuardianTextEgyptianWeb/GuardianTextEgyptianWeb-Regular.woff2",
+"type": "font"
+},
+{
+"t": 6.41,
+"host": "interactive.guim.co.uk",
+"url": "https://interactive.guim.co.uk/fonts/guss-webfonts/GuardianTextEgyptianWeb/GuardianTextEgyptianWeb-Bold.woff2",
+"type": "font"
+},
+{
+"t": 6.41,
+"host": "interactive.guim.co.uk",
+"url": "https://interactive.guim.co.uk/fonts/guss-webfonts/GuardianTextSansWeb/GuardianTextSansWeb-Regular.woff2",
+"type": "font"
+},
+{
+"t": 6.41,
+"host": "interactive.guim.co.uk",
+"url": "https://interactive.guim.co.uk/fonts/guss-webfonts/GuardianTextSansWeb/GuardianTextSansWeb-Bold.woff2",
+"type": "font"
+},
+{
+"t": 6.41,
+"host": "ophan.theguardian.com",
+"url": "https://ophan.theguardian.com/img/2",
+"type": "fetch"
+}
+]

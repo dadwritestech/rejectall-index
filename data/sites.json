@@ -1,0 +1,1347 @@
+{
+ "tranco": {
+  "list_id": "PYK6J",
+  "created_on": "2026-10-29T22:00:01.908656",
+  "permalink": "https://tranco-list.eu/list/PYK6J"
+ },
+ "rule": "first N domains in Tranco rank order whose homepage answers with HTML; redirect duplicates dropped",
+ "sites": [
+  {
+   "rank": 1,
+   "domain": "google.com",
+   "url": "https://google.com/",
+   "probe": "html",
+   "probe_final": "https://www.google.com/"
+  },
+  {
+   "rank": 2,
+   "domain": "cloudflare.com",
+   "url": "https://cloudflare.com/",
+   "probe": "html",
+   "probe_final": "https://www.cloudflare.com/"
+  },
+  {
+   "rank": 10,
+   "domain": "microsoft.com",
+   "url": "https://microsoft.com/",
+   "probe": "html",
+   "probe_final": "https://www.microsoft.com/"
+  },
+  {
+   "rank": 11,
+   "domain": "youtube.com",
+   "url": "https://youtube.com/",
+   "probe": "html",
+   "probe_final": "https://www.youtube.com/"
+  },
+  {
+   "rank": 12,
+   "domain": "apple.com",
+   "url": "https://apple.com/",
+   "probe": "html",
+   "probe_final": "https://www.apple.com/"
+  },
+  {
+   "rank": 13,
+   "domain": "hicloudcam.com",
+   "url": "https://hicloudcam.com/",
+   "probe": "html",
+   "probe_final": "https://www.hicloudcam.com/index.html"
+  },
+  {
+   "rank": 14,
+   "domain": "instagram.com",
+   "url": "https://instagram.com/",
+   "probe": "html",
+   "probe_final": "https://www.instagram.com/"
+  },
+  {
+   "rank": 17,
+   "domain": "mail.ru",
+   "url": "https://mail.ru/",
+   "probe": "html",
+   "probe_final": "https://account.mail.ru/login?autologin_exp=v22&autologin_project=home&errorCode=11300&errorText=invalid+user&page=https%3A%2F%2Fmail.ru%2F%3Fautologin%3D1793346681&state=5b5e4ff23c7643d190cd2658581c067b"
+  },
+  {
+   "rank": 18,
+   "domain": "linkedin.com",
+   "url": "https://linkedin.com/",
+   "probe": "html",
+   "probe_final": "https://www.linkedin.com/"
+  },
+  {
+   "rank": 26,
+   "domain": "triplinkintl.com",
+   "url": "https://triplinkintl.com/",
+   "probe": "html",
+   "probe_final": "https://www.triplinkintl.com/"
+  },
+  {
+   "rank": 32,
+   "domain": "amazon.com",
+   "url": "https://amazon.com/",
+   "probe": "html",
+   "probe_final": "https://www.amazon.com/"
+  },
+  {
+   "rank": 34,
+   "domain": "github.com",
+   "url": "https://github.com/",
+   "probe": "html",
+   "probe_final": "https://github.com/"
+  },
+  {
+   "rank": 37,
+   "domain": "wikipedia.org",
+   "url": "https://wikipedia.org/",
+   "probe": "html",
+   "probe_final": "https://www.wikipedia.org/"
+  },
+  {
+   "rank": 40,
+   "domain": "cloud.microsoft",
+   "url": "https://cloud.microsoft/",
+   "probe": "html",
+   "probe_final": "https://m365.cloud.microsoft/"
+  },
+  {
+   "rank": 44,
+   "domain": "netflix.com",
+   "url": "https://netflix.com/",
+   "probe": "html",
+   "probe_final": "https://www.netflix.com/de-en/"
+  },
+  {
+   "rank": 45,
+   "domain": "bing.com",
+   "url": "https://bing.com/",
+   "probe": "html",
+   "probe_final": "https://www.bing.com:443/?toWww=1&redig=1A2B991FBEFB4B19A4B792DF24C8E775"
+  },
+  {
+   "rank": 47,
+   "domain": "x.com",
+   "url": "https://x.com/",
+   "probe": "html",
+   "probe_final": "https://x.com/"
+  },
+  {
+   "rank": 51,
+   "domain": "gandi.net",
+   "url": "https://gandi.net/",
+   "probe": "html",
+   "probe_final": "https://www.gandi.net/en"
+  },
+  {
+   "rank": 52,
+   "domain": "pinterest.com",
+   "url": "https://pinterest.com/",
+   "probe": "html",
+   "probe_final": "https://www.pinterest.com/"
+  },
+  {
+   "rank": 54,
+   "domain": "icloud.com",
+   "url": "https://icloud.com/",
+   "probe": "html",
+   "probe_final": "https://www.icloud.com/"
+  },
+  {
+   "rank": 58,
+   "domain": "cloudflare.net",
+   "url": "https://cloudflare.net/",
+   "probe": "html (http 403)",
+   "probe_final": "https://cloudflare.net/"
+  },
+  {
+   "rank": 61,
+   "domain": "adobe.com",
+   "url": "https://adobe.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.adobe.com/"
+  },
+  {
+   "rank": 62,
+   "domain": "wordpress.org",
+   "url": "https://wordpress.org/",
+   "probe": "html",
+   "probe_final": "https://wordpress.org/"
+  },
+  {
+   "rank": 63,
+   "domain": "tiktok.com",
+   "url": "https://tiktok.com/",
+   "probe": "html",
+   "probe_final": "https://www.tiktok.com/"
+  },
+  {
+   "rank": 65,
+   "domain": "myfritz.net",
+   "url": "https://myfritz.net/",
+   "probe": "html",
+   "probe_final": "https://www.myfritz.net/devices/"
+  },
+  {
+   "rank": 71,
+   "domain": "yahoo.com",
+   "url": "https://yahoo.com/",
+   "probe": "html",
+   "probe_final": "https://de.yahoo.com/?p=us"
+  },
+  {
+   "rank": 72,
+   "domain": "digicert.com",
+   "url": "https://digicert.com/",
+   "probe": "html",
+   "probe_final": "https://www.digicert.com/"
+  },
+  {
+   "rank": 76,
+   "domain": "opera.com",
+   "url": "https://opera.com/",
+   "probe": "html",
+   "probe_final": "https://www.opera.com/"
+  },
+  {
+   "rank": 77,
+   "domain": "spotify.com",
+   "url": "https://spotify.com/",
+   "probe": "html",
+   "probe_final": "https://open.spotify.com/"
+  },
+  {
+   "rank": 78,
+   "domain": "roblox.com",
+   "url": "https://roblox.com/",
+   "probe": "html",
+   "probe_final": "https://www.roblox.com/"
+  },
+  {
+   "rank": 82,
+   "domain": "baidu.com",
+   "url": "https://baidu.com/",
+   "probe": "html",
+   "probe_final": "https://www.baidu.com/"
+  },
+  {
+   "rank": 85,
+   "domain": "ntp.org",
+   "url": "https://ntp.org/",
+   "probe": "html",
+   "probe_final": "https://www.ntp.org/"
+  },
+  {
+   "rank": 87,
+   "domain": "vimeo.com",
+   "url": "https://vimeo.com/",
+   "probe": "html",
+   "probe_final": "https://vimeo.com/"
+  },
+  {
+   "rank": 90,
+   "domain": "qq.com",
+   "url": "https://qq.com/",
+   "probe": "html",
+   "probe_final": "https://www.qq.com/"
+  },
+  {
+   "rank": 91,
+   "domain": "nginx.org",
+   "url": "https://nginx.org/",
+   "probe": "html",
+   "probe_final": "https://nginx.org/"
+  },
+  {
+   "rank": 92,
+   "domain": "msn.com",
+   "url": "https://msn.com/",
+   "probe": "html",
+   "probe_final": "https://www.msn.com/de-de"
+  },
+  {
+   "rank": 95,
+   "domain": "mozilla.org",
+   "url": "https://mozilla.org/",
+   "probe": "html",
+   "probe_final": "https://www.mozilla.org/"
+  },
+  {
+   "rank": 96,
+   "domain": "f5.com",
+   "url": "https://f5.com/",
+   "probe": "html",
+   "probe_final": "https://www.f5.com/"
+  },
+  {
+   "rank": 98,
+   "domain": "epicgames.com",
+   "url": "https://epicgames.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.epicgames.com:443/"
+  },
+  {
+   "rank": 99,
+   "domain": "wordpress.com",
+   "url": "https://wordpress.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://wordpress.com/"
+  },
+  {
+   "rank": 102,
+   "domain": "sentry.io",
+   "url": "https://sentry.io/",
+   "probe": "html",
+   "probe_final": "https://sentry.io/welcome/"
+  },
+  {
+   "rank": 103,
+   "domain": "reddit.com",
+   "url": "https://reddit.com/",
+   "probe": "html",
+   "probe_final": "https://www.reddit.com/"
+  },
+  {
+   "rank": 109,
+   "domain": "europa.eu",
+   "url": "https://europa.eu/",
+   "probe": "html",
+   "probe_final": "https://european-union.europa.eu/select-language?destination=/node/1"
+  },
+  {
+   "rank": 110,
+   "domain": "ui.com",
+   "url": "https://ui.com/",
+   "probe": "html",
+   "probe_final": "https://ui.com/"
+  },
+  {
+   "rank": 112,
+   "domain": "chatgpt.com",
+   "url": "https://chatgpt.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://chatgpt.com/"
+  },
+  {
+   "rank": 115,
+   "domain": "intuit.com",
+   "url": "https://intuit.com/",
+   "probe": "html",
+   "probe_final": "https://www.intuit.com/"
+  },
+  {
+   "rank": 116,
+   "domain": "ipify.org",
+   "url": "https://ipify.org/",
+   "probe": "html",
+   "probe_final": "https://www.ipify.org/"
+  },
+  {
+   "rank": 121,
+   "domain": "samsung.com",
+   "url": "https://samsung.com/",
+   "probe": "html",
+   "probe_final": "https://www.samsung.com/de/"
+  },
+  {
+   "rank": 122,
+   "domain": "okcdn.ru",
+   "url": "https://okcdn.ru/",
+   "probe": "html (http 403)",
+   "probe_final": "https://st.okcdn.ru/"
+  },
+  {
+   "rank": 124,
+   "domain": "skybridge.click",
+   "url": "https://skybridge.click/",
+   "probe": "html",
+   "probe_final": "https://skybridge.click/"
+  },
+  {
+   "rank": 126,
+   "domain": "office365.com",
+   "url": "https://office365.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://office365.com/"
+  },
+  {
+   "rank": 128,
+   "domain": "t-online.de",
+   "url": "https://t-online.de/",
+   "probe": "html",
+   "probe_final": "https://www.t-online.de/"
+  },
+  {
+   "rank": 130,
+   "domain": "nic.ru",
+   "url": "https://nic.ru/",
+   "probe": "html",
+   "probe_final": "https://nic.ru/"
+  },
+  {
+   "rank": 133,
+   "domain": "openai.com",
+   "url": "https://openai.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://openai.com/"
+  },
+  {
+   "rank": 135,
+   "domain": "dropbox.com",
+   "url": "https://dropbox.com/",
+   "probe": "html",
+   "probe_final": "https://www.dropbox.com/"
+  },
+  {
+   "rank": 137,
+   "domain": "android.com",
+   "url": "https://android.com/",
+   "probe": "html",
+   "probe_final": "https://www.android.com/"
+  },
+  {
+   "rank": 142,
+   "domain": "nih.gov",
+   "url": "https://nih.gov/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.nih.gov/"
+  },
+  {
+   "rank": 144,
+   "domain": "apache.org",
+   "url": "https://apache.org/",
+   "probe": "html",
+   "probe_final": "https://apache.org/"
+  },
+  {
+   "rank": 147,
+   "domain": "webex.com",
+   "url": "https://webex.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.webex.com/"
+  },
+  {
+   "rank": 148,
+   "domain": "vk.ru",
+   "url": "https://vk.ru/",
+   "probe": "html",
+   "probe_final": "https://vk.ru/"
+  },
+  {
+   "rank": 150,
+   "domain": "archive.org",
+   "url": "https://archive.org/",
+   "probe": "html",
+   "probe_final": "https://archive.org/"
+  },
+  {
+   "rank": 153,
+   "domain": "vk.com",
+   "url": "https://vk.com/",
+   "probe": "html",
+   "probe_final": "https://vk.com/"
+  },
+  {
+   "rank": 155,
+   "domain": "reg.ru",
+   "url": "https://reg.ru/",
+   "probe": "html",
+   "probe_final": "https://reg.ru/"
+  },
+  {
+   "rank": 156,
+   "domain": "snapchat.com",
+   "url": "https://snapchat.com/",
+   "probe": "html",
+   "probe_final": "https://www.snapchat.com:443/"
+  },
+  {
+   "rank": 159,
+   "domain": "duckdns.org",
+   "url": "https://duckdns.org/",
+   "probe": "html",
+   "probe_final": "https://www.duckdns.org/"
+  },
+  {
+   "rank": 160,
+   "domain": "godaddy.com",
+   "url": "https://godaddy.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.godaddy.com/"
+  },
+  {
+   "rank": 161,
+   "domain": "tumblr.com",
+   "url": "https://tumblr.com/",
+   "probe": "html",
+   "probe_final": "https://www.tumblr.com/"
+  },
+  {
+   "rank": 163,
+   "domain": "nytimes.com",
+   "url": "https://nytimes.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.nytimes.com/"
+  },
+  {
+   "rank": 165,
+   "domain": "gravatar.com",
+   "url": "https://gravatar.com/",
+   "probe": "html",
+   "probe_final": "https://gravatar.com/"
+  },
+  {
+   "rank": 168,
+   "domain": "ubuntu.com",
+   "url": "https://ubuntu.com/",
+   "probe": "html",
+   "probe_final": "https://ubuntu.com/"
+  },
+  {
+   "rank": 170,
+   "domain": "telegram.org",
+   "url": "https://telegram.org/",
+   "probe": "html",
+   "probe_final": "https://telegram.org/"
+  },
+  {
+   "rank": 171,
+   "domain": "shopify.com",
+   "url": "https://shopify.com/",
+   "probe": "html",
+   "probe_final": "https://www.shopify.com/"
+  },
+  {
+   "rank": 175,
+   "domain": "afternic.com",
+   "url": "https://afternic.com/",
+   "probe": "html",
+   "probe_final": "https://www.afternic.com/"
+  },
+  {
+   "rank": 176,
+   "domain": "paypal.com",
+   "url": "https://paypal.com/",
+   "probe": "html",
+   "probe_final": "https://www.paypal.com/de/home"
+  },
+  {
+   "rank": 178,
+   "domain": "samsungcloud.com",
+   "url": "https://samsungcloud.com/",
+   "probe": "html",
+   "probe_final": "https://www.samsungcloud.com/"
+  },
+  {
+   "rank": 179,
+   "domain": "scorecardresearch.com",
+   "url": "https://scorecardresearch.com/",
+   "probe": "html",
+   "probe_final": "https://www.scorecardresearch.com/Home.aspx"
+  },
+  {
+   "rank": 180,
+   "domain": "flickr.com",
+   "url": "https://flickr.com/",
+   "probe": "html",
+   "probe_final": "https://flickr.com/"
+  },
+  {
+   "rank": 181,
+   "domain": "w3.org",
+   "url": "https://w3.org/",
+   "probe": "html (http 403)",
+   "probe_final": "https://w3.org/"
+  },
+  {
+   "rank": 184,
+   "domain": "discord.com",
+   "url": "https://discord.com/",
+   "probe": "html",
+   "probe_final": "https://discord.com/"
+  },
+  {
+   "rank": 185,
+   "domain": "creativecommons.org",
+   "url": "https://creativecommons.org/",
+   "probe": "html",
+   "probe_final": "https://creativecommons.org/"
+  },
+  {
+   "rank": 187,
+   "domain": "pki.goog",
+   "url": "https://pki.goog/",
+   "probe": "html",
+   "probe_final": "https://pki.goog/"
+  },
+  {
+   "rank": 189,
+   "domain": "mts.ru",
+   "url": "https://mts.ru/",
+   "probe": "html",
+   "probe_final": "https://moskva.mts.ru/personal"
+  },
+  {
+   "rank": 190,
+   "domain": "ebay.com",
+   "url": "https://ebay.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.ebay.com/"
+  },
+  {
+   "rank": 192,
+   "domain": "soundcloud.com",
+   "url": "https://soundcloud.com/",
+   "probe": "html",
+   "probe_final": "https://soundcloud.com/"
+  },
+  {
+   "rank": 197,
+   "domain": "theguardian.com",
+   "url": "https://theguardian.com/",
+   "probe": "html",
+   "probe_final": "https://www.theguardian.com/europe"
+  },
+  {
+   "rank": 201,
+   "domain": "medium.com",
+   "url": "https://medium.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://medium.com/"
+  },
+  {
+   "rank": 202,
+   "domain": "hichina.com",
+   "url": "https://hichina.com/",
+   "probe": "html",
+   "probe_final": "https://www.hichina.com/"
+  },
+  {
+   "rank": 203,
+   "domain": "stripe.com",
+   "url": "https://stripe.com/",
+   "probe": "html",
+   "probe_final": "https://stripe.com/de"
+  },
+  {
+   "rank": 205,
+   "domain": "mtgglobals.com",
+   "url": "https://mtgglobals.com/",
+   "probe": "html",
+   "probe_final": "https://www.mtgglobals.com/"
+  },
+  {
+   "rank": 209,
+   "domain": "doi.org",
+   "url": "https://doi.org/",
+   "probe": "html",
+   "probe_final": "https://www.doi.org/"
+  },
+  {
+   "rank": 212,
+   "domain": "oracle.com",
+   "url": "https://oracle.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.oracle.com/"
+  },
+  {
+   "rank": 214,
+   "domain": "forter.com",
+   "url": "https://forter.com/",
+   "probe": "html",
+   "probe_final": "https://www.forter.com/"
+  },
+  {
+   "rank": 216,
+   "domain": "bbc.com",
+   "url": "https://bbc.com/",
+   "probe": "html",
+   "probe_final": "https://www.bbc.com/"
+  },
+  {
+   "rank": 217,
+   "domain": "criteo.com",
+   "url": "https://criteo.com/",
+   "probe": "html",
+   "probe_final": "https://www.criteo.com/"
+  },
+  {
+   "rank": 220,
+   "domain": "forbes.com",
+   "url": "https://forbes.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://forbes.com/"
+  },
+  {
+   "rank": 223,
+   "domain": "wikimedia.org",
+   "url": "https://wikimedia.org/",
+   "probe": "html",
+   "probe_final": "https://www.wikimedia.org/"
+  },
+  {
+   "rank": 224,
+   "domain": "sciencedirect.com",
+   "url": "https://sciencedirect.com/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.sciencedirect.com/"
+  },
+  {
+   "rank": 225,
+   "domain": "twitch.tv",
+   "url": "https://twitch.tv/",
+   "probe": "html",
+   "probe_final": "https://www.twitch.tv/"
+  },
+  {
+   "rank": 226,
+   "domain": "researchgate.net",
+   "url": "https://researchgate.net/",
+   "probe": "html (http 403)",
+   "probe_final": "https://www.researchgate.net/"
+  },
+  {
+   "rank": 227,
+   "domain": "mit.edu",
+   "url": "https://mit.edu/",
+   "probe": "html",
+   "probe_final": "https://web.mit.edu/"
+  }
+ ],
+ "skipped": [
+  {
+   "rank": 3,
+   "domain": "amazonaws.com",
+   "reason": "redirects to amazon.com"
+  },
+  {
+   "rank": 4,
+   "domain": "ezviz7.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 5,
+   "domain": "facebook.com",
+   "reason": "http 400"
+  },
+  {
+   "rank": 6,
+   "domain": "fbcdn.net",
+   "reason": "http 400"
+  },
+  {
+   "rank": 7,
+   "domain": "gstatic.com",
+   "reason": "http 404"
+  },
+  {
+   "rank": 8,
+   "domain": "googleapis.com",
+   "reason": "http 404"
+  },
+  {
+   "rank": 9,
+   "domain": "akamai.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 15,
+   "domain": "akamaiedge.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 16,
+   "domain": "twitter.com",
+   "reason": "redirects to x.com"
+  },
+  {
+   "rank": 19,
+   "domain": "akadns.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 20,
+   "domain": "azure.com",
+   "reason": "TimeoutError"
+  },
+  {
+   "rank": 21,
+   "domain": "domaincontrol.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 22,
+   "domain": "googlevideo.com",
+   "reason": "http 404"
+  },
+  {
+   "rank": 23,
+   "domain": "googletagmanager.com",
+   "reason": "http 404"
+  },
+  {
+   "rank": 24,
+   "domain": "gtld-servers.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 25,
+   "domain": "dzen.ru",
+   "reason": "URLError"
+  },
+  {
+   "rank": 27,
+   "domain": "cloudfront.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 28,
+   "domain": "office.com",
+   "reason": "redirects to cloud.microsoft"
+  },
+  {
+   "rank": 29,
+   "domain": "appsflyersdk.com",
+   "reason": "http 403"
+  },
+  {
+   "rank": 30,
+   "domain": "gwfb.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 31,
+   "domain": "shiabank.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 33,
+   "domain": "live.com",
+   "reason": "http 417"
+  },
+  {
+   "rank": 35,
+   "domain": "aaplimg.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 36,
+   "domain": "sharepoint.com",
+   "reason": "redirects to microsoft.com"
+  },
+  {
+   "rank": 38,
+   "domain": "trafficmanager.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 39,
+   "domain": "fastly.net",
+   "reason": "redirects to fastly.com"
+  },
+  {
+   "rank": 41,
+   "domain": "apple-dns.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 42,
+   "domain": "whatsapp.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 43,
+   "domain": "office.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 46,
+   "domain": "googleusercontent.com",
+   "reason": "http 404"
+  },
+  {
+   "rank": 48,
+   "domain": "lsrelayaccess.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 49,
+   "domain": "youtu.be",
+   "reason": "redirects to youtube.com"
+  },
+  {
+   "rank": 50,
+   "domain": "doubleclick.net",
+   "reason": "redirects to google.com"
+  },
+  {
+   "rank": 53,
+   "domain": "googlesyndication.com",
+   "reason": "redirects to google.com"
+  },
+  {
+   "rank": 55,
+   "domain": "microsoftonline.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 56,
+   "domain": "pv-cdn.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 57,
+   "domain": "windows.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 59,
+   "domain": "w2rt6byl5nf1opmc-a.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 60,
+   "domain": "goo.gl",
+   "reason": "http 404"
+  },
+  {
+   "rank": 64,
+   "domain": "windowsupdate.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 66,
+   "domain": "zoom.us",
+   "reason": "redirects to zoom.com"
+  },
+  {
+   "rank": 67,
+   "domain": "whatsapp.com",
+   "reason": "http 400"
+  },
+  {
+   "rank": 68,
+   "domain": "googledomains.com",
+   "reason": "redirects to domains.google"
+  },
+  {
+   "rank": 69,
+   "domain": "skype.com",
+   "reason": "redirects to live.com"
+  },
+  {
+   "rank": 70,
+   "domain": "gvt1.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 73,
+   "domain": "wa.me",
+   "reason": "URLError"
+  },
+  {
+   "rank": 74,
+   "domain": "edgekey.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 75,
+   "domain": "tiktokcdn.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 79,
+   "domain": "h264.io",
+   "reason": "URLError"
+  },
+  {
+   "rank": 80,
+   "domain": "workers.dev",
+   "reason": "redirects to cloudflare.com"
+  },
+  {
+   "rank": 81,
+   "domain": "tiktokv.com",
+   "reason": "redirects to tiktok.com"
+  },
+  {
+   "rank": 83,
+   "domain": "a2z.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 84,
+   "domain": "amazonvideo.com",
+   "reason": "redirects to primevideo.com"
+  },
+  {
+   "rank": 86,
+   "domain": "b-cdn.net",
+   "reason": "redirects to bunny.net"
+  },
+  {
+   "rank": 88,
+   "domain": "akam.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 89,
+   "domain": "yandex.net",
+   "reason": "redirects to ya.ru"
+  },
+  {
+   "rank": 93,
+   "domain": "blogspot.com",
+   "reason": "redirects to blogger.com"
+  },
+  {
+   "rank": 94,
+   "domain": "3gppnetwork.org",
+   "reason": "URLError"
+  },
+  {
+   "rank": 97,
+   "domain": "aws.dev",
+   "reason": "URLError"
+  },
+  {
+   "rank": 100,
+   "domain": "t.me",
+   "reason": "redirects to telegram.org"
+  },
+  {
+   "rank": 101,
+   "domain": "nginx.com",
+   "reason": "redirects to f5.com"
+  },
+  {
+   "rank": 104,
+   "domain": "edgesuite.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 105,
+   "domain": "lencr.org",
+   "reason": "redirects to letsencrypt.org"
+  },
+  {
+   "rank": 106,
+   "domain": "yandex.ru",
+   "reason": "URLError"
+  },
+  {
+   "rank": 107,
+   "domain": "root-servers.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 108,
+   "domain": "cdn77.org",
+   "reason": "URLError"
+  },
+  {
+   "rank": 111,
+   "domain": "2mdn.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 113,
+   "domain": "gvt2.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 114,
+   "domain": "cdninstagram.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 117,
+   "domain": "bit.ly",
+   "reason": "URLError"
+  },
+  {
+   "rank": 118,
+   "domain": "yccdn.ru",
+   "reason": "URLError"
+  },
+  {
+   "rank": 119,
+   "domain": "dotaplabs.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 120,
+   "domain": "aliyuncs.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 123,
+   "domain": "fastly-edge.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 125,
+   "domain": "virginm.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 127,
+   "domain": "registrar-servers.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 129,
+   "domain": "outlook.com",
+   "reason": "http 417"
+  },
+  {
+   "rank": 131,
+   "domain": "ytimg.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 132,
+   "domain": "adobe.io",
+   "reason": "redirects to adobe.com"
+  },
+  {
+   "rank": 134,
+   "domain": "github.io",
+   "reason": "redirects to github.com"
+  },
+  {
+   "rank": 136,
+   "domain": "amazon.dev",
+   "reason": "URLError"
+  },
+  {
+   "rank": 138,
+   "domain": "windows.com",
+   "reason": "redirects to microsoft.com"
+  },
+  {
+   "rank": 139,
+   "domain": "cloudflare-dns.com",
+   "reason": "redirects to one.one"
+  },
+  {
+   "rank": 140,
+   "domain": "azurefd.net",
+   "reason": "http 404"
+  },
+  {
+   "rank": 141,
+   "domain": "static.microsoft",
+   "reason": "URLError"
+  },
+  {
+   "rank": 143,
+   "domain": "akamaized.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 145,
+   "domain": "discord.gg",
+   "reason": "redirects to discord.com"
+  },
+  {
+   "rank": 146,
+   "domain": "dns-parking.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 149,
+   "domain": "nflxso.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 151,
+   "domain": "forms.gle",
+   "reason": "URLError"
+  },
+  {
+   "rank": 152,
+   "domain": "tm-azurefd.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 154,
+   "domain": "dnsowl.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 157,
+   "domain": "trbcdn.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 158,
+   "domain": "crashlytics.com",
+   "reason": "redirects to google.com"
+  },
+  {
+   "rank": 162,
+   "domain": "spo-msedge.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 164,
+   "domain": "azurewebsites.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 166,
+   "domain": "jomodns.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 167,
+   "domain": "amazon-adsystem.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 169,
+   "domain": "kaspersky.com",
+   "reason": "redirects to kaspersky.de"
+  },
+  {
+   "rank": 172,
+   "domain": "supertms.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 173,
+   "domain": "ax-msedge.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 174,
+   "domain": "google-analytics.com",
+   "reason": "redirects to google.com"
+  },
+  {
+   "rank": 177,
+   "domain": "example.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 182,
+   "domain": "pages.dev",
+   "reason": "redirects to cloudflare.com"
+  },
+  {
+   "rank": 183,
+   "domain": "nflximg.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 186,
+   "domain": "vkuserphoto.ru",
+   "reason": "http 418"
+  },
+  {
+   "rank": 188,
+   "domain": "unity3d.com",
+   "reason": "redirects to unity.com"
+  },
+  {
+   "rank": 191,
+   "domain": "ksyuncdn.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 193,
+   "domain": "macromedia.com",
+   "reason": "redirects to adobe.com"
+  },
+  {
+   "rank": 194,
+   "domain": "telekom.net",
+   "reason": "redirects to telekom.com"
+  },
+  {
+   "rank": 195,
+   "domain": "iiko.it",
+   "reason": "URLError"
+  },
+  {
+   "rank": 196,
+   "domain": "cnn.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 198,
+   "domain": "awswaf.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 199,
+   "domain": "youtube-nocookie.com",
+   "reason": "http 404"
+  },
+  {
+   "rank": 200,
+   "domain": "meraki.com",
+   "reason": "redirects to cisco.com"
+  },
+  {
+   "rank": 204,
+   "domain": "comcast.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 206,
+   "domain": "tbcache.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 207,
+   "domain": "app-measurement.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 208,
+   "domain": "bybanking.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 210,
+   "domain": "msedge.net",
+   "reason": "URLError"
+  },
+  {
+   "rank": 211,
+   "domain": "licdn.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 213,
+   "domain": "ttdns2.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 215,
+   "domain": "xiaomi.com",
+   "reason": "redirects to mi.com"
+  },
+  {
+   "rank": 218,
+   "domain": "ailawandorder.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 219,
+   "domain": "azureedge.net",
+   "reason": "http 404"
+  },
+  {
+   "rank": 221,
+   "domain": "cdngslb.com",
+   "reason": "URLError"
+  },
+  {
+   "rank": 222,
+   "domain": "omtrdc.net",
+   "reason": "URLError"
+  }
+ ]
+}

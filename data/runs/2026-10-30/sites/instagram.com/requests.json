@@ -1,0 +1,272 @@
+[
+{
+"t": 0.0,
+"host": "instagram.com",
+"url": "https://instagram.com/",
+"type": "document"
+},
+{
+"t": 0.16,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/",
+"type": "document"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v5/yb/l/0,cross/bFhjpywlFR5zoVjY4vXv0DF8momuZ_hrPfgQe914iiBfONMKn3YhINqU49pVNahkCkGzNiZ9AWV5Gs97xFZK--hB.css",
+"type": "stylesheet"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yW/r/WSyLBcFJkAR.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4i3h74/yB/l/de_DE/psf5F6DmoPfMhKvGzO1dF0a2V53MRcvs5PbSH7a2SjazNvEUIMI9AvwHtnNpGnZigrO4E1HjmJ1NPJX1RE0v_5t_s3uJykzTCFpbUJCpNdX9_y_SusV-f5lgcMm3F-oH2zh-BfIQ31xGC6u1QaRbGuT6qBMPOayiOwt5OKT7YM5yrxDgPuGyuZKrgzlWcL4MWfiyl9E0wWTNXk9i3VmmdQWWdoo1fYr6cwhjD-Ri5QDBdLOg",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4iBVJ4/yb/l/de_DE/HK-qaZaHCuwoMaDFORh7F3S9sQi2-5GQGjhox1n-Pk11H9Vq925bkDPrWKfjxunKUee0qnL2dG90HVJwQCE_czZvvxZVObfi7kXQ7mNyRtsIAk-Qx8lcabVTDOwgx-s7CoHnsVjQqltBeBhrWYOAv6SoDVph1swGHhSx_h2otzgdunJlmSYSlxu50UmDBFGGD8-siyxhceZaR68thgLNeaysx62dKqLYr_uYLTaRWjhB3uyP",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4iV724/yO/l/de_DE/VLrJCfPpz5V.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4ibJ34/yd/l/de_DE/o4mQYnGfIngTcf-0O6cLbIyjD1EOwQhZsjNnTnAPHAP4lZYxw4jZG43dEqX2I_COE3SR_169Kn2AOA7NezpHXgttV944cEsVC5Un4SEVucnelje9vneaD4bHg4htYdsU7GpdiDWvdAihCz2-AMUuK2ufRhSS1OrajkDar.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4iMjA4/yA/l/de_DE/kr3bilt0K6u.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4iup_4/yU/l/de_DE/6BD1_xxwtVs.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yt/r/_L-hS4-BgLj.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yp/r/yU8S-2ocZ8I.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/ajax/qm/",
+"type": "ping"
+},
+{
+"t": 0.45,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4iQ194/yS/l/de_DE/1KBjPlvjfsXhB2ZrDacth6o_F7iDQYr4OiFGHh9ozlMIfcw-LzFcc2yK3eJHanXlfltSZlaZvct1vvgbP17nadgYUONF-uvGEMpZv_O900tO5oJJDchOYIvREWpsLFeNguDWiD1k4L40xLgfknyPRau9DU.js",
+"type": "script"
+},
+{
+"t": 0.45,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4iVWJ4/y2/l/de_DE/DK3oWKz2cQeJHLCn3E9yBD9-dBS8IpxGAQUHQlfhgj8zfLHbNLMWmrsE0Pktu170veI0xI3mldXwV3Nc30dHCikm5HsuiCTJd5SOQEKEXaGJ8DSQtBmygoD-yNvnmk7jwSVrif8lyx8iRIyzE4xYn60F-A6BzgyT8wIXeTjjJUNSMOrBZUKwq77A6aTraTw8LD94AUXRwDHCkV8R1onn-JtdZ7PJ775NzKCi2ScrsOfCedTP",
+"type": "script"
+},
+{
+"t": 0.45,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4i4IJ4/yl/l/de_DE/Pou1bnUCr8r.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/ajax/bz",
+"type": "xhr"
+},
+{
+"t": 0.52,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/ajax/bulk-route-definitions/",
+"type": "xhr"
+},
+{
+"t": 0.55,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/yO/r/Ny6hrBVLYjl.webp",
+"type": "image"
+},
+{
+"t": 0.56,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/yN/r/-erGonz07kB.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/y9/r/1GOXakOP6QP.woff2",
+"type": "font"
+},
+{
+"t": 0.58,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/yQ/r/-pkMfchyeAZ.woff2",
+"type": "font"
+},
+{
+"t": 0.59,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yt/r/xqCh3tsbMyv.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4iTOx4/yM/l/de_DE/lYW41uesJSp.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/y1/r/QMA-00ob9j3.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4iN_84/y8/l/de_DE/VNC3Q1Ir6rr.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/y3/r/_IOM4mYL-Oy.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yQ/r/phhshD5-sc1.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yP/r/rrCxjEFdRGj.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yj/r/u4shO9DY1Yb.js",
+"type": "script"
+},
+{
+"t": 0.62,
+"host": "www.facebook.com",
+"url": "https://www.facebook.com/ig_xsite_user_info/",
+"type": "xhr"
+},
+{
+"t": 0.68,
+"host": "www.facebook.com",
+"url": "https://www.facebook.com/ig_xsite_user_obid/",
+"type": "xhr"
+},
+{
+"t": 6.69,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/ajax/bulk-route-definitions/",
+"type": "xhr"
+},
+{
+"t": 6.69,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/ajax/bulk-route-definitions/",
+"type": "xhr"
+},
+{
+"t": 6.69,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/ajax/bz",
+"type": "xhr"
+},
+{
+"t": 6.69,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yL/r/mbnOttghD37.js",
+"type": "script"
+},
+{
+"t": 6.7,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yJ/r/mrkP-U_R5Ue.js",
+"type": "script"
+},
+{
+"t": 6.7,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yJ/r/-ZqLZ7oYvlA.js",
+"type": "script"
+},
+{
+"t": 6.7,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yy/r/reYyb-SSn4k.js",
+"type": "script"
+},
+{
+"t": 6.7,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yi/r/Cr1T1bNisUQ.js",
+"type": "script"
+},
+{
+"t": 6.7,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/ajax/bz",
+"type": "xhr"
+},
+{
+"t": 8.79,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/api/graphql",
+"type": "xhr"
+},
+{
+"t": 12.79,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/ajax/bz",
+"type": "xhr"
+},
+{
+"t": 12.79,
+"host": "static.cdninstagram.com",
+"url": "https://static.cdninstagram.com/rsrc.php/v4/yN/r/9FUEJgno1Xf.js",
+"type": "script"
+},
+{
+"t": 12.79,
+"host": "www.instagram.com",
+"url": "https://www.instagram.com/ajax/bootloader-endpoint/",
+"type": "xhr"
+}
+]

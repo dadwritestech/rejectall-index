@@ -1,0 +1,818 @@
+[
+{
+"t": 0.0,
+"host": "stripe.com",
+"url": "https://stripe.com/",
+"type": "document"
+},
+{
+"t": 0.27,
+"host": "stripe.com",
+"url": "https://stripe.com/de",
+"type": "document"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/Sohne.cb178166.woff2",
+"type": "font"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/SourceCodePro-Medium.f5ba3e6a.woff2",
+"type": "font"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/wave-fallback-desktop-1x.fba6fa88.webp",
+"type": "image"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/palette-light.3c0e6604.webp",
+"type": "image"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/css/d0587afad5d01631.css",
+"type": "stylesheet"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/css/e4746273d30fe790.css",
+"type": "stylesheet"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/css/a86126a5a6c78d53.css",
+"type": "stylesheet"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/49450.ba8bdeacb2ae3f4e.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/11013.3df12a89976d8d99.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/99791.a7f741b779b23047.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/58548.f7279c81698668f3.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/60864.f462ab64ab99a6d2.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/62252.4d75c174bc8d5517.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/7205.b1fa6a14487cf1a1.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/59677.1f8203f0ea9d644b.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/29658.230298d5fcee0081.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/29754.0e52ac814c0fc1c1.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/51092.558bf86d4d6d35cc.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/46664.1ff554a69553a4ad.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/8653.b1423805849013a7.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/86874.1bf81dcebedc84df.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/66084.2df5c58fcbb72480.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/93051.1cc9f5f6e52dff0a.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/70191.75cd9e3319850053.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/92661.79b136b3bed60df6.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/65142.01bbe82aafd86a0d.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/92255.54da7a0601353f09.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/17383.894f236a9f1c48ef.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/87381.98aeb4190c8ee14a.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/11744.21f4f6e9276240c0.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/77966.62ac43bc73d1fda1.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/91774.c0ff77fe2c8d4ba0.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/42850.e2d829a9dc4349d0.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/71378.e90398e8f260e180.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/34507.6c1a77fb757fbdcc.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/58519.e65e69443cb8c16b.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/28129.12e84712f6d5fccf.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/67680.9cf78fa8c0374f08.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/44936.21d9b59e8d7bdccb.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/52787.b7b3c2967693c51d.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/96236.54c5521825150db4.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/17250.af03d28f2079a63c.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/52564.1a228dfb0d5ccd0b.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/10021.a14e351719d916e5.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/47218.c3876a24c80868ca.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/89683.eaeff9e7abd26458.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/42322.a92400a8423b776b.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/10269.12ec91a4dd98de7b.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/webpack-70f7dabe709315be.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/framework-bfbcaa5a2903bc7d.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/main-64c21da41e256517.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/pages/_app-9e5c8fc6bb116b44.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/3dfade9e-4ca93d92ac876e62.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/c67c952e-5362035f70172687.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/55369f66-92e84f6aba0a73a8.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/d814da65-0c10661a7e2a8854.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/99336-0abc93bde9d0d0c5.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/12267-692ae55ed1c1ab04.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/57271-a584c448ac97cc99.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/6747-2f3668478271c842.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/17504-d8af186f7630520d.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/66968-5f895437bc18f475.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/36627-1f22109e2ee27877.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/65355-1b1673843cbe6cf2.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/98134-a98763f433c714c2.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/97990-b71925e8cbf146df.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/97450-0c24d318afb695ca.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/30365-78f863b9f8f98678.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/1107-fd8421e8dc3ea178.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/12142-a5c1e2ae95f0a4e8.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/4056-c62254549c47b25e.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/94083-36c9d60b22dd43eb.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/63009-4a1b10fdebf0bb08.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/14480-db049dc8f18d9be9.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/86834-911fc76bbab68067.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/7654-bfe0f400d3277704.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/558-ed6a988e1eff9d87.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/14964-c0db860971265ed0.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/73692-9b42076ee0ed1379.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/93375-e560f223489f3248.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/5425-1de9228cd7917f27.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/64353-1aa6e254b1813089.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/11763-278e0f16cf2316a1.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/67480-e95f36bdb7362111.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/pages/index-732d075946582656.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/KCQLjzMCa0ZoG27wd0TNn1NA9w7PgrZNUyaUT1KT4UE%3D/_buildManifest.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/KCQLjzMCa0ZoG27wd0TNn1NA9w7PgrZNUyaUT1KT4UE%3D/_ssgManifest.js",
+"type": "script"
+},
+{
+"t": 0.45,
+"host": "images.stripeassets.com",
+"url": "https://images.stripeassets.com/fzn2n1nzq965/vYmk6v8n7oDAwbDpwhjV6/846f9b3e214549b8f14e2b8c8cfe9343/payment-bento-background.jpg",
+"type": "image"
+},
+{
+"t": 0.45,
+"host": "images.stripeassets.com",
+"url": "https://images.stripeassets.com/fzn2n1nzq965/3NcSrMqMgaKe75QNr8wZI8/46d520dfc48c5b9f1c59dcde9460b58c/connect-bento-card-background-image.jpg",
+"type": "image"
+},
+{
+"t": 0.45,
+"host": "images.stripeassets.com",
+"url": "https://images.stripeassets.com/fzn2n1nzq965/2YFdgdFPeIiDpmQbhHPAx8/186752498bf713fea245f31bcec84f8a/sessions-2026-on-demand-bg.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/PrivacyCompliance.html",
+"type": "document"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/map-dots.0f396e3d.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "stripe.com",
+"url": "https://stripe.com/cookie-settings/enforcement-mode",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/36322.1afe8adb9afbca38.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/vendors~AddressAutocomplete~AffirmInContext~AfterpayInContext~AlgoliaSearch~AmazonPayButton~ApplePay~834487d7.1fe7f389cb7255baebcd.bundle.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/PrivacyCompliance.2a784d61fe051092c5dd.bundle.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "stripe.com",
+"url": "https://stripe.com/de/notifications",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "stripe.com",
+"url": "https://stripe.com/_workers/_next/static/chunks/dotGeneration.worker.bf20e833.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "stripe.com",
+"url": "https://stripe.com/_workers/_next/static/chunks/waveGeometry.worker.07101200.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/40414.203b8b096220f95e.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "images.stripeassets.com",
+"url": "https://images.stripeassets.com/fzn2n1nzq965/1Vf8oT9Fm6dEwpnEx5PgK1/055956f38d7fd8b0cc7419692ef29778/bento-terminal.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "images.stripeassets.com",
+"url": "https://images.stripeassets.com/fzn2n1nzq965/6BTjJGdjfGVA8brPwj7p3M/fcf084ff85142366e118fe85ee78b632/payments-electric-kettle.jpg",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/GoogleTagManager.html",
+"type": "document"
+},
+{
+"t": 6.6,
+"host": "stripe.com",
+"url": "https://stripe.com/source-attribution/imt.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/vendors~AddressAutocomplete~AffirmInContext~AfterpayInContext~AlgoliaSearch~AmazonPayButton~ApplePay~834487d7.1fe7f389cb7255baebcd.bundle.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/GoogleTagManager.d1238f0d2797867a533d.bundle.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "r.stripe.com",
+"url": "https://r.stripe.com/0",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "q.stripe.com",
+"url": "https://q.stripe.com/",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/css/9ace22a18310bc79.css",
+"type": "stylesheet"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/21584-dc7ce1767eb0ec27.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/63284.2b3bb83fabfa5441.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/98932.ae1929efe551db69.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "r.stripe.com",
+"url": "https://r.stripe.com/0",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "q.stripe.com",
+"url": "https://q.stripe.com/",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "ext.stripe.com",
+"url": "https://ext.stripe.com/universal-chat/agent-availability",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-statics-srv/assets/imt-1a78cab60245dc88379d8866f041610e.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "stripe.com",
+"url": "https://stripe.com/cookie-settings/enforcement-mode",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "r.stripe.com",
+"url": "https://r.stripe.com/0",
+"type": "fetch"
+},
+{
+"t": 6.6,
+"host": "q.stripe.com",
+"url": "https://q.stripe.com/",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/css/e6d683953b85a499.css",
+"type": "stylesheet"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/64132.cbcfb516cd5b0b10.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "b.stripecdn.com",
+"url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/57273.a0d64a6fc0b2e65d.js",
+"type": "script"
+},
+{
+"t": 6.6,
+"host": "images.stripeassets.com",
+"url": "https://images.stripeassets.com/fzn2n1nzq965/3qQagzoJj2q6EivtAIxlDl/308072bd8f9bde74d9afd5f6887ffd81/head-15.png",
+"type": "image"
+},
+{
+"t": 6.6,
+"host": "images.stripeassets.com",
+"url": "https://images.stripeassets.com/fzn2n1nzq965/4weQY4zQA0UFDRjtOqLwTI/214b7eeadae9e34f94284d6192253129/head-16.png",
+"type": "image"
+},
+{
+"t": 6.61,
+"host": "q.stripe.com",
+"url": "https://q.stripe.com/",
+"type": "image"
+},
+{
+"t": 6.61,
+"host": "r.stripe.com",
+"url": "https://r.stripe.com/0",
+"type": "fetch"
+},
+{
+"t": 8.87,
+"host": "r.stripe.com",
+"url": "https://r.stripe.com/0",
+"type": "fetch"
+},
+{
+"t": 8.87,
+"host": "q.stripe.com",
+"url": "https://q.stripe.com/",
+"type": "image"
+},
+{
+"t": 8.87,
+"host": "stripe.com",
+"url": "https://stripe.com/cookie-settings/update",
+"type": "fetch"
+},
+{
+"t": 8.87,
+"host": "c.stripe.dev",
+"url": "https://c.stripe.dev/cookie",
+"type": "fetch"
+},
+{
+"t": 8.87,
+"host": "c.stripe.global",
+"url": "https://c.stripe.global/cookie",
+"type": "fetch"
+},
+{
+"t": 8.87,
+"host": "c.stripe.partners",
+"url": "https://c.stripe.partners/cookie",
+"type": "fetch"
+},
+{
+"t": 8.87,
+"host": "c.increment.com",
+"url": "https://c.increment.com/cookie",
+"type": "fetch"
+}
+]

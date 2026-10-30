@@ -1,0 +1,44 @@
+[
+{
+"t": 0.0,
+"host": "wikipedia.org",
+"url": "https://wikipedia.org/",
+"type": "document"
+},
+{
+"t": 0.07,
+"host": "www.wikipedia.org",
+"url": "https://www.wikipedia.org/",
+"type": "document"
+},
+{
+"t": 0.1,
+"host": "www.wikipedia.org",
+"url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
+"type": "image"
+},
+{
+"t": 0.13,
+"host": "www.wikipedia.org",
+"url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-e49fbf32.svg",
+"type": "image"
+},
+{
+"t": 0.13,
+"host": "www.wikipedia.org",
+"url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-8dfbdb3a7a.js",
+"type": "script"
+},
+{
+"t": 0.13,
+"host": "www.wikipedia.org",
+"url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-507b16b6be.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "www.wikipedia.org",
+"url": "https://www.wikipedia.org/portal/wikipedia.org/assets/l10n/de-a2347bdc.json",
+"type": "xhr"
+}
+]

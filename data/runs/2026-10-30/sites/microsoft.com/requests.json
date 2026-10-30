@@ -1,0 +1,1256 @@
+[
+{
+"t": 0.0,
+"host": "microsoft.com",
+"url": "https://microsoft.com/",
+"type": "document"
+},
+{
+"t": 0.07,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/",
+"type": "document"
+},
+{
+"t": 0.12,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/de-de",
+"type": "document"
+},
+{
+"t": 0.17,
+"host": "rum.hlx.page",
+"url": "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-reimagine/page/base.ACSHASH055c6e77c9a29621d5dbc31542e72c0e.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-reimagine/themes/store-holiday.ACSHASHde6a21a3f34704b7db91745f3cabd905.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-reimagine/page/web-components.ACSHASH49ce3f32719402e72fd9e492f723a39e.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-reimagine-env/base.ACSHASH8cd32d1ad0be8a1a9b98c8f1eda1aae6.min.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-uhf.ACSHASHf9f2395c582fa601707b7a5dfae9f05f.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-polyfills.ACSHASHtrue.min.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-jquery.ACSHASH75d0cb3e9ff9fee40f5ce5fd93c17fb2.min.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-jquery-cookie.ACSHASH5c75a4fa9fb3503322f8a0c9dd51512d.min.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/msonecloudapi/assets/reimaginesharedhead.css",
+"type": "stylesheet"
+},
+{
+"t": 0.17,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/msonecloudapi/assets/reimaginesharedhead.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "c.s-microsoft.com",
+"url": "https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/Semibold/latest.woff2",
+"type": "font"
+},
+{
+"t": 0.17,
+"host": "c.s-microsoft.com",
+"url": "https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/normal/latest.woff2",
+"type": "font"
+},
+{
+"t": 0.18,
+"host": "c.s-microsoft.com",
+"url": "https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/Bold/latest.woff2",
+"type": "font"
+},
+{
+"t": 0.18,
+"host": "c.s-microsoft.com",
+"url": "https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/semilight/latest.woff2",
+"type": "font"
+},
+{
+"t": 0.18,
+"host": "c.s-microsoft.com",
+"url": "https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/light/latest.woff2",
+"type": "font"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/exp-analytics/v1.ACSHASHbf7b336dbb370c984e1bf59b1a980d86.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/exp-cookiecomp/v1.ACSHASHa238861e6209e4e02576ddf5d1749c8b.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/universalheader/v1/universalheader/clientlibs/site.ACSHASHba88550b05d37722ac0b4ce30f3c4d6c.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/css/style-PF2pqjN1.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/universalheader/v1/universalheader/clientlibs/site.ACSHASHd9c9fd98fe2a540a7662eb6492aa9c30.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/dynamic-price/v1/dynamic-price/clientlibs/sites.ACSHASH21a62deda101598fd74a61798e99114e.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/dynamic-price/v1/dynamic-price/clientlibs/sites.ACSHASHa26d031bf8c00f082570666bfff25659.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/link/v1.ACSHASH131f1552dd58553acd026d1eebb3b123.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-site.ACSHASHa6896a8aeb4cfffd9202c553c29b233d.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/components/content/reimagine/foundational/action/v1/action/clientlib/site.ACSHASH319be30bf70cf1a150e8493f9464d7d1.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/announcement/v1.ACSHASH5b2728f66151df66fa4d9148d5c767e3.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/media/v1.ACSHASH93339c66105cf58cb21c766c35bb5e3c.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/455252-Hero-Featured-Holiday-Surface-Pro-13-Dune-Champagne:VP1-1078x606",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/button-group/v1.ACSHASH512a614af73e8a108d72e0f718ebeac6.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/button/v1.ACSHASH87b7907cfea83e1a0211306fc3f10c2b.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/heading-block/v1.ACSHASH7fed80c2a499d0f6f768614e998a4b6a.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/hero/hero-featured-slider/hero-featured-slider-item/v1.ACSHASHa920bf8f5e76dcb371080ad46694ba32.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/carousel/carousel-item/v1.ACSHASH0e036cbd590e5450d8544d0670418cb0.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/455250-Hero-Featured-Surface-Laptop-15-138-Platinum-Champagne-Glow:VP1-1078x606",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/indicator/indicator/v1.ACSHASH5932158e017fc6c9f09dbc25da424e44.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/carousel/carousel-indicator/v1.ACSHASH8893578964149d369f29aabb47a00e81.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/icon/v1.ACSHASH1d4b69b2cd445f0233b16ae663ee6231.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/carousel/carousel/v1.ACSHASH686012237a1dead725f6b846cdd60f47.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/layout/layout/v1.ACSHASHa3a614dc94c3d977a34191a033085d67.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/components/dialog-fields/reimagine/foundational/carousel/carousel/v1/carousel/utils/site.ACSHASH166d1eae54c77a2428160a7caa93c4e2.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/components/content/reimagine/foundational/carousel/carousel/v1/carousel/clientlibs/site.ACSHASHaf3c682323ce13b8ca35ba42fd2bf14c.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/hero/hero-featured-slider/hero-featured-slider/v1.ACSHASH6af0a64c1f8e721b1e579f4094604f30.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/secondary-nav/secondary-nav/v1.ACSHASHe6ce7425ec55a568b99a6f2f09f004ce.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/secondary-nav/secondary-nav-item/v1.ACSHASHa66475c561ed9939890763d0602d2ee4.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/base/ui-shell/v1.ACSHASH161e8ab4f014a0feb0d935ef9ad43e9a.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/components/content/reimagine/blade/hero/quicklinks/v1/quicklinks/clientlibs.ACSHASHdee8f1d326213f9a847b828432bbf981.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/chatonpage/v1/chatonpage/clientlibs/site.ACSHASH2fb2ee7e38d60e8d94c57f9825ac077c.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/chatonpage/v1/chatonpage/clientlibs/site.ACSHASH1c0ebe66f9bec616088058bf722d3339.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/banner/banner-featured/v1.ACSHASHeb267296b427e3439661a6b4436004f1.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/tag/tag/v1.ACSHASH086f7405d7d0926b9726016babc035f3.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/text-block/v1.ACSHASHcc36001324ce327d97cd3d0549b8fbb2.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/storepricing/v1/storepricing/clientlibs/site.ACSHASHec91721d75a4bee1bf32da5d2b58f75d.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-lit-elements/js/dynamic-price.ACSHASH10e2accae17e558892f7c86d69c8612e.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/card/card-feature/v1.ACSHASH0fcef40c23a2c382877c48229f865817.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/card-grid/featured/v2.ACSHASH89b3c130c8e5e91dc5fb04d4facff441.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/card/card-banner/v1.ACSHASHe38db19b7728e6c79f9c5ce9c2dca75f.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/carousel/card-grid/v2.ACSHASHc384e97045532637ca5e925a3fac5cde.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/mcaps-facebook-logo",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/badge/v1.ACSHASH152c18dfdaf6ab650bdcbdd90ed38c1e.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/mcaps-X-black",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/utility/logo-footer/v1.ACSHASH76f31ba4d2b80d04a86bb25721b8eaf1.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-web-components/back-to-top/v1.ACSHASH3ac1ef6d9557810d6a7d71a1f4c67387.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/entry.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "wcpstatic.microsoft.com",
+"url": "https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-reimagine-env/publisher.ACSHASHcd629aed3cfa3b0e32904897f5959c98.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-reimagine-utils.ACSHASH2e8da8c9230bc7589ee557f90d9f8431.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/clientlib-accessibility-footnotes.ACSHASHb2d30e95453cf147c793e14d4b8085dd.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/clientlib-accessibility-footnotes.ACSHASH56276a039730a295cfa359a3f9eebf35.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-reimagine-telemetry.ACSHASH75700fee831fecc12a43889e71860361.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/store/clientlibs/clientlib-reimagine-csp.ACSHASHbbc1d812f5e6f9afa757a7bfa6b782e9.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/structure/page/clientlibs/embed-thirdparty.ACSHASH27de1aa1215463b126ed9a49430c4872.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/clientlib-httpclient.ACSHASH81e898694b0509d4273f98ebfa8f3470.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-cookieconsent.ACSHASHc892f451b0c4db9c8ab2601a427c9b2c.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/structure/page/clientlibs/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/structure/page/clientlibs/custom-oneds.ACSHASH4c30d1ab2ba2274e01c92dfd8b2ea529.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHdec0d75e509be6ebf6b36ff24c516111.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-uhf.ACSHASH51647d1996247d663b110906f8aa8200.min.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/msonecloudapi/assets/reimaginesharedbody.js",
+"type": "script"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/chat/v1/chat/clientlibs/storeassistant-copilot.ACSHASH660372aaf600cdf7190f4b92c267192a.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/chat/v1/chat/clientlibs/storeassistant-copilot.ACSHASHf68c40cefc8d4f2cce00974e0b3d2542.min.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "www.clarity.ms",
+"url": "https://www.clarity.ms/tag/rcwvv0hsnp",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/link/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/announcement/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/media/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/button-group/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/button/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/heading-block/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/blades/hero/hero-featured-slider/hero-featured-slider-item/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/carousel/carousel-item/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/indicator/indicator/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/carousel/carousel-indicator/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/icon/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/carousel/carousel/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/base/layout/layout/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/blades/hero/hero-featured-slider/hero-featured-slider/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/secondary-nav/secondary-nav/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/secondary-nav/secondary-nav-item/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/examples/base/ui-shell/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/blades/banner/banner-featured/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/tag/tag/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/text-block/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/card/card-feature/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/blades/card-grid/featured/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/card/card-banner/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/blades/carousel/card-grid/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/badge/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/blades/utility/logo-footer/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/back-to-top/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.31,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/index-BoAUqyYg.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Quick-Links-Store-Tablet",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Quick-Links-Store-Xbox-Controller",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Quick-Links-MSCOM-Tablet",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Quick-Links-MSCOM-Apps",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Quick-Links-Store-Business",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Feature-Surface-Laptop-Ultra-Nightfall",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-M365-Icon-Bounce-Premium",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Feature-Surface-Mouse-2Ed-Platinum-Homepage",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Xbox-Controller-Valentine-CP",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Horizontal-Digital-Content-Xbox-Game-Pass-Oct25",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-Copilot-COMMR-0625",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature-Azure-Wave-Off-White",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-Teams-Commercial-Meeting",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Horizontal-Costa-Rican-Red-Cross",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Horizontal-AI-Premier-League",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/linkedin-2",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/youtube_red",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_instagram",
+"type": "image"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/tag.const-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/surface.styles-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/dropdown-trigger.const-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/secondary-nav-item.const-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/pagination-item.const-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util7-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util1-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/fill-color.mixin-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/link.styles-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/i18nMixin-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util10-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util21-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util2-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util9-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util8-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/vfi-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/base/elements/surface-element/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/divider/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util6-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/scrollslider/scrollslider/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util19-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util11-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util4-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/video-autoplay-controller-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/scrollslider/scrollslider-item/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/utils-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/tabs.styles-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/tab-compound.viewport.styles-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/spacing-tokens.const-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/base/layout/layout-column/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util20-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/show-more-show-less.mixin-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/card-base.styles-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util14-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/dropdown/dropdown/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/dropdown/dropdown-trigger/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/menu-list/menu-list/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/sticky/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/footnote.const-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "scripts.clarity.ms",
+"url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+"type": "script"
+},
+{
+"t": 0.4,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/container.styles-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util5-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util12-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/util18-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/tabs/tab/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/tabs/tab-panel/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/pill/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/input/input/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/components/list-item/index-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/etc.clientlibs/store/clientlibs/clientlib-web-components/reimagine-resources/resources/js/latest/checkbox.styles-v1.42.0.js",
+"type": "script"
+},
+{
+"t": 0.58,
+"host": "a.clarity.ms",
+"url": "https://a.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 0.93,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/msstoreapiprod/api/buyBox",
+"type": "fetch"
+},
+{
+"t": 0.93,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/msstoreapiprod/api/buyBox",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "uhf-exp-fd-gbcrdgggfbggh0g3.b02.azurefd.net",
+"url": "https://uhf-exp-fd-gbcrdgggfbggh0g3.b02.azurefd.net/api/v1/tas",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/store/buy/cartcount",
+"type": "document"
+},
+{
+"t": 1.03,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/index-B8sDcx8i.js",
+"type": "script"
+},
+{
+"t": 1.03,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/client-BY9SflKR.js",
+"type": "script"
+},
+{
+"t": 1.03,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/MeControl-BG3wj57x.js",
+"type": "script"
+},
+{
+"t": 1.1,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/cascadeauth/store/account/silentauth",
+"type": "document"
+},
+{
+"t": 1.11,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/index-CQVn7Dmw.js",
+"type": "script"
+},
+{
+"t": 1.16,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/Index-rMmMtAfu.js",
+"type": "script"
+},
+{
+"t": 1.18,
+"host": "login.microsoftonline.com",
+"url": "https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize",
+"type": "document"
+},
+{
+"t": 1.35,
+"host": "login.live.com",
+"url": "https://login.live.com/oauth20_authorize.srf",
+"type": "document"
+},
+{
+"t": 1.55,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/discex/usc/lib/universalchat.min.js",
+"type": "script"
+},
+{
+"t": 7.55,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/cascadeauth/account/signin-oidc",
+"type": "document"
+},
+{
+"t": 7.55,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/discex/usc/lib/storeassistant.universalstore.min.css",
+"type": "stylesheet"
+},
+{
+"t": 7.55,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/discex/usc/lib/storeassistant.universalstore.min.js",
+"type": "script"
+},
+{
+"t": 7.55,
+"host": "www.microsoft.com",
+"url": "https://www.microsoft.com/cascadeauth/store/account/silentauth",
+"type": "document"
+},
+{
+"t": 7.55,
+"host": "cdn-dynmedia-1.microsoft.com",
+"url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/New-Avatar-Model-2025-61x12px",
+"type": "image"
+},
+{
+"t": 7.55,
+"host": "dc.services.visualstudio.com",
+"url": "https://dc.services.visualstudio.com/v2/track",
+"type": "xhr"
+},
+{
+"t": 7.55,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 7.55,
+"host": "a.clarity.ms",
+"url": "https://a.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 7.56,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 7.56,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 11.63,
+"host": "a.clarity.ms",
+"url": "https://a.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 15.74,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 15.74,
+"host": "a.clarity.ms",
+"url": "https://a.clarity.ms/collect",
+"type": "xhr"
+}
+]

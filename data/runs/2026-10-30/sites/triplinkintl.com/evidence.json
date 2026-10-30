@@ -1,0 +1,67 @@
+{
+  "domain": "triplinkintl.com",
+  "url": "https://triplinkintl.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.triplinkintl.com/",
+  "accept_clicks": 1,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": "none_found",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": true,
+  "llm_calls": [
+    {
+      "model": "gemma-4-12b",
+      "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Sign In\n1: Cookie Statement.\n2: Acknowledge\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+      "answer": "```json\n{\"accept\": 1, \"reject\": null, \"settings\": null}\n```\n\n*(Note: Based on the provided labels, \"Acknowledge\" (2) is the standard button for accepting the terms/cookies, and \"Cookie Statement\" (1) typically links",
+      "error": null,
+      "ms": 4237,
+      "layer": 1,
+      "result": {
+        "a2f0-13": "accept"
+      }
+    }
+  ],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "llm_located": [
+    "accept"
+  ],
+  "banner_text": "We Value Your Privacy Our website only uses necessary cookies. These cookies do not collect personal data for analysis and advertisement, and are essential for proper function and operation. For more information, see our Cookie Statement. Acknowledge",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Sign In",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Cookie Statement.",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Acknowledge",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g1",
+      "overlay": true
+    }
+  ],
+  "pre_consent_requests": 45,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

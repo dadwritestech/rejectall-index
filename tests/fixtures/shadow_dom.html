@@ -1,0 +1,4 @@
+<!doctype html><html><head><title>Shadow</title></head><body><h1>App</h1><script src="https://www.google-analytics.com/analytics.js"></script><img src="https://ad.doubleclick.net/pixel.gif" width=1 height=1><div id="usercentrics-root"></div>
+<script>const r=document.getElementById('usercentrics-root').attachShadow({mode:'open'});
+r.innerHTML='<div style="position:fixed;bottom:0;left:0;right:0;background:#ddd;padding:20px"><p>This website uses cookies and similar technologies.</p><button data-testid="uc-accept-all-button">Accept All</button><button data-testid="uc-deny-all-button">Deny</button></div>';
+r.querySelectorAll('button').forEach(b=>b.onclick=()=>document.getElementById('usercentrics-root').remove());</script></body></html>

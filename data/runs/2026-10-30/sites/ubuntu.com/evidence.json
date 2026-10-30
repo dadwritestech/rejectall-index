@@ -1,0 +1,394 @@
+{
+  "domain": "ubuntu.com",
+  "url": "https://ubuntu.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://ubuntu.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 2,
+  "reject_second_layer": true,
+  "reject_path": "untick_and_save_layer2",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "clarity.ms",
+      "entity": "Microsoft",
+      "category": "Analytics",
+      "requests": 3
+    },
+    {
+      "domain": "googlesyndication.com",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 3
+    },
+    {
+      "domain": "bat.bing.com",
+      "entity": "Microsoft",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "google-analytics.com",
+      "entity": "Google",
+      "category": "Analytics",
+      "requests": 2
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Your tracker settings We use cookies and similar methods to recognize visitors and remember preferences. We also use them to measure campaign effectiveness and analyze traffic on our websites. By selecting ‘Accept‘, you consent to the use of these methods by us and trusted third parties. For further details or to change your consent choices at any time see our cookie policy. Manage your tracker settings Accept all",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Manage your tracker settings",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Accept all",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Manage your tracker settings",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Canonical Ubuntu",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Products",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Use cases",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Support",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Community",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Get Ubuntu",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Careers",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "All Canonical",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Sign in",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Search",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Learn more ›",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Close",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "cookie policy",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Download Ubuntu Desktop",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Download Ubuntu Server",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Learn about Ubuntu on public clouds",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Discover Ubuntu Core",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Discover certified hardware",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "layer2": [
+    {
+      "text": "Accept all",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:b1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Save preferences",
+      "role": "save",
+      "frame": 0,
+      "group": "0:b1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Manage your tracker settings",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Canonical Ubuntu",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Products",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Use cases",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Support",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Community",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Get Ubuntu",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Careers",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "All Canonical",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Sign in",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Search",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Learn more ›",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Close",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "data privacy: cookie policy",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Essential Always active",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Performance",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Functional",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Download Ubuntu Desktop",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Download Ubuntu Server",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Learn about Ubuntu on public clouds",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Discover Ubuntu Core",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Discover certified hardware",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "preticked_hidden": 0,
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 69,
+  "first_click_t": 8.61,
+  "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 8.61,
+      "event": "click",
+      "why": "open_settings",
+      "text": "Manage your tracker settings",
+      "id": "a1f0-157",
+      "result": "ok"
+    },
+    {
+      "t": 9.7,
+      "event": "click",
+      "why": "save_layer2",
+      "text": "Save preferences",
+      "id": "b1f0-163",
+      "result": "ok"
+    }
+  ]
+}

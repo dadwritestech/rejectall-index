@@ -1,0 +1,126 @@
+{
+  "domain": "bing.com",
+  "url": "https://bing.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.bing.com/?toWww=1&redig=56C70CDA012549A5BB9654A1EAC7F047",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Microsoft und unsere Drittanbieter verwenden Cookies und ähnliche Technologien zur Bereitstellung, Aufrechterhaltung und Verbesserung unserer Dienste und Anzeigen. Wenn Sie damit einverstanden sind, verwenden wir diese Daten für die Personalisierung von Anzeigen und die damit verbundenen Analysen. Sie können „Akzeptieren“ wählen, um diesen Verwendungen zuzustimmen, „Ablehnen“ wählen, um diese Verwendungen abzulehnen, oder auf „Weitere Optionen“ klicken, um Ihre Optionen zu überprüfen. Sie können Ihre Auswahl unten auf dieser Seite unter „Cookiepräferenzen verwalten“ ändern. Datenschutzbestimmu",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Mehr Optionen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzbestimmungen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutz und Cookies",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Rechtliche Hinweise",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Werbung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Über unsere Werbung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Hilfe",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Feedback",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Impressum",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Europäischer Datenschutz",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 310,
+  "first_click_t": 8.49,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 8.49,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Ablehnen",
+      "id": "a1f0-2",
+      "result": "ok"
+    }
+  ]
+}

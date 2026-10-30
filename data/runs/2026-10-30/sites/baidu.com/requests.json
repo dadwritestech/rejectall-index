@@ -1,0 +1,458 @@
+[
+{
+"t": 0.0,
+"host": "baidu.com",
+"url": "https://baidu.com/",
+"type": "document"
+},
+{
+"t": 1.0,
+"host": "www.baidu.com",
+"url": "https://www.baidu.com/",
+"type": "document"
+},
+{
+"t": 1.66,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/static/font/cosmic/pc/cos-icon_01c45ca.css",
+"type": "stylesheet"
+},
+{
+"t": 1.87,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/img/topnav/newfanyi-da0cea8f7e.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "psstatic.cdn.bcebos.com",
+"url": "https://psstatic.cdn.bcebos.com/basics/superman/wenku_1788235315000.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/img/topnav/newbaike-889054f349.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/img/topnav/newzhidao-da1cf444b0.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/img/topnav/newjiankang-f03b804b4b.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/img/topnav/yingxiaoicon-612169cc36.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/img/topnav/newzhibo-a6a0831ecd.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/img/topnav/newyinyue-03ecd1e9b9.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/img/topnav/newxueshuicon-a5314d5c83.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "www.baidu.com",
+"url": "https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "www.baidu.com",
+"url": "https://www.baidu.com/img/PCfb_5bf082d29588c07f842ccde3f97243ea.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "www.baidu.com",
+"url": "https://www.baidu.com/img/flexible/logo/pc/result.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "www.baidu.com",
+"url": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "www.baidu.com",
+"url": "https://www.baidu.com/img/flexible/logo/pc/peak-result.png",
+"type": "image"
+},
+{
+"t": 2.07,
+"host": "psstatic.cdn.bcebos.com",
+"url": "https://psstatic.cdn.bcebos.com/aife/static/wenxinlogo_1770695621000.png",
+"type": "image"
+},
+{
+"t": 2.07,
+"host": "psstatic.cdn.bcebos.com",
+"url": "https://psstatic.cdn.bcebos.com/basics/aichat/hot_search_x3_1747880381000.png",
+"type": "image"
+},
+{
+"t": 2.07,
+"host": "psstatic.cdn.bcebos.com",
+"url": "https://psstatic.cdn.bcebos.com/aife/superman/bdapp1_1776828463000.png",
+"type": "image"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/lib/jquery-1-edb203c114.10.2.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/lib/esl-7410c1d5ab.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/cache/static/protocol/https/bundles/es6-polyfill_388d059.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/cache/static/protocol/https/bundles/polyfill_9354efa.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/instant_search_newi_cdbab1c.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_789541a.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/sbase-d1a62b47b0.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/css/ubase_sync-d600f57804.css",
+"type": "stylesheet"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/s_super_index-895c0c52f8.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/min_super-e11419c661.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/hotsearch-2e7b839d0b.js",
+"type": "script"
+},
+{
+"t": 2.07,
+"host": "hectorstatic.baidu.com",
+"url": "https://hectorstatic.baidu.com/cd37ed75a9387c5b.js",
+"type": "script"
+},
+{
+"t": 4.09,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/static/font/cosmic/pc/cos-icon_c909034.woff2",
+"type": "font"
+},
+{
+"t": 4.09,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/font/iconfont-fa013548a9.woff2",
+"type": "font"
+},
+{
+"t": 5.79,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/bzPopper_7e9d94e.js",
+"type": "script"
+},
+{
+"t": 5.79,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/cache/static/protocol/https/home/js/nu_instant_search_80601bd.js",
+"type": "script"
+},
+{
+"t": 5.79,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js",
+"type": "script"
+},
+{
+"t": 5.8,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman-san/app/chat-input/result_5146076.js",
+"type": "script"
+},
+{
+"t": 5.8,
+"host": "mbd.baidu.com",
+"url": "https://mbd.baidu.com/ztbox",
+"type": "ping"
+},
+{
+"t": 5.8,
+"host": "sp1.baidu.com",
+"url": "https://sp1.baidu.com/-L-Xsjip0QIZ8tyhnq/v.gif",
+"type": "image"
+},
+{
+"t": 5.8,
+"host": "sp1.baidu.com",
+"url": "https://sp1.baidu.com/-L-Xsjip0QIZ8tyhnq/v.gif",
+"type": "image"
+},
+{
+"t": 5.8,
+"host": "sp2.baidu.com",
+"url": "https://sp2.baidu.com/-L-Ysjip0QIZ8tyhnq/v.gif",
+"type": "image"
+},
+{
+"t": 5.83,
+"host": "hector.baidu.com",
+"url": "https://hector.baidu.com/a.js",
+"type": "script"
+},
+{
+"t": 5.83,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/placeholder-ebb59c36d8.js",
+"type": "script"
+},
+{
+"t": 6.0,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/cache/static/protocol/https/amd_modules/@baidu/guarantee-popper_7581ab4.js",
+"type": "script"
+},
+{
+"t": 6.08,
+"host": "mbd.baidu.com",
+"url": "https://mbd.baidu.com/ztbox",
+"type": "ping"
+},
+{
+"t": 6.09,
+"host": "mbd.baidu.com",
+"url": "https://mbd.baidu.com/ztbox",
+"type": "ping"
+},
+{
+"t": 6.09,
+"host": "gips2.baidu.com",
+"url": "https://gips2.baidu.com/it/u=1627277417,3307578141&fm=3028&app=3028&f=PNG&fmt=auto&q=100&size=f526_253",
+"type": "image"
+},
+{
+"t": 6.09,
+"host": "www.baidu.com",
+"url": "https://www.baidu.com/sugrec",
+"type": "xhr"
+},
+{
+"t": 6.09,
+"host": "mbd.baidu.com",
+"url": "https://mbd.baidu.com/ztbox",
+"type": "ping"
+},
+{
+"t": 6.1,
+"host": "psstatic.cdn.bcebos.com",
+"url": "https://psstatic.cdn.bcebos.com/basics/chat/afx%202_1750155358000.mp4",
+"type": "media"
+},
+{
+"t": 6.85,
+"host": "psstatic.cdn.bcebos.com",
+"url": "https://psstatic.cdn.bcebos.com/basics/chat/afx%202_1750155358000.mp4",
+"type": "media"
+},
+{
+"t": 7.62,
+"host": "psstatic.cdn.bcebos.com",
+"url": "https://psstatic.cdn.bcebos.com/basics/chat/afx%202_1750155358000.mp4",
+"type": "media"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/tips-e2ceadd14d.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/super_load-13ed91930d.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/advert-7a3f4054ca.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/login_guide-4fba3971ce.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/login_guide_bubble-a908637743.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/video-meet-7833028d86.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/content-info-5988a1696b.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/adaptive-64427334a2.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/csaitab-log-a9c9cae804.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/top-right-operate/operate-b7693b0cc7.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/aging-tools-677364d49f.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/invoke-97e9694cb9.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/new-search-guide-bub-a65115eb7c.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/feed-hint-bar-e3cc90110b.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/side_tools_feed-1ee4426245.js",
+"type": "script"
+},
+{
+"t": 7.63,
+"host": "hectorstatic.baidu.com",
+"url": "https://hectorstatic.baidu.com/96c9c06653ba892e.js",
+"type": "script"
+},
+{
+"t": 13.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/amd_modules/@baidu/video-meeting-1be7f62dac.js",
+"type": "script"
+},
+{
+"t": 13.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/components/guide_tips-d9e617f782.js",
+"type": "script"
+},
+{
+"t": 13.63,
+"host": "mbd.baidu.com",
+"url": "https://mbd.baidu.com/ztbox",
+"type": "ping"
+},
+{
+"t": 13.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/r/www/cache/static/protocol/https/amd_modules/@baidu/aging-tools-pc_63487d8.js",
+"type": "script"
+},
+{
+"t": 13.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/js/ubase-dddde7cd4e.js",
+"type": "script"
+},
+{
+"t": 13.63,
+"host": "pss.bdstatic.com",
+"url": "https://pss.bdstatic.com/static/superman/css/ubase-89d6b96e41.css",
+"type": "stylesheet"
+},
+{
+"t": 15.64,
+"host": "hector.baidu.com",
+"url": "https://hector.baidu.com/static/h.gif",
+"type": "image"
+}
+]

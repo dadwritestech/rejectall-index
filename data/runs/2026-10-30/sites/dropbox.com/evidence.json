@@ -1,0 +1,265 @@
+{
+  "domain": "dropbox.com",
+  "url": "https://dropbox.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.dropbox.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "ads-twitter.com",
+      "entity": "Twitter",
+      "category": "Advertising",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [
+    {
+      "domain": "t.co",
+      "entity": "Twitter",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "twitter.com",
+      "entity": "Twitter",
+      "category": "Social",
+      "requests": 1
+    }
+  ],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Wir verwenden Cookies, um unsere Dienste bereitzustellen, zu verbessern, zu schützen und zu bewerben. Sehen Sie sich unsere Datenschutzrichtlinie und die FAQs zur Datenschutzrichtlinie an, um mehr zu erfahren. Sie können Ihre persönlichen Präferenzen, einschließlich Ihrer Einstellung „Verkaufen oder teilen Sie meine persönlichen Daten nicht mit Dritten“, über die Schaltfläche „Cookies anpassen“ unten verwalten. Cookies anpassen Ablehnen Alle annehmen",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Cookies anpassen",
+      "role": "settings",
+      "frame": 3,
+      "group": "3:a2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Ablehnen",
+      "role": "reject",
+      "frame": 3,
+      "group": "3:a2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Alle annehmen",
+      "role": "accept",
+      "frame": 3,
+      "group": "3:a2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Cookie- und CCPA-Einstellungen",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Schließen",
+      "role": null,
+      "frame": 3,
+      "group": "3:a2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzrichtlinie",
+      "role": null,
+      "frame": 3,
+      "group": "3:a2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "FAQs zur Datenschutzrichtlinie",
+      "role": null,
+      "frame": 3,
+      "group": "3:a2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Hilfecenter",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Kontaktieren Sie uns",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Verträge hier kündigen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutz & AGB",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookies-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "KI-Prinzipien",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Sitemap",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Verträge hier kündigen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Lernressourcen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Blog",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Veranstaltungen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Erfolgsgeschichten von Kunden",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Ressourcenbibliothek",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Entwickler",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Community-Foren",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Weiterempfehlungen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Vertriebspartner",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Integrationspartner",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Jetzt einen Partner finden",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Twitter",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Facebook",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Youtube",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 239,
+  "first_click_t": 12.81,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 12.81,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Ablehnen",
+      "id": "a2f3-4",
+      "result": "ok"
+    }
+  ]
+}

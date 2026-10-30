@@ -1,0 +1,44 @@
+[
+{
+"t": 0.0,
+"host": "nginx.org",
+"url": "https://nginx.org/",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "nginx.org",
+"url": "https://nginx.org/css/style_en.css",
+"type": "stylesheet"
+},
+{
+"t": 0.09,
+"host": "nginx.org",
+"url": "https://nginx.org/img/nginx_logo.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "nginx.org",
+"url": "https://nginx.org/img/nginx_logo_dark.svg",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "nginx.org",
+"url": "https://nginx.org/img/njs_icon.png",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "nginx.org",
+"url": "https://nginx.org/img/ingress_icon.png",
+"type": "image"
+},
+{
+"t": 0.09,
+"host": "nginx.org",
+"url": "https://nginx.org/img/gateway_fabric_icon.png",
+"type": "image"
+}
+]

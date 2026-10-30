@@ -1,0 +1,126 @@
+{
+  "domain": "tiktok.com",
+  "url": "https://tiktok.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.tiktok.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Cookies von TikTok in diesem Browser erlauben? TikTok nutzt Cookies und ähnliche Technologien, um seine Dienste bereitzustellen, sie zu verbessern, zu schützen und zu analysieren. Notwendige Cookies sind erforderlich, damit TikTok wie vorgesehen funktioniert. Wenn du „Alle erlauben“ auswählst, erlaubst du es uns, abhängig von deinen Einstellungen optionale Cookies zu zusätzlichen Zwecken, wie z. B. der Messung der Effektivität und Relevanz von Anzeigen, einschließlich personalisierter Anzeigen auf TikTok.com, zu nutzen. Optionale Cookies helfen uns auch in weiteren Punkten, z. B. bei der Messu",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Optionale Cookies ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Alle erlauben",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Cookie-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Überspringen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "QR-Code nutzen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Telefonnummer oder E-Mail-Adresse benutzen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Weiter mit Facebook",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Weiter mit Google",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Weiter mit Apple",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Nutzungsbedingungen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Registrieren",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 371,
+  "first_click_t": 10.12,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 10.12,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Optionale Cookies ablehnen",
+      "id": "a1f0-47",
+      "result": "ok"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+[
+{
+"t": 0.0,
+"host": "pki.goog",
+"url": "https://pki.goog/",
+"type": "document"
+},
+{
+"t": 0.12,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css",
+"type": "stylesheet"
+},
+{
+"t": 0.12,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/api.js",
+"type": "script"
+},
+{
+"t": 0.12,
+"host": "pki.goog",
+"url": "https://pki.goog/static/index.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.12,
+"host": "pki.goog",
+"url": "https://pki.goog/images/webtrust_certificationauthorities-min.png",
+"type": "image"
+},
+{
+"t": 0.12,
+"host": "pki.goog",
+"url": "https://pki.goog/images/webtrust_br-ssl-min.png",
+"type": "image"
+},
+{
+"t": 0.12,
+"host": "pki.goog",
+"url": "https://pki.goog/images/webtrust_network-security-min.png",
+"type": "image"
+},
+{
+"t": 0.12,
+"host": "pki.goog",
+"url": "https://pki.goog/images/webtrust_s-mime-min.png",
+"type": "image"
+},
+{
+"t": 0.12,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/brandstudio/kato/google_tag_manager_component/google_tag_manager_component.js",
+"type": "script"
+},
+{
+"t": 0.12,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 0.12,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.v3.js",
+"type": "script"
+},
+{
+"t": 0.12,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/external_hosted/hammerjs/v2_0_2/hammer.min.js",
+"type": "script"
+},
+{
+"t": 0.12,
+"host": "pki.goog",
+"url": "https://pki.goog/static/index.min.js",
+"type": "script"
+},
+{
+"t": 0.12,
+"host": "pki.goog",
+"url": "https://pki.goog/static/assets/img/glue-icons.svg",
+"type": "other"
+},
+{
+"t": 0.18,
+"host": "csp.withgoogle.com",
+"url": "https://csp.withgoogle.com/csp/cacerts",
+"type": "other"
+},
+{
+"t": 0.18,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 0.2,
+"host": "csp.withgoogle.com",
+"url": "https://csp.withgoogle.com/csp/cacerts",
+"type": "other"
+},
+{
+"t": 0.2,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.22,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2",
+"type": "font"
+},
+{
+"t": 0.22,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/productsans/v21/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2",
+"type": "font"
+},
+{
+"t": 0.23,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/intl/en/brandstudio/kato/cookie_choice_component/config.json",
+"type": "xhr"
+},
+{
+"t": 0.27,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 0.34,
+"host": "www.google-analytics.com",
+"url": "https://www.google-analytics.com/analytics.js",
+"type": "script"
+},
+{
+"t": 0.38,
+"host": "www.google-analytics.com",
+"url": "https://www.google-analytics.com/j/collect",
+"type": "xhr"
+},
+{
+"t": 11.45,
+"host": "policies.google.com",
+"url": "https://policies.google.com/technologies/cookies",
+"type": "document"
+},
+{
+"t": 12.45,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityPoliciesUi.en.D10NhE0sExQ.2018.O/am=AAAAAGxBJgAE/d=1/excm=_b,_tp,techcookiesview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlFfU41oRCu1jltIwyyoj-JGMsUnZA/dti=1/m=_b,_tp",
+"type": "script"
+},
+{
+"t": 12.45,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg",
+"type": "image"
+},
+{
+"t": 12.45,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2",
+"type": "font"
+},
+{
+"t": 12.45,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 12.45,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2",
+"type": "font"
+},
+{
+"t": 12.45,
+"host": "www.youtube-nocookie.com",
+"url": "https://www.youtube-nocookie.com/embed/TBR-xtJVq7E",
+"type": "document"
+},
+{
+"t": 12.45,
+"host": "www.google.com",
+"url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png",
+"type": "image"
+},
+{
+"t": 12.45,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/l/font",
+"type": "font"
+},
+{
+"t": 12.45,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/og/_/js/k=og.qtm.en_US.ZS82hcemEOY.2019.O/rt=j/m=q_dnp,qmd,qcwid,qapid,qads/exm=qaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhawgm3,qhba,qhbr,qhbrgm3,qhch,qhchgm3,qhga,qhid,qhidgm3,qhin,qhlo,qhlogm3,qhmn,qhpc,qhsf,qhsfgm3,qhtt/d=1/ed=1/rs=AA2YrTsVbEvP9NCrctFJGFctnR7I-p7S0g",
+"type": "script"
+},
+{
+"t": 12.45,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/og/_/ss/k=og.qtm.sF74QqzWKc4.L.W.O/m=qmd,qcwid,d_b_gm3,d_wi_gm3,d_lo_gm3/excm=qaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhawgm3,qhba,qhbr,qhbrgm3,qhch,qhchgm3,qhga,qhid,qhidgm3,qhin,qhlo,qhlogm3,qhmn,qhpc,qhsf,qhsfgm3,qhtt/d=1/ed=1/ct=zgms/rs=AA2YrTsd8fn1PDmTZtp4WJSHIvYr3iwTHQ",
+"type": "stylesheet"
+},
+{
+"t": 12.45,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityPoliciesUi.en.D10NhE0sExQ.2018.O/ck=boq-identity.IdentityPoliciesUi.Pbw3eUKnWBk.L.B1.O/am=AAAAAGxBJgAE/d=1/exm=_b,_tp/excm=_b,_tp,techcookiesview/ed=1/wt=2/ujg=1/rs=AOaEmlFScjJHtWsDMiL3fyxJE1lBwyh8MA/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jr",
+"type": "script"
+},
+{
+"t": 12.45,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityPoliciesUi.en.D10NhE0sExQ.2018.O/ck=boq-identity.IdentityPoliciesUi.Pbw3eUKnWBk.L.B1.O/am=AAAAAGxBJgAE/d=1/exm=A7fCU,BBI74,BVgquf,EFQ78c,IZT63,JNoxi,Jis5wf,KUM7Z,LEikZe,LGJfp,MdUzUe,MpJwZc,NwH0H,O1Gjze,O6y8ed,OTA3Ae,PrPYRd,QIhFr,",
+"type": "script"
+},
+{
+"t": 12.45,
+"host": "ogads-pa.clients6.google.com",
+"url": "https://ogads-pa.clients6.google.com/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData",
+"type": "xhr"
+},
+{
+"t": 12.46,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityPoliciesUi.en.D10NhE0sExQ.2018.O/ck=boq-identity.IdentityPoliciesUi.Pbw3eUKnWBk.L.B1.O/am=AAAAAGxBJgAE/d=1/exm=A7fCU,BBI74,BVgquf,EFQ78c,FqLSBc,GPHYJd,IZT63,JNoxi,Jis5wf,KUM7Z,LBaJxb,LEikZe,LGJfp,MdUzUe,MpJwZc,NwH0H,O1Gjze,O626Fe",
+"type": "script"
+},
+{
+"t": 12.46,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 12.46,
+"host": "www.youtube-nocookie.com",
+"url": "https://www.youtube-nocookie.com/s/player/11a45ffb/www-player.css",
+"type": "stylesheet"
+},
+{
+"t": 12.46,
+"host": "www.youtube-nocookie.com",
+"url": "https://www.youtube-nocookie.com/s/_/ytembeds/_/ss/k=ytembeds.base.l4TkcKEzrz0.L.W.O/am=AAAAQA/d=1/br=1/rs=AGKMywFPYyrlUgXUYjAhMEk18j5MhdNj3g/m=root,base",
+"type": "stylesheet"
+},
+{
+"t": 12.46,
+"host": "www.youtube-nocookie.com",
+"url": "https://www.youtube-nocookie.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.-KVylKIQ8Io.2021.O/am=AAAAQA/d=1/excm=base,root/br=1/rs=AGKMywFGF3ffHzhaCZJ13VoLck0FMJOpfw/m=root,base",
+"type": "script"
+},
+{
+"t": 12.46,
+"host": "www.youtube-nocookie.com",
+"url": "https://www.youtube-nocookie.com/s/player/11a45ffb/player_embed_es6.vflset/en_US/base.js",
+"type": "script"
+},
+{
+"t": 12.46,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 12.46,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 12.46,
+"host": "www.youtube-nocookie.com",
+"url": "https://www.youtube-nocookie.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.-KVylKIQ8Io.2021.O/ck=ytembeds.base.l4TkcKEzrz0.L.W.O/am=AAAAQA/d=1/exm=base,root/excm=base,root/ed=1/br=1/rs=AGKMywFyRvkLMCRE_FIt4X14QrM1vLrGZw/m=r78Drb",
+"type": "script"
+},
+{
+"t": 12.46,
+"host": "www.google.com",
+"url": "https://www.google.com/js/th/iAkiX6pIdiOKUFnCNJ9wngcJ-9G8dmsccZT6pmAxnJQ.js",
+"type": "script"
+},
+{
+"t": 12.46,
+"host": "i.ytimg.com",
+"url": "https://i.ytimg.com/vi_webp/TBR-xtJVq7E/sddefault.webp",
+"type": "image"
+},
+{
+"t": 12.46,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityPoliciesUi.en.D10NhE0sExQ.2018.O/ck=boq-identity.IdentityPoliciesUi.Pbw3eUKnWBk.L.B1.O/am=AAAAAGxBJgAE/d=1/exm=A7fCU,BBI74,BVgquf,EFQ78c,FqLSBc,GPHYJd,IZT63,JNoxi,Jis5wf,KUM7Z,LBaJxb,LEikZe,LGJfp,LvGhrf,MdUzUe,MpJwZc,NwH0H,O1Gjze",
+"type": "script"
+},
+{
+"t": 12.46,
+"host": "yt3.ggpht.com",
+"url": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s68-c-k-c0x00ffffff-no-rj",
+"type": "image"
+},
+{
+"t": 12.46,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+"type": "fetch"
+},
+{
+"t": 12.46,
+"host": "www.youtube-nocookie.com",
+"url": "https://www.youtube-nocookie.com/generate_204",
+"type": "image"
+},
+{
+"t": 12.46,
+"host": "jnn-pa.googleapis.com",
+"url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+"type": "xhr"
+},
+{
+"t": 13.46,
+"host": "play.google.com",
+"url": "https://play.google.com/log",
+"type": "xhr"
+},
+{
+"t": 14.47,
+"host": "www.youtube-nocookie.com",
+"url": "https://www.youtube-nocookie.com/youtubei/v1/log_event",
+"type": "xhr"
+},
+{
+"t": 15.47,
+"host": "policies.google.com",
+"url": "https://policies.google.com/_/IdentityPoliciesUi/browserinfo",
+"type": "fetch"
+}
+]

@@ -1,0 +1,91 @@
+{
+  "domain": "twitch.tv",
+  "url": "https://twitch.tv/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.twitch.tv/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Zustimmen",
+      "role": "accept",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookies",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Erklärung zu Cookies",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutzrichtlinie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Benutzerdefiniert",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Registrieren",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 328,
+  "first_click_t": 10.78,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 10.78,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Ablehnen",
+      "id": "a2f0-5",
+      "result": "ok"
+    }
+  ]
+}

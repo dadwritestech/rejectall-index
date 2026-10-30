@@ -1,0 +1,320 @@
+[
+{
+"t": 0.0,
+"host": "apache.org",
+"url": "https://apache.org/",
+"type": "document"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/css/Montserrat-300-600-800.css",
+"type": "stylesheet"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/css/OpenSans.css",
+"type": "stylesheet"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/css/min.bootstrap.css",
+"type": "stylesheet"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/css/styles.css",
+"type": "stylesheet"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/css/new-ui.css",
+"type": "stylesheet"
+},
+{
+"t": 0.03,
+"host": "www.apachecon.com",
+"url": "https://www.apachecon.com/event-images/snippet.js",
+"type": "script"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/_pagefind/pagefind-ui.css",
+"type": "stylesheet"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/_pagefind/pagefind-ui.js",
+"type": "script"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/js/jquery.min.js",
+"type": "script"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/asflogo_horizontal_color.svg",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/oakleaf.svg",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/asf_logo_full_horizontal_white.svg",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/slack-icon.svg",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/github-mark-white.svg",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/linkedin-icon.png",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/youtube-icon.svg",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/x-icon.svg",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/bluesky-icon.png",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/images/mastodon-icon.png",
+"type": "image"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/js/bootstrap.js",
+"type": "script"
+},
+{
+"t": 0.03,
+"host": "apache.org",
+"url": "https://apache.org/js/slideshow.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "analytics.apache.org",
+"url": "https://analytics.apache.org/matomo.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "apache.org",
+"url": "https://apache.org/css/OpenSans-Bold.ttf",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "apache.org",
+"url": "https://apache.org/fonts/glyphicons-halflings-regular.woff2",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "apache.org",
+"url": "https://apache.org/css/Montserrat-ExtraBold.ttf",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "apache.org",
+"url": "https://apache.org/css/OpenSans-Regular.ttf",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/tsfile/default.png",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/linkis/default.png",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/asterixdb/default.png",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "apache.org",
+"url": "https://apache.org/images/parallax-4.webp",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "apache.org",
+"url": "https://apache.org/images/parallax-5.webp",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "apache.org",
+"url": "https://apache.org/images/parallax-8.webp",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/streampipes/default.png",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "apache.org",
+"url": "https://apache.org/images/parallax-7.webp",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "apache.org",
+"url": "https://apache.org/images/stickers-bg.webp",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "apache.org",
+"url": "https://apache.org/images/welcome-bg/image-1.webp",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "apache.org",
+"url": "https://apache.org/css/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf",
+"type": "font"
+},
+{
+"t": 0.11,
+"host": "apache.org",
+"url": "https://apache.org/css/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf",
+"type": "font"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/aries/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/yetus/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/celeborn/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/apr/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/ctakes/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/atlas/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/sedona/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/synapse/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/pegasus/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/incubator/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apache.org",
+"url": "https://www.apache.org/logos/res/seata/default.png",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "apache.org",
+"url": "https://apache.org/images/welcome-bg/image-5.webp",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "apache.org",
+"url": "https://apache.org/images/events/fluss-forward-london.webp",
+"type": "image"
+},
+{
+"t": 0.59,
+"host": "analytics.apache.org",
+"url": "https://analytics.apache.org/matomo.php",
+"type": "ping"
+}
+]

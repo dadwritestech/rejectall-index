@@ -1,0 +1,2294 @@
+[
+{
+"t": 0.0,
+"host": "tiktok.com",
+"url": "https://tiktok.com/",
+"type": "document"
+},
+{
+"t": 0.04,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/",
+"type": "document"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_privacy_protection_framework/loader/1.0.0.967/index.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok-infra/csp/sdk-pre/slardar.web.pre.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_ebc73ad6.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/foryou-prefetch.6ee7c491.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/builder-runtime.cb85a5da.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.3002fb8b.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.6fd94d11.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-sigi.2b59dc0f.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-dp-byted-tea-sdk-oversea.f4e273c4.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/player.init.c4c11af7.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/emotion.init.dc9e8caf.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/slardar.8879cd84.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/cache.tux.1abe1f5f.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/biz.shared.kernel.init.373c11f5.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/biz.shared.safety.init.1ee17e10.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/biz.shared.platform.init.7bdccd8f.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/biz.shared.growth.init.799ffed9.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/atom.init.06c51833.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/biz.common.lib.bfbff1b8.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/i18n.2e3d03b5.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/43260.97a0fe81.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.604a15bd.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/npm-icons-shared.672f2dd1.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/npm-dayjs.22f083e7.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/20853.d350e051.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/53517.8f92bb0d.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/30294.ebf9659f.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/28300.62a525d0.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/47366.840b8916.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/72184.e45a9990.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/59846.7594ba82.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/92835.9315fa46.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/79019.8b78725c.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/47308.120bebd9.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/36308.65439b4e.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/7280.d5652afd.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/95410.ab5326a9.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/51551.14a879f7.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/51967.eb2cce02.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/48436.4ca78cd1.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/21978.cfd4e66a.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/81716.ecb8b831.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/41359.f2827825.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/76224.d58dc6d4.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/33270.2fb99fe9.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/15347.54a86c61.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/76487.5739ba14.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/13779.eb00d0b4.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/53692.03c70356.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/25895.6d5bc5c5.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/29192.d78589cb.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/91150.3fa72df0.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/5214.de551a35.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/52733.f359bc61.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/20090.b9b4a9f4.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/98535.470d7bf9.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/4076.7ab58bf8.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/16568.a7713605.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/42020.9ffad571.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/16029.0cf79b60.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/94518.c8f4773e.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/39656.cf0419e0.js",
+"type": "script"
+},
+{
+"t": 0.52,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/foryou.islands.da166e38.js",
+"type": "script"
+},
+{
+"t": 0.57,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/slardar/fe/sdk-web/browser.euttp.js",
+"type": "script"
+},
+{
+"t": 0.57,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/webapp-desktop/static/worker/multiple.worker-0.4.26.js",
+"type": "other"
+},
+{
+"t": 0.58,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_privacy_protection_framework/loader/1.0.0.967/core.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_privacy_protection_framework/loader/1.0.0.967/devtools.js",
+"type": "script"
+},
+{
+"t": 0.61,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/sw.js",
+"type": "script"
+},
+{
+"t": 0.63,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/pns/runtime-worker/1.0.0.64/pns-runtime-sw.js",
+"type": "other"
+},
+{
+"t": 0.66,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/webmssdk/1.0.0.417/webmssdk.js",
+"type": "script"
+},
+{
+"t": 0.68,
+"host": "storage.googleapis.com",
+"url": "https://storage.googleapis.com/workbox-cdn/releases/7.4.0/workbox-sw.js",
+"type": "other"
+},
+{
+"t": 0.71,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/item-list-cache.081d6008.js",
+"type": "script"
+},
+{
+"t": 0.73,
+"host": "storage.googleapis.com",
+"url": "https://storage.googleapis.com/workbox-cdn/releases/7.4.0/workbox-core.prod.js",
+"type": "other"
+},
+{
+"t": 0.74,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/sw/1.0.1/online/sw.js",
+"type": "other"
+},
+{
+"t": 0.74,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_web/settings/browser-settings",
+"type": "xhr"
+},
+{
+"t": 0.75,
+"host": "libraweb16-normal-useastred.tiktokw.eu",
+"url": "https://libraweb16-normal-useastred.tiktokw.eu/service/2/abtest_config/",
+"type": "xhr"
+},
+{
+"t": 0.75,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 0.75,
+"host": "p19-common-sign.tiktokcdn-eu.com",
+"url": "https://p19-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/ocAuIqiBJac1Id3PBABAIWz9RVqg7BLE8fiifi~tplv-tiktokx-origin.image",
+"type": "image"
+},
+{
+"t": 0.75,
+"host": "storage.googleapis.com",
+"url": "https://storage.googleapis.com/workbox-cdn/releases/7.4.0/workbox-routing.prod.js",
+"type": "other"
+},
+{
+"t": 0.75,
+"host": "v16-webapp.tiktokcdn-eu.com",
+"url": "https://v16-webapp.tiktokcdn-eu.com/542deffddc4e07d0bccab331b0da4d66/6ae6fbb6/video/tos/alisg/tos-alisg-pve-0037c001/oMDqPAftgF7eVFDISb6CAr4UEnID7Q1Ajcf3Wn/",
+"type": "fetch"
+},
+{
+"t": 0.75,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/playback1.mp4",
+"type": "media"
+},
+{
+"t": 0.76,
+"host": "storage.googleapis.com",
+"url": "https://storage.googleapis.com/workbox-cdn/releases/7.4.0/workbox-strategies.prod.js",
+"type": "other"
+},
+{
+"t": 0.78,
+"host": "storage.googleapis.com",
+"url": "https://storage.googleapis.com/workbox-cdn/releases/7.4.0/workbox-cacheable-response.prod.js",
+"type": "other"
+},
+{
+"t": 0.79,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/assets/index.b5f3c689.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/assets/styles.814f3d15.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/assets/all.871b7edc.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/assets/high-contrast.0f0f0b81.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "mcs-i18n.tiktok.com",
+"url": "https://mcs-i18n.tiktok.com/v1/user/webid",
+"type": "xhr"
+},
+{
+"t": 0.79,
+"host": "mon-i18n.tiktokv.com",
+"url": "https://mon-i18n.tiktokv.com/monitor_web/settings/browser-settings",
+"type": "xhr"
+},
+{
+"t": 0.79,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/89240.83338e1c.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_web/settings/browser-settings",
+"type": "xhr"
+},
+{
+"t": 0.79,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/secsdk/secsdk-lastest.umd.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/12506.01f06526.js",
+"type": "other"
+},
+{
+"t": 0.79,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/sibyl-ai-core.4338db72.js",
+"type": "other"
+},
+{
+"t": 0.8,
+"host": "storage.googleapis.com",
+"url": "https://storage.googleapis.com/workbox-cdn/releases/7.4.0/workbox-expiration.prod.js",
+"type": "other"
+},
+{
+"t": 0.81,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/arch/cdn_switch_worker/1.0.0.37/cdn-sw.js",
+"type": "other"
+},
+{
+"t": 0.82,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/config/network.json",
+"type": "fetch"
+},
+{
+"t": 0.83,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/cdn-sw-probe",
+"type": "fetch"
+},
+{
+"t": 0.83,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/video-player.dac0c965.js",
+"type": "script"
+},
+{
+"t": 0.83,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/assets/pa_prompt.08a5744b.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "p19-common-sign.tiktokcdn-eu.com",
+"url": "https://p19-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/ocAuIqiBJac1Id3PBABAIWz9RVqg7BLE8fiifi~tplv-tiktokx-origin.image",
+"type": "image"
+},
+{
+"t": 0.86,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 0.88,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/12506.01f06526.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/sibyl-ai-core.4338db72.js",
+"type": "script"
+},
+{
+"t": 0.9,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/tiktok/popup/dispatch/v1",
+"type": "xhr"
+},
+{
+"t": 0.9,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/user/webid",
+"type": "xhr"
+},
+{
+"t": 0.9,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/webapp-desktop/static/worker/vodsr-worker-BtW-VP4y.js",
+"type": "fetch"
+},
+{
+"t": 0.9,
+"host": "v16-webapp.tiktokcdn-eu.com",
+"url": "https://v16-webapp.tiktokcdn-eu.com/542deffddc4e07d0bccab331b0da4d66/6ae6fbb6/video/tos/alisg/tos-alisg-pve-0037c001/oMDqPAftgF7eVFDISb6CAr4UEnID7Q1Ajcf3Wn/",
+"type": "fetch"
+},
+{
+"t": 0.91,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 0.98,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/foryou.a8be2260.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/65728.bf39d898.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/95047.feadcf44.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/95029.85924b51.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/84128.8a86a7e4.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/73769.7d4c4fe2.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/90234.1394b6c9.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/40813.f2a6b9c8.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/34807.beb11d33.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/205.c1ab7df4.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/15388.5fa7edb4.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/78182.c8463a5d.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/78529.77142604.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/16119.4be2579f.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/71799.cec16f83.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/46404.2bcf4988.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/25152.7dc62b98.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/26032.1fa5db94.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/70770.abc0df9d.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/25129.2171eef5.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/39585.05b26f96.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/29240.1c5e2970.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/2219.eb7bc0cb.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/87691.ed9a754e.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/header-island.a6fd8a7a.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/75999.0e2ff67f.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/11648.73a91b4e.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/25873.a49336a4.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/47521.e30421b2.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/5907.8913c10c.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/76161.3620cc9d.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/49937.dbfce89e.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64027.0fc97456.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/75264.211504ec.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/side-nav-island.cc81eccc.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/npm-lottie.a9e4e188.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/51680.a131c42e.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24764.8b9f8aff.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/9408.7aeeda41.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/86719.24cb3a1b.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/74857.be8c8c89.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/bottom-side-effect-island.ce1d7f2f.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24341.c2cf1d97.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/26977.d3bf3e63.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/head-side-effect-island.6593a578.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/32335.92945e3c.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/notification-side-effect-island.fb486fc4.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/19091.a83b00d7.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/stories-player.c6045456.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/23987.5a3699fc.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/2135.499c4ae0.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/44626.41ca5b01.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/48927.691cbbad.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/97483.349992f9.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/action-bar.c77e3cdc.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/ttam-ads-cta.59a6b1c6.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/video-card-side-effect.cc9303fb.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/26025.6d68a7f2.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/86177.10140e55.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/96454.844fa118.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/column-item-side-effect.6446ee8f.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/7982.a85b9b06.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/27112.b619d12d.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/46918.6a1be741.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/94158.27585d99.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/52207.bce03e0e.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/91153.fcfde258.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/tiktok-fe-shared-growth-live-top-modules-column-recommend-live-card-column-recommend-live-card.36df9b66.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/column-list-side-effect.70a3bcc2.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/73921.9b0ca3f9.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/26893.06034b67.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/5004.54d3fe7f.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/13689.8d64cbcc.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/44508.ac708ade.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/45723.7da73a63.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/41782.e773bfe5.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/comment-sidebar.0435ba09.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24387.f634486e.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/loop-sidebar.179b54d0.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/modules-cinema-mode-debug-debug-mount.2f528e18.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/live-action-bar.c147bdcd.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/88049.4c690024.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/53439.c84d60eb.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/5370.2adcce6d.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/97206.82cdf455.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/photo-content-side-effect.a88e85d2.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/video-content-side-effect.66dc837d.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/photo-content-side-effect-switch-opt.6a4195dc.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/video-content-side-effect-switch-opt.c388895a.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/more-menu.5e02e6ce.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/anchoring-ambient.006429e9.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/item-card-side-effect.ce7ce244.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/anchoring-scroll-controls-anchoring-scroll-controls.6d3ac3d2.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/95572.a6659754.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/6160.23a965f9.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/56789.127d31c4.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/86510.8a2a838d.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/instance.674fe992.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/14771.a68bb19d.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/4071.33ac72c5.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/sideEffect-island.48638df2.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/43570.8a00a3fa.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/79461.b9fbbcd3.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/assets/perf_images/performance.jpeg",
+"type": "image"
+},
+{
+"t": 1.03,
+"host": "mon.tiktokv.com",
+"url": "https://mon.tiktokv.com/monitor_web/settings/browser-settings",
+"type": "xhr"
+},
+{
+"t": 1.03,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/tiktok/ppf/api/eligibility/v2",
+"type": "fetch"
+},
+{
+"t": 1.03,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/tiktok/v1/csp/pa_prompt",
+"type": "fetch"
+},
+{
+"t": 1.09,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/recommend/item_list/",
+"type": "fetch"
+},
+{
+"t": 1.09,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/recommend/item_list/",
+"type": "fetch"
+},
+{
+"t": 1.09,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/recommend/item_list/",
+"type": "fetch"
+},
+{
+"t": 1.09,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/recommend/item_list/",
+"type": "fetch"
+},
+{
+"t": 1.1,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.1,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/webapp-desktop/static/worker/vodsr-worker-BtW-VP4y.js",
+"type": "script"
+},
+{
+"t": 1.14,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/73955.f9f4900c.js",
+"type": "other"
+},
+{
+"t": 1.14,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/multi-account-controller.8940d2e3.js",
+"type": "other"
+},
+{
+"t": 1.24,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/global-footer/graphql",
+"type": "fetch"
+},
+{
+"t": 1.24,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/ba/business/suite/permission/list/",
+"type": "fetch"
+},
+{
+"t": 1.24,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/aweme/v1/report/inbox/notice",
+"type": "fetch"
+},
+{
+"t": 1.25,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokFont-Bold.woff2",
+"type": "font"
+},
+{
+"t": 1.25,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokFont-Regular.woff2",
+"type": "font"
+},
+{
+"t": 1.25,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokFont-Semibold.woff2",
+"type": "font"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/live_new/assets/audio_worklet/vq_1.0.1.wasm",
+"type": "fetch"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/26190.7360af5f.js",
+"type": "script"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/17952.4f5620d4.js",
+"type": "script"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/4139.be4a8f06.js",
+"type": "script"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/modal-side-effect-island.16d28d59.js",
+"type": "script"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/27030.12577195.js",
+"type": "script"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/31864.81d6ce66.js",
+"type": "script"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/79565.6d89c866.js",
+"type": "script"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/modules-cinema-mode.d30afd11.js",
+"type": "script"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/69195.5f0b3084.js",
+"type": "script"
+},
+{
+"t": 1.27,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/modules-video-detail-mode-fifa-download-popup.5059f652.js",
+"type": "script"
+},
+{
+"t": 1.29,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.29,
+"host": "mcs-i18n.tiktok.com",
+"url": "https://mcs-i18n.tiktok.com/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.3,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/v1/web-cookie-privacy/config",
+"type": "xhr"
+},
+{
+"t": 1.3,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/feedback/v1/newest_reply/",
+"type": "fetch"
+},
+{
+"t": 1.3,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/ba/business/suite/permission/list/",
+"type": "fetch"
+},
+{
+"t": 1.31,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokSans-VF.woff2",
+"type": "font"
+},
+{
+"t": 1.32,
+"host": "mcs-i18n.tiktok.com",
+"url": "https://mcs-i18n.tiktok.com/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.32,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/feedback/v1/newest_reply/",
+"type": "fetch"
+},
+{
+"t": 1.36,
+"host": "p16-common-sign.tiktokcdn-eu.com",
+"url": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/d6006da190775bde3820ec92ea0bcbca~tplv-tiktokx-cropcenter:100:100.jpeg",
+"type": "image"
+},
+{
+"t": 1.36,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.36,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/assets/index.3e2dea2d.css",
+"type": "stylesheet"
+},
+{
+"t": 1.36,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/assets/banner_ads.a000de4c.css",
+"type": "stylesheet"
+},
+{
+"t": 1.37,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/global-footer/graphql",
+"type": "fetch"
+},
+{
+"t": 1.37,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/2987.2e5343a3.js",
+"type": "script"
+},
+{
+"t": 1.37,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/seo-expanded-section.c09f25ce.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokDisplayFont-Bold.woff2",
+"type": "font"
+},
+{
+"t": 1.46,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/fixed-bottom.6ff0c357.js",
+"type": "script"
+},
+{
+"t": 1.47,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/share/settings/",
+"type": "fetch"
+},
+{
+"t": 1.52,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/webapp-desktop/static/worker/vodsr-worker-BtW-VP4y.js",
+"type": "script"
+},
+{
+"t": 1.52,
+"host": "v16-webapp-prime.tiktok.com",
+"url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o0CTAMCpRFrB0IlQIVEDqRfjEWgoAenID4Tvej/",
+"type": "fetch"
+},
+{
+"t": 1.53,
+"host": "p16-common-sign.tiktokcdn-eu.com",
+"url": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/9d503f8e6ab738e54b148545ae2e4d84~tplv-tiktokx-cropcenter:100:100.jpeg",
+"type": "image"
+},
+{
+"t": 1.54,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/user/webid",
+"type": "xhr"
+},
+{
+"t": 1.54,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/pns/tiktok-cookie-banner/1.0.0.285/default.eu-ttp.esm.js",
+"type": "script"
+},
+{
+"t": 1.55,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.57,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/aweme/v1/report/inbox/notice/",
+"type": "fetch"
+},
+{
+"t": 1.59,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/components-lazy-keyboard-shortcuts.c78ba567.js",
+"type": "script"
+},
+{
+"t": 1.65,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/footnotes-modal.c8f26e00.js",
+"type": "script"
+},
+{
+"t": 1.68,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/login-vmok-side-effect-island.b536bb7a.js",
+"type": "script"
+},
+{
+"t": 1.68,
+"host": "starling16-normal-useastred.tiktokv.eu",
+"url": "https://starling16-normal-useastred.tiktokv.eu/check_and_get_text/2e1fcc60aeaa11e99ef535aeebd27c9b/normal/account_server",
+"type": "xhr"
+},
+{
+"t": 1.68,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/tiktok/v1/app_open_times/upload/",
+"type": "fetch"
+},
+{
+"t": 1.68,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/tiktok/v1/screen_time/list/",
+"type": "fetch"
+},
+{
+"t": 1.7,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.73,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.75,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/live_new/assets/audio_worklet/vq_1.0.1.wasm",
+"type": "fetch"
+},
+{
+"t": 1.75,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/cinema-mode-live-content.bb0796f8.js",
+"type": "script"
+},
+{
+"t": 1.79,
+"host": "webcast.tiktok.com",
+"url": "https://webcast.tiktok.com/webcast/wallet_api_tiktok/recharge/check_external_entry",
+"type": "fetch"
+},
+{
+"t": 1.84,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_web/settings/browser-settings",
+"type": "xhr"
+},
+{
+"t": 1.84,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_web/settings/browser-settings",
+"type": "xhr"
+},
+{
+"t": 1.84,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.84,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.86,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokDisplayFont-Bold.woff2",
+"type": "font"
+},
+{
+"t": 1.86,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokFont-Regular.woff2",
+"type": "font"
+},
+{
+"t": 1.86,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokFont-SEMIBOLD.woff2",
+"type": "font"
+},
+{
+"t": 1.86,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokFont-Bold.woff2",
+"type": "font"
+},
+{
+"t": 1.86,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_fonts/TikTokFont-Semibold.woff2",
+"type": "font"
+},
+{
+"t": 1.87,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 1.89,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/tiktok/v1/screen_time/upload/",
+"type": "fetch"
+},
+{
+"t": 1.9,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/tiktok/v1/community_notes/intake/check",
+"type": "fetch"
+},
+{
+"t": 1.9,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/module_meta/common-login/vmok-manifest.json",
+"type": "fetch"
+},
+{
+"t": 7.91,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/plugins/common-monitors.1.16.9.js",
+"type": "script"
+},
+{
+"t": 7.91,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/plugins/common-monitors.1.14.1.js",
+"type": "script"
+},
+{
+"t": 7.91,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/slardar/fe/sdk-web/plugins/common-monitors.1.16.9.js",
+"type": "script"
+},
+{
+"t": 7.91,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/plugins/common-monitors.1.16.6.js",
+"type": "script"
+},
+{
+"t": 7.91,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/slardar/fe/sdk-web/plugins/common-monitors.1.14.5.js",
+"type": "script"
+},
+{
+"t": 7.91,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/plugins/common-monitors.1.14.5.js",
+"type": "script"
+},
+{
+"t": 7.91,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/ttwid/check/",
+"type": "xhr"
+},
+{
+"t": 7.91,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/prefetch/explore/item_list/",
+"type": "fetch"
+},
+{
+"t": 7.91,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 7.92,
+"host": "mssdk16-normal-useastred.tiktokw.eu",
+"url": "https://mssdk16-normal-useastred.tiktokw.eu/web/resource",
+"type": "xhr"
+},
+{
+"t": 7.92,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/module_meta/common-login/vmok-manifest.json",
+"type": "fetch"
+},
+{
+"t": 7.92,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/tiktok/v1/community_notes/intake/check/",
+"type": "fetch"
+},
+{
+"t": 7.92,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/lib-axios.c7bff3df.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/argus-builder-strategy.aa944c0d.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/3978.59ac97e0.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/1265.8ba95ddf.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/6869.fe3fee0d.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/3911.5360af8f.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/8537.dbd743c4.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/3191.99dd84a2.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/__federation_expose_pure.d6f8c76d.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/vmok-remote-entry.cb15870c.js",
+"type": "script"
+},
+{
+"t": 7.92,
+"host": "sf16-website-login.neutral.ttwstatic.com",
+"url": "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.2955/webmssdk_ex.js",
+"type": "script"
+},
+{
+"t": 7.93,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/4828.1137679a.js",
+"type": "script"
+},
+{
+"t": 7.93,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/3690.306f3c06.js",
+"type": "script"
+},
+{
+"t": 7.93,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_web/settings/browser-settings",
+"type": "xhr"
+},
+{
+"t": 7.93,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/node-webapp/api/login-config",
+"type": "fetch"
+},
+{
+"t": 7.93,
+"host": "starling16-normal-useastred.tiktokv.eu",
+"url": "https://starling16-normal-useastred.tiktokv.eu/check_and_get_text/5dc26cf008d511e9b571e1bc0c9e23b5/normal/WebApp_Login",
+"type": "xhr"
+},
+{
+"t": 7.93,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_web/settings/browser-settings",
+"type": "xhr"
+},
+{
+"t": 7.93,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/client",
+"type": "script"
+},
+{
+"t": 7.93,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/compliance/settings/",
+"type": "fetch"
+},
+{
+"t": 7.93,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/assets/index.1b307a21.css",
+"type": "stylesheet"
+},
+{
+"t": 8.01,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/assets/styles.2fcce72d.css",
+"type": "stylesheet"
+},
+{
+"t": 8.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/assets/index.7d45573b.css",
+"type": "stylesheet"
+},
+{
+"t": 8.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/web/tiktok_fe_login_vmok/static/js/async/4253.1bfbd0da.js",
+"type": "script"
+},
+{
+"t": 8.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/76557.9c14a8af.js",
+"type": "script"
+},
+{
+"t": 8.02,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/43503.624e3451.js",
+"type": "script"
+},
+{
+"t": 8.02,
+"host": "mon.tiktokv.com",
+"url": "https://mon.tiktokv.com/monitor_web/settings/browser-settings",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "mcs-va.tiktokv.com",
+"url": "https://mcs-va.tiktokv.com/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "web-sg.tiktok.com",
+"url": "https://web-sg.tiktok.com/passport/web/store_region/",
+"type": "fetch"
+},
+{
+"t": 8.02,
+"host": "login-us.www.tiktok.com",
+"url": "https://login-us.www.tiktok.com/passport/web/store_region/",
+"type": "fetch"
+},
+{
+"t": 8.02,
+"host": "login-eu.www.tiktok.com",
+"url": "https://login-eu.www.tiktok.com/passport/web/store_region/",
+"type": "fetch"
+},
+{
+"t": 8.02,
+"host": "mcs-va.tiktokv.com",
+"url": "https://mcs-va.tiktokv.com/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "mon-i18n.tiktokv.com",
+"url": "https://mon-i18n.tiktokv.com/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.02,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.03,
+"host": "mcs-va.tiktokv.com",
+"url": "https://mcs-va.tiktokv.com/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.03,
+"host": "mcs-va.tiktokv.com",
+"url": "https://mcs-va.tiktokv.com/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.03,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.03,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/preload/item_list/",
+"type": "fetch"
+},
+{
+"t": 8.03,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.03,
+"host": "mon.tiktokv.com",
+"url": "https://mon.tiktokv.com/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.04,
+"host": "mon.tiktokv.com",
+"url": "https://mon.tiktokv.com/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.04,
+"host": "mon.tiktokv.com",
+"url": "https://mon.tiktokv.com/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.04,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.04,
+"host": "mon.tiktokv.com",
+"url": "https://mon.tiktokv.com/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.04,
+"host": "v16-webapp-prime.tiktok.com",
+"url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o0qWcTeCoBhQkAFRzBtIhwCgE3EbghfOabRDEK/",
+"type": "fetch"
+},
+{
+"t": 8.04,
+"host": "v16-webapp-prime.tiktok.com",
+"url": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oEKGgyGrWAoRefGMbIxCeF5AGfMGiLVl7QlKmR/",
+"type": "fetch"
+},
+{
+"t": 8.04,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.04,
+"host": "v16-webapp-prime.tiktok.com",
+"url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/oIW8QMgIEpDAfMBFgeDnzUBD6UgGjIgaQSXBfS/",
+"type": "fetch"
+},
+{
+"t": 8.04,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.04,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 8.04,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 8.04,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 10.05,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/tiktok-fe-shared-safety-tns-pc-components-violation-appeal-modal.27da9597.js",
+"type": "script"
+},
+{
+"t": 10.05,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/tiktok-fe-shared-safety-ad-pc-components-ad-violation-appeal-modal.9cd63f06.js",
+"type": "script"
+},
+{
+"t": 10.05,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/47215.1301bfbc.js",
+"type": "script"
+},
+{
+"t": 10.05,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/48945.9c8b4337.js",
+"type": "script"
+},
+{
+"t": 10.05,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/45249.4f015351.js",
+"type": "script"
+},
+{
+"t": 10.05,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/report.1478480d.js",
+"type": "script"
+},
+{
+"t": 10.05,
+"host": "sf16-website-login.neutral.tiktokcdn-eu.com",
+"url": "https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/ad-report-loadable.fc23c2a5.js",
+"type": "script"
+},
+{
+"t": 10.2,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/consent/api/record/create/v2",
+"type": "xhr"
+},
+{
+"t": 14.2,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 14.2,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 14.2,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 14.2,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 14.21,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 14.21,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 14.21,
+"host": "www.tiktok.com",
+"url": "https://www.tiktok.com/api/feedback/v1/newest_reply/",
+"type": "fetch"
+},
+{
+"t": 14.21,
+"host": "mcs16-normal-useastred.tiktokw.eu",
+"url": "https://mcs16-normal-useastred.tiktokw.eu/v1/list",
+"type": "xhr"
+},
+{
+"t": 14.21,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+},
+{
+"t": 14.21,
+"host": "mon16-normal-useastred.tiktokv.eu",
+"url": "https://mon16-normal-useastred.tiktokv.eu/monitor_browser/collect/batch/",
+"type": "xhr"
+}
+]

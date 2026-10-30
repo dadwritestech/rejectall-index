@@ -1,0 +1,920 @@
+[
+{
+"t": 0.0,
+"host": "pinterest.com",
+"url": "https://pinterest.com/",
+"type": "document"
+},
+{
+"t": 0.04,
+"host": "www.pinterest.com",
+"url": "https://www.pinterest.com/",
+"type": "document"
+},
+{
+"t": 0.2,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/",
+"type": "document"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/polyfills-d78c8b4f95c5ce67.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/runtime.de-43de6e2a84d68aee.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/locale-de-LocaleDataLoader-c9bd8ebc87ac9445.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/10904.de-9797889456567ecc.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/11146-531a3f46752c1e8a.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/13031-be711cf6865165ec.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/14543.de-fb00e4e28d2a963d.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/17603.de-3a8f4f6c515fb85a.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/17661-855e681341977174.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/24012-5629f9570cc7d2c8.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/26927-35ddee38ae0f0aa2.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/31884-147908b1758d1ff5.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/35330-b4d6642d0e6fa583.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/42738-e948d6ef9436d475.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/44175-a81b6c76515ec9a4.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/50284.de-074910d0d2d49621.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/51889.de-bc480bc9aaec3790.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/6180-ebb234b8571028b4.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/66477-d3e1c40375bf49b4.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/66781.de-429471e245f175d2.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/70912.de-00a8cef42d321bd9.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/74337-19ab646740be98a2.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/84889.de-b3190c1b43b12185.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/85981-7ad0052fb9379630.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/89811-ce4f6d8a83294fa8.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/95349-0cbbad460bf0dd4c.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/95366-143f99c046d9f834.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/96382.de-e30e8903470db7ce.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/97661-951d3be3877eb944.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/gestalt-afa2794a9a8a1efc.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/vendor-react-d33385cc40f9cb2d.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/www/_client.de-4a50106b17bdb732.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/18331.de-0e7700d78d3277a3.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/20095.de-52dfbfbc690d5113.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/24896.de-425e01aa46e71aa0.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/47248.de-1597bbfa0e5df3b4.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/59155.de-39988c4f2e0bf52f.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/61715-61764d8c80295acf.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/62392.de-1cc2ae8b41e7bd4e.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/68508-0142e420e1765ac2.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/82273.de-052e34ba270fcbf1.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/95387.de-dc4306c546ecba2c.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/99590-95582841f14ca802.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/www/index-6ebaf11c532201ab.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/29330.de-67abda471bfa0b1b.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/3046.de-eec999de2c9355e9.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/6951.de-cc8a871b7732a1c2.mjs",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/87029.de-e0b519e6d590e40c.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/UnauthPageWrapperHeader.de-e1cbff88bcdb5d11.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/UnauthPageWrapperFooter.de-15ec16bf2d54567e.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/GoogleOneTap.de-93cffcb562859ba0.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/SignupUpsellModal.de-3c0a7f4e005f5ac0.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/67936.de-cef85d46c75d0b84.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/79496.de-ab0f5012d362fd72.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/FullPageSignup.de-cd02288a51fd92bf.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/24266-800b5c99b662f4dc.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/67882-7c1797a7eee05461.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/12192-695a125396945114.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/17730-75ddd5273cc33a08.mjs",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/Pin-Sans-MacOS-Regular-708c49dd.woff2",
+"type": "font"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/Pin-Sans-MacOS-Medium-704a4f34.woff2",
+"type": "font"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/Pin-Sans-MacOS-Bold-ce475d98.woff2",
+"type": "font"
+},
+{
+"t": 0.44,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/Pin-Sans-MacOS-Heavy-2b6abf8c.woff2",
+"type": "font"
+},
+{
+"t": 0.44,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/client",
+"type": "script"
+},
+{
+"t": 0.72,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/app-www-homepage-DesktopInspiredWallSignup.de-84385c7e6d441a7f.mjs",
+"type": "script"
+},
+{
+"t": 0.72,
+"host": "i1-e.pinimg.com",
+"url": "https://i1-e.pinimg.com/736x/8c/32/33/8c32334fb2b4fc8941a2abbff9678411.jpg",
+"type": "image"
+},
+{
+"t": 0.72,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/originals/07/18/2b/07182b0091c01cd3ff2d4cb80a16e344.jpg",
+"type": "image"
+},
+{
+"t": 0.72,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/_/_/storage_report/",
+"type": "fetch"
+},
+{
+"t": 0.72,
+"host": "ct.pinterest.com",
+"url": "https://ct.pinterest.com/ct.html",
+"type": "document"
+},
+{
+"t": 0.73,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/736x/aa/b2/c1/aab2c136721cd027a906a7cf0b081707.jpg",
+"type": "image"
+},
+{
+"t": 0.73,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/736x/b3/1e/08/b31e080d166ba958cf2abd643494af96.jpg",
+"type": "image"
+},
+{
+"t": 0.73,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/736x/12/d9/56/12d95630fe4845dafd1d286e1d3b8ea3.jpg",
+"type": "image"
+},
+{
+"t": 6.77,
+"host": "ct.pinterest.com",
+"url": "https://ct.pinterest.com/ct.html",
+"type": "document"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/manifest.json",
+"type": "manifest"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/secure/unauth_user_data/",
+"type": "fetch"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/secure/arkose_data_exchange/",
+"type": "fetch"
+},
+{
+"t": 6.78,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/8362-e5aebf0a5a327e30.mjs",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/DesktopModal-8202d295f15832ca.mjs",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/SearchTabResource/get/",
+"type": "xhr"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/AdvancedTypeaheadResource/get/",
+"type": "xhr"
+},
+{
+"t": 6.78,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/12429.de-c64815787919f558.mjs",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/ApiResource/get/",
+"type": "xhr"
+},
+{
+"t": 6.78,
+"host": "okra.pinterest.com",
+"url": "https://okra.pinterest.com/v2/F5675B21-025B-4843-983C-38D86DEB394B/api.js",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise.js",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/UserExperienceResource/get/",
+"type": "xhr"
+},
+{
+"t": 6.78,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/40826.de-13aa165bfd697eff.mjs",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/UserResource/get/",
+"type": "xhr"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/_/_/trace/trace/",
+"type": "xhr"
+},
+{
+"t": 6.78,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/style",
+"type": "stylesheet"
+},
+{
+"t": 6.78,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/button",
+"type": "document"
+},
+{
+"t": 6.78,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/status",
+"type": "xhr"
+},
+{
+"t": 6.78,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/_/graphql/",
+"type": "fetch"
+},
+{
+"t": 6.78,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/47159-eceb8e0ea66635ef.mjs",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/MobileModal.de-ba2460803e21c13c.mjs",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "google.com",
+"url": "https://google.com/.well-known/web-identity",
+"type": "other"
+},
+{
+"t": 6.78,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/fedcm/config/passive.json",
+"type": "other"
+},
+{
+"t": 6.78,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/fedcm/listaccounts",
+"type": "other"
+},
+{
+"t": 6.78,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise/anchor",
+"type": "document"
+},
+{
+"t": 6.78,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/64/cb/58/64cb5846e650438b7f4fd8ffecc509ca.jpg",
+"type": "image"
+},
+{
+"t": 6.78,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/20/a6/79/20a6790f0ceea6ad446ddbe5e0a31eb6.jpg",
+"type": "image"
+},
+{
+"t": 6.78,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/8c/0e/1a/8c0e1a80fcb834b53ec098d646a321fe.jpg",
+"type": "image"
+},
+{
+"t": 6.78,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/e1/34/1b/e1341b1caec1444cd968d636b6434869.jpg",
+"type": "image"
+},
+{
+"t": 6.78,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/74/65/ef/7465ef9c11d52bde655247b207db991b.jpg",
+"type": "image"
+},
+{
+"t": 6.78,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/65/ee/ad/65eead709ba4dcfe3db33f5bf751ba21.jpg",
+"type": "image"
+},
+{
+"t": 6.78,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/3b/a1/d7/3ba1d78d40acb205af9747b5a8a066ff.jpg",
+"type": "image"
+},
+{
+"t": 6.78,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/5e/a0/00/5ea0009ce51baf4418a80736c5ff8f71.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v62/4UaRrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iq2vgCI.woff2",
+"type": "font"
+},
+{
+"t": 6.79,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+"type": "stylesheet"
+},
+{
+"t": 6.79,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/31320-7a4e9b88c0160f2a.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise/webworker.js",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/ApiResource/create/",
+"type": "xhr"
+},
+{
+"t": 6.79,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/a1/70/3a/a1703a88eb3242758520057bfd3d424f.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/5f/13/f1/5f13f17a1a82209d6dceb28cf0b26e66.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/5b/e5/32/5be5325bce38a376a0d0091ba91f9986.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/15/f7/aa/15f7aa32d21f7e7ae7d940ba452e79a9.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/26/3e/35/263e35c74cb1e1d52be44c1d70dcd067.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/1d/21/1b/1d211b405f4ebc6d633eddf2b8e04a57.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/8f/39/2b/8f392b72b23a519da92ce114f5d518cc.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/82/ef/5b/82ef5be7ccf653c5a14279621a0cac19.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/59/1b/5a/591b5a0467f88537aca0d1b78352b90b.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/2a/c4/69/2ac46913deb2e553b1ee8915baa50e98.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/ee/51/c8/ee51c8c327be29a0f95c1d386653a254.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "i.pinimg.com",
+"url": "https://i.pinimg.com/236x/63/78/a1/6378a12ddca97e3741586a1f06a92c8c.jpg",
+"type": "image"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/www/login-4480597bfe25de54.css",
+"type": "stylesheet"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/40148.de-55f228ede88e9f2b.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/40803.de-19e1f9079278dee2.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/43362.de-f5a769266c4b48a4.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/5093.de-14cc3c49bfc9ab24.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/53152.de-c4a1a82cc055747e.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/57115.de-62a4c57cd8b1cb92.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/58133.de-85d8f5c8b1cf0cee.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/74001.de-68cfba5ca3f216bd.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/76097.de-092bee73ed58a37c.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/87672.de-1b939d5e78f2f296.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/97457.de-08722fb28da0441e.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "s.pinimg.com",
+"url": "https://s.pinimg.com/webapp/www/login-a04842e375bda259.mjs",
+"type": "script"
+},
+{
+"t": 6.79,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/ApiSResource/create/",
+"type": "fetch"
+},
+{
+"t": 6.8,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/ApiSResource/create/",
+"type": "xhr"
+},
+{
+"t": 6.8,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/UserRegisterTrackActionResource/update/",
+"type": "xhr"
+},
+{
+"t": 6.8,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/ActivateExperimentResource/create/",
+"type": "xhr"
+},
+{
+"t": 6.8,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "other"
+},
+{
+"t": 12.94,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/_/_/trace/trace/",
+"type": "xhr"
+},
+{
+"t": 12.94,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/_/_/trace/trace/",
+"type": "xhr"
+},
+{
+"t": 12.94,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/ApiSResource/create/",
+"type": "xhr"
+},
+{
+"t": 12.94,
+"host": "de.pinterest.com",
+"url": "https://de.pinterest.com/resource/ApiCResource/create/",
+"type": "xhr"
+},
+{
+"t": 12.94,
+"host": "play.google.com",
+"url": "https://play.google.com/log",
+"type": "fetch"
+}
+]

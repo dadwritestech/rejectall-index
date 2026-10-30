@@ -1,0 +1,128 @@
+[
+{
+"t": 0.0,
+"host": "gandi.net",
+"url": "https://gandi.net/",
+"type": "document"
+},
+{
+"t": 2.36,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/",
+"type": "document"
+},
+{
+"t": 2.44,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/en",
+"type": "document"
+},
+{
+"t": 2.48,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/static/fonts/Fraunces72ptSoft-SemiBold.35ff98584f74.woff2",
+"type": "font"
+},
+{
+"t": 2.48,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/static/fonts/Inter-Regular--latin.5b5385e029f4.woff2",
+"type": "font"
+},
+{
+"t": 2.48,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/static/fonts/Inter-SemiBold--latin.cb9cb89b325d.woff2",
+"type": "font"
+},
+{
+"t": 2.48,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/static/css/common.31884ced1615.css",
+"type": "stylesheet"
+},
+{
+"t": 2.48,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/static/css/home.5b8fc49a8065.css",
+"type": "stylesheet"
+},
+{
+"t": 2.48,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/static/js/modern.4f75f44ea032.js",
+"type": "script"
+},
+{
+"t": 2.48,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/static/images/icons/news-placeholder.7725539fceb6.svg",
+"type": "image"
+},
+{
+"t": 2.48,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/static/js/altcha.min.930790e3a80f.js",
+"type": "script"
+},
+{
+"t": 2.48,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/static/js/altcha-europe.65a2f639c487.js",
+"type": "script"
+},
+{
+"t": 2.52,
+"host": "tarteaucitron.io",
+"url": "https://tarteaucitron.io/load.js",
+"type": "script"
+},
+{
+"t": 2.52,
+"host": "tag.aticdn.net",
+"url": "https://tag.aticdn.net/616708/smarttag.js",
+"type": "script"
+},
+{
+"t": 2.54,
+"host": "news.api.gandi.net",
+"url": "https://news.api.gandi.net/api/v5/newssuggest/wpapi",
+"type": "fetch"
+},
+{
+"t": 2.54,
+"host": "www.gandi.net",
+"url": "https://www.gandi.net/service-worker.js",
+"type": "script"
+},
+{
+"t": 2.58,
+"host": "logs1412.xiti.com",
+"url": "https://logs1412.xiti.com/hit.xiti",
+"type": "image"
+},
+{
+"t": 2.63,
+"host": "cdntag.tarteaucitron.io",
+"url": "https://cdntag.tarteaucitron.io/load.js",
+"type": "script"
+},
+{
+"t": 2.83,
+"host": "cdn.tarteaucitron.io",
+"url": "https://cdn.tarteaucitron.io/css/tarteaucitron.min.css",
+"type": "stylesheet"
+},
+{
+"t": 2.83,
+"host": "cdn.tarteaucitron.io",
+"url": "https://cdn.tarteaucitron.io/lang/tarteaucitron.en.min.js",
+"type": "script"
+},
+{
+"t": 8.83,
+"host": "cdn.tarteaucitron.io",
+"url": "https://cdn.tarteaucitron.io/tarteaucitron.services.min.js",
+"type": "script"
+}
+]

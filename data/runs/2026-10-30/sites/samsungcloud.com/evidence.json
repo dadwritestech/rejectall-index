@@ -1,0 +1,140 @@
+{
+  "domain": "samsungcloud.com",
+  "url": "https://samsungcloud.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.samsungcloud.com/de/login",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Samsung und Cookies Unsere Webseite verwendet Cookies, um eine optimale Benutzererfahrung und relevantere Werbung für dich bereitzustellen. Du kannst alle Cookies akzeptieren oder deine Voreinstellungen verwalten. In den Datenschutzrichtlinie und der Cookies findest du weitere Informationen. Cookies verwalten Weiter ohne zu akzeptieren Alle Cookies akzeptieren",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Cookies verwalten",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Weiter ohne zu akzeptieren",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Alle Cookies akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Cookie-Einstellungen",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutzrichtlinie",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Cookies",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Modus für hohen Kontrast aktivieren",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Anmelden",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Germany / Deutsch",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutzrichtlinie",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "AGB",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookies",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Kontaktiere uns",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Info zu Samsung Cloud",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 65,
+  "first_click_t": 9.28,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 9.28,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Weiter ohne zu akzeptieren",
+      "id": "a1f0-11",
+      "result": "ok"
+    }
+  ]
+}

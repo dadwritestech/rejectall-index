@@ -1,0 +1,450 @@
+{
+  "domain": "samsung.com",
+  "url": "https://samsung.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.samsung.com/de/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "criteo.com",
+      "entity": "Criteo",
+      "category": "Advertising",
+      "requests": 8
+    },
+    {
+      "domain": "1rx.io",
+      "entity": "Nexxen",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "casalemedia.com",
+      "entity": "IndexExchange",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "demdex.net",
+      "entity": "Adobe",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "go-mpulse.net",
+      "entity": "Akamai",
+      "category": "Analytics",
+      "requests": 2
+    },
+    {
+      "domain": "pubmatic.com",
+      "entity": "PubMatic",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "360yield.com",
+      "entity": "Azerion",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "3lift.com",
+      "entity": "TripleLift",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "ads-twitter.com",
+      "entity": "Twitter",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "agkn.com",
+      "entity": "TransUnion",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "akstat.io",
+      "entity": "Akamai",
+      "category": "Analytics",
+      "requests": 1
+    },
+    {
+      "domain": "bidswitch.net",
+      "entity": "Criteo",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "doubleclick.net",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "dwin1.com",
+      "entity": "Awin",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "id5-sync.com",
+      "entity": "ID5",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "media.net",
+      "entity": "media.net",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "mediavine.com",
+      "entity": "Mediavine",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "outbrain.com",
+      "entity": "Teads",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "postrelease.com",
+      "entity": "Life360",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "smartadserver.com",
+      "entity": "Equativ",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "taboola.com",
+      "entity": "Taboola",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "teads.tv",
+      "entity": "Teads",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "tremorhub.com",
+      "entity": "Nexxen",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "unrulymedia.com",
+      "entity": "Nexxen",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "upsellit.com",
+      "entity": "UpsellIt",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "yieldlab.net",
+      "entity": "VirtualMinds",
+      "category": "Advertising",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [
+    {
+      "domain": "t.co",
+      "entity": "Twitter",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "twitter.com",
+      "entity": "Twitter",
+      "category": "Social",
+      "requests": 2
+    }
+  ],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Samsung Electronics und seine Partner nutzen Cookies und ähnliche Technologien (folgend \"Technologien\"), um Informationen auf deinem Gerät zu speichern und darauf zuzugreifen. Einige Technologien sind technisch notwendig, damit unsere Seite zuverlässig funktioniert. Wir möchten aber auch optionale/nicht notwendige Technologien einsetzen, um dir die beste Nutzererfahrung zu bieten. Sie erlauben uns, die Frequentation und Nutzung der Webseite zu messen, dir auf unserer Seite und Partnerwebseiten relevante und personalisierte Inhalte/Werbung zeigen zu können und deinen Standort abzurufen. Mithilf",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Alle Cookies akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Nur technisch notwendige Cookies akzeptieren",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Einstellungen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Cookie-Einstellungen",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookie-Hinweisen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Bestellung widerrufen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Umwelt",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Sicherheit und Datenschutz",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Barrierefreiheit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Erklärung zur Barrierefreiheit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Integrativer Arbeitsplatz",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Corporate Citizenship",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Corporate Sustainability",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Verantwortung in der Lieferkette",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Unternehmensinformation",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Geschäftsbereich",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Markenidentität",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Jobs & Karriere",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Investoren",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Newsroom",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Ethik",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Samsung Design",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Deutschland/Deutsch",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutz",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookies",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Nutzungsbedingungen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Erklärung zur Barrierefreiheit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Impressum",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Seiteninhalt",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Facebook",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "twitter : In neuem Fenster öffnen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Instagram",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "YouTube",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 154,
+  "first_click_t": 9.82,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 9.82,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Nur technisch notwendige Cookies akzeptieren",
+      "id": "a1f0-111",
+      "result": "ok"
+    }
+  ]
+}

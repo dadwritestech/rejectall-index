@@ -1,0 +1,122 @@
+[
+{
+"t": 0.0,
+"host": "duckdns.org",
+"url": "https://duckdns.org/",
+"type": "document"
+},
+{
+"t": 0.47,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/",
+"type": "document"
+},
+{
+"t": 0.6,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/css/ducky-16.css",
+"type": "stylesheet"
+},
+{
+"t": 0.6,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/api.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/img/google_signin_dark.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/img/github_button.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/img/login_twitter.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/img/login_persona.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/en_GB/i/scr/pixel.gif",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/img/patreon.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/img/ggroups_icon.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "ajax.googleapis.com",
+"url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/js/ducky-12.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.duckdns.org",
+"url": "https://www.duckdns.org/img/ducky_icon.png",
+"type": "image"
+},
+{
+"t": 1.09,
+"host": "region1.analytics.google.com",
+"url": "https://region1.analytics.google.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 1.09,
+"host": "stats.g.doubleclick.net",
+"url": "https://stats.g.doubleclick.net/g/collect",
+"type": "ping"
+},
+{
+"t": 1.09,
+"host": "www.google.de",
+"url": "https://www.google.de/ads/ga-audiences",
+"type": "image"
+}
+]

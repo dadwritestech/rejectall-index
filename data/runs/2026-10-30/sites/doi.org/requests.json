@@ -1,0 +1,146 @@
+[
+{
+"t": 0.0,
+"host": "doi.org",
+"url": "https://doi.org/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "www.doi.org",
+"url": "https://www.doi.org/",
+"type": "document"
+},
+{
+"t": 0.08,
+"host": "cdn.jsdelivr.net",
+"url": "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "cdn.jsdelivr.net",
+"url": "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/js/jquery-3.6.1.min.js",
+"type": "script"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/css/fontawesome-free-6.7.2-web/css/fontawesome.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/css/fontawesome-free-6.7.2-web/css/solid.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/css/fontawesome-free-6.7.2-web/css/brands.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/css/style.c9da778930845ca2b520440a16208e8d25f7cb3416af167b59bf33e30b0c6afb.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/images/logos/header_logo_cropped_registered.svg",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/images/globe.svg",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/images/target.svg",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/images/board/jclark.jpg",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/images/logos/footer_logo_cropped_registered.svg",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "www.doi.org",
+"url": "https://www.doi.org/js/script.js",
+"type": "script"
+},
+{
+"t": 0.13,
+"host": "use.typekit.net",
+"url": "https://use.typekit.net/gcr6xms.css",
+"type": "stylesheet"
+},
+{
+"t": 0.18,
+"host": "p.typekit.net",
+"url": "https://p.typekit.net/p.css",
+"type": "stylesheet"
+},
+{
+"t": 0.21,
+"host": "doi.org",
+"url": "https://doi.org/api/handles/10.1000/1000",
+"type": "fetch"
+},
+{
+"t": 0.24,
+"host": "www.doi.org",
+"url": "https://www.doi.org/images/binary-eye@2x.png",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "www.doi.org",
+"url": "https://www.doi.org/images/dot-pattern.svg",
+"type": "image"
+},
+{
+"t": 0.24,
+"host": "use.typekit.net",
+"url": "https://use.typekit.net/af/9b05f3/000000000000000000013365/27/l",
+"type": "font"
+},
+{
+"t": 0.24,
+"host": "use.typekit.net",
+"url": "https://use.typekit.net/af/053fc9/00000000000000003b9af1e4/27/l",
+"type": "font"
+},
+{
+"t": 0.24,
+"host": "www.doi.org",
+"url": "https://www.doi.org/css/fontawesome-free-6.7.2-web/webfonts/fa-solid-900.woff2",
+"type": "font"
+},
+{
+"t": 0.24,
+"host": "www.doi.org",
+"url": "https://www.doi.org/css/fontawesome-free-6.7.2-web/webfonts/fa-brands-400.woff2",
+"type": "font"
+}
+]

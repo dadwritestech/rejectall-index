@@ -1,0 +1,128 @@
+[
+{
+"t": 0.0,
+"host": "wikimedia.org",
+"url": "https://wikimedia.org/",
+"type": "document"
+},
+{
+"t": 0.22,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//",
+"type": "document"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/wikimedia_logo.png",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/welcome-image.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikipedia-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wiktionary-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikiquote-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikibooks-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Commons-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikisource-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikiversity-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikispecies-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikidata-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikifunctions-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/MediaWiki-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikivoyage-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Meta-Wiki-logo_sister.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/puzzle-globe.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/js/index-56d76e0e59.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/OOjs_UI_icon_heart-invert.svg",
+"type": "image"
+},
+{
+"t": 0.31,
+"host": "www.wikimedia.org",
+"url": "https://www.wikimedia.org//portal/wikimedia.org/assets/l10n/de-660ecdc4.json",
+"type": "xhr"
+}
+]

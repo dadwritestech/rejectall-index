@@ -1,0 +1,2138 @@
+[
+{
+"t": 0.0,
+"host": "mail.ru",
+"url": "https://mail.ru/",
+"type": "document"
+},
+{
+"t": 0.2,
+"host": "login.vk.ru",
+"url": "https://login.vk.ru/",
+"type": "document"
+},
+{
+"t": 0.43,
+"host": "account.mail.ru",
+"url": "https://account.mail.ru/login",
+"type": "document"
+},
+{
+"t": 0.89,
+"host": "stat.radar.imgsmail.ru",
+"url": "https://stat.radar.imgsmail.ru/update",
+"type": "image"
+},
+{
+"t": 0.89,
+"host": "mail.ru",
+"url": "https://mail.ru/",
+"type": "document"
+},
+{
+"t": 1.1,
+"host": "home.imgsmail.ru",
+"url": "https://home.imgsmail.ru/resplash/900401/c/theme-system-578862efd980.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "home.imgsmail.ru",
+"url": "https://home.imgsmail.ru/resplash/900401/c/cdn-52e0ecdd-ad9cd58a.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "home.imgsmail.ru",
+"url": "https://home.imgsmail.ru/resplash/900401/c/cdn-app-e746c373.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "imgs2.imgsmail.ru",
+"url": "https://imgs2.imgsmail.ru/@mail-core/logger-preset/home.js",
+"type": "script"
+},
+{
+"t": 1.15,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 1.16,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d69888407.gif",
+"type": "image"
+},
+{
+"t": 1.16,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/i1629.gif",
+"type": "image"
+},
+{
+"t": 1.16,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/i3465.gif",
+"type": "image"
+},
+{
+"t": 1.16,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/BC/44BE61.css",
+"type": "stylesheet"
+},
+{
+"t": 1.16,
+"host": "limg.imgsmail.ru",
+"url": "https://limg.imgsmail.ru/whiteline/2.233.5/external.crossnav.css",
+"type": "stylesheet"
+},
+{
+"t": 1.16,
+"host": "limg.imgsmail.ru",
+"url": "https://limg.imgsmail.ru/whiteline/2.233.5/inline.modern.js",
+"type": "script"
+},
+{
+"t": 1.16,
+"host": "home.imgsmail.ru",
+"url": "https://home.imgsmail.ru/antares/test/test.js",
+"type": "script"
+},
+{
+"t": 1.16,
+"host": "limg.imgsmail.ru",
+"url": "https://limg.imgsmail.ru/informers/resplash/test.js",
+"type": "script"
+},
+{
+"t": 1.16,
+"host": "imgs2.imgsmail.ru",
+"url": "https://imgs2.imgsmail.ru/test.js",
+"type": "script"
+},
+{
+"t": 1.16,
+"host": "home.imgsmail.ru",
+"url": "https://home.imgsmail.ru/resplash/900401/j/app-68jngTb2.js",
+"type": "script"
+},
+{
+"t": 1.16,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wGtNsHdeu9CvbNsESXhberwXu7Tc2eYhCktbl9okDLoWdS_VgWccIQsk1VG4tbdvaFfbKpnrzcy3LyZneH32wKcZhDm0sWMoTv5_JhTIWr5prFHW2h5IWB3p8Q22onCNTf27eKsBGklOrqEGf8jy8xLp0_FXF96JyVi-D_CBYlUh8RC4EMqAAAAns6Jk2TymDQeTw5XyaqsC2FIbt4IDBevoNzqldUCB5zCOlknbr7ByoiSHOu3FD1g.gif",
+"type": "image"
+},
+{
+"t": 1.16,
+"host": "reklama.mail.ru",
+"url": "https://reklama.mail.ru/d17184638.gif",
+"type": "image"
+},
+{
+"t": 1.16,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d795553.gif",
+"type": "image"
+},
+{
+"t": 1.16,
+"host": "an.mail.ru",
+"url": "https://an.mail.ru/count/U_4amautHtK505u0488WCPTsrL400000O9WBSFJqW908a042m042s06AXnte0O01y0ACkfAo1h030g06gWF91hi-4Mkr5qq5gGU6her73VSAJj070l8D0FeD088E0000",
+"type": "image"
+},
+{
+"t": 1.16,
+"host": "b2.mail.ru",
+"url": "https://b2.mail.ru/count/U_4amautHtK505u0488WCPTsrL400000O9WBSFJqW908a042m042s06AXnte0O01y0ACkfAo1h030g06gWF91hi-4Mkr5qq5gGU6her73VSAJj070l8D0FeD088E0000",
+"type": "image"
+},
+{
+"t": 1.16,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/cm.gif",
+"type": "image"
+},
+{
+"t": 1.42,
+"host": "imgs2.imgsmail.ru",
+"url": "https://imgs2.imgsmail.ru/static/fonts/v1.100/VKSansDisplay/WOFF2/VKSansDisplayRegular.woff2",
+"type": "font"
+},
+{
+"t": 1.42,
+"host": "imgs2.imgsmail.ru",
+"url": "https://imgs2.imgsmail.ru/static/fonts/v1.100/VKSansDisplay/WOFF2/VKSansDisplayMedium.woff2",
+"type": "font"
+},
+{
+"t": 1.42,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/metrika/tag.js",
+"type": "script"
+},
+{
+"t": 1.42,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/js/code.js",
+"type": "script"
+},
+{
+"t": 1.42,
+"host": "counter.yadro.ru",
+"url": "https://counter.yadro.ru/hit;mail-splash/pc",
+"type": "image"
+},
+{
+"t": 1.56,
+"host": "cspreport.mail.ru",
+"url": "https://cspreport.mail.ru/home",
+"type": "other"
+},
+{
+"t": 1.56,
+"host": "xray.mail.ru",
+"url": "https://xray.mail.ru/update",
+"type": "image"
+},
+{
+"t": 1.56,
+"host": "xray.mail.ru",
+"url": "https://xray.mail.ru/update",
+"type": "image"
+},
+{
+"t": 1.61,
+"host": "b.delivery.consentmanager.net",
+"url": "https://b.delivery.consentmanager.net/delivery/cmp.php",
+"type": "script"
+},
+{
+"t": 1.61,
+"host": "cdn.consentmanager.net",
+"url": "https://cdn.consentmanager.net/delivery/js/cmp_de.min.js",
+"type": "script"
+},
+{
+"t": 1.78,
+"host": "bs.yandex.ru",
+"url": "https://bs.yandex.ru/count/WAGejI_z8oVX2LdAlGG0b0TxyIJ2Igr-imK0oW0GWY0nbtRLKG00001Wc0jmzFI0a0YG0GB00GBO0Og77UW1W07m0eowah86i0C2e0Qg0ya6kpuHQxKNJGMf1uQkZKSDzmfEq0S2W100-1Z1YlRieu-y_6E06UaSW1r_e1y0o1y0rIB__t__u2802Fo4BkGEyFm9xrF7Fi3kWdGw1po53R5w6C1_2000~2,an.mail.ru,2875267251793352476,1335794542",
+"type": "image"
+},
+{
+"t": 1.83,
+"host": "privacy-cs.mail.ru",
+"url": "https://privacy-cs.mail.ru/static/sync-loader.js",
+"type": "script"
+},
+{
+"t": 1.83,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 1.83,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 1.83,
+"host": "bs.yandex.ru",
+"url": "https://bs.yandex.ru/count/WAGejI_z8oVX2LdAlGG0b0TxyIJ2Igr-imK0oW0GWY0nbtRLKG00001Wc0jmzFI0a0YG0GB00GBO0Og77UW1W07m0eowah86i0C2e0Qg0ya6kpuHQxKNJGMf1uQkZKSDzmfEq0S2W100-1Z1YlRieu-y_6E06UaSW1r_e1y0o1y0rIB__t__u2802Fo4BkGEyFm9xrF7Fi3kWdGw1po53R5w6C1_2000~2,b2.mail.ru,1772406761793352476,3821406409",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_check",
+"type": "image"
+},
+{
+"t": 1.88,
+"host": "limg.imgsmail.ru",
+"url": "https://limg.imgsmail.ru/whiteline/2.233.5/external.crossnav.modern.js",
+"type": "script"
+},
+{
+"t": 1.88,
+"host": "img.imgsmail.ru",
+"url": "https://img.imgsmail.ru/hb/e.mail.ru/auth.gate/2.11.2/authGate.js",
+"type": "script"
+},
+{
+"t": 1.88,
+"host": "portal.mail.ru",
+"url": "https://portal.mail.ru/NaviData",
+"type": "fetch"
+},
+{
+"t": 1.88,
+"host": "yandex.ru",
+"url": "https://yandex.ru/portal/searchframe/desktop",
+"type": "document"
+},
+{
+"t": 1.89,
+"host": "cdn.consentmanager.net",
+"url": "https://cdn.consentmanager.net/delivery/customdata/bV8xLndfODY0LnJfR0RQUi5sX2RlLmRfMjYzMTAueF83NC52LnAudF8yNjMxMC54dF83MTM.js",
+"type": "script"
+},
+{
+"t": 1.93,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_start",
+"type": "image"
+},
+{
+"t": 1.95,
+"host": "b2.mail.ru",
+"url": "https://b2.mail.ru/count/WAGejI_z8oVX2LdAlGG0b0TxyIJ2Igr-imK0oW0GWY0nbtRLKG00001Wc0jmzFI0a0YG0GB00GBO0Og77UW1W07m0eowah86i0C2e0Qg0ya6kpuHQxKNJGMf1uQkZKSDzmfEq0S2W100-1Z1YlRieu-y_6E06UaSW1r_e1y0o1y0rIB__t__u2802Fo4BkGEyFm9xrF7Fi3kWdGw1po53R5w6C1_2000~2,b2.mail.ru,7783354481793352476,322109372",
+"type": "image"
+},
+{
+"t": 1.95,
+"host": "an.mail.ru",
+"url": "https://an.mail.ru/count/WAGejI_z8oVX2LdAlGG0b0TxyIJ2Igr-imK0oW0GWY0nbtRLKG00001Wc0jmzFI0a0YG0GB00GBO0Og77UW1W07m0eowah86i0C2e0Qg0ya6kpuHQxKNJGMf1uQkZKSDzmfEq0S2W100-1Z1YlRieu-y_6E06UaSW1r_e1y0o1y0rIB__t__u2802Fo4BkGEyFm9xrF7Fi3kWdGw1po53R5w6C1_2000~2,an.mail.ru,8416844891793352476,2217554470",
+"type": "image"
+},
+{
+"t": 1.98,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_decide",
+"type": "image"
+},
+{
+"t": 2.07,
+"host": "vk.ru",
+"url": "https://vk.ru/feed2.php",
+"type": "fetch"
+},
+{
+"t": 2.07,
+"host": "mail.ru",
+"url": "https://mail.ru/apic/11657450b004a520550010003590205515d570f08055450010300560105510553000751575b54550451055507080606500057000d07545704000053010251505608030457575055045f0455020d0600500b570c0d07545701030057010251565601060652515056045e01510201030a550c570d0d07545704000053010251505608030457575055045f0455",
+"type": "xhr"
+},
+{
+"t": 2.07,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/adp/",
+"type": "fetch"
+},
+{
+"t": 2.07,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/static_json/config.main-page-tabs.json",
+"type": "fetch"
+},
+{
+"t": 2.07,
+"host": "o2.mail.ru",
+"url": "https://o2.mail.ru/login",
+"type": "document"
+},
+{
+"t": 2.08,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/embed/index.js",
+"type": "script"
+},
+{
+"t": 2.08,
+"host": "dzen.ru",
+"url": "https://dzen.ru/zen-partner/mailru-morda",
+"type": "fetch"
+},
+{
+"t": 2.08,
+"host": "pogoda.imgsmail.ru",
+"url": "https://pogoda.imgsmail.ru/icons/status/2024/lt/png48/05.png",
+"type": "image"
+},
+{
+"t": 2.08,
+"host": "pogoda.imgsmail.ru",
+"url": "https://pogoda.imgsmail.ru/icons/status/2024/lt/png24/01.png",
+"type": "image"
+},
+{
+"t": 2.08,
+"host": "pogoda.imgsmail.ru",
+"url": "https://pogoda.imgsmail.ru/icons/status/2024/lt/png24/02.png",
+"type": "image"
+},
+{
+"t": 2.08,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.09,
+"host": "imgs2.imgsmail.ru",
+"url": "https://imgs2.imgsmail.ru/static/fonts/v1.100/VKSansDisplay/WOFF2/VKSansDisplayDemiBold.woff2",
+"type": "font"
+},
+{
+"t": 2.09,
+"host": "xray.mail.ru",
+"url": "https://xray.mail.ru/update",
+"type": "image"
+},
+{
+"t": 2.09,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/h5/00/4E823B93/D07518B25A.html",
+"type": "document"
+},
+{
+"t": 2.09,
+"host": "r3.mail.ru",
+"url": "https://r3.mail.ru/k",
+"type": "image"
+},
+{
+"t": 2.09,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/static/sync-loader.js",
+"type": "script"
+},
+{
+"t": 2.1,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/metrika/advert.gif",
+"type": "image"
+},
+{
+"t": 2.1,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/js/dyn-goal-config.js",
+"type": "script"
+},
+{
+"t": 2.1,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/101292177",
+"type": "fetch"
+},
+{
+"t": 2.1,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 2.13,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wGtNsHdeu9CvbNsESXhberwXu7Tc2eYhCktbl9okDLoWdS_VgWccIQsk1VG4tbdvaFfbKpnrzcy3LyZneH32wKcZhDm0sWMoTv5_JhTIWr5prFHW2h5IWB3p8Q22onCNTf27eKsBGklOrqEGf8jy8xLp0_FXF96JyVi-D_CBYlUh3xHAjwfAAAAZ9yQfnvJ_e1_4OKHyX2c2cvfBcxss3_n04DecP9HU4Q.gif",
+"type": "image"
+},
+{
+"t": 2.13,
+"host": "home.imgsmail.ru",
+"url": "https://home.imgsmail.ru/whiteline/assets/logo/light/logo.svg",
+"type": "image"
+},
+{
+"t": 2.13,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/ns.gif",
+"type": "image"
+},
+{
+"t": 2.13,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/bulkstat/",
+"type": "image"
+},
+{
+"t": 2.14,
+"host": "home.imgsmail.ru",
+"url": "https://home.imgsmail.ru/whiteline/assets/project-icons/580CED.svg",
+"type": "image"
+},
+{
+"t": 2.14,
+"host": "stat.radar.imgsmail.ru",
+"url": "https://stat.radar.imgsmail.ru/update",
+"type": "image"
+},
+{
+"t": 2.15,
+"host": "yastatic.net",
+"url": "https://yastatic.net/s3/home-static/_/58/582a934fda65422e10027cceb2909f11.svg",
+"type": "image"
+},
+{
+"t": 2.15,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/h5/00/4E823B93/characters.png",
+"type": "image"
+},
+{
+"t": 2.15,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/h5/00/4E823B93/products.png",
+"type": "image"
+},
+{
+"t": 2.15,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/h5/00/4E823B93/logo.png",
+"type": "image"
+},
+{
+"t": 2.15,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/h5/00/4E823B93/t1.png",
+"type": "image"
+},
+{
+"t": 2.15,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/h5/00/4E823B93/animation.js",
+"type": "script"
+},
+{
+"t": 2.16,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/adp/",
+"type": "fetch"
+},
+{
+"t": 2.16,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/101292177/1",
+"type": "fetch"
+},
+{
+"t": 2.16,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.16,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.16,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d69886148.gif",
+"type": "image"
+},
+{
+"t": 2.16,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.16,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.16,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.17,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.17,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.18,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/metrika/watch_zen.js",
+"type": "script"
+},
+{
+"t": 2.18,
+"host": "yandex.ru",
+"url": "https://yandex.ru/suggest/suggest-ya.cgi",
+"type": "xhr"
+},
+{
+"t": 2.18,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.2,
+"host": "yandex.ru",
+"url": "https://yandex.ru/clck/click",
+"type": "ping"
+},
+{
+"t": 2.2,
+"host": "stat.radar.imgsmail.ru",
+"url": "https://stat.radar.imgsmail.ru/update",
+"type": "image"
+},
+{
+"t": 2.21,
+"host": "yandex.ru",
+"url": "https://yandex.ru/clck/counter",
+"type": "ping"
+},
+{
+"t": 2.21,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_check_secondary",
+"type": "image"
+},
+{
+"t": 2.24,
+"host": "yandex.ru",
+"url": "https://yandex.ru/clck/click",
+"type": "ping"
+},
+{
+"t": 2.27,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/metrika/advert.gif",
+"type": "image"
+},
+{
+"t": 2.27,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/3",
+"type": "fetch"
+},
+{
+"t": 2.28,
+"host": "static.dzeninfra.ru",
+"url": "https://static.dzeninfra.ru/s3/zen-apps/mailru-morda-desktop/1.159.0/loader.modern.bundle.js",
+"type": "script"
+},
+{
+"t": 2.32,
+"host": "trk.mail.ru",
+"url": "https://trk.mail.ru/i/jlsxn4",
+"type": "image"
+},
+{
+"t": 2.32,
+"host": "trk.mail.ru",
+"url": "https://trk.mail.ru/i/f0dxi9",
+"type": "image"
+},
+{
+"t": 2.32,
+"host": "trk.mail.ru",
+"url": "https://trk.mail.ru/i/koydy6",
+"type": "image"
+},
+{
+"t": 2.32,
+"host": "trk.mail.ru",
+"url": "https://trk.mail.ru/i/z1q4a7",
+"type": "image"
+},
+{
+"t": 2.32,
+"host": "trk.mail.ru",
+"url": "https://trk.mail.ru/i/sccve9",
+"type": "image"
+},
+{
+"t": 2.32,
+"host": "trk.mail.ru",
+"url": "https://trk.mail.ru/i/k9iu14",
+"type": "image"
+},
+{
+"t": 2.32,
+"host": "trk.mail.ru",
+"url": "https://trk.mail.ru/i/v6h9q7",
+"type": "image"
+},
+{
+"t": 2.32,
+"host": "trk.mail.ru",
+"url": "https://trk.mail.ru/i/whc548",
+"type": "image"
+},
+{
+"t": 2.35,
+"host": "privacy-cs.mail.ru",
+"url": "https://privacy-cs.mail.ru/fp/",
+"type": "fetch"
+},
+{
+"t": 2.35,
+"host": "yandex.ru",
+"url": "https://yandex.ru/clck/click",
+"type": "ping"
+},
+{
+"t": 2.4,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/api/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/get/",
+"type": "fetch"
+},
+{
+"t": 2.4,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/api/v1.0/mix/de0dcfd1-2565-5dfa-a4b9-8db2a734ce43/get/",
+"type": "fetch"
+},
+{
+"t": 2.41,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/static/motion_lib.js",
+"type": "script"
+},
+{
+"t": 2.41,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/system/context.js",
+"type": "script"
+},
+{
+"t": 2.41,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/17/3F887A.js",
+"type": "script"
+},
+{
+"t": 2.41,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyDvRqGFxAQAA_LP_JdfDa_Wd02ibEOp_12qCWd9o9qCKOHMCIT1efpYGVY3L8MxWiXjhuo6Spz9824Js4sPrSI2DElKJ3hFhOWR",
+"type": "image"
+},
+{
+"t": 2.41,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyDwjP35mAQAAC_TI8iF7zE78dGztxiP9IuCaXMSYO-O6xAk8rgTGJQZkbwNQljsjKCPMrzHzOC9AJpxgwgN1_oOqlj2Khj4BOxx",
+"type": "image"
+},
+{
+"t": 2.41,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d187286362.gif",
+"type": "image"
+},
+{
+"t": 2.41,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d167201948.gif",
+"type": "image"
+},
+{
+"t": 2.41,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/d27780713.gif",
+"type": "image"
+},
+{
+"t": 2.47,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/52/AC2547.css",
+"type": "stylesheet"
+},
+{
+"t": 2.47,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/83/F6B8B1.js",
+"type": "script"
+},
+{
+"t": 2.47,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_start_secondary",
+"type": "image"
+},
+{
+"t": 2.5,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/90635903",
+"type": "fetch"
+},
+{
+"t": 2.52,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_decide_secondary",
+"type": "image"
+},
+{
+"t": 2.55,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/libs/libs-edc4844f.js",
+"type": "script"
+},
+{
+"t": 2.55,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/2dd2aa8bf0395a74.js",
+"type": "script"
+},
+{
+"t": 2.55,
+"host": "yastatic.net",
+"url": "https://yastatic.net/s3/home/fonts/ys/3/text-variable-full.woff2",
+"type": "font"
+},
+{
+"t": 2.55,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/ccda57a5cd08eacf.js",
+"type": "script"
+},
+{
+"t": 2.55,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/013f01b9aa50bd9c.js",
+"type": "script"
+},
+{
+"t": 2.55,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/libs/libs_render-edc4844f.js",
+"type": "script"
+},
+{
+"t": 2.55,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/caa55605de161fb4.js",
+"type": "script"
+},
+{
+"t": 2.55,
+"host": "yastatic.net",
+"url": "https://yastatic.net/safeframe-bundles/0.89/host.js",
+"type": "script"
+},
+{
+"t": 2.55,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307422/820eca693e08f767.js",
+"type": "script"
+},
+{
+"t": 2.57,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_finish_secondary",
+"type": "image"
+},
+{
+"t": 2.58,
+"host": "resizer.mail.ru",
+"url": "https://resizer.mail.ru/p/1c542811-ff42-545a-b5bd-1c9c1faee135/AQAG9r20Pw2VtYpgkx8NmUmHlqrbQuxnhCLnyLLd4Tz76gFzAmTPs9PmqcxACFJS2FlafQ3GnvFiSeSGwt2dHJUuYh0.jpg",
+"type": "image"
+},
+{
+"t": 2.58,
+"host": "vk.ru",
+"url": "https://vk.ru/js/api/videoplayer.js",
+"type": "script"
+},
+{
+"t": 2.64,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/101292177/1",
+"type": "ping"
+},
+{
+"t": 2.67,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/F3/2971D1.js",
+"type": "script"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/de0dcfd1-2565-5dfa-a4b9-8db2a734ce43/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-142837-42-598-0nm12d-000.pms.mail.ru",
+"url": "https://a-142837-42-598-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/de0dcfd1-2565-5dfa-a4b9-8db2a734ce43/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-601683-5-595-0nm12d-000.pms.mail.ru",
+"url": "https://a-601683-5-595-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/de0dcfd1-2565-5dfa-a4b9-8db2a734ce43/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-72914561-8-587-0nm12d-000.pms.mail.ru",
+"url": "https://a-72914561-8-587-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/de0dcfd1-2565-5dfa-a4b9-8db2a734ce43/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-211172-9-422-0nm12d-000.pms.mail.ru",
+"url": "https://a-211172-9-422-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/de0dcfd1-2565-5dfa-a4b9-8db2a734ce43/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-601671-5-595-0nm12d-000.pms.mail.ru",
+"url": "https://a-601671-5-595-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-69234428-51-585-0nm12d-000.pms.mail.ru",
+"url": "https://a-69234428-51-585-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-72914948-6-575-0nm12d-000.pms.mail.ru",
+"url": "https://a-72914948-6-575-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-69234927-51-585-0nm12d-000.pms.mail.ru",
+"url": "https://a-69234927-51-585-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-72912928-7-588-0nm12d-000.pms.mail.ru",
+"url": "https://a-72912928-7-588-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-69649622-53-586-0nm12d-000.pms.mail.ru",
+"url": "https://a-69649622-53-586-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-72912818-6-1-0nm12d-000.pms.mail.ru",
+"url": "https://a-72912818-6-1-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-72914560-6-575-0nm12d-000.pms.mail.ru",
+"url": "https://a-72914560-6-575-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-69649621-53-586-0nm12d-000.pms.mail.ru",
+"url": "https://a-69649621-53-586-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-72915422-6-575-0nm12d-000.pms.mail.ru",
+"url": "https://a-72915422-6-575-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/pixel/v1.0/mix/a61b8dc1-fe4a-5cad-9164-9f499f8f1901/metric/",
+"type": "image"
+},
+{
+"t": 2.78,
+"host": "a-72913919-6-575-0nm12d-000.pms.mail.ru",
+"url": "https://a-72913919-6-575-0nm12d-000.pms.mail.ru/",
+"type": "image"
+},
+{
+"t": 2.79,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/ed/e3/ed6eb93aa966ee32.png",
+"type": "image"
+},
+{
+"t": 2.79,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/BD/5ECF37.svg",
+"type": "image"
+},
+{
+"t": 2.79,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/A6/8667DD.svg",
+"type": "image"
+},
+{
+"t": 2.79,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/c0/99/21c7efb396151278.png",
+"type": "image"
+},
+{
+"t": 2.86,
+"host": "dzen.ru",
+"url": "https://dzen.ru/api/web/v1/export",
+"type": "fetch"
+},
+{
+"t": 2.86,
+"host": "dzen.ru",
+"url": "https://dzen.ru/api/web/v1/common-data",
+"type": "fetch"
+},
+{
+"t": 2.86,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/public/api/videoplayer.d50210d2bf68b13264f1e9f0f810bb88.js",
+"type": "script"
+},
+{
+"t": 2.88,
+"host": "xray.mail.ru",
+"url": "https://xray.mail.ru/batch",
+"type": "xhr"
+},
+{
+"t": 2.91,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/443824",
+"type": "xhr"
+},
+{
+"t": 2.92,
+"host": "a.delivery.consentmanager.net",
+"url": "https://a.delivery.consentmanager.net/delivery/info/",
+"type": "image"
+},
+{
+"t": 2.93,
+"host": "cdn.consentmanager.net",
+"url": "https://cdn.consentmanager.net/delivery/img/logo1731576975x7335.gif",
+"type": "image"
+},
+{
+"t": 2.93,
+"host": "cdn.consentmanager.net",
+"url": "https://cdn.consentmanager.net/delivery/flags/de.gif",
+"type": "image"
+},
+{
+"t": 2.93,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/embed/embed.c83bf302.js",
+"type": "script"
+},
+{
+"t": 2.99,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 2.99,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 2.99,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyJOPCEx1AQAAkbkV_Xh3Dt1QkG4daG4Dph9IJ5FG9JfF5flB-lYE_D_Tv-H1eTOMhnlhSYasCqMrmDjdeC3XTFeBig1Sd06jhMp",
+"type": "image"
+},
+{
+"t": 2.99,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyKF-gFF1AQAAxIuO_ve1YzhOOC4vluC_kF2uRJ7Zt7lKjEId0Tpgf3I3Ca_XMVSRKVCPSpCc_yk-jpCMMY9tfjueRy1Cl1jo9lH",
+"type": "image"
+},
+{
+"t": 2.99,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/443824",
+"type": "xhr"
+},
+{
+"t": 2.99,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/443824",
+"type": "fetch"
+},
+{
+"t": 3.0,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/embed/embed.189754d3.js",
+"type": "script"
+},
+{
+"t": 3.04,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/443824",
+"type": "fetch"
+},
+{
+"t": 3.05,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 3.05,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyA9rfUhyAQAA0jYAnzvwUqAhw3jA_N4ZBpWnQDVRGw53I62i1llvXCfwjT4N6HwqiixcpcLcCdTlEQSV2aDOnmjMqzeZU66CUGn",
+"type": "image"
+},
+{
+"t": 3.05,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyIeArhByAQAAwb3cZVx3hQQE5wVOp_89WpooLDI6wJLdo3-nJgbg65KeOTWXMI9ZIPJMj3mAyQMhPX5ciUijTzp2tdUJPA1U_xF",
+"type": "image"
+},
+{
+"t": 3.05,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/443824",
+"type": "xhr"
+},
+{
+"t": 3.08,
+"host": "media-trend.mail.ru",
+"url": "https://media-trend.mail.ru/api/v1.0/mix/34cfadee-ec5e-56ff-b4f1-80a9692fd23b/get/",
+"type": "fetch"
+},
+{
+"t": 3.1,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/443824/1",
+"type": "ping"
+},
+{
+"t": 3.11,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 3.12,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyAsH4klyAQAA-zu-oOtUAVdJNzaSouoy3MdY6uE_4qBj3_WrMnRnrI6-knd7JrBjquk5uKWP3nKPDmmurli19lc4FMDF4RI8eN4",
+"type": "image"
+},
+{
+"t": 3.12,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyJTXTwpyAQAAfLVkdYFnuE81x-hfcCAqVKkgtAyvJg5skFMCZHeMxYeK2R1nljgYU9nXlarXg_9PbEpSk1lUb9Dg0OLu3yLu1nV",
+"type": "image"
+},
+{
+"t": 3.38,
+"host": "privacy-cs.mail.ru",
+"url": "https://privacy-cs.mail.ru/fp/",
+"type": "fetch"
+},
+{
+"t": 3.41,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyOrQK010AQAAjZQVxSrizDjM9t-eXU3sx7d7zaRtgTztkfR6Ce9Rnto0X35_Kk9B7XuUq5gZUQClLFv_NDct9Bw8ynmZFAYao6d",
+"type": "image"
+},
+{
+"t": 3.41,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/e167201948.gif",
+"type": "image"
+},
+{
+"t": 3.43,
+"host": "static.dzeninfra.ru",
+"url": "https://static.dzeninfra.ru/s3/zen-apps/mailru-morda-desktop/1.159.0/app.modern.bundle.js",
+"type": "script"
+},
+{
+"t": 3.43,
+"host": "static.dzeninfra.ru",
+"url": "https://static.dzeninfra.ru/s3/zen-apps/mailru-morda-desktop/1.159.0/app.modern.css",
+"type": "stylesheet"
+},
+{
+"t": 3.43,
+"host": "static.dzeninfra.ru",
+"url": "https://static.dzeninfra.ru/s3/zen-apps/video-player-core/1.151.0/one.modern.bundle.js",
+"type": "script"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/63/8e/d4b28cc0b905374f.svg",
+"type": "fetch"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/cf/aa/a8655ac54f10b068.svg",
+"type": "fetch"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/ee/63/84ed4e4a5ae73316.svg",
+"type": "fetch"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/b6/09/93a837dc06183017.svg",
+"type": "fetch"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/cf/e5/32db22916648f14d.svg",
+"type": "fetch"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/37/c0/ca37933876686dcd.svg",
+"type": "fetch"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/df/92/6fb16c27a25e2c38.svg",
+"type": "fetch"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/EC/85284F.woff2",
+"type": "font"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/32/E18AE4.woff2",
+"type": "font"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/9B/7002EA.woff2",
+"type": "font"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/85/9E13F5.woff2",
+"type": "font"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/41/F0F056.woff2",
+"type": "font"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/1B/179489.woff2",
+"type": "font"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/c6/36/f7dc300d8a328406.jpg",
+"type": "image"
+},
+{
+"t": 3.48,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/2a/38/fda5014ca5824c9a.svg",
+"type": "image"
+},
+{
+"t": 4.05,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyGmAhGt1AQAAKkX2tSvsTrXbqsO8bnBwV-WiaHbhrQ8mzpL9IUmvxNwmh2spPN8og8jzJ2acHqWYgEHDrC1Fo22DoGB6AZnx9Pk",
+"type": "image"
+},
+{
+"t": 4.23,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/246004/10147a45/xh",
+"type": "image"
+},
+{
+"t": 4.23,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_5a0b09f2a936f43df63f4406_6a03077cdd4d3d6963bec18f/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_5a8c10596104937f16a1fdcf_6a0b829cdd6a510670617c63/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/201842/pub_592d5eb48e557de2f707c343_5b06876a9d5cb36dc150e72b/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/1540393/pub_5935bc1cd7d0a62756e9cd78_5d6bc25a9515ee00ad018ce4/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_5ab8ee5d9e29a297ea3e1187_67bb2de4cb64550b9df19dfd/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_69ce7377417f475e9af5abda_69ce746c220ef60a4ae0df82/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_5fa2db4fb1a6d40e4ec5fda1_652eb8b6ec70fb565bdadad0/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_5d161300d7427500ad00430f_6822682cbb56bf0f1728aff3/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/1520972/pub_6230ddb4cb4c6f4a1510e1b2_6230df0b949d3664bd7800ec/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_5ac715f5dcaf8e9121c856a4_684bf6f0129ad457620065c1/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_62235ede78c7ec42f5506e2d_67869148acf1795aaed75ee8/xxh",
+"type": "image"
+},
+{
+"t": 4.24,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/static/ads-async.js",
+"type": "script"
+},
+{
+"t": 4.24,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/dist/vkAuth.html",
+"type": "document"
+},
+{
+"t": 4.3,
+"host": "531311.ms.dzen.ru",
+"url": "https://531311.ms.dzen.ru/",
+"type": "ping"
+},
+{
+"t": 4.3,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/js/dyn-goal-config.js",
+"type": "script"
+},
+{
+"t": 4.3,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/adp/",
+"type": "fetch"
+},
+{
+"t": 4.3,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 4.3,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 4.3,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 4.3,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 4.3,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/51446871",
+"type": "fetch"
+},
+{
+"t": 4.31,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyC79Cw5yAQAASxsRbrLkkjP4BvGyAsFZ4WkcU5lcP5qOQTDAmgfQmkrcfvnVJk62k7Zs0WkaBpumhuLT4y0vVE2Jv84HPAsaj9X",
+"type": "image"
+},
+{
+"t": 4.31,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyESADE1mAQAAJNYa-GtusaFzitJmV9d7taq-HwRXETT3ZEb8pVrbH1LN5mwoYNFvnK8KI2zr6OyqzV3pYsjrNdlF2IM5TxenOuz",
+"type": "image"
+},
+{
+"t": 4.35,
+"host": "vk.com",
+"url": "https://vk.com/js/api/openapi.js",
+"type": "script"
+},
+{
+"t": 4.36,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6ae070c08a6ed8654992dc4d_6ae070c06146595b7b5f8ff2/smart_crop_516x290",
+"type": "image"
+},
+{
+"t": 4.36,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6adeda578a6ed865498e2c5a_6adeda91fc1bff1f3063dac8/smart_crop_516x290",
+"type": "image"
+},
+{
+"t": 4.36,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/img/4B/B0F60A.js",
+"type": "script"
+},
+{
+"t": 4.37,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/51446871/1",
+"type": "ping"
+},
+{
+"t": 4.37,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/51446871/1",
+"type": "ping"
+},
+{
+"t": 4.44,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/dist/vkAuth.html",
+"type": "document"
+},
+{
+"t": 4.45,
+"host": "vk.com",
+"url": "https://vk.com/js/api/openapi.js",
+"type": "script"
+},
+{
+"t": 4.49,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyC_d4AhmAQAA0UEPRJsq4lIFIDC_PdGvHuE1V6N22N4jQYiMFyNTvuawDQ6OusytcoDdqrIqqJPgn2IlIhuoZ5PEXhsh9CRTFqH",
+"type": "image"
+},
+{
+"t": 4.5,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/adp/",
+"type": "fetch"
+},
+{
+"t": 4.51,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 4.51,
+"host": "vk.com",
+"url": "https://vk.com/dist/public/api/openapi.0872b5cf548850a00f9eb9dac3a9a0a4.js",
+"type": "script"
+},
+{
+"t": 4.58,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 4.58,
+"host": "vd463.okcdn.ru",
+"url": "https://vd463.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.58,
+"host": "vd331.okcdn.ru",
+"url": "https://vd331.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.58,
+"host": "vd748.okcdn.ru",
+"url": "https://vd748.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.59,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/da/a1/0262fecab3e4ac8f.jpg",
+"type": "image"
+},
+{
+"t": 4.59,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/f2/f5/2e90d730d77f048b.png",
+"type": "image"
+},
+{
+"t": 4.6,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/CoIICJ3q-3QQ1qTYggMdH2PkaiAwKAJIhQRQggRqgwMI7vpdFR9j5Gog9NO6ByidGTAQOI4BQID0-DVIrKXlVoUBFWAVKKAB1wKpAVYSVjAQG7o_ugEQIAEKYTo2aAEludAaGgnQWcAB_62zlw7QAQGdAgAAgD_oAryPjwXwAq3Rs0OIBdcCuAWAkJAB2gUA-AWFBJAG7LeDP5gGjgGoBgGYBx6oB90CsAcBsAkJuAnkvar-1_7WsY4B0AnLAdgJ9AOFCgAAgD-YCgGgCgH",
+"type": "image"
+},
+{
+"t": 4.6,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/2244944",
+"type": "fetch"
+},
+{
+"t": 4.61,
+"host": "vk.com",
+"url": "https://vk.com/dist/public/api/openapi.0872b5cf548850a00f9eb9dac3a9a0a4.js",
+"type": "script"
+},
+{
+"t": 4.62,
+"host": "login.vk.com",
+"url": "https://login.vk.com/",
+"type": "xhr"
+},
+{
+"t": 4.62,
+"host": "login.vk.com",
+"url": "https://login.vk.com/",
+"type": "xhr"
+},
+{
+"t": 4.64,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 4.65,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/f2/9a/7a9658d8ecfbfed1.jpg",
+"type": "image"
+},
+{
+"t": 4.65,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/e9/3a/c7eedcb8f5365eae.jpg",
+"type": "image"
+},
+{
+"t": 4.65,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/CsgHCL734nUQ1qTYggMdH2PkaiAwKAJIhQRQggRq9wII7vpdFR9j5Gog1aj8ByiPGTAQOGRA_vnoTUjYj-VWhQGRKAopoAHXAqkBVhJWMBAbuj-wAQG6ARAgAQphOjZoASW50BoaCdBZwAGW_M7DBNABAZ0CAACAP-gC7dT9EfACoa7hRogF1wK4BYCQkAHaBQD4BYUEkAbR3e4_mAZkqAboB5gHM6gHy_4CsAcBsAkJuAnkvar-1_7WsY4B0Alo2AmpkAOFCgAAgD-YCgG",
+"type": "image"
+},
+{
+"t": 4.66,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/2244944",
+"type": "fetch"
+},
+{
+"t": 4.71,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/95/e5/ae3ebd94142392a5.png",
+"type": "image"
+},
+{
+"t": 4.71,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/fb/03/e97b767a808c77fa.jpg",
+"type": "image"
+},
+{
+"t": 4.71,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/CuoHCLXGmHQQ1qTYggMdH2PkaiAwKAJIhQRQggRqhAMI7vpdFR9j5Gogw93TiAQonRkwEDhgQOW6sExIrKXlVoUBB_izKKAB1wKpAVYSVjAQG7o_sAECugEQIAEKYTo2aAEludAaGgnQWcAB0drl8AHQAQGdAgAAgD_oAtCl8hDwAqbkr0WIBdcCuAWAkJAB2gUA-AWFBJAG5-6oOZgGYKgGAZgHHqgH1coCsAcBsAkJuAnkvar-1_7WsY4B0Alg2AnVygKFCgAAgD-YCgG",
+"type": "image"
+},
+{
+"t": 4.71,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/adp/",
+"type": "fetch"
+},
+{
+"t": 4.71,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 4.72,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/2244944/1",
+"type": "ping"
+},
+{
+"t": 4.77,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 4.78,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/CogICJ3q-3QQwvu-vgUdH2PkaiAwKAJIhQRQggRqiQMI7vpdFR9j5Gog9NO6ByidGTAQOI4BQID0-DVIrKXlVoUBFWAVKKAB1wKpAcK9z1cAAz9kugEQIAEKYTo2aAEludAaGgnQWcAB_62zlw7QAQGdAgAAgD_oAryPjwXwAq3Rs0OIBdcCuAWAkJAB2gUA-AWFBJAG7LeDP5gGjgGoBgGYBx6oB90CsAcBsAkJuAnkvar-1_7WsY4B0AnLAdgJ9AOFCgAAgD-YCgGgCgH",
+"type": "image"
+},
+{
+"t": 4.83,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 4.84,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/f5/9a/acee575fcb6d7196.jpg",
+"type": "image"
+},
+{
+"t": 4.84,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/Cs4HCL734nUQwvu-vgUdH2PkaiAwKAJIhQRQggRq_QII7vpdFR9j5Gog1aj8ByiPGTAQOGRA_vnoTUjYj-VWhQGRKAopoAHXAqkBwr3PVwADP2SwAQG6ARAgAQphOjZoASW50BoaCdBZwAGW_M7DBNABAZ0CAACAP-gC7dT9EfACoa7hRogF1wK4BYCQkAHaBQD4BYUEkAbR3e4_mAZkqAboB5gHM6gHy_4CsAcBsAkJuAnkvar-1_7WsY4B0Alo2AmpkAOFCgAAgD-YCgG",
+"type": "image"
+},
+{
+"t": 4.89,
+"host": "ad.mail.ru",
+"url": "https://ad.mail.ru/adp/",
+"type": "fetch"
+},
+{
+"t": 4.9,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 4.9,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/ee/00/af9d0be064ebcd88.png",
+"type": "image"
+},
+{
+"t": 4.9,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/6e/c7/cf952bc45e0d127b.jpg",
+"type": "image"
+},
+{
+"t": 4.9,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/CvUHCInsrnIQwvu-vgUdH2PkaiAwKAJIhQRQggRqigMI7vpdFR9j5Gog26muCiidGTAQOD1Aj4DfSkispeVWhQHkkY4ooAHXAqkBwr3PVwADP2SwAQK6ARAgAQphOjZoASW50BoaCdBZwAGzlsLYD9ABAZ0CAACAP-gCrM_SD_ACjZyFRYgF1wK4BYCQkAHaBQD4BYUEkAbq8YUfmAY9qAYBmAceqAfwTbAHAbAJCbgJ5L2q_tf-1rGOAdAJPdgJ8E2FCgAAgD-YCgGgCgH",
+"type": "image"
+},
+{
+"t": 4.92,
+"host": "vd463.okcdn.ru",
+"url": "https://vd463.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.92,
+"host": "vd463.okcdn.ru",
+"url": "https://vd463.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.92,
+"host": "vd331.okcdn.ru",
+"url": "https://vd331.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.92,
+"host": "vd331.okcdn.ru",
+"url": "https://vd331.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.92,
+"host": "vd748.okcdn.ru",
+"url": "https://vd748.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.92,
+"host": "vd748.okcdn.ru",
+"url": "https://vd748.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.96,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 4.97,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/74/4b/5b1058364517860a.png",
+"type": "image"
+},
+{
+"t": 4.97,
+"host": "r.mradx.net",
+"url": "https://r.mradx.net/imgs/b9/fb/2d5b3ab5c781ae92.jpg",
+"type": "image"
+},
+{
+"t": 4.97,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/CvMHCML832gQ0pyJqwEdH2PkaiAwKAJIhQRQgQRqggMI7vpdFR9j5Gogq-DPDSiPGTAQOHBAr5fkPkjYj-VWhQHiWBApoAHXAqkBUk5iFeONrAO6ARAgAQphOjZoASW50BoaCdBZwAGuyLHqDtABAZ0CX65RP-gCxuvdCPACjO7WOIgF1wK4BYCQkAHaBQD4BYUEkAaK0sY5mAZwqAboB5gHM6gHr5MCsAcBsAkJuAnkvar-1_7WsY4B0AmgAdgJsYkDhQoAAIA_mAoBoAo",
+"type": "image"
+},
+{
+"t": 4.98,
+"host": "vd463.okcdn.ru",
+"url": "https://vd463.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.98,
+"host": "vd331.okcdn.ru",
+"url": "https://vd331.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 4.99,
+"host": "vd748.okcdn.ru",
+"url": "https://vd748.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 5.0,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyAyOHwx1AQAAMk1eqaVDD_gqKacqvY1trAniZ4G0i81H1zhLNVzt9A6zOdQhAEP-ObKhR882JP9T1ojtMEvAhd-P-lus3kB_HML",
+"type": "image"
+},
+{
+"t": 5.0,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyPd6dlp1AQAAPSMh71stNfWMQZG05ZAFW_t6smgTtVapaACNMjQzN7m2vBk32W3WSTG9QNgoQNW0B2rSXcCoiocXc_nOLG42BGs",
+"type": "image"
+},
+{
+"t": 5.02,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 5.03,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/200214/pub_5a5f38fe8651654b9a6886c8_5aeb7485799d9d0760152ea6/xxh",
+"type": "image"
+},
+{
+"t": 5.04,
+"host": "vd463.okcdn.ru",
+"url": "https://vd463.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 5.05,
+"host": "vd331.okcdn.ru",
+"url": "https://vd331.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 5.05,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 5.06,
+"host": "vd748.okcdn.ru",
+"url": "https://vd748.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 5.08,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyIQtdWByAQAAnWHwVMis-TdmDiCH2Gl0WCxK1w9089KZ7TxwpIpFGGDKWLJX6dzKr4IelXA8p__KYMSP75og732FQUTNBZ6EKsX",
+"type": "image"
+},
+{
+"t": 5.08,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/AAD1_wEVUlfmju8h2xsi8-MMjapisjIi_p9XrTfo1-TkHPig_UjBcUD1L4SSCFvu3PD6zjGm9W6pT0xJN-XrdM0tzkOID3LSRCGKf5wfUIGiWetrsLBWHQ7jJ2jVIpZ2tSx0xa78qnso9bKcocSFc6c76UW8XSdfUgBjsUx5fRf61fYoyDTfYWJyAQAApro3R7cNSfasorvupDSGcbpGqSEm9MZFAAWtqs9Qk5SkY9PJzWtbq1QFIl5oyruKvFUEu3BHOjNrcHsQ0ocYZO4",
+"type": "image"
+},
+{
+"t": 5.1,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 5.11,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/200214/pub_6239d676d5ea1d20aaf3f9b3_623ae3d45bc8be26a23cf763/xxh",
+"type": "image"
+},
+{
+"t": 5.17,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 5.17,
+"host": "rs.mail.ru",
+"url": "https://rs.mail.ru/pixel/CvUHCML832gQw6HAgAMdH2PkaiAwKAJIhQRQgQRqhAMI7vpdFR9j5Gogq-DPDSiPGTAQOIoBQK-X5D5I2qnAVoUB4lgQKaAB1wKpAcMQEDCi0tphugEQIAEKYTo2aAEludAaGgnQWcABrsix6g7QAQGdAleuUT_oAsbr3QjwAozu1jiIBdcCuAWAkJAB2gUA-AWFBJAGitLGOZgGigGoBugHmAczqAfI0QKwBwGwCQm4CeS9qv7X_taxjgHQCcQB2Amf4gOFCgAAgD-YCgG",
+"type": "image"
+},
+{
+"t": 5.23,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/meta/2244944",
+"type": "xhr"
+},
+{
+"t": 5.24,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_5d418f91ec575b00acbea06f_698e2eae6268636ae080fadd/xxh",
+"type": "image"
+},
+{
+"t": 5.25,
+"host": "vd331.okcdn.ru",
+"url": "https://vd331.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 5.3,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_5a94104ead0f22294861031b_6a0ad9f41563b5370f0e7797/xxh",
+"type": "image"
+},
+{
+"t": 5.3,
+"host": "stats.dzen.ru",
+"url": "https://stats.dzen.ru/api/v4/pulse/stats/bulk",
+"type": "fetch"
+},
+{
+"t": 5.32,
+"host": "vd463.okcdn.ru",
+"url": "https://vd463.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 5.32,
+"host": "vd748.okcdn.ru",
+"url": "https://vd748.okcdn.ru/",
+"type": "fetch"
+},
+{
+"t": 6.18,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 6.67,
+"host": "xray.mail.ru",
+"url": "https://xray.mail.ru/update",
+"type": "image"
+},
+{
+"t": 12.67,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 12.67,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 12.67,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 12.67,
+"host": "avatars.dzeninfra.ru",
+"url": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6aded76dce01851f3b9cde4e_6aded76d28c5732813629531/smart_crop_516x290",
+"type": "image"
+},
+{
+"t": 12.68,
+"host": "yandex.ru",
+"url": "https://yandex.ru/clck/click",
+"type": "ping"
+},
+{
+"t": 12.68,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 12.68,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 12.68,
+"host": "telemetry.dzen.ru",
+"url": "https://telemetry.dzen.ru/batchLogHandle",
+"type": "fetch"
+},
+{
+"t": 12.68,
+"host": "telemetry.dzen.ru",
+"url": "https://telemetry.dzen.ru/batchLogHandle",
+"type": "fetch"
+},
+{
+"t": 12.68,
+"host": "telemetry.dzen.ru",
+"url": "https://telemetry.dzen.ru/batchLogHandle",
+"type": "fetch"
+},
+{
+"t": 14.78,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 14.96,
+"host": "portal.mail.ru",
+"url": "https://portal.mail.ru/NaviData",
+"type": "fetch"
+},
+{
+"t": 14.96,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/51446871/1",
+"type": "ping"
+},
+{
+"t": 14.96,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/clmap/101292177",
+"type": "fetch"
+},
+{
+"t": 14.96,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/clmap/51446871",
+"type": "fetch"
+},
+{
+"t": 14.96,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 14.97,
+"host": "yandex.ru",
+"url": "https://yandex.ru/clck/counter",
+"type": "ping"
+},
+{
+"t": 14.97,
+"host": "cdn.consentmanager.net",
+"url": "https://cdn.consentmanager.net/delivery/js/modules/display_custom.min.js",
+"type": "script"
+},
+{
+"t": 15.97,
+"host": "xray.mail.ru",
+"url": "https://xray.mail.ru/batch",
+"type": "xhr"
+},
+{
+"t": 15.97,
+"host": "mail.ru",
+"url": "https://mail.ru/api/v1/utils/xray/batch",
+"type": "xhr"
+},
+{
+"t": 16.12,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/51446871/1",
+"type": "ping"
+},
+{
+"t": 16.12,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/clmap/101292177",
+"type": "fetch"
+},
+{
+"t": 16.12,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/clmap/51446871",
+"type": "fetch"
+},
+{
+"t": 16.12,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 20.13,
+"host": "a.delivery.consentmanager.net",
+"url": "https://a.delivery.consentmanager.net/delivery/consent.php",
+"type": "image"
+},
+{
+"t": 20.13,
+"host": "a.delivery.consentmanager.net",
+"url": "https://a.delivery.consentmanager.net/delivery/info/",
+"type": "image"
+},
+{
+"t": 20.13,
+"host": "yandex.ru",
+"url": "https://yandex.ru/clck/click",
+"type": "ping"
+}
+]

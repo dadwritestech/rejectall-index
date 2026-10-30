@@ -1,0 +1,106 @@
+{
+  "domain": "pki.goog",
+  "url": "https://pki.goog/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://pki.goog/",
+  "accept_clicks": 1,
+  "reject_clicks": null,
+  "reject_second_layer": true,
+  "reject_path": "none_found",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": true,
+  "llm_calls": [
+    {
+      "model": "gemma-4-12b",
+      "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Learn more\n1: OK, got it\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+      "answer": "```json\n{\"accept\": 1, \"reject\": null, \"settings\": 0}\n```",
+      "error": null,
+      "ms": 2979,
+      "layer": 1,
+      "result": {
+        "a1f0-1": "accept",
+        "a1f0-0": "settings"
+      }
+    },
+    {
+      "model": "gemma-4-12b",
+      "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Learn more\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+      "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": 0}\n```",
+      "error": null,
+      "ms": 3049,
+      "layer": 2,
+      "result": {
+        "b10f0-0": "settings"
+      }
+    }
+  ],
+  "pre_consent_trackers": [
+    {
+      "domain": "google-analytics.com",
+      "entity": "Google",
+      "category": "Analytics",
+      "requests": 3
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "llm_located": [
+    "settings"
+  ],
+  "banner_text": "This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. Learn more OK, got it",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "OK, got it",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Learn more",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    }
+  ],
+  "layer2": [
+    {
+      "text": "OK, got it",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:b10f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Learn more",
+      "role": null,
+      "frame": 0,
+      "group": "0:b10f0-g0",
+      "overlay": true
+    }
+  ],
+  "preticked_hidden": 0,
+  "pre_consent_requests": 24,
+  "first_click_t": 11.4,
+  "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg"
+  ],
+  "events": [
+    {
+      "t": 11.4,
+      "event": "click",
+      "why": "open_settings",
+      "text": "Learn more",
+      "id": "a1f0-0",
+      "result": "ok"
+    }
+  ]
+}

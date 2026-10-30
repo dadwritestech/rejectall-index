@@ -1,0 +1,38 @@
+{
+  "domain": "vimeo.com",
+  "url": "https://vimeo.com/",
+  "status": "no_banner",
+  "reason": "no consent buttons found (consent-like overlay seen)",
+  "final_url": "https://vimeo.com/",
+  "accept_clicks": null,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": null,
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": true,
+  "llm_calls": [
+    {
+      "model": "gemma-4-12b",
+      "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Video player Completely customizable\n1: Record Capture and share quickly\n2: Video editor Fast, simple, in-browser editing\n3: Video maker No experience required\n4: Vimeo AI Smart editing and translation\n5: Analytics Track engagement data\n6: Integrations Connect your favorite tools\n7: Vimeo Review update New Get faster, clearer feedback\n8: Vimeo Streaming is here Build your streaming service\n9: Premiere Pro integration Make editing faster\n10: Best of the Year See the must-watch shorts\n11: Video library Organize content securely\n12: Webinars Host live or pre-recorded\n13: Live streaming Broadcast to global audiences\n14: Vimeo On Demand List your videos for sale\n15: Vimeo Streaming Launch a subscription service\n16: See all features\n17: Video pros\n18: Marketing teams\n19: Communications teams\n20: L&D leaders\n21: Content businesses\n22: Small businesses\n23: Educators\n24: Retail\n25: Tech / SaaS\n26: Financial services\n27: See all use cases\n28: Translate audio and captions Save time and money on localiza\n29: Overview\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+      "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": null}\n```",
+      "error": null,
+      "ms": 3043,
+      "layer": 1,
+      "result": {}
+    }
+  ],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "llm_located": [],
+  "pre_consent_requests": 176,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

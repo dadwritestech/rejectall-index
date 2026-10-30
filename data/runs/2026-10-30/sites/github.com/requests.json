@@ -1,0 +1,998 @@
+[
+{
+"t": 0.0,
+"host": "github.com",
+"url": "https://github.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "github.com",
+"url": "https://github.com/",
+"type": "document"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/react-fa5e2e82e6e0ecc0.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/react-compiler-runtime-4610bd6d3de9c049.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/scheduler-58b860b049ca307c.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/react-dom-c7f52540bb6b77ed.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/react-dom-client-35b308126995de85.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/react-is-e0b593954b4706d8.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/react-jsx-runtime-4915cb0f5b3aff04.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/react-reconciler-8e99e505c4429605.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/global-banner-disable-750ad87f36b8e45f.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/MonaSansVF-wdth-wght-opsz-7a868ff47c93bd97.woff2",
+"type": "font"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/light-3a3d2c708970e4e8.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/light_high_contrast-9c7b506bdc5ea73f.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/dark-c9dacb4ec19616db.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/dark_high_contrast-5ef38214a3eabc7d.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/primer-primitives-02e066689466a8cd.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/primer-38ae573fa780d76a.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/global-b577b4b65d1381c3.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/github-11ab453cdcc1b7c1.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/marketing-4224c29902ac973c.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/home-6e1ba190d2b41fdf.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/high-contrast-cookie-141c17800ca6ba23.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/wp-runtime-b5cf65f2abc133eb.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/app-foundation-5ad27e19be4108fc.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/app-runtime-5a1e338d7e7640f7.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/fetch-utilities-27ed50f7568a5f72.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/ser-2defe2918d9c9884.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/environment-50742f037d542dd9.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/app-runtime.906ab08edd951875.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/catalyst-5bc36fa5a846f5a0.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/selector-observer-7ae05416e4a383ae.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/relative-time-element-a7b7e0f1360ca8f9.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/by4-04f0d28829dc4df0.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/ja9-b94de714266ba389.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/3h2-5f8899065b81d778.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/t2-19741658de225445.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/z8j-d8f6fa7339115370.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/hjg-55b6d77c48226433.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/wc-9718c61e184d7417.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/github-elements-e5d856c415c778b6.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/element-registry-8be60aa9743df1d8.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/runtime-helpers-26f2970b9e869a17.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/aria-live-edd851c704c6b3ca.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/hotkey-a82e6cb07443fd1c.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/react-core-42187993590d61e8.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/cc-99eedace671eb2b6.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/urv-453c749eec9d7d37.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/4t6-8cce817ba1c78415.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/pb0-3a1794e99794195c.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/6n-e6e586acca87c769.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/zj-8d62ed720b193a80.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/9k-61aac4114bea1502.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/0r-4a2b771052825f69.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/ow-98d10140e8228c74.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/mv1-7b21be52cdd60fa5.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/eou-b91079b9ea7074de.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/eon-36af335a1906af16.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/yga-dd50cf95593467fe.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/behaviors-df09aa14756ae41c.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/react-core.73094089423e6750.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/mo-9777dba6cd4f21c4.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/marketing-essentials-7d61e018adeccef0.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/primer-react-911369ee234690ef.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/nc-28ebfc8e58bca42f.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/qmp-308230626a2aedb0.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/t7l-423469c05c948a8b.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/4u-bf6e08201764cb0a.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/nsj-b68fcdbb199cc0f2.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/sa-9d3fd8dc50445dcd.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/a3k-0be241c44f898837.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/t1r-78f6e763b87e5392.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/tjn-fb416006b72cca43.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/h3j-9cb42e7fadf1869c.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/qz-3de0b6ee8ce979cd.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/97-0cac04fbfd3179b0.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/fz-cb55e83c29d0a351.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/ov-190f1353a43af7cc.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/hlz-df62ad90a4c87452.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/d8-c4cb62f1d8945e61.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/03-4c0887d9049033a4.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/p0-195911319a32faa7.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/rx-f78383c87a34d6f8.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/yox-0485f4e4807d6378.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/g0-73129ffe165d9c38.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/g4-05e4d33e43f27775.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/zxp-49e2cabee2a05eef.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/yg2-1ef73bfd680141dc.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/h4-5f55e06e297293d6.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/4n-238cbb1b0ace525d.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/d3-c94d6f288141aaba.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/l30-c6a165b3d93ae953.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/ls-7aa5f1da17abe9e1.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/landing-pages-ae6a26a9196d03ff.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/primer-react-css.5c285cfb9886ddbc.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/primer-react-brand-css.bf4feb030857a64b.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/landing-pages.d46c0e6f649bf4b3.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/gw-4bf343b417f9ec19.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/9m-6b203be6a68b3fa3.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/keyboard-shortcuts-dialog-9824b6c7c4cb6d06.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/keyboard-shortcuts-dialog.dcb9b68e16766b9b.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/ff-aede63d7b993174f.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/marketing-global-banner-16cf5afdb974e238.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/marketing-global-banner.78893da7e275722a.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/g6m-c6c2e85d4cbe6e0f.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/app-install-banner-partial-29423a66652e18d6.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/app-install-banner-partial.5cc36b2f0a94926b.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/skl-90fea02d318d647f.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/z7-54a4e2eade1aa26b.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/a6j-b220084b9f4f7387.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/marketing-header-4bfb054735611345.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/a6j.7ba30aa85251a62f.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/platform-4ce65ae0bf273ce2.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/platform-dark-ac89fbf373737ed3.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/copilot-e2b89335a66dba00.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/copilot-dark-2b28403b6080e898.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/changelog-fd687bff072883b0.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/changelog-dark-b1c25ae971bd641b.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/universe-a98cd54821b27569.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-9ccb55275227c79b036824fc/b44aaf40a80735ae613a6db469af23c1/ducky-shadows.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/ducky-4e03ac3720f4beec.png",
+"type": "image"
+},
+{
+"t": 0.44,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/hiz-0c55010ddab90e83.js",
+"type": "script"
+},
+{
+"t": 0.45,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/e2h-961b8318c4566510.js",
+"type": "script"
+},
+{
+"t": 0.45,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/marketing-footer-793563931ff7b806.js",
+"type": "script"
+},
+{
+"t": 0.45,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/marketing-footer.d64da7c341a3642e.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.54,
+"host": "videos.ctfassets.net",
+"url": "https://videos.ctfassets.net/8aevphvgewt8/home2026-3dcc2aca8e40da43ab84976a/5f02591047cc01c623fc6f88cac45f04/hero-light.mp4",
+"type": "media"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-element-select-panel-1db988c3b2debb9f.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-element-toggle-switch-d84c21582809dda9.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-element-cookie-consent-link-42530d061f8f24aa.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-dg-9bfcf8075100cf89.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-element-fullstory-capture-15d50c217bc93073.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-element-ghcc-consent-47aaf7da7816fc53.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/kq9.0780a71d35d6daec.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-react-partial-app-install-banner-partial-ed58f1b49a2d8d01.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/u2l.83cda5ce515ce175.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-react-partial-keyboard-shortcuts-dialog-e779af1cc898552e.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/7gn.7bcdd4e1d96542d4.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-react-partial-marketing-footer-7d6fb2ccc544828f.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/xy.14039f328a5273a4.module.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-react-partial-marketing-global-banner-b959d69baa329334.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-react-partial-marketing-header-b4346dea7b2f491a.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/tile-gradient-1-67516fb57f624345.webp",
+"type": "image"
+},
+{
+"t": 0.69,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/tile-gradient-2-bd0a28f700770812.webp",
+"type": "image"
+},
+{
+"t": 0.69,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-54f60880b50fc4f3dd58664c/93f6ece677753bd92783c83be822c11a/customerStories-logo-1.png",
+"type": "image"
+},
+{
+"t": 0.69,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-ee80fe7e404e91c8cc36a694/305e5172e2be7c8f4fe892749b6ef1f7/customerStories-logo-2.png",
+"type": "image"
+},
+{
+"t": 0.69,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-83dad3db95e672cf42b0b8a7/257d4c955412f570cd0887fb6416807d/customerStories-logo-3.png",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/MonaSansMonoVF-wght-da74d51ce1316829.woff2",
+"type": "font"
+},
+{
+"t": 0.7,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/tile-gradient-2-032af4e10b4f5dad.webp",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/tile-gradient-1-655dba6cdcef3c96.webp",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-b17779d9c397600fd2e474ec/7e8d52a5198a249bb43e75264315aa46/features-platform-1-light.jpg",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-f082bde14020cf9a254ad301/0f22c55bd03d2a22e5d10a107ef6c7c3/features-platform-2-light.jpg",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-f219a9a3d6c0f82c274b944d/0488e71e548eb40d92d9c7b292cd9dd7/features-ways-1-light.jpg",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-61c861d0c7a42b13f4981b64/1a60f62c6288e7f6ae618bece2040871/features-ways-2-light.jpg",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-97ff6d5dfd5f804ef946a675/f9051d0f6efe4434bade3069f90cac92/features-ways-3-light.jpg",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-2c98518f2c8ea422543f56ce/ac6054119f458d4b6bd08c99c6587755/features-ways-4-light.jpg",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "images.ctfassets.net",
+"url": "https://images.ctfassets.net/8aevphvgewt8/home2026-db034294bf8407032fe99afb/23cd0cf4edbb35b07ae57d2b4aecbd77/features-ways-5-light.jpg",
+"type": "image"
+},
+{
+"t": 0.71,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/4f-27879163809787df.js",
+"type": "script"
+},
+{
+"t": 0.71,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-sma-cddba4abc05d31bb.js",
+"type": "script"
+},
+{
+"t": 0.77,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-lazy-element-webauthn-get-594ac3b363fd9c1e.js",
+"type": "script"
+},
+{
+"t": 0.91,
+"host": "collector.github.com",
+"url": "https://collector.github.com/github/collect",
+"type": "ping"
+},
+{
+"t": 6.91,
+"host": "github.com",
+"url": "https://github.com/manifest.json",
+"type": "manifest"
+},
+{
+"t": 6.91,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/mona-smile-ed98645af5c751ba.glb",
+"type": "fetch"
+},
+{
+"t": 6.91,
+"host": "api.github.com",
+"url": "https://api.github.com/_private/browser/stats",
+"type": "ping"
+},
+{
+"t": 6.91,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/ha8.d192592d456799cc.module.css",
+"type": "stylesheet"
+},
+{
+"t": 6.91,
+"host": "github.githubassets.com",
+"url": "https://github.githubassets.com/assets/chunk-ha8-c418947c40767c49.js",
+"type": "script"
+},
+{
+"t": 6.91,
+"host": "collector.github.com",
+"url": "https://collector.github.com/github/collect",
+"type": "ping"
+}
+]

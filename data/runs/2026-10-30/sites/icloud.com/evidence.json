@@ -1,0 +1,38 @@
+{
+  "domain": "icloud.com",
+  "url": "https://icloud.com/",
+  "status": "no_banner",
+  "reason": "no consent buttons found (consent-like overlay seen)",
+  "final_url": "https://www.icloud.com/",
+  "accept_clicks": null,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": null,
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": true,
+  "llm_calls": [
+    {
+      "model": "gemma-4-12b",
+      "prompt": "These are clickable labels from a website's cookie consent banner.\n0: Zur iCloud.com-Homepage wechseln\n1: Hilfe\nWhich index accepts all cookies, which rejects all non-essential cookies, and which opens cookie settings? Use null if none. Answer only JSON: {\"accept\": n|null, \"reject\": n|null, \"settings\": n|null}",
+      "answer": "```json\n{\"accept\": null, \"reject\": null, \"settings\": null}\n```",
+      "error": null,
+      "ms": 2936,
+      "layer": 1,
+      "result": {}
+    }
+  ],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "llm_located": [],
+  "pre_consent_requests": 28,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

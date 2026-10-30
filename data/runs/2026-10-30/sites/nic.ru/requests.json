@@ -1,0 +1,536 @@
+[
+{
+"t": 0.0,
+"host": "nic.ru",
+"url": "https://nic.ru/",
+"type": "document"
+},
+{
+"t": 6.31,
+"host": "nic.ru",
+"url": "https://nic.ru/",
+"type": "document"
+},
+{
+"t": 6.31,
+"host": "nic.ru",
+"url": "https://nic.ru/",
+"type": "document"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/",
+"type": "document"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/static/rcweb-styles-a4eacfcd1d89f07bc3c2.css",
+"type": "stylesheet"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/scripts/css/font-faces.css",
+"type": "stylesheet"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/scripts/external.bundle.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/scripts/internal.bundle.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/scripts/inform-notifications.bundle.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/scripts/upper-announcement.bundle.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.transfer-new-home.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.history-new-home.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.order-new-home.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.1-multi-attach-4.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.1-img-premtp.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.1-guard-new-home.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.1-sert-new-home.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.8-antivirus-new-home.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.1-icon-dns-new-home.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.1-1-icon-server.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.2-vector.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/static/rcweb-bundle-a4eacfcd1d89f07bc3c2.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "yastatic.net",
+"url": "https://yastatic.net/pcode/adfox/loader.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/web/payment-master/static/paymaster-loader.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "gbzu92.ru",
+"url": "https://gbzu92.ru/",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "image.sendsay.ru",
+"url": "https://image.sendsay.ru/js/target/tracking.js",
+"type": "script"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.promosection.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.386-289.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.19-10-26-386-289-.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.domain-spor.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.tdlcon-gl.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.fstek-glav.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.blog-isl-0109-386.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.dmi-blog-386-0308-1-press.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.386h289-blog-esia-14.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.kak-kompanii-provesti-kiberucheniya389.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/scripts/fonts/TT_Hoves_Pro_Variable.woff2",
+"type": "font"
+},
+{
+"t": 6.31,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/scripts/fonts/TT_Hoves_Pro_Medium.woff2",
+"type": "font"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/13.1.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.home-domain-bro-1.svg",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.cod-rc.png",
+"type": "image"
+},
+{
+"t": 6.31,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.533x330-shop-0408.png",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/metrika/tag.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/app/v1/get/notifications",
+"type": "fetch"
+},
+{
+"t": 6.32,
+"host": "yandex.ru",
+"url": "https://yandex.ru/ads/system/context.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/web/payment-master/static/rc-web-paymaster-bundle-916d41d7ed9e7d659d9f.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/web/payment-master/static/vendors-1c131bfd524f193c8d1d.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/web/payment-master/static/main-a8f634f69f84c6e12f47.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/web/payment-master/static/0.916d41d7ed9e7d659d9f.css",
+"type": "stylesheet"
+},
+{
+"t": 6.32,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/web/payment-master/static/2.916d41d7ed9e7d659d9f.css",
+"type": "stylesheet"
+},
+{
+"t": 6.32,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_check",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/metrika/advert.gif",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "hitcrypt.gbzu92.ru",
+"url": "https://hitcrypt.gbzu92.ru/",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "bonuscake.ru",
+"url": "https://bonuscake.ru/js/integration.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "rmetrics.ru",
+"url": "https://rmetrics.ru/script.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "hit.gbzu92.ru",
+"url": "https://hit.gbzu92.ru/nic/",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_start",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_decide",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.error-404.png",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/libs/libs-edc4844f.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307420/ca1f9038c70e9e80.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "yastatic.net",
+"url": "https://yastatic.net/s3/home/fonts/ys/3/text-variable-full.woff2",
+"type": "font"
+},
+{
+"t": 6.32,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307420/5a70879b5903c1be.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307420/d6d8e572ea116f43.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/libs/libs_render-edc4844f.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307420/42eda3c158651b45.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "yastatic.net",
+"url": "https://yastatic.net/safeframe-bundles/0.89/host.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "yastatic.net",
+"url": "https://yastatic.net/partner-code-bundles/1307420/b102988d22d91988.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.error-500.png",
+"type": "image"
+},
+{
+"t": 6.32,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/26218776",
+"type": "fetch"
+},
+{
+"t": 6.32,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/app/v1/user/get",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "www.nic.ru",
+"url": "https://www.nic.ru/web/bff/order/api/v5/cart/get",
+"type": "xhr"
+},
+{
+"t": 6.32,
+"host": "eventtrace.ru",
+"url": "https://eventtrace.ru/js/integration.js",
+"type": "script"
+},
+{
+"t": 6.32,
+"host": "bonuscake.ru",
+"url": "https://bonuscake.ru/retag",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/png/1.unavaliable-page.png",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/26218776/1",
+"type": "fetch"
+},
+{
+"t": 6.33,
+"host": "storage.nic.ru",
+"url": "https://storage.nic.ru/ru/images/svg/1.identitydigital.svg",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_check_secondary",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_start_secondary",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_decide_secondary",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_finish_secondary",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/metrika/tag_phone.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "eventtrace.ru",
+"url": "https://eventtrace.ru/retag",
+"type": "image"
+},
+{
+"t": 6.33,
+"host": "cdn.envybox.io",
+"url": "https://cdn.envybox.io/widget/cbk.css",
+"type": "stylesheet"
+},
+{
+"t": 6.33,
+"host": "cdn.envybox.io",
+"url": "https://cdn.envybox.io/widget/cbk.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "whitesaas.com",
+"url": "https://whitesaas.com/api",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "content.saas-support.com",
+"url": "https://content.saas-support.com/widget/build/boot.min.js",
+"type": "script"
+},
+{
+"t": 6.33,
+"host": "yandex.ru",
+"url": "https://yandex.ru/adfox/260122/getBulk/v2",
+"type": "xhr"
+},
+{
+"t": 6.33,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/26218776/1",
+"type": "ping"
+}
+]

@@ -1,0 +1,27 @@
+{
+  "domain": "ebay.com",
+  "url": "https://ebay.com/",
+  "status": "unmeasurable",
+  "reason": "bot wall: http 403",
+  "final_url": "https://www.ebay.com/",
+  "accept_clicks": null,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": null,
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 403,
+  "pre_consent_requests": 3,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

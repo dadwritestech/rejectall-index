@@ -1,0 +1,44 @@
+[
+{
+"t": 0.0,
+"host": "forbes.com",
+"url": "https://forbes.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "ct.captcha-delivery.com",
+"url": "https://ct.captcha-delivery.com/c.js",
+"type": "script"
+},
+{
+"t": 0.09,
+"host": "geo.captcha-delivery.com",
+"url": "https://geo.captcha-delivery.com/captcha/",
+"type": "document"
+},
+{
+"t": 0.15,
+"host": "static.captcha-delivery.com",
+"url": "https://static.captcha-delivery.com/captcha/assets/tpl/6dc485c0c428c35b53577b146dc6f9179f55ef9ad41b327a2a179998839364bf/index.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "static.captcha-delivery.com",
+"url": "https://static.captcha-delivery.com/common/fonts/roboto/font-face.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "static.captcha-delivery.com",
+"url": "https://static.captcha-delivery.com/captcha/assets/set/79f3f5447e634797ac2bed28cf809d467af52e1a/logo.png",
+"type": "image"
+},
+{
+"t": 0.18,
+"host": "static.captcha-delivery.com",
+"url": "https://static.captcha-delivery.com/common/fonts/roboto/roboto.woff2",
+"type": "font"
+}
+]

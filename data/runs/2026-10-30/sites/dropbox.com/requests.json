@@ -1,0 +1,1502 @@
+[
+{
+"t": 0.0,
+"host": "dropbox.com",
+"url": "https://dropbox.com/",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/",
+"type": "document"
+},
+{
+"t": 0.42,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/client",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "edge.cofra.me",
+"url": "https://edge.cofra.me/cf-static-cd9d8b3fe296.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/atlas_grotesk/AtlasGrotesk-Medium-Web-vfl38XiTL.woff2",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/atlas_grotesk/AtlasGrotesk-Regular-Web-vflk7bxjs.woff2",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/sharp_grotesk/SharpGroteskDBCyrBook20-vfl6-4ZSp.woff2",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/sharp_grotesk/SharpGroteskDBCyrMedium20-vflI3qtaE.woff2",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/sharp_grotesk_23/SharpGroteskDBCyrBook23-vflX-NIwB.woff2",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/fonts/sharpgrotesk/SharpGroteskDBMedium22-vflJ24ZPh.woff2",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/accessibility-vflIgmyfQ.css",
+"type": "stylesheet"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/tokens-vflJcC4hq.css",
+"type": "stylesheet"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-fonts/index.metaserver-vfl5iESyn.css",
+"type": "stylesheet"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-fonts/sharp_grotesk_23.metaserver-vflfbDsxO.css",
+"type": "stylesheet"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/font_sharp_grotesk-vflwgPRUu.scss",
+"type": "stylesheet"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/notify-vflC8Ebls.css",
+"type": "stylesheet"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/warp/skip_to_main_content-vflTjBUa3.css",
+"type": "stylesheet"
+},
+{
+"t": 0.42,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/index.web-vfl_vjVsv.css",
+"type": "stylesheet"
+},
+{
+"t": 0.51,
+"host": "edge.cofra.me",
+"url": "https://edge.cofra.me/api/v1/frames",
+"type": "fetch"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/font_paper_atlas_grotesk-vflz8hAHu.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/font_sharp_grotesk-vfl5HqCa_.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/js/styles/flip-icon-in-rtl.module.out-vfl23IWBx.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/js/ungated-file-app/src/components/file-input/index.module.out-vflY4y1Ks.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/js/warp/components/common/warp_navattic_tour_plank/navattic.module.out-vfl-egEH1.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/js/warp/components/dwg/dwg_marketo_form_plank/index.module.out-vflKALJqd.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/js/warp/components/dwg/dwg_pdf_conversion_plank/index.module.out-vfl3Y86sQ.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/js/warp/components/dwg/dwg_release_notes_plank/styles.module.out-vfl72agt9.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/js/warp/context/warp_context.module.out-vflyIPkeL.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-anchor-target/anchor-target.module.out-vfl9OQ69U.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-animated-ai-sparkle-icon/index.module.out-vflCWPD58.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-animated-paragraph/index.module.out-vflB-IPow.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-card/index.module.out-vflHlbPuI.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-cta-block/index.module.out-vflfJjs_m.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-cta-select/index.module.out-vflPqx20J.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-label/index.module.out-vfluuxnqu.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-nav-card/index.module.out-vfl9Z0ArH.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-pill/index.module.out-vfl1O9oP6.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-recommendation-pill/index.module.out-vflYL3vJI.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-rive/index.module.out-vflnQt09g.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/components/dwg-strikethrough-text/index.module.out-vflY4afkx.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/experimental/components/clickable-card/index.module.out-vflAFeP4A.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/experimental/components/horizontal-scroll/horizontal-scroll.module.out-vflQDdZxp.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/experimental/components/lightbox/lightbox.module.out-vfl7K-Oef.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/experimental/components/quote-card/index.module.out-vflWfFHzI.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/experimental/components/ticker/list-ticker/list-ticker.module.out-vfl9biCE3.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/experimental/components/ticker/logos-ticker/logos-ticker.module.out-vflZPIBKa.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/experimental/components/ticker/loop-ticker/loop-ticker.module.out-vflb24FhK.css",
+"type": "stylesheet"
+},
+{
+"t": 1.1,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/experimental/planks/section-wrapper-plank/index.module.out-vfls9B-nK.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/experimental/planks/security-plank/index.module.out-vfl6C5Qwu.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-article-hero-plank/index.module.out-vflRKto6X.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-banner-plank/index.module.out-vflB9kpmz.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-feature-highlight-plank/index.module.out-vfloS2_4H.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-headline-plank/index.module.out-vflpBb47N.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-hero-l3-plank/index.module.out-vflwuZPrQ.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-media-text-plank/index.module.out-vflNjRiXf.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-multi-column-plank/index.module.out-vflJkTVdn.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-nav-v2/index.module.out-vfl-4xC_0.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-nav-v2/nav-dropdown/index.module.out-vfl4ij_Uy.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-plan-cards-v2-plank/index.module.out-vfladK_98.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-promo-banner-plank/index.module.out-vflGX_xMH.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-rich-text-plank/index.module.out-vflcKvJvv.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-rive-plank/index.module.out-vflHiVa6d.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-segmentation-plank/index.module.out-vflpVJncC.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-susi-headline-plank/index.module.out-vflh_MFfK.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-table-of-contents-plank/index.module.out-vflqBbZag.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/planks/dwg-table-plank/index.module.out-vflWqahQH.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/utilities/flip-icon-in-rtl.module.out-vflHLikh0.css",
+"type": "stylesheet"
+},
+{
+"t": 1.11,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/typescript/component_libraries/dwg-components/src/utilities/scrollbar.module.out-vflaMhf3G.css",
+"type": "stylesheet"
+},
+{
+"t": 1.17,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/e_metaserver__static__js__warp__warp_page_edison-vfl7hMYjK.js",
+"type": "script"
+},
+{
+"t": 1.17,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/en-us/index/desktop-mobile-fss-1440x1440-de.png",
+"type": "image"
+},
+{
+"t": 1.41,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_initialization_cookies_check-vflT7uPyD.js",
+"type": "script"
+},
+{
+"t": 1.41,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_decimal_js_decimal-vflMu-LcU.js",
+"type": "script"
+},
+{
+"t": 1.41,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_formatjs_intl-displaynames_polyfill-force-vflVuquBe.js",
+"type": "script"
+},
+{
+"t": 1.41,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_warp_page_edison_rspb_langpacks_icu-de_json-vflJt2d5e.js",
+"type": "script"
+},
+{
+"t": 1.41,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_api_v2_unauthed_client-vflqKhbGg.js",
+"type": "script"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/Dropbox-logo-nav.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/replay-logo-nav.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/dropbox-sign-logo.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/reclaim-dbx-waffle-32x32.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/dash-logo-nav.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/DocSend-logo-nav.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/arrow_right.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/home-pg-logos/Katz.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/home-pg-logos/Zoom.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/home-pg-logos/Lincoln.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/home-pg-logos/McLaren.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/home-pg-logos/Crunch.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/home-pg-logos/Cirque.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/home-pg-logos/Hydro.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/images/dashweb/OpenAIDark.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/images/dashweb/Claude_AI_symbol.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/spark_4c.png",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/SpaceXAI-glyph-coconut-64x64.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/Muse-glyph-64px.svg",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/en-us/index/october-2025-launch/feature-plank-find/customerartifact-fashion-photo-2160x2160-de.png",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/en-us/index/october-2025-launch/feature-plank-find/dropbox-home-find-ui-transparent-2048x1280-v08-de.png",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/en-us/index/october-2025-launch/feature-plank-organize/customerartifact-mclaren-photo-1080x1080.png",
+"type": "image"
+},
+{
+"t": 1.45,
+"host": "fjord.dropboxstatic.com",
+"url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/en-us/index/october-2025-launch/feature-plank-organize/dropbox-home-organize-ui-transparent-2048x1280-v07-de.png",
+"type": "image"
+},
+{
+"t": 1.48,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_formatjs_intl-displaynames_locale-data_de-vflcv9G86.js",
+"type": "script"
+},
+{
+"t": 1.49,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/client_metrics/record",
+"type": "fetch"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_core_toast_toast_on_init-vflkeThx8.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/marketing_tracker.MarketingTrackerPrefetch/MarketingTrackerDataPrefetch",
+"type": "fetch"
+},
+{
+"t": 1.63,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/pithos.EdisonPrefetchService/PithosPrefetch",
+"type": "fetch"
+},
+{
+"t": 1.63,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/ux_analytics.UxAnalyticsEdisonServicer/UxAnalyticsFetch",
+"type": "fetch"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_typescript_dropbox_proto_edison_page_config_messages_pb-vflDpaOR7.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_edison_ui_component_privacy_consent-vflHgrBeK.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/google_one_tap-vflju1Jhj.css",
+"type": "stylesheet"
+},
+{
+"t": 1.63,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/localejs.LocaleJSService/FetchConstants",
+"type": "fetch"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_react-modal_lib-vflsnvQqP.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_dropbox_dig-components_dist_tooltips_index-vflTh6I4y.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_dropbox_dig-components_dist_truncate_index-vflXU3T-w.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_clean_ui_locale_selector_modal-vflXxQuue.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_node_modules_react-hookz_web_esm_useUnmountEffect_useUnmountEffect-node_modules_prop-types-a30f1d-vflk_Q5se.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/viewer.ViewerService/FetchViewer",
+"type": "fetch"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/index.web-vflapPfMd.css",
+"type": "stylesheet"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_node_modules_dropbox_dig-icons_dist_mjs-vfls3Kmrk.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_dropbox_dig-icons_dist_mjs_assets-vflWVPobB.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_node_modules_dropbox_dig-icons_dist_mjs_assets_pictogram_checkmark-circle-node_modules_dro-783df3-vflbgeONx.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_node_modules_prop-types-_14840-vfl461pNu.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_warp_utils_sprig_survey-vfl2n_g3D.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_warp_utils_campaigns-vflF1DdY5.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_js_edison_ui_component_dev_tools-vflCHnkBZ.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_edison_ui_component_marketing_contentsquare-vfl2ATwmD.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_edison_ui_component_marketing_clearbit_reveal-vfl-HjcYB.js",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_edison_ui_component_marketing_sixsense-vfl5ONUUV.js",
+"type": "script"
+},
+{
+"t": 1.65,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/components-vfl3badqC.css",
+"type": "stylesheet"
+},
+{
+"t": 1.65,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/legacy-token-migration-vfl1t1Ciz.css",
+"type": "stylesheet"
+},
+{
+"t": 1.65,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/logos-vfl9M7Xx_.css",
+"type": "stylesheet"
+},
+{
+"t": 1.65,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/icons-vflLThwyh.css",
+"type": "stylesheet"
+},
+{
+"t": 1.65,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/foundations-tokens-vflUzsrG6.css",
+"type": "stylesheet"
+},
+{
+"t": 1.65,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/foundations-components-vfl_MWpdX.css",
+"type": "stylesheet"
+},
+{
+"t": 1.65,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/content-icons-vflLHRRpk.css",
+"type": "stylesheet"
+},
+{
+"t": 1.65,
+"host": "aem.dropbox.com",
+"url": "https://aem.dropbox.com/cms/content/dam/dropbox/warp/en-us/index/october-2025-launch/feature-plank-find/dropbox-home-find-ui-transparent-1024x640-v08-de.webm",
+"type": "media"
+},
+{
+"t": 1.66,
+"host": "aem.dropbox.com",
+"url": "https://aem.dropbox.com/cms/content/dam/dropbox/warp/en-us/index/october-2025-launch/feature-plank-organize/dropbox-home-organize-ui-transparent-1138x640-v07-de.webm",
+"type": "media"
+},
+{
+"t": 1.66,
+"host": "aem.dropbox.com",
+"url": "https://aem.dropbox.com/cms/content/dam/dropbox/warp/en-us/index/october-2025-launch/feature-plank-share/dropbox-home-share-ui-transparent-1024x640-v07-de.webm",
+"type": "media"
+},
+{
+"t": 1.66,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/signup_signin.GoogleOneTapPrefetch/GoogleOneTapFetch",
+"type": "fetch"
+},
+{
+"t": 1.66,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/abuse/fingerprintjs_component-vflXE59L4.css",
+"type": "stylesheet"
+},
+{
+"t": 1.67,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/fingerprintjs.FingerPrintJSService/FetchConstants",
+"type": "fetch"
+},
+{
+"t": 1.67,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_fingerprintjs_fpjs-pro-static_dist_fp_esm_min-vfla8UhVO.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/pithos/api_helper_validation,zoom_chat_client",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_ux_analytics_www_init-vflQaMIQL.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "marketing.dropbox.com",
+"url": "https://marketing.dropbox.com/",
+"type": "document"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_ts-key-enum_dist_js_Key_enum-vflRIrpQh.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_lodash-es__MapCache-node_modules_lodash-es_isSymbol-vflR1P4cY.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_lodash-es__SetCache-node_modules_lodash-es__baseKeys-node_modules_-cf3c2d-vfl14MVFj.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_dropbox_dig-icons_dist_mjs_assets_ui-icon_line_person-multiple-node_m-9fe43a-vflvP5nUM.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_prop-types-node_modules_react-error-boundary_dist_react-error-b-e02b0c-vflkTrKUB.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_components_ui_modal-vflmAWSfh.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_js_filepath_filepath-js_growth-components_trial-cards_trial-comparison-card_types-metas-4776b7-vflH2g935.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_campaigns_api-metaserver_static_js_campaigns_campaign_formats_link_ca-2e351e-vflxXvkkF.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_typescript_libraries_api_v2_routes_team_formation_provider-metaserver_static_js_cam-d652bd-vflml98oy.js",
+"type": "script"
+},
+{
+"t": 1.72,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_campaigns_campaigns_toolkit_client-vfl3nzEsb.js",
+"type": "script"
+},
+{
+"t": 1.75,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/campaigns_toolkit/get_best_campaigns_for_user",
+"type": "fetch"
+},
+{
+"t": 1.77,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/pro_events",
+"type": "fetch"
+},
+{
+"t": 1.77,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/pro_events",
+"type": "fetch"
+},
+{
+"t": 1.77,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/pro_events",
+"type": "fetch"
+},
+{
+"t": 1.77,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/pro_events",
+"type": "fetch"
+},
+{
+"t": 1.77,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/pro_events",
+"type": "fetch"
+},
+{
+"t": 1.77,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/pro_events",
+"type": "fetch"
+},
+{
+"t": 1.82,
+"host": "fp.dropbox.com",
+"url": "https://fp.dropbox.com/CrbU/a8tlQRW/kdnryYu/iOjwI",
+"type": "xhr"
+},
+{
+"t": 1.95,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/pithos/host%3Awww.dropbox.com/api_helper_validation%2Czoom_chat_client",
+"type": "script"
+},
+{
+"t": 1.95,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 1.96,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_react-transition-group_esm_CSSTransition-vflos67zx.js",
+"type": "script"
+},
+{
+"t": 1.96,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_ungated_idx_db_access_lib-vflZrwfEX.js",
+"type": "script"
+},
+{
+"t": 1.96,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_google_one_tap_google_one_tap_platform-vfly5G94B.js",
+"type": "script"
+},
+{
+"t": 1.96,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_node_modules_prop-types-node_modules_react-transition-group_esm_TransitionGroupConte-7df115-vflwTQm4b.js",
+"type": "script"
+},
+{
+"t": 1.98,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/style",
+"type": "stylesheet"
+},
+{
+"t": 1.98,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/status",
+"type": "xhr"
+},
+{
+"t": 2.02,
+"host": "google.com",
+"url": "https://google.com/.well-known/web-identity",
+"type": "other"
+},
+{
+"t": 2.02,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/fedcm/config/passive.json",
+"type": "other"
+},
+{
+"t": 2.04,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 2.09,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/pithos/marketing_tracker_service",
+"type": "script"
+},
+{
+"t": 2.11,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/fedcm/listaccounts",
+"type": "other"
+},
+{
+"t": 2.16,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/pithos/api_helper_validation.bundle-vflVFcWKN.js",
+"type": "script"
+},
+{
+"t": 2.16,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/pithos/zoom_chat_client.bundle-vflnSv2tC.js",
+"type": "script"
+},
+{
+"t": 2.18,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/pithos_api_helper_validation",
+"type": "xhr"
+},
+{
+"t": 2.18,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/blocked",
+"type": "xhr"
+},
+{
+"t": 2.25,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/pithos/host%3Amarketing.dropbox.com/marketing_tracker_service",
+"type": "script"
+},
+{
+"t": 2.34,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/udcl/log_timing",
+"type": "fetch"
+},
+{
+"t": 2.46,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/pithos/marketing_tracker_service.bundle-vflqMrmgQ.js",
+"type": "script"
+},
+{
+"t": 2.48,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/alternate_wtl_browser_performance_info",
+"type": "xhr"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log_js_sw_data",
+"type": "xhr"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log_js_sw_data",
+"type": "xhr"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log_js_sw_data",
+"type": "xhr"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/alternate_wtl",
+"type": "xhr"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log_js_sw_data",
+"type": "xhr"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/privacy_consent_edison.PrivacyConsentPropsPrefetchService/PrivacyConsentPropsPrefetch",
+"type": "fetch"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/web_platform.WebPlatformEdisonFetch/EdisonDevToolsFetch",
+"type": "fetch"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/ccpa_iframe",
+"type": "document"
+},
+{
+"t": 8.69,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/ccpa_iframe/ccpa_iframe-vfl-GlrQL.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/index.web-vflapPfMd.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/tokens-vflJcC4hq.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/font_paper_atlas_grotesk-vflz8hAHu.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/maestro_appshell_styles-vfl9ARmvD.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/maestro_layout-vflQg4C_g.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/components-vfl3badqC.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/legacy-token-migration-vfl1t1Ciz.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/logos-vfl9M7Xx_.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/icons-vflLThwyh.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/foundations-tokens-vflUzsrG6.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/foundations-components-vfl_MWpdX.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/css/dig-components/content-icons-vflLHRRpk.css",
+"type": "stylesheet"
+},
+{
+"t": 8.69,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/privacy_consent/ccpa_iframe_rspb_modern/e_atlas__privacy_consent__static__ccpa_iframe-vflD-TsRM.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/privacy_consent/ccpa_iframe_rspb_modern/c_initialization_cookies_check-vflEEzrTu.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/privacy_consent/ccpa_iframe_rspb_modern/c_decimal_js_decimal-vflMu-LcU.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/privacy_consent/ccpa_iframe_rspb_modern/c_formatjs_intl-displaynames_polyfill-force-vflVuquBe.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/privacy_consent/ccpa_iframe_rspb_modern/c_ccpa_iframe_rspb_langpacks_icu-de_json-vflq1FPn5.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/udcl/log_timing",
+"type": "fetch"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/privacy_consent/ccpa_iframe_rspb_modern/c_formatjs_intl-displaynames_locale-data_de-vflcv9G86.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/web-grpc/edison/data_modules.StormcrowService/StreamAssignments",
+"type": "fetch"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_edison_ui_component_load_contentsquare-vfl1zQT89.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/warp/warp_page_edison_rspb_modern/c_edison_ui_component_load_sixsense-vflJe546r.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/fonts/paper-atlasgrotesk/AtlasGrotesk-Regular-Web-vflk7bxjs.woff2",
+"type": "font"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/fonts/paper-atlasgrotesk/AtlasGrotesk-Medium-Web-vfl38XiTL.woff2",
+"type": "font"
+},
+{
+"t": 8.7,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/metaserver/static/fonts/sharpgrotesk/SharpGroteskDBMedium20-vflI3qtaE.woff2",
+"type": "font"
+},
+{
+"t": 8.7,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/7c31e7b46b8e/5feae65e0b10/launch-9b21c433d0d6.min.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "static.ads-twitter.com",
+"url": "https://static.ads-twitter.com/uwt.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/7c31e7b46b8e/5feae65e0b10/0174af4c962e/RC388cd7fa3bf94c2a9f27ea5aa15bb460-source.min.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/7c31e7b46b8e/5feae65e0b10/0174af4c962e/RCe690552bddfc46dca5fe49d183e8b40d-source.min.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/7c31e7b46b8e/5feae65e0b10/0174af4c962e/RC07e99ffb24cd457281cba32c3746145c-source.min.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/7c31e7b46b8e/5feae65e0b10/0174af4c962e/RC5525b83175274244aaf6aafb2edbd4a7-source.min.js",
+"type": "script"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/identity/get_privacy_preferences",
+"type": "fetch"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/identity/collect_privacy_preferences",
+"type": "fetch"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/udcl/log_timing",
+"type": "fetch"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/pap_event_logging/log_events",
+"type": "fetch"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/udcl/log_timing",
+"type": "fetch"
+},
+{
+"t": 8.7,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/telemetry",
+"type": "xhr"
+},
+{
+"t": 12.77,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 12.77,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/telemetry",
+"type": "xhr"
+},
+{
+"t": 12.86,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/identity/collect_privacy_preferences",
+"type": "fetch"
+},
+{
+"t": 16.86,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/privacy_consent/ccpa_iframe_rspb_modern/c_clean_analytics-vflpAFvtA.js",
+"type": "script"
+},
+{
+"t": 16.86,
+"host": "cfl.dropboxstatic.com",
+"url": "https://cfl.dropboxstatic.com/static/atlas/privacy_consent/ccpa_iframe_rspb_modern/c_ux_analytics_www_init-vflbwMcjf.js",
+"type": "script"
+},
+{
+"t": 16.86,
+"host": "t.co",
+"url": "https://t.co/i/adsct",
+"type": "image"
+},
+{
+"t": 16.86,
+"host": "analytics.twitter.com",
+"url": "https://analytics.twitter.com/i/adsct",
+"type": "image"
+},
+{
+"t": 16.86,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 16.86,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 16.86,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 16.86,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/2/udcl/log_timing",
+"type": "fetch"
+},
+{
+"t": 16.86,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+},
+{
+"t": 16.86,
+"host": "www.dropbox.com",
+"url": "https://www.dropbox.com/log/ux_analytics",
+"type": "ping"
+}
+]

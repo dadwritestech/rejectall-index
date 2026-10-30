@@ -1,0 +1,360 @@
+{
+  "domain": "yahoo.com",
+  "url": "https://yahoo.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://de.yahoo.com/?p=us",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "google-analytics.com",
+      "entity": "Google",
+      "category": "Analytics",
+      "requests": 13
+    },
+    {
+      "domain": "googlesyndication.com",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "taboola.com",
+      "entity": "Taboola",
+      "category": "Advertising",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [
+    {
+      "domain": "adtrafficquality.google",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 5
+    },
+    {
+      "domain": "doubleclick.net",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "scorecardresearch.com",
+      "entity": "comScore",
+      "category": "Analytics",
+      "requests": 1
+    }
+  ],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Alle akzeptieren Alle ablehnen Datenschutzeinstellungen verwalten",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Alle akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Alle ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzeinstellungen verwalten",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutz- und Cookie-Einstellungen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Yahoo",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Cookies",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "messen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "unsere Partner",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "technische Identifikationsmerkmale",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Cookie-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Suchanfrage für Im Web suchen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Zur Funktionsleiste",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Zur linken Spalte",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Zum Hauptinhalt",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Zur rechten Spalte",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Nachrichten",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Finanzen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Mehr",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Mail",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Anmelden",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Facebook",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Instagram",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "TikTok",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "WhatsApp",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "AGB",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "EU-Kontaktstelle nach dem DSA",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Impressum",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Hilfe",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Jobs",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Informationen über Werbung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Werben",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Sicherheit",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Feedback",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Verträge hier kündigen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Produkte und Dienste",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Empfehlungen Klara und die Sonne 2026·Sci-Fi",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Wichtige Märkte DAX 25,990.64 Aktiensymbol GDAXI -0.19%",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Pausieren",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 226,
+  "first_click_t": 9.35,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 9.35,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Alle ablehnen",
+      "id": "a1f0-8",
+      "result": "ok"
+    }
+  ]
+}

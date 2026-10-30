@@ -1,0 +1,324 @@
+{
+  "domain": "mail.ru",
+  "url": "https://mail.ru/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://mail.ru/",
+  "accept_clicks": 1,
+  "reject_clicks": 2,
+  "reject_second_layer": true,
+  "reject_path": "second_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "mc.yandex.com",
+      "entity": "Yandex",
+      "category": "Advertising",
+      "requests": 20
+    },
+    {
+      "domain": "mc.yandex.ru",
+      "entity": "Yandex",
+      "category": "Advertising",
+      "requests": 5
+    },
+    {
+      "domain": "bs.yandex.ru",
+      "entity": "Yandex",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "yadro.ru",
+      "entity": "LiveInternet",
+      "category": "Advertising",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Einwilligung zu Cookies & Datenverarbeitung Auf dieser Website nutzen wir Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten (wie z.B. IP-Adressen oder Browserinformationen). Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung, personalisierten Werbung sowie der Einbindung sozialer Medien. Je nach Funktion werden dabei Daten an bis zu 0 Dritte weitergegeben und von diesen verarbeitet. Diese Einwilligung ist freiwillig, für die Nutzung unserer Website nicht erford",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Einstellungen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Alle akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Dritte",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Sprache: de",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    }
+  ],
+  "layer2": [
+    {
+      "text": "Speichern + Beenden",
+      "role": "save",
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Alles ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Speichern von oder Zugriff auf Informationen a",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Verwendung reduzierter Daten zur Auswahl von W",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Erstellung von Profilen für personalisierte We",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Verwendung von Profilen zur Auswahl personalis",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Erstellung von Profilen zur Personalisierung v",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Verwendung von Profilen zur Auswahl personalis",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Messung der Werbeleistung",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Messung der Performance von Inhalten",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Analyse von Zielgruppen durch Statistiken oder",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Entwicklung und Verbesserung der Angebote",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Gewährleistung der Sicherheit, Verhinderung un",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Bereitstellung und Anzeige von Werbung und Inh",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Ihre Entscheidungen zum Datenschutz speichern ",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Verwendung genauer Standortdaten",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Beschreibung: Geräte anhand von aktiv angeforderten Informat",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Aktiv",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Sprache: de",
+      "role": null,
+      "frame": 0,
+      "group": "0:b1f0-g0",
+      "overlay": true
+    }
+  ],
+  "preticked_hidden": 0,
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 340,
+  "first_click_t": 14.9,
+  "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 14.9,
+      "event": "click",
+      "why": "open_settings",
+      "text": "Einstellungen",
+      "id": "a1f0-1",
+      "result": "ok"
+    },
+    {
+      "t": 16.08,
+      "event": "click",
+      "why": "reject_layer2",
+      "text": "Alles ablehnen",
+      "id": "b1f0-28",
+      "result": "ok"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "domain": "sentry.io",
+  "url": "https://sentry.io/",
+  "status": "no_banner",
+  "reason": "no consent buttons found",
+  "final_url": "https://sentry.io/welcome/",
+  "accept_clicks": null,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": null,
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "plausible.io",
+      "entity": "Plausible",
+      "category": "Analytics",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "pre_consent_requests": 74,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

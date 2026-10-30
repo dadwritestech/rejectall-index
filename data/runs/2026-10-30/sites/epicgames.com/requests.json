@@ -1,0 +1,1394 @@
+[
+{
+"t": 0.0,
+"host": "epicgames.com",
+"url": "https://epicgames.com/",
+"type": "document"
+},
+{
+"t": 0.33,
+"host": "www.epicgames.com",
+"url": "https://www.epicgames.com/",
+"type": "document"
+},
+{
+"t": 0.51,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/",
+"type": "document"
+},
+{
+"t": 0.64,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/auth/login",
+"type": "document"
+},
+{
+"t": 0.97,
+"host": "www.epicgames.com",
+"url": "https://www.epicgames.com/id/api/login",
+"type": "document"
+},
+{
+"t": 1.13,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/auth/callback",
+"type": "document"
+},
+{
+"t": 1.28,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/",
+"type": "document"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/en-pbz-logo-1-500x231-d64af5f38cc4.png",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/halloween-desktop-carousel-asset-e5a580814923.avif",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/de-halloween-carousel-logo-500x367-a0b6ed3f8121.png",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/egs-corsair-cove-carousel-desktop-1920x1080-a9b1085c9775.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/cbcc1a927b304d3583c824f2bf018a11/corsair-cove-logo-qji6x.png",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/egs-crimson-desert-enhanced-charting-the-unknown-dlc-carousel-desktop-35d628b5.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/EN-5ae87184.png",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/egs-petit-planet-carousel-desktop-3dab9347.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/EN_egs-petit-planet-carousel-logo-90c3d481.png",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/egs-the-wolf-among-us-remastered-carousel-desktop-acdaa785.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/egs-navigation.mjs",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/footer/egs-footer.mjs",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "tracking.epicgames.com",
+"url": "https://tracking.epicgames.com/tracking.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/ad333c12d5394332a9d679831f2bb7f4/the-wolf-among-us-remastered-logo-191wt.png",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/de-halloween-carousel-thumbnail-1200x1600-3a619df5ee72.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/egs-corsair-cove-carousel-thumb-1200x1600-653fde8c6b32.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/f9616d900e1048a29ee9ffe9523c1594/crimson-desert-1qoo2.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/EN_egs-petit-planet-carousel-desktop-fa963fc1.png",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/egs-the-wolf-among-us-remastered-carousel-thumb-40407650.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/egs_discover-something-new__de-DE-1200x1200-75193f0d.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/DE_FNBR_43-00_MSEE_KeyArt_EGS_TWIFBanner_Logo_500w-a7a72899.png",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/egs_as-seen-in-fortnite__de-DE-1200x1200-70922fd7.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Browser-VK3Mbhm0.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/SearchInput-D7udXDsU.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Counter.styles-CDjuA60A.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Tooltip-pNASp7Hx.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Tooltip-eAORW-Pi.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/navigationStorage-D_b00U3N.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/dom-CjUl4dm0.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/PlusIcon-vC-5X2xM.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/GiftIcon-oco_bO6X.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Switch-DC_iT2bR.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Divider-DqAS65GO.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/useDebouncedCallback-gJn7ibMR.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/image-CSwRnvRr.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/stashLinkPreview-DZ0YpyIZ.js",
+"type": "script"
+},
+{
+"t": 1.34,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/pdpPreview-k2gbu1if.js",
+"type": "script"
+},
+{
+"t": 1.35,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/entry.client-IWcZC_C-.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/chunk-Cyuzqnbw.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/chunk-62JRHF6Z-CBuPJ5hm.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/logger-BWqF6C-V.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/clientEnv-BPAC1dsa.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/src-CiWFO7oO.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/service-BusnfXiS.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/epic-fetch-G0el_azv.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/react-dom-CS572x87.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/jsx-runtime-CXk3X59i.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/react-BUkzSlLQ.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/defineProperty-Cma1uOyP.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/error-DODw8Hla.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/root-YMbGRPc2.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/mergeRefs-DjjHobid.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/ResponsiveModalHeader-CP7eGDu-.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/purchase-BzRiJcFs.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/signInIntentStash-B9q81z6f.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/contentControlsPrefetch-DXNospTD.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/FeatureFlagProvider-e-B5E-xE.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/polyfillStatus-BAt_gRk8.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/useIsLegacyOverlay-mVPHsNab.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/connectivity.store-BOngft2V.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/react-router-brCD8l5u.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/client-Ma1yM7Ya.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/src-uaIQJ1FE.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/TrashIcon-DAPY6AYu.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/createIcon-dwVGMDm9.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/TextField-BQaRpoGG.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/adornmentProps-D6zUnDKD.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Tag-BD79f6y1.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/react-CPfbTm_5.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Button-CLQ88jVg.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Text-i2wW7w7S.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Link-DU_ijLq2.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/TextField.styles-DCphrjv6.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/XMarkCircleFilledIcon-CmFsJl4o.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/IconButton-DSAQtZ7I.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/app-layout-_Y9soL7G.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/app-layout-XFTipgRv.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/gifting-LO9OQlip.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/UnexpectedError-DzLrPtNL.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Price-hqTAn2s2.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/home-VrrPeNGy.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/createAnalyticsRouteHandle-C6JFlnCS.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/useInViewport-DktobOaD.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/buildStoreMeta-Czz746K7.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/buildStorePageMeta-dKFs34PU.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/PageLayout-DE3sqxMq.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Card-uZYDv3GL.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/ChevronRightIcon-DmWnLZgR.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/ChevronLeftIcon-gLhvfl9g.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/style-Dr7_Oc_H.css",
+"type": "stylesheet"
+},
+{
+"t": 1.36,
+"host": "js.hcaptcha.com",
+"url": "https://js.hcaptcha.com/1/api.js",
+"type": "script"
+},
+{
+"t": 1.36,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/xl-2560x1224-2560x1224-548909080022.jpg",
+"type": "image"
+},
+{
+"t": 1.36,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/FNBR_43-00_MSEE_KeyArt_EGS_TWIFBanner_Desktop_-2912x800-83f78cc6.jpg",
+"type": "image"
+},
+{
+"t": 1.36,
+"host": "static.cloudflareinsights.com",
+"url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/egs-navigation-oJ7YtB9i.mjs",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/footer/egs-footer-BZs6SOrE.mjs",
+"type": "script"
+},
+{
+"t": 1.41,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/navigation-DQ3CXjYY.mjs",
+"type": "script"
+},
+{
+"t": 1.41,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/lit-shared-CZdZ31mH.mjs",
+"type": "script"
+},
+{
+"t": 1.46,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Inter-Bold-CuhepTt8.woff2",
+"type": "font"
+},
+{
+"t": 1.46,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Inter-Regular-CKDp9E3C.woff2",
+"type": "font"
+},
+{
+"t": 1.46,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/assets/Inter-Medium-P1cOs5ep.woff2",
+"type": "font"
+},
+{
+"t": 1.46,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/sigilfarer-tpy19.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/f6ed320dd33f44568ac467c61ccd6961/professional-ship-simulator-1je2k.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/62a2cf69f8de41e79b9f2465f9555b67/kernel-hearts-1hbn5.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/e3c5068df31b42d394469ddd6b559ab2/trivia-murder-party-3-1yfq2.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/f3ef901369e54fa48f3a4fdf5736eda9/chop-chop-together-1qm69.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/cc729283f324467db879633e1dfb6c3d/nightwater-ix43o.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/3ba8138f464345b68389590065cdd6ab/bodycam-2026-g5hjv.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/c24dd5ab6e484bf08eb44c7a98f81fd1/control-resonant-1aedi.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/b8f94281d22b4f40a91d0f19a37d8a8e/fc-27-1nv56.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/b07497342cce4445b2edf95f5866f2da/silent-hill-townfall-rdgi4.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/f685eea394614419b0d55b5c306b9e54/monastery-ora-et-labora-1h3ob.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/4cc4d920f4f64fd49d3b4517a2351cb2/the-devil-is-in-the-details-l7ier.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/d215d60fcd6b4d448d0357c62d5b18f6/transport-fever-3-1lzeu.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/c9406209eb9e47bfb5e83420dbecd92d/end-of-abyss-1q5t7.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/960c149bc7904c03bd2e93f195e12fd9/star-wars-galactic-racer-w9zyr.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/e573f7bfb53e4a8d8355c45d4de3c0fa/silver-pines-2pbs3.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/9369ef5258a140e3a88e9c07b8003764/forever-ago-t0o3i.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/5d35b75a6e0749adac67b19e56a101b8/permafrost-1jbjf.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/f7bc455736314670bc6959516c76b44b/blueys-happy-snaps-16ljq.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/0cc0f700eccd4274b9c7c7fccc2676d4/beyond-these-stars-ms40n.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/e717ad8bec2b4c879fba58839d8751bd/phantom-line-prologue-hvkv3.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/5339564279024f0a97654210da2e26d7/download-five-nights-at-freddys-security-breach-offer-xshms.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/a3843e0de6d545b3957ce2173972092c/five-nights-at-freddys-secret-of-the-mimic-gs7np.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-161gk.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/3dc91103cd1b492c8ce095fea4e07c5f/arknightsendfield-xh4uo.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn2.unrealengine.com",
+"url": "https://cdn2.unrealengine.com/egs-johncarpenterstoxiccommandobloodedition-saberinteractive-editions-s2-1200x1600-158a615454b8.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/download-bloons-td-6-offer-100fo.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/c24dd5ab6e484bf08eb44c7a98f81fd1/control-resonant-y9xv1.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/f9616d900e1048a29ee9ffe9523c1594/crimson-desert-1b8y7.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/f9616d900e1048a29ee9ffe9523c1594/crimson-desert-157uc.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/2fcbaa01fc4345c0906ab55f31cbeddb/dave-the-diver-pos5q.png",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-7pyn7.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/offer/a22be63a94a64dd4a999ed959f0ce77f/EGS_JohnCarpentersToxicCommando_SaberInteractive_S2_1200x1600-86383a1efafc409ea3bf2fda7b640271",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/9dc4c8c6c00349d79560466a43ad2ca6/screamer-m8rwi.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/offer/p-7kzm6m6dtvqy5bpcavg3fttknnwkdt/crossworlds_tall_1200x1600-518ee72230274f80b978fb06d182e104",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/e009d9c50130404b991261b6acc944f1/super-meat-boy-3d-1nz5z.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/spt-assets/9cd9aa0477474023a6cdf18823e481c6/warframe-m5a34.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/offer/33956bcb55d4452d8c47e16b94e294bd/amogus_tall_1200x1600-319ed1c556ff42ca9878f6fb769897d5",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "cdn1.epicgames.com",
+"url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S2-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg",
+"type": "image"
+},
+{
+"t": 1.47,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+"type": "script"
+},
+{
+"t": 1.48,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/footer/lit-shared-DnmGvSi5.mjs",
+"type": "script"
+},
+{
+"t": 1.48,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/footer/footer-hC9LRj2I.mjs",
+"type": "script"
+},
+{
+"t": 1.48,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/tokens-shared-B0GjGEXV.mjs",
+"type": "script"
+},
+{
+"t": 1.52,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/c787ce48cf6b/main.js",
+"type": "script"
+},
+{
+"t": 1.53,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/footer/tokens-shared-COfkBTXq.mjs",
+"type": "script"
+},
+{
+"t": 1.56,
+"host": "cms-assets.unrealengine.com",
+"url": "https://cms-assets.unrealengine.com/AVzjeqAbLRKi3W5jq0CAvz/cmb81xhnx3wl407o5wzb06x28",
+"type": "image"
+},
+{
+"t": 1.56,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/check.BBhz5PwM-C1aU-4_o.mjs",
+"type": "script"
+},
+{
+"t": 1.63,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.1408558226428691:1793351366:ablC9gMjA1R7YMyeWFcBosBeNN7-G2ZWsYIeF0QGp2g/a5296faacc8ed3aa",
+"type": "xhr"
+},
+{
+"t": 1.65,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/facebook.CUZ13ZyG-CA-y28TS.mjs",
+"type": "script"
+},
+{
+"t": 1.65,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/twitter-x.X5jC6OI4-CmJoqEmg.mjs",
+"type": "script"
+},
+{
+"t": 1.65,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/youtube._7d2agyH-B3pyjBIQ.mjs",
+"type": "script"
+},
+{
+"t": 1.65,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/navigation/arrow-up-circle.Dp8TXu3d-CHQg4U0P.mjs",
+"type": "script"
+},
+{
+"t": 1.76,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 1.76,
+"host": "app.launchdarkly.com",
+"url": "https://app.launchdarkly.com/sdk/goals/67e61d996073d609e96337ee",
+"type": "xhr"
+},
+{
+"t": 1.76,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/proxy/api/gifting/offers-eligibility",
+"type": "fetch"
+},
+{
+"t": 1.76,
+"host": "app.launchdarkly.com",
+"url": "https://app.launchdarkly.com/sdk/evalx/67e61d996073d609e96337ee/contexts/eyJraW5kIjoidXNlciIsImtleSI6ImFub255bW91cyIsImFub255bW91cyI6dHJ1ZX0",
+"type": "xhr"
+},
+{
+"t": 1.8,
+"host": "b89e6b757292.w.hcaptcha.com",
+"url": "https://b89e6b757292.w.hcaptcha.com/logo.png",
+"type": "fetch"
+},
+{
+"t": 1.8,
+"host": "clientstream.launchdarkly.com",
+"url": "https://clientstream.launchdarkly.com/eval/67e61d996073d609e96337ee/eyJraW5kIjoidXNlciIsImtleSI6ImFub255bW91cyIsImFub255bW91cyI6dHJ1ZX0",
+"type": "eventsource"
+},
+{
+"t": 1.84,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+"type": "script"
+},
+{
+"t": 1.88,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/0195fbfa-4124-7fdc-8de7-25c7528b38a0/0195fbfa-4124-7fdc-8de7-25c7528b38a0.json",
+"type": "xhr"
+},
+{
+"t": 1.89,
+"host": "events.launchdarkly.com",
+"url": "https://events.launchdarkly.com/events/diagnostic/67e61d996073d609e96337ee",
+"type": "xhr"
+},
+{
+"t": 7.89,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/cdn-cgi/rum",
+"type": "xhr"
+},
+{
+"t": 7.89,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.89,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202503.2.0/otBannerSdk.js",
+"type": "script"
+},
+{
+"t": 7.89,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/consent/0195fbfa-4124-7fdc-8de7-25c7528b38a0/0195d8e2-f8d3-79a9-9bc4-c88bb848b291/de.json",
+"type": "fetch"
+},
+{
+"t": 7.89,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202503.2.0/assets/otFloatingRounded.json",
+"type": "fetch"
+},
+{
+"t": 7.89,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202503.2.0/assets/v2/otPcTab.json",
+"type": "fetch"
+},
+{
+"t": 7.89,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/scripttemplates/202503.2.0/assets/otCommonStyles.css",
+"type": "fetch"
+},
+{
+"t": 7.89,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+"type": "fetch"
+},
+{
+"t": 7.89,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/4da294eb-1392-4a74-9f51-31f9fe6d153f/adfa92f3-9eba-48f9-bfb0-060f9dbf93db/epicLogo.png",
+"type": "image"
+},
+{
+"t": 7.89,
+"host": "cdn.cookielaw.org",
+"url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+"type": "image"
+},
+{
+"t": 7.89,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/fonts/inter/Inter-Regular.woff2",
+"type": "font"
+},
+{
+"t": 7.89,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/fonts/inter/Inter-Medium.woff2",
+"type": "font"
+},
+{
+"t": 7.9,
+"host": "components.unrealengine.com",
+"url": "https://components.unrealengine.com/fonts/inter/Inter-Regular.woff2",
+"type": "font"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "tracking.epicgames.com",
+"url": "https://tracking.epicgames.com/track.png",
+"type": "image"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "events.launchdarkly.com",
+"url": "https://events.launchdarkly.com/events/bulk/67e61d996073d609e96337ee",
+"type": "xhr"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 7.9,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 11.98,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 11.98,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 11.98,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 11.98,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 11.98,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 11.98,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 11.98,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+},
+{
+"t": 11.98,
+"host": "store.epicgames.com",
+"url": "https://store.epicgames.com/egs-v2/__manifest",
+"type": "fetch"
+},
+{
+"t": 11.98,
+"host": "faro-receiver-prod.fbfb.live.use1a.on.epicgames.com",
+"url": "https://faro-receiver-prod.fbfb.live.use1a.on.epicgames.com/collect",
+"type": "fetch"
+}
+]

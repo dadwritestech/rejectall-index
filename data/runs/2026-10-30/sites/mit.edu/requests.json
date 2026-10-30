@@ -1,0 +1,206 @@
+[
+{
+"t": 0.0,
+"host": "mit.edu",
+"url": "https://mit.edu/",
+"type": "document"
+},
+{
+"t": 0.07,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/",
+"type": "document"
+},
+{
+"t": 0.15,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/themes/mit/assets/css/main.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202610/MIT-Magnetic-Tracking-SL_0.jpg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/themes/mit/assets/js/modernizr.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/themes/mit/assets/js/main.js",
+"type": "script"
+},
+{
+"t": 0.27,
+"host": "use.typekit.net",
+"url": "https://use.typekit.net/uby1wjv.css",
+"type": "stylesheet"
+},
+{
+"t": 0.33,
+"host": "p.typekit.net",
+"url": "https://p.typekit.net/p.css",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.39,
+"host": "use.typekit.net",
+"url": "https://use.typekit.net/af/912d1e/00000000000000007735bb33/31/l",
+"type": "font"
+},
+{
+"t": 0.39,
+"host": "use.typekit.net",
+"url": "https://use.typekit.net/af/2288cb/00000000000000007735bb39/31/l",
+"type": "font"
+},
+{
+"t": 0.39,
+"host": "use.typekit.net",
+"url": "https://use.typekit.net/af/c002e2/00000000000000007735bb32/31/l",
+"type": "font"
+},
+{
+"t": 0.39,
+"host": "use.typekit.net",
+"url": "https://use.typekit.net/af/216c2e/00000000000000007735bb6a/31/l",
+"type": "font"
+},
+{
+"t": 0.39,
+"host": "use.typekit.net",
+"url": "https://use.typekit.net/af/174ae3/00000000000000007735bb5a/31/l",
+"type": "font"
+},
+{
+"t": 0.39,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202610/MIT_Blue-Energy-SLsub.jpg",
+"type": "image"
+},
+{
+"t": 0.39,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202610/MIT_SanaHeal-SLsub.jpg",
+"type": "image"
+},
+{
+"t": 0.39,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202610/MIT-Synthetic-Narratives-sub.jpg",
+"type": "image"
+},
+{
+"t": 0.39,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202610/MIT_Nobel-Economics-home.jpg",
+"type": "image"
+},
+{
+"t": 0.39,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202606/54884213284_1ab5ed6ceb_b_0.jpg",
+"type": "image"
+},
+{
+"t": 0.39,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202505/MIT-This-is-MIT-SLsub_0_0.jpg",
+"type": "image"
+},
+{
+"t": 0.39,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202610/MIT-magnet-tracking-SL_0.mp4",
+"type": "media"
+},
+{
+"t": 0.5,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/a",
+"type": "image"
+},
+{
+"t": 0.53,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/spotlights-export/suggested-links/",
+"type": "xhr"
+},
+{
+"t": 0.53,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/themes/mit/assets/js/SpotlightsExploreMoreLink.24ae33fb185156d3181a.js",
+"type": "script"
+},
+{
+"t": 0.53,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/themes/mit/assets/js/SpotlightsRecent.d6a3aa4b97b1659f1bbb.js",
+"type": "script"
+},
+{
+"t": 0.53,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/themes/mit/assets/js/Notification.11fc703b491d61aecf97.js",
+"type": "script"
+},
+{
+"t": 0.54,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/a",
+"type": "image"
+},
+{
+"t": 0.82,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202610/MIT-magnet-tracking-SL_0.mp4",
+"type": "media"
+},
+{
+"t": 0.84,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/spotlights-export/recent/",
+"type": "xhr"
+},
+{
+"t": 0.84,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/spotlights-export/announcements/",
+"type": "xhr"
+},
+{
+"t": 0.86,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/spotlights-export/recent/",
+"type": "xhr"
+},
+{
+"t": 1.04,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/a",
+"type": "image"
+},
+{
+"t": 1.31,
+"host": "web.mit.edu",
+"url": "https://web.mit.edu/files/images/202610/MIT-magnet-tracking-SL_0.mp4",
+"type": "media"
+},
+{
+"t": 7.34,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/a",
+"type": "image"
+}
+]

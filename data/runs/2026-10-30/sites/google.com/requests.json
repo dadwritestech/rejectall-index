@@ -1,0 +1,266 @@
+[
+{
+"t": 0.0,
+"host": "google.com",
+"url": "https://google.com/",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "www.google.com",
+"url": "https://www.google.com/",
+"type": "document"
+},
+{
+"t": 0.26,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/ss/k=xjs.hd.rNh9y4MGxh4.L.B1.O/am=AAAEAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIIAAAAAAAAIAIBEAAAAAAEAAAAAAAgHAAAABQAAAAAAAAQAAAAAAAAAAAAAAQCQAAAAAAAAAAAAAASAAIAAAAAAABABAAAAAIAAQAAoAACAAAoAAAAAAAAACAAAAAAAAEDAAAQQAAAAAAAAAAAAAACQAQAAAAAAAABAA",
+"type": "stylesheet"
+},
+{
+"t": 0.26,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/k=xjs.hd.de.GW13ilCzxTM.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQBAAAACAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAIECQCQAAAAAAAAAAAAAASAAIAAAAgAABAAAMAAAIAAQAAoAAAABgIAAAAAAAAAAAAAAAAAAEAABAQAAEAQAAAAAMA_gAFWAQAAAAAAAA",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/og/_/js/k=og.asy.en_US.03EDNWT6IPc.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTuEj9FFaqloB8mfxSIWAecbjEG4_A",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v29/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2",
+"type": "font"
+},
+{
+"t": 0.3,
+"host": "www.google.com",
+"url": "https://www.google.com/async/hpba",
+"type": "xhr"
+},
+{
+"t": 0.3,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 0.3,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 0.3,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/og/_/ss/k=og.asy.Z1uyzvITwnE.L.W.O/m=ll_tdm,adcgm3,ll_fw,abld/excm=/d=1/ed=1/ct=zgms/rs=AA2YrTuQehrSRHuMyCc2pQVv_zMy6eQa-A",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 0.38,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/k=xjs.hd.de.GW13ilCzxTM.2023.O/ck=xjs.hd.rNh9y4MGxh4.L.B1.O/am=AAAEAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIIAABAQBAAIAKBEAAAAAAEAAAAAAAgHgAAABQAAAAAAAAQAAAAAAAAAAAIECQCQAAAAAAAAAAAAAASAAIAAAAgAABABAMAAAIAAQAAoAACABgoAAAAAAAAACAAAAAAAAEDAB",
+"type": "script"
+},
+{
+"t": 0.38,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/md=2/k=xjs.hd.de.GW13ilCzxTM.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQBAAAACAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAIECQCQAAAAAAAAAAAAAASAAIAAAAgAABAAAMAAAIAAQAAoAAAABgIAAAAAAAAAAAAAAAAAAEAABAQAAEAQAAAAAMA_gAFWAQAAA",
+"type": "fetch"
+},
+{
+"t": 0.38,
+"host": "www.google.com",
+"url": "https://www.google.com/client_204",
+"type": "ping"
+},
+{
+"t": 0.38,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 0.38,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 0.42,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/k=xjs.hd.de.GW13ilCzxTM.2023.O/ck=xjs.hd.rNh9y4MGxh4.L.B1.O/am=AAAEAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIIAABAQBAAIAKBEAAAAAAEAAAAAAAgHgAAABQAAAAAAAAQAAAAAAAAAAAIECQCQAAAAAAAAAAAAAASAAIAAAAgAABABAMAAAIAAQAAoAACABgoAAAAAAAAACAAAAAAAAEDAB",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 0.42,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 0.43,
+"host": "www.google.com",
+"url": "https://www.google.com/complete/s",
+"type": "xhr"
+},
+{
+"t": 0.43,
+"host": "www.google.com",
+"url": "https://www.google.com/async/hpba",
+"type": "xhr"
+},
+{
+"t": 0.43,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/ss/k=xjs.hd.rNh9y4MGxh4.L.B1.O/am=AAAEAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIIAAAAAAAAIAIBEAAAAAAEAAAAAAAgHAAAABQAAAAAAAAQAAAAAAAAAAAAAAQCQAAAAAAAAAAAAAASAAIAAAAAAABABAAAAAIAAQAAoAACAAAoAAAAAAAAACAAAAAAAAEDAAAQQAAAAAAAAAAAAAACQAQAAAAAAAABAA",
+"type": "fetch"
+},
+{
+"t": 0.43,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/k=xjs.hd.de.GW13ilCzxTM.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQBAAAACAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAIECACQAAAAAAAAAAAAAASAAIAAAAgAABAAAMAAAIAAQAAIAAAABgAAAAAAAAAAAAAAAAAAAEAABAQAAEAQAAAAAMA_gAFWAQAAAAAAAA",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/k=xjs.hd.de.GW13ilCzxTM.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQBAAAACAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAIECACQAAAAAAAAAAAAAASAAIAAAAgAABAAAMAAAIAAQAAIAAAABgAAAAAAAAAAAAAAAAAAAEAABAQAAEAQAAAAAMA_gAFWAQAAAAAAAA",
+"type": "script"
+},
+{
+"t": 0.45,
+"host": "ogads-pa.clients6.google.com",
+"url": "https://ogads-pa.clients6.google.com/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData",
+"type": "xhr"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/ss/k=xjs.hd.rNh9y4MGxh4.L.B1.O/am=AAAEAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIIAAAAAAAAIAIBEAAAAAAEAAAAAAAgHAAAABQAAAAAAAAQAAAAAAAAAAAAAAQCQAAAAAAAAAAAAAASAAIAAAAAAABABAAAAAIAAQAAoAACAAAoAAAAAAAAACAAAAAAAAEDAAAQQAAAAAAAAAAAAAACQAQAAAAAAAABAA",
+"type": "fetch"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/k=xjs.hd.de.GW13ilCzxTM.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQBAAAACAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAIECACQAAAAAAAAAAAAAASAAIAAAAgAABAAAMAAAIAAQAAIAAAABgAAAAAAAAAAAAAAAAAAAEAABAQAAEAQAAAAAMA_gAFWAQAAAAAAAA",
+"type": "script"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/client_204",
+"type": "xhr"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/ss/k=xjs.hd.rNh9y4MGxh4.L.B1.O/am=AAAEAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIIAAAAAAAAIAIBEAAAAAAEAAAAAAAgHAAAABQAAAAAAAAQAAAAAAAAAAAAAAQCQAAAAAAAAAAAAAASAAIAAAAAAABABAAAAAIAAQAAoAACAAAoAAAAAAAAACAAAAAAAAEDAAAQQAAAAAAAAAAAAAACQAQAAAAAAAABAA",
+"type": "fetch"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/k=xjs.hd.de.GW13ilCzxTM.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQBAAAACAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAIECACQAAAAAAAAAAAAAASAAIAAAAgAABAAAMAAAIAAQAAIAAAABgAAAAAAAAAAAAAAAAAAAEAABAQAAEAQAAAAAMA_gAFWAQAAAAAAAA",
+"type": "script"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/shared_dict/homepage/58e80c075bf7d5a48773ea069abb39ba7c7fcdcce0d0d0f3de7916065c85650e.dict",
+"type": "other"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/ss/k=xjs.hd.rNh9y4MGxh4.L.B1.O/am=AAAEAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIIAAAAAAAAIAIBEAAAAAAEAAAAAAAgHAAAABQAAAAAAAAQAAAAAAAAAAAAAAQCQAAAAAAAAAAAAAASAAIAAAAAAABABAAAAAIAAQAAoAACAAAoAAAAAAAAACAAAAAAAAEDAAAQQAAAAAAAAAAAAAACQAQAAAAAAAABAA",
+"type": "fetch"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/k=xjs.hd.de.GW13ilCzxTM.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQBAAAACAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAIECACQAAAAAAAAAAAAAASAAIAAAAgAABAAAMAAAIAAQAAIAAAABgAAAAAAAAAAAAAAAAAAAEAABAQAAEAQAAAAAMA_gAFWAQAAAAAAAA",
+"type": "script"
+},
+{
+"t": 6.46,
+"host": "www.google.com",
+"url": "https://www.google.com/xjs/_/js/k=xjs.hd.de.GW13ilCzxTM.2023.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQBAAAACAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAIECACQAAAAAAAAAAAAAASAAIAAAAgAABAAAMAAAIAAQAAIAAAABgAAAAAAAAAAAAAAAAAAAEAABAQAAEAQAAAAAMA_gAFWAQAAAAAAAA",
+"type": "script"
+},
+{
+"t": 6.46,
+"host": "play.google.com",
+"url": "https://play.google.com/log",
+"type": "xhr"
+},
+{
+"t": 8.54,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 8.54,
+"host": "consent.google.com",
+"url": "https://consent.google.com/save",
+"type": "xhr"
+},
+{
+"t": 8.54,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 8.54,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+},
+{
+"t": 12.55,
+"host": "www.google.com",
+"url": "https://www.google.com/gen_204",
+"type": "ping"
+}
+]

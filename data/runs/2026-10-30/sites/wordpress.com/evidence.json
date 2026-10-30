@@ -1,0 +1,147 @@
+{
+  "domain": "wordpress.com",
+  "url": "https://wordpress.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://wordpress.com/de/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 1,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Als Open-Source-Unternehmen nehmen wir deine Privatsphäre sehr ernst und möchten so transparent wie möglich agieren. Wir verwenden Cookies, um bestimmte persönliche Daten von dir zu sammeln (wie deine Browserdaten, deine IP-Adresse und andere eindeutige Kennungen). Einige dieser Cookies sind absolut notwendig, damit unsere Dienste funktionieren, andere wiederum kannst du auswählen, um deine Nutzung unserer Website und Dienste zu optimieren. Anpassen Alle akzeptieren Nicht essenzielle Cookies ablehnen",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Anpassen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Alle akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Nicht essenzielle Cookies ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Über",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Jobs",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Partner",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Presse",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Unsere App herunterladen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "WordPress.com auf Facebook",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "WordPress.com auf X (Twitter)",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "WordPress.com auf Instagram",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "WordPress.com auf YouTube",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Geschäftsbedingungen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "EIN DINGSBUMS VON AUTOMATTIC",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 65,
+  "first_click_t": 8.9,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 8.9,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Nicht essenzielle Cookies ablehnen",
+      "id": "a1f0-57",
+      "result": "ok"
+    }
+  ]
+}

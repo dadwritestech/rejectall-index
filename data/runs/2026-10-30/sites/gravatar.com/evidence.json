@@ -1,0 +1,63 @@
+{
+  "domain": "gravatar.com",
+  "url": "https://gravatar.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://gravatar.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 1,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "As an open source company, we take your privacy seriously and want to be as transparent as possible. So: We use cookies to collect some personal data from you (like your browsing data, IP addresses, and other unique identifiers). Some of these cookies we absolutely need in order to make things work, and others you can choose in order to optimize your experience while using our site and services. Customize Accept All Decline Non-Essential Cookies",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Customize",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Accept All",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Decline Non-Essential Cookies",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 33,
+  "first_click_t": 9.39,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 9.39,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Decline Non-Essential Cookies",
+      "id": "a1f0-30",
+      "result": "ok"
+    }
+  ]
+}

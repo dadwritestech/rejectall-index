@@ -1,0 +1,1058 @@
+[
+{
+"t": 0.0,
+"host": "vimeo.com",
+"url": "https://vimeo.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/media/61d83b278d771394-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/media/7511a528ef2dfab0-s.p.ttf",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/media/849b64204698b59b-s.p.ttf",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/media/d4dc2a2a69a5b184-s.p.ttf",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/media/de47ff92894fa0df-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/media/ea6b9767317b855b-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.07,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/521f7bd07e5b2977ec9d2a8d3cd5df61",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/css/ff496cc99d57e48e.css",
+"type": "stylesheet"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/css/efc6d7ac74b805c3.css",
+"type": "stylesheet"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/css/ae34698ad98c79d0.css",
+"type": "stylesheet"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/webpack-6b0d3d18501fe502.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/87c73c54-dd8d81ac9604067c.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/18-725eeb4bbb62c8f7.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/main-app-5121283d51936c72.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/620c25d9-919e177b5531293d.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/1f006d11-d1c098a1221a70cd.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/2561cf92-41cf0f6248b7416f.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/fb6eed97-7a2d57b90f7d6188.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/47bf8baf-e20b49444a715f32.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/990a3170-db382325a9d5d932.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/3e61fc0b-c34d8b8ec81853e1.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/9192-3837a9f9ffd7a2a3.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/1431-3003b9695886414f.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/3339-0a8fcadd3c236143.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/5121-163c7299a2c24cfc.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/7167-d606525f30c7ebd9.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/461-d510601eebb12a28.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/2076-4146f666d9725989.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/app/(root)/lohp/desktop/page-2aa10e38d7648ee6.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/chunks/app/(root)/layout-886fcceb5fe633f6.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "static.elfsight.com",
+"url": "https://static.elfsight.com/platform/platform.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "transcend-cdn.com",
+"url": "https://transcend-cdn.com/cm/31e97cbf-355c-4f0d-8bad-9cd945121508/airgap.js",
+"type": "script"
+},
+{
+"t": 0.07,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css2",
+"type": "stylesheet"
+},
+{
+"t": 0.07,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/ed5e9f28-cab9-4a0a-a91a-aa00721f4201/Use-Cases-Animation",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/8ec2ebe7-412a-4810-8d1c-b7bc885b4c7a/Enterprise-Animation",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/0de4b1bd-a37d-4db3-8a5c-8998302dc95d/Learn-Animation",
+"type": "image"
+},
+{
+"t": 0.07,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/8c1b1c8c-8548-4d32-8dea-2db4bca4f7ac/Fall-back-LOHP-Hero",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/a966edb709ac9c06305047ab2bb1fcfa",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/8e3bb98241dbf99730f9345d0dbc866e",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/05043e1ac3caf4da194fd18bdb843f6d",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/fe73b44eaf0a4bcf96a007424564d1e8",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/0db2ed953c129523d39b66aea208181b",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/34191c5e987b323a91729a4d106b7d5d",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/5a4c4abd07e813536f528fc53ad68345",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/a92fb3a4cccdddb67ce0e33a09ab883a",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/b4374b44e87d5f5b981cdd4e9c7016a7",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/649428bcd163b5ed6bac792ae12ceb9e",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/25384c452cfbd334965489d5a532b9d6",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/c07d4197ce2d8f55e4d2e8f17bfc24a9",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/b412f9239be15d320a88a852fb9a06ef",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/ca8a0cade0ceee34e3c57046f77b0ba6",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/0d8cc6348428f10a931f973267dd1f21",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/851a4392c77319b0ac7b1f362db9000e",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/b96dc9e9c4af92dbe254ecb926cab259",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/c108c6a044f094e6d7052a290f26df5f",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/e9c8df4c292cc8913cb8456265fcb00f",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/20aacb96a8b9ab64d3d5632e24d49765",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/47a4bf0a198bbe9cb5e6e3468202c7db",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/406f84daaf83fd83089717126887918d",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/d5cc195ce62872f804897b87b2e1df0e",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/5d52bc2f6dff6c8f8a3b769033fab5ae",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/d07fa4d20eda3ce84faf941f4b63db74",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/841fb560f6d05f8cb16449c72338107e",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/6768ab1e3feee8bd314fdbb7daa63988",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/c1cd9c593e41df1afc9f6268c5868fa1",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/026b27fe66eacbef517ef9c9da2a851b",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/db6f4b48392c3d304ec85c166b7e6775",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/9830c6e8f3ad150d4bc0039818af05bb",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/1d57a61d427d555d512435d15dbee548",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/bb215ed03c6a1fd39c3fcc925c822fa6",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/8d1b94af-c5aa-4c46-9f7c-1b9039272789/Summer-2025-blog-release",
+"type": "image"
+},
+{
+"t": 0.08,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/c7f4134846c3c70023096471a7d16c15",
+"type": "image"
+},
+{
+"t": 0.16,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/video/1070507470",
+"type": "document"
+},
+{
+"t": 0.16,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/video/1070507470",
+"type": "document"
+},
+{
+"t": 0.17,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/progressive_redirect/playback/1085116418/rendition/540p/file.mp4",
+"type": "media"
+},
+{
+"t": 0.17,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/progressive_redirect/playback/1085116403/rendition/540p/file.mp4",
+"type": "media"
+},
+{
+"t": 0.17,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/progressive_redirect/playback/1085116382/rendition/540p/file.mp4",
+"type": "media"
+},
+{
+"t": 0.17,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/progressive_redirect/playback/1069021926/rendition/720p/file.mp4",
+"type": "media"
+},
+{
+"t": 0.17,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/progressive_redirect/playback/1069021926/rendition/720p/file.mp4",
+"type": "media"
+},
+{
+"t": 0.18,
+"host": "vimeo.com",
+"url": "https://vimeo.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/m/68c7ef88b8fed205/original/Vector-Vimeo-Logo.svg",
+"type": "image"
+},
+{
+"t": 0.26,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/cms/_next/static/media/c5d1e03afce2372f-s.woff",
+"type": "font"
+},
+{
+"t": 0.27,
+"host": "vimeo.com",
+"url": "https://vimeo.com/cdn-cgi/challenge-platform/h/g/scripts/precursor/c787ce48cf6b/main.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "vimeo.com",
+"url": "https://vimeo.com/cdn-cgi/challenge-platform/h/g/precursor/c787ce48cf6b/0.14470285723880594:1793347850:ifenIEW3_hzC1i1IsWUBHskmjuoL15D7qYgo-Qh0Y04/a5296d2ce97c7377",
+"type": "xhr"
+},
+{
+"t": 0.41,
+"host": "transcend-cdn.com",
+"url": "https://transcend-cdn.com/cm/31e97cbf-355c-4f0d-8bad-9cd945121508/ui.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "download-video-ak.vimeocdn.com",
+"url": "https://download-video-ak.vimeocdn.com/v3-1/playback/5e96b80b-5e5e-4cad-b110-29675ef9366b/ad516026-bc14110d",
+"type": "media"
+},
+{
+"t": 0.58,
+"host": "download-video-ak.vimeocdn.com",
+"url": "https://download-video-ak.vimeocdn.com/v3-1/playback/5e96b80b-5e5e-4cad-b110-29675ef9366b/ad516026-bc14110d",
+"type": "media"
+},
+{
+"t": 0.64,
+"host": "transcend-cdn.com",
+"url": "https://transcend-cdn.com/cm/31e97cbf-355c-4f0d-8bad-9cd945121508/cm.css",
+"type": "stylesheet"
+},
+{
+"t": 0.64,
+"host": "transcend-cdn.com",
+"url": "https://transcend-cdn.com/cm/31e97cbf-355c-4f0d-8bad-9cd945121508/translations/de-DE.json",
+"type": "fetch"
+},
+{
+"t": 0.74,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/p/4.46.135/js/player.de-DE.module.js",
+"type": "script"
+},
+{
+"t": 0.74,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/p/4.46.135/js/vendor.module.js",
+"type": "script"
+},
+{
+"t": 0.74,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/p/4.46.135/css/player.css",
+"type": "stylesheet"
+},
+{
+"t": 0.74,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/video/2000808118-c48de6b69c3a45c4ded55758fc5d9aa0e7b26427b88da7ef7f702dce41315552-d",
+"type": "image"
+},
+{
+"t": 0.76,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+"type": "script"
+},
+{
+"t": 0.77,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/g/scripts/precursor/c787ce48cf6b/main.js",
+"type": "script"
+},
+{
+"t": 0.8,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+"type": "script"
+},
+{
+"t": 0.8,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/p/4.46.135/js/hls-js.module.js",
+"type": "script"
+},
+{
+"t": 0.82,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/g/precursor/c787ce48cf6b/0.14470285723880594:1793347850:ifenIEW3_hzC1i1IsWUBHskmjuoL15D7qYgo-Qh0Y04/a5296d2dfa687377",
+"type": "xhr"
+},
+{
+"t": 0.82,
+"host": "vimeo.com",
+"url": "https://vimeo.com/ablincoln/vuid",
+"type": "ping"
+},
+{
+"t": 0.86,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/video/2000808118-c48de6b69c3a45c4ded55758fc5d9aa0e7b26427b88da7ef7f702dce41315552-d",
+"type": "image"
+},
+{
+"t": 0.86,
+"host": "vod-adaptive-ak.vimeocdn.com",
+"url": "https://vod-adaptive-ak.vimeocdn.com/exp=1793356490~acl=%2Fdfcf2335-1fa3-4aff-a218-69309923fd10%2Fpsid%3D3ba5da46ebac8c0e0108da4025ed1425ddef5e9d1793352890%2F%2A~hmac=a1bb8757cdb40e35dbf40b936d73c839d4a8a9bb3e56a5767b1b5b67de2859c6/dfcf2335-1fa3-4aff-a218-69309923fd10/psid=3ba5da46ebac8c0e0108da4025",
+"type": "xhr"
+},
+{
+"t": 0.86,
+"host": "arclight.vimeo.com",
+"url": "https://arclight.vimeo.com/add/player-stats",
+"type": "ping"
+},
+{
+"t": 0.92,
+"host": "embedder-sdk.wirewax.video",
+"url": "https://embedder-sdk.wirewax.video/latest/wirewax-embedder-sdk@beta.umd.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "edge-player5.wirewax.video",
+"url": "https://edge-player5.wirewax.video/vidData/8312398/securityData.json",
+"type": "fetch"
+},
+{
+"t": 1.06,
+"host": "cognito-identity.us-east-1.amazonaws.com",
+"url": "https://cognito-identity.us-east-1.amazonaws.com/",
+"type": "fetch"
+},
+{
+"t": 1.23,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/p/4.46.135/js/player.de-DE.module.js",
+"type": "script"
+},
+{
+"t": 1.23,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/p/4.46.135/js/vendor.module.js",
+"type": "script"
+},
+{
+"t": 1.23,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/p/4.46.135/css/player.css",
+"type": "stylesheet"
+},
+{
+"t": 1.23,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/video/2000808118-c48de6b69c3a45c4ded55758fc5d9aa0e7b26427b88da7ef7f702dce41315552-d",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "edge-player5.wirewax.video",
+"url": "https://edge-player5.wirewax.video/vidData/8312398/vidData.json",
+"type": "fetch"
+},
+{
+"t": 1.23,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+"type": "script"
+},
+{
+"t": 1.24,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+"type": "script"
+},
+{
+"t": 1.25,
+"host": "f.vimeocdn.com",
+"url": "https://f.vimeocdn.com/p/4.46.135/js/hls-js.module.js",
+"type": "script"
+},
+{
+"t": 1.25,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/g/scripts/precursor/c787ce48cf6b/main.js",
+"type": "script"
+},
+{
+"t": 1.26,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/video/2000808118-c48de6b69c3a45c4ded55758fc5d9aa0e7b26427b88da7ef7f702dce41315552-d",
+"type": "image"
+},
+{
+"t": 1.26,
+"host": "vod-adaptive-ak.vimeocdn.com",
+"url": "https://vod-adaptive-ak.vimeocdn.com/exp=1793356491~acl=%2Fdfcf2335-1fa3-4aff-a218-69309923fd10%2Fpsid%3D3f450e2a5f1775c6b049025f2990a605c913ac991793352891%2F%2A~hmac=48dfd472cf328f4cdfce2885ca67fd21c2871fcc6ae01fb67b2c2dbef7d05f94/dfcf2335-1fa3-4aff-a218-69309923fd10/psid=3f450e2a5f1775c6b049025f29",
+"type": "xhr"
+},
+{
+"t": 1.26,
+"host": "arclight.vimeo.com",
+"url": "https://arclight.vimeo.com/add/player-stats",
+"type": "ping"
+},
+{
+"t": 1.52,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/g/precursor/c787ce48cf6b/0.14470285723880594:1793347850:ifenIEW3_hzC1i1IsWUBHskmjuoL15D7qYgo-Qh0Y04/a5296d31582aa118",
+"type": "xhr"
+},
+{
+"t": 1.52,
+"host": "embedder-sdk.wirewax.video",
+"url": "https://embedder-sdk.wirewax.video/latest/wirewax-embedder-sdk@beta.umd.js",
+"type": "script"
+},
+{
+"t": 1.54,
+"host": "cognito-identity.us-east-1.amazonaws.com",
+"url": "https://cognito-identity.us-east-1.amazonaws.com/",
+"type": "fetch"
+},
+{
+"t": 1.56,
+"host": "echidna.wirewax.video",
+"url": "https://echidna.wirewax.video/font_picker",
+"type": "fetch"
+},
+{
+"t": 1.56,
+"host": "echidna.wirewax.video",
+"url": "https://echidna.wirewax.video/custom_fonts",
+"type": "fetch"
+},
+{
+"t": 1.57,
+"host": "edge-player5.wirewax.video",
+"url": "https://edge-player5.wirewax.video/vidData/8312398/securityData.json",
+"type": "fetch"
+},
+{
+"t": 7.58,
+"host": "cognito-identity.us-east-1.amazonaws.com",
+"url": "https://cognito-identity.us-east-1.amazonaws.com/",
+"type": "fetch"
+},
+{
+"t": 7.58,
+"host": "sqs.us-east-1.amazonaws.com",
+"url": "https://sqs.us-east-1.amazonaws.com/",
+"type": "fetch"
+},
+{
+"t": 7.58,
+"host": "sqs.us-east-1.amazonaws.com",
+"url": "https://sqs.us-east-1.amazonaws.com/",
+"type": "fetch"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/m/30882060de556c1e/original/lottie-chroma-upload.json",
+"type": "fetch"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/m/5c6e7316153087fa/original/lottie-chroma-watch.json",
+"type": "fetch"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/m/527d27eff7bba9b7/original/lottie-chroma-user.json",
+"type": "fetch"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/m/5fada5fbb9d0a72c/original/lottie-chroma-staff-picks.json",
+"type": "fetch"
+},
+{
+"t": 7.58,
+"host": "player.vimeo.com",
+"url": "https://player.vimeo.com/api/player.js",
+"type": "script"
+},
+{
+"t": 7.58,
+"host": "vimeo.com",
+"url": "https://vimeo.com/wh/log",
+"type": "fetch"
+},
+{
+"t": 7.58,
+"host": "vimeo.com",
+"url": "https://vimeo.com/icons/icon-brands-omnicom.svg",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/0c1d5d19-eacd-400b-8800-03624e60fe51/icon-brands-whole-foods",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/a3b332cc-f7c9-402c-8f42-0628da00b69b/icon-brands-wpp",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/f477e6c3-1ecf-4cb3-9e74-6f375e3cd7f0/warner-bros-logo",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.com",
+"url": "https://vimeo.com/icons/icon-brands-dropout.svg",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/91592183-6ce5-4ae5-88b2-8fa571577f5c/icon-brands-even-odd",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/4b9413c0-eda2-4efb-8efb-604db37ce4a9/Seismic-logo",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/596c1187-5ae0-4ce9-abd1-85cef30914e7/icon-brands-european-film-academy",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/812f09c9-3e5e-4475-8f1d-d7b8adced428/icon-brands-coca-cola",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/2c151cbc-9337-4984-b570-ce23749a6b23/icon-brands-sundance-institute",
+"type": "image"
+},
+{
+"t": 7.58,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/c9de44f2-a2a3-44e7-96b1-cec87a9c437f/icon-brands-martha-stewart",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/486508ff-2a40-47c8-ba0d-2576a3c03943/icon-brands-sxsw",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/fbab3f80-bce8-40bc-82ac-8b3d6e1698ba/icon-brands-nike",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/m/178e49077507378f/original/icon-brands-american-airlines.svg",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/646f6c69-2c62-49b7-a8ef-cee53629be9a/icon-brands-nissan",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/273865ab-621f-46da-96fa-2008ec6100a6/icon-brands-lg",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/m/14db0bf308efb92c/original/icon-brands-bloomberg.svg",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "vimeo.bynder.com",
+"url": "https://vimeo.bynder.com/transform/9b33c8e1-5ea4-4a8b-90da-e62d193395e2/icon-brands-xfinity",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/195d4f8b8993434bd4b53ca0dc0aa299",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/a2181e35ccf70d210ef95b0ea6785aca",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/51a6886b700cb3b628d9e7cb75052cff",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/dd6e807e1505f23eddc9d8f5de177e19",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/e4a254e69a591266d14f327da6764959",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/a2eb59672f87a327081d76f8fb72a3bf",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/4f9b8a9c33b5c9e10d65fb5a56abcfd6",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "i.vimeocdn.com",
+"url": "https://i.vimeocdn.com/custom_asset/dc47ff0014d47cbf31dbb2abaf812bc4",
+"type": "image"
+},
+{
+"t": 7.59,
+"host": "vimeo.com",
+"url": "https://vimeo.com/me/info",
+"type": "fetch"
+},
+{
+"t": 7.59,
+"host": "edge-player5.wirewax.video",
+"url": "https://edge-player5.wirewax.video/vidData/8312398/vidData.json",
+"type": "fetch"
+},
+{
+"t": 7.59,
+"host": "sqs.us-east-1.amazonaws.com",
+"url": "https://sqs.us-east-1.amazonaws.com/",
+"type": "fetch"
+},
+{
+"t": 7.59,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css",
+"type": "stylesheet"
+},
+{
+"t": 7.59,
+"host": "edge-assets.wirewax.com",
+"url": "https://edge-assets.wirewax.com/creativeData/Fonts/echidna/default_player_2023-03-01_09-18-12.css",
+"type": "stylesheet"
+},
+{
+"t": 7.59,
+"host": "echidna.wirewax.video",
+"url": "https://echidna.wirewax.video/font_picker",
+"type": "fetch"
+},
+{
+"t": 7.59,
+"host": "echidna.wirewax.video",
+"url": "https://echidna.wirewax.video/custom_fonts",
+"type": "fetch"
+},
+{
+"t": 7.59,
+"host": "sqs.us-east-1.amazonaws.com",
+"url": "https://sqs.us-east-1.amazonaws.com/",
+"type": "fetch"
+},
+{
+"t": 7.59,
+"host": "arclight.vimeo.com",
+"url": "https://arclight.vimeo.com/add/player-stats",
+"type": "ping"
+},
+{
+"t": 7.59,
+"host": "arclight.vimeo.com",
+"url": "https://arclight.vimeo.com/add/player-stats",
+"type": "ping"
+},
+{
+"t": 7.59,
+"host": "vimeo.com",
+"url": "https://vimeo.com/_next/gtm",
+"type": "fetch"
+},
+{
+"t": 7.59,
+"host": "captions.vimeo.com",
+"url": "https://captions.vimeo.com/captions/300458398.vtt",
+"type": "texttrack"
+},
+{
+"t": 7.59,
+"host": "captions.vimeo.com",
+"url": "https://captions.vimeo.com/captions/300458398.vtt",
+"type": "texttrack"
+},
+{
+"t": 7.59,
+"host": "vimeo.com",
+"url": "https://vimeo.com/flarepoint/orion/v3/identity/settings",
+"type": "fetch"
+},
+{
+"t": 7.59,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css",
+"type": "stylesheet"
+},
+{
+"t": 7.59,
+"host": "edge-assets.wirewax.com",
+"url": "https://edge-assets.wirewax.com/creativeData/Fonts/echidna/default_player_2023-03-01_09-18-12.css",
+"type": "stylesheet"
+},
+{
+"t": 7.59,
+"host": "vimeo.com",
+"url": "https://vimeo.com/flarepoint/NtMIhtO5",
+"type": "fetch"
+}
+]

@@ -1,0 +1,302 @@
+[
+{
+"t": 0.0,
+"host": "digicert.com",
+"url": "https://digicert.com/",
+"type": "document"
+},
+{
+"t": 0.58,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/",
+"type": "document"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/bry-Say-I-double-We-well-Mighties-in-finde-And-i",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/scripts/aem.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/scripts/scripts.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/scripts/launch.js",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/styles/tokens.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/styles/base.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/styles/buttons.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/styles/sections.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/styles/animations.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/styles/media.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/styles/utilities.css",
+"type": "stylesheet"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/fonts/roboto-regular.woff2",
+"type": "font"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/fonts/roboto-bold.woff2",
+"type": "font"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/fonts/roboto_condensed-regular.woff2",
+"type": "font"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/fonts/roboto-condensed-bold.woff2",
+"type": "font"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/nav.plain.html",
+"type": "other"
+},
+{
+"t": 0.69,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/_Incapsula_Resource",
+"type": "script"
+},
+{
+"t": 0.9,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/_Incapsula_Resource",
+"type": "image"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/utils/section-filters-and-cards.js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/utils/section-sides.js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/utils/section-autotab.js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/utils/section-autocarousel.js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/utils/anchors.js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/utils/document-reader.js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/utils/page-style.js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/utils/helpers.js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/utils/breadcrumbs.js",
+"type": "script"
+},
+{
+"t": 0.93,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/bry-Say-I-double-We-well-Mighties-in-finde-And-i",
+"type": "fetch"
+},
+{
+"t": 0.96,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/80bda08f0087/1015fcf0b78f/launch-EN214b022a648841a199bcc6b7b217acc1.min.js",
+"type": "script"
+},
+{
+"t": 1.03,
+"host": "dpm.demdex.net",
+"url": "https://dpm.demdex.net/id",
+"type": "xhr"
+},
+{
+"t": 1.03,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js",
+"type": "script"
+},
+{
+"t": 1.03,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js",
+"type": "script"
+},
+{
+"t": 1.03,
+"host": "transcend-cdn.com",
+"url": "https://transcend-cdn.com/cm/11d09020-8c40-4962-b7b6-e4f2271d297e/airgap.js",
+"type": "script"
+},
+{
+"t": 1.03,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/80bda08f0087/1015fcf0b78f/ce6fc18cc84b/RCd3523f8e2cf042678678a4cfd2d14815-source.min.js",
+"type": "script"
+},
+{
+"t": 1.04,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/80bda08f0087/1015fcf0b78f/ce6fc18cc84b/RC7f2b02b022284dc681ffb95a10722ef7-source.min.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "tracking.g2crowd.com",
+"url": "https://tracking.g2crowd.com/attribution_tracking/conversions/2015.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/80bda08f0087/1015fcf0b78f/ce6fc18cc84b/RC0692197787d94e2494e2c14eb40cd476-source.min.js",
+"type": "script"
+},
+{
+"t": 1.1,
+"host": "transcend-cdn.com",
+"url": "https://transcend-cdn.com/cm/11d09020-8c40-4962-b7b6-e4f2271d297e/ui.js",
+"type": "script"
+},
+{
+"t": 1.12,
+"host": "tracking-api.g2.com",
+"url": "https://tracking-api.g2.com/attribution_tracking/conversions/assign",
+"type": "ping"
+},
+{
+"t": 1.13,
+"host": "digicert.demdex.net",
+"url": "https://digicert.demdex.net/dest5.html",
+"type": "document"
+},
+{
+"t": 1.14,
+"host": "smetrics.digicert.com",
+"url": "https://smetrics.digicert.com/b/ss/veritassymantecwebsitesecurity/1/JS-2.27.0-LGU4/s17834504449345",
+"type": "image"
+},
+{
+"t": 1.16,
+"host": "transcend-cdn.com",
+"url": "https://transcend-cdn.com/cm/11d09020-8c40-4962-b7b6-e4f2271d297e/cm.css",
+"type": "stylesheet"
+},
+{
+"t": 1.16,
+"host": "transcend-cdn.com",
+"url": "https://transcend-cdn.com/cm/11d09020-8c40-4962-b7b6-e4f2271d297e/translations/de-DE.json",
+"type": "fetch"
+},
+{
+"t": 1.26,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/80bda08f0087/1015fcf0b78f/ce6fc18cc84b/RC71b01f5cfbb0496680ef85a8582afd90-source.min.js",
+"type": "script"
+},
+{
+"t": 1.26,
+"host": "consent-sync.digicert.com",
+"url": "https://consent-sync.digicert.com/consent-manager/11d09020-8c40-4962-b7b6-e4f2271d297e",
+"type": "document"
+},
+{
+"t": 7.27,
+"host": "assets.adobedtm.com",
+"url": "https://assets.adobedtm.com/80bda08f0087/1015fcf0b78f/ce6fc18cc84b/RCfb62f95a26df4b42a4de9d0dadc4de3f-source.min.js",
+"type": "script"
+},
+{
+"t": 7.27,
+"host": "transcend-cdn.com",
+"url": "https://transcend-cdn.com/cm/11d09020-8c40-4962-b7b6-e4f2271d297e/xdi.js",
+"type": "script"
+},
+{
+"t": 7.27,
+"host": "www.digicert.com",
+"url": "https://www.digicert.com/bry-Say-I-double-We-well-Mighties-in-finde-And-i",
+"type": "fetch"
+}
+]

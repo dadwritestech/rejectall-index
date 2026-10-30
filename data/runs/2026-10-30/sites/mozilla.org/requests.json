@@ -1,0 +1,296 @@
+[
+{
+"t": 0.0,
+"host": "mozilla.org",
+"url": "https://mozilla.org/",
+"type": "document"
+},
+{
+"t": 0.21,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/",
+"type": "document"
+},
+{
+"t": 0.24,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/de/",
+"type": "document"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/site.c6d6f1fa36a4.js",
+"type": "script"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/css/protocol-mozilla.eafbcba9bb2a.css",
+"type": "stylesheet"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/css/m24-navigation-and-footer.038277dadfff.css",
+"type": "stylesheet"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/css/m24-root.12db9edf7537.css",
+"type": "stylesheet"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/css/m24-base.c3746f2411e1.css",
+"type": "stylesheet"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/css/m24-home.16ad21b16b30.css",
+"type": "stylesheet"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/gtm-snippet.cc9550e6b401.js",
+"type": "script"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/img/logos/m24/lockup-black.f2ddba3f0724.svg",
+"type": "image"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/cms/images/showcase-som-2025.width-1376.png",
+"type": "image"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/newsletter.116bb838e3d3.js",
+"type": "script"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/sentry.d1770d77b071.js",
+"type": "script"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/lib.57070d33021c.js",
+"type": "script"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/fxa.bf74c411a79c.js",
+"type": "script"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/data.a3c1e6e4dfae.js",
+"type": "script"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/m24-ui.54a2e7c5dc9d.js",
+"type": "script"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/m24-animation.ff54678f00e8.js",
+"type": "script"
+},
+{
+"t": 0.56,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/js/consent-banner.20ae7deac179.js",
+"type": "script"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/icons/arrow-right.a1e6e0252c06.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/img/logos/thunderbird/logo-thunderbird.121e9c0fed45.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/logos/mozilla/vpn/logo.c648f487bfb8.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/logos/firefox/monitor/logo.d97e5516f9e6.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/logos/firefox/relay/logo.d42a8b52e44c.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/img/logos/0din/logo-0din.50589c5926d2.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/img/logos/tabstack/logo-tabstack.4551b75d8e6b.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/img/icons/m24-small/glasses.8c98d766725a.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/img/icons/m24-small/arrow-right.81a74c691dc2.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/img/icons/social/bluesky/white.8fd522097881.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/icons/social/instagram/white.a7014a6150b3.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/icons/social/linkedin/white.cdc0e910cc1e.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/icons/social/tiktok/white.599403de7ac0.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/icons/social/spotify/white.aa5334e85bae.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/icons/social/youtube/white.4f314c43c69d.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/fonts/mozilla-text/MozillaText-SemiBold.b126cc23eddf.woff2",
+"type": "font"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/icons/globe-white.4887e287b713.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/img/icons/caret-down-white.19fd9f88ce53.svg",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/fonts/mozilla-headline/MozillaHeadline-SemiBold.bccc6c46c123.woff2",
+"type": "font"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/fonts/mozilla-text/MozillaText-Regular.71c103450d6d.woff2",
+"type": "font"
+},
+{
+"t": 0.65,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/protocol/fonts/mozilla-text/MozillaText-Bold.4af7ce689fd6.woff2",
+"type": "font"
+},
+{
+"t": 0.67,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/cms/images/donate.2e16d0ba.fill-800x400.jpg",
+"type": "image"
+},
+{
+"t": 0.67,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/cms/images/collective-mobile-1450.2e16d0ba.fill-600x600.jpg",
+"type": "image"
+},
+{
+"t": 0.67,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/cms/images/image1.2e16d0ba.fill-600x600.jpg",
+"type": "image"
+},
+{
+"t": 0.67,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/cms/images/lamp-mobile-1450.2e16d0ba.fill-600x600.jpg",
+"type": "image"
+},
+{
+"t": 0.67,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/cms/images/ventures-mobile-1450_GxBP35h.2e16d0ba.fill-600x600.jpg",
+"type": "image"
+},
+{
+"t": 0.67,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/cms/images/ecosystem-mobile-1450.2e16d0ba.fill-600x600.jpg",
+"type": "image"
+},
+{
+"t": 0.67,
+"host": "www.mozilla.org",
+"url": "https://www.mozilla.org/media/cms/images/download.2e16d0ba.fill-600x600.png",
+"type": "image"
+}
+]

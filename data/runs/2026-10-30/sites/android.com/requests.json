@@ -1,0 +1,530 @@
+[
+{
+"t": 0.0,
+"host": "android.com",
+"url": "https://android.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "www.android.com",
+"url": "https://www.android.com/",
+"type": "document"
+},
+{
+"t": 0.13,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/styles/default/All.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.13,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/gtm/gtm.js",
+"type": "script"
+},
+{
+"t": 0.13,
+"host": "cse.google.com",
+"url": "https://cse.google.com/cse.js",
+"type": "script"
+},
+{
+"t": 0.13,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css2",
+"type": "stylesheet"
+},
+{
+"t": 0.13,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/30/a2/0b99652c45e68b617bcd9d06a0a6/bot-spin.webp=n-w568-h364-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/5f/9a/3e57c0944270a5d14029df1522e7/2bd82721454565112b9f89ec0f2468db297d21b7.webp=n-w170-h96-fcrop64=1,38000000c800ffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/be/a9/1d6a61b1493784d6eb13314fd494/opt-in-bot-transparent-616w-2x.webp=n-w600-h337-fcrop64=1,00000f20fffff0e0-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/be/a9/1d6a61b1493784d6eb13314fd494/opt-in-bot-transparent-616w-2x.webp=n-w1232-h694-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/27/64/0a1b2cf7496993849a8c5f41d98e/8657e0e204b1e6d5b37bf3d56042e2df306222c2.webp=n-w270-h172-fcrop64=1,03cb0000fc35ffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/7d/f2/782fc9694f3aa637a9f484edb0e9/b1afb959feba93ccfc806b410017bb7b0a62c6e0.webp=n-w262-h174-fcrop64=1,000001f8fffffe08-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/b9/e7/51bed2aa457abef5b991bbd3b69a/702c5f82fcd4f3f29682c634ab090d74b0a1e5b5.webp=n-w270-h172-fcrop64=1,03cb0000fc35ffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/8c/95/2c006ee94e7caa9bce84ba50f125/eyebrow-media.svg",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/d9/68/2335b5f24f15928ff8f73376c080/mbg-hero-desktop-1440w-2x.webp=n-w1944-h1080-fcrop64=1,019a0000fe66ffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/d9/68/2335b5f24f15928ff8f73376c080/mbg-hero-desktop-1440w-2x.webp",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/7a/f5/07d08e2f417fa6f4635e241fc3be/1-1.webp=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/78/64/2ec47ad64482ad928a0e92b1dd3c/unpacked-homepage-carousel3up-desktop-01-4x.webp=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/1b/a5/e8fd3cf444a5b5c0e9d724645852/nano-banana-homepage.webp=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/1b/a5/e8fd3cf444a5b5c0e9d724645852/nano-banana-homepage.webp",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/ce/4b/27c3f49e46ae8c9cce37ab61ec0f/01-nano-banana-l.webp",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/94/f6/2f7a29804a698d8078f77e6e6acb/google-aluminium-16-9-1440w-2x.webp=n-w1920-h1080-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/94/f6/2f7a29804a698d8078f77e6e6acb/google-aluminium-16-9-1440w-2x.webp",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/4d/1f/de4dc76b4f119af41d41149895da/cts-2x.png=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/a5/84/2fd923a146b686eb9f75879144b6/more-ai-2x.png=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/c3/d7/71d634dd481ba89150df442afc43/b214fec71154aa607416689e3af9906e75d234da.webp=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/b0/8b/b87b73dd41ad8f7889a0df8db155/4482e21a15601af0f6b4f123aeb593815fb9ce64.webp=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/62/42/1ecf7ab44fc6b021f898ce02d5c9/f5ccfd8227d7981b3f69143b6edcbe157978c5c3.webp=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/cb/7d/6ef7637c46a495e29aa48ad7a067/android-wordmark.svg",
+"type": "image"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/styles/default/All.min.js",
+"type": "script"
+},
+{
+"t": 0.14,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "www.google.com",
+"url": "https://www.google.com/cse/static/element/dc6f600a0d4404e5/cse_element__en.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "www.google.com",
+"url": "https://www.google.com/cse/static/element/dc6f600a0d4404e5/default_v6+en.css",
+"type": "stylesheet"
+},
+{
+"t": 0.26,
+"host": "www.google.com",
+"url": "https://www.google.com/cse/static/style/look/v6/default.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/glue/cookienotificationbar/config/2a.json",
+"type": "fetch"
+},
+{
+"t": 0.34,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2",
+"type": "font"
+},
+{
+"t": 0.34,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPlwUvaYr.woff2",
+"type": "font"
+},
+{
+"t": 0.34,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj0UvaYr.woff2",
+"type": "font"
+},
+{
+"t": 0.34,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjYUvaYr.woff2",
+"type": "font"
+},
+{
+"t": 0.34,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiYUvaYr.woff2",
+"type": "font"
+},
+{
+"t": 0.35,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/99/bf/fa53e0454013b77b226d8eeb8a46/cts-translate-option2-2x.webp=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.35,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/assets/images/ce/4b/27c3f49e46ae8c9cce37ab61ec0f/01-nano-banana-l.webp=s502-fcrop64=1,00000000ffffffff-rw",
+"type": "image"
+},
+{
+"t": 0.35,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/4a/05/c381aeb74549830448da05f606f9/av1.mp4",
+"type": "media"
+},
+{
+"t": 0.35,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/36/4c/69eb56b444a3be8a8ad52e31e29e/opt-in-bot-transparent-av1.mp4",
+"type": "media"
+},
+{
+"t": 0.35,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/36/4c/69eb56b444a3be8a8ad52e31e29e/opt-in-bot-transparent-av1.mp4",
+"type": "media"
+},
+{
+"t": 0.35,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/36/4c/69eb56b444a3be8a8ad52e31e29e/opt-in-bot-transparent-av1.mp4",
+"type": "media"
+},
+{
+"t": 0.35,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/4a/05/c381aeb74549830448da05f606f9/av1.mp4",
+"type": "media"
+},
+{
+"t": 0.36,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2iw.woff2",
+"type": "font"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/8025.3a555c787bf74381451e.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/8809.1bf4afdeb158cef97e3e.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/5875.a2b6ba759238f4d04a0c.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/3541.da5978f07a3edc883265.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/5785.e079d519f479c8816a72.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/1913.13c6bbc76053e9073253.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/377.f3dfa8511c1474294faa.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/6975.bb5fd2ffeb244e445b36.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/5547.edbc2913c944a7c3fff9.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/813.3af109be13d6f5e1ccc5.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/274.37cc449056ea1942888c.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/6511.bdcac817166c8a9fde21.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/1358.17a2c9170a3379c41b8b.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/5073.128d9a959a7e1cf87e89.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/2131.8550b88cf16f49df40ab.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/9407.5e6b51dfb2439ef1b20a.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/3464.1b42b2bb48efb62eefac.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/6084.b935f7c98ebc4875ef4a.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/964.851bc9d405700c062122.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/3951.500b6e611414cccc6e84.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/6255.55264d275337162cba9c.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/4389.eaaf3ba5a8ed52ff6a63.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/4454.7c2aa0db4dae549b44e3.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/5509.43261e5b0b23a82cdc24.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/1211.2ba95405ddae4da865cc.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/1148.d888f2a8a9801fdf4014.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/6069.a207000413d874cfe396.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/8790.7f936eace779311a5cdd.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/5541.7227ecf9b898282f5988.js",
+"type": "script"
+},
+{
+"t": 0.37,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/reviewed-scripts/prod/android-com-1.7.214-0365921/7411.aa04999ee5dec4140822.js",
+"type": "script"
+},
+{
+"t": 0.48,
+"host": "csp.withgoogle.com",
+"url": "https://csp.withgoogle.com/csp/uxe-owners-acl/android",
+"type": "other"
+},
+{
+"t": 0.51,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/marketing-cms/a9/bb/b6d61b9f4f69aa2a000dfc13f150/mbg-hero-desktop-1440w-2x-av1.mp4",
+"type": "media"
+},
+{
+"t": 0.56,
+"host": "csp.withgoogle.com",
+"url": "https://csp.withgoogle.com/csp/uxe-owners-acl/android",
+"type": "other"
+},
+{
+"t": 0.57,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 0.57,
+"host": "csp.withgoogle.com",
+"url": "https://csp.withgoogle.com/csp/uxe-owners-acl/android",
+"type": "other"
+},
+{
+"t": 0.58,
+"host": "csp.withgoogle.com",
+"url": "https://csp.withgoogle.com/csp/uxe-owners-acl/android",
+"type": "other"
+},
+{
+"t": 0.68,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 6.68,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+}
+]

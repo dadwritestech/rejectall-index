@@ -1,0 +1,584 @@
+[
+{
+"t": 0.0,
+"host": "archive.org",
+"url": "https://archive.org/",
+"type": "document"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/index.css",
+"type": "stylesheet"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/vendor/lit/polyfill-support.js",
+"type": "script"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/vendor/@webcomponents/webcomponentsjs@2.6.0/webcomponents-loader.js",
+"type": "script"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/index-ehFxr3ox.js",
+"type": "script"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/rolldown-runtime-QTnfLwEv.js",
+"type": "script"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-_DEmk5JH.js",
+"type": "script"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/vendor-shared-62wh2Xkx.js",
+"type": "script"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/vendor-lit-MQ4DzmMc.js",
+"type": "script"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/vendor-topnav-BOPHx4XP.js",
+"type": "script"
+},
+{
+"t": 0.51,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/vendor-router-BJcn_WPh.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/home-page-B0jIYyNt.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-CBEo0B4h.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/ia-clearable-text-input-DzKtgxx_.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/ia-dropdown-_mXSwPEG.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/ia-status-indicator-DKFLINks.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-CTMeFT4b.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-BqHmxVdQ.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-CzdICBcN.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-naAOPxYm.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-C2wBh3A_.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/purify.es-RmFZhtLI.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/ia-dropdown-search-bar-B-9u2ZMZ.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/web-md_No8fd.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/collection-BgJMB0Jo.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/no-news-posts-override-B2Yx8f-o.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/models-Dke94Snz.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/basic-carousel-DvRiy8i-.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/psa-banners-CSTZeiHQ.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/alert-banner-CXhmsu2v.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/language-picker-B4Edlhtb.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/localization-experiment-OG0bvPJl.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/app-footer-CL3DBOp7.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/app-services-BHoJn55L.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/sentry-IRGl7jIf.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/esm-CWeBglMZ.js",
+"type": "script"
+},
+{
+"t": 1.06,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/donation-banner-handler-BuYl0sKS.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "apollo.archive.org",
+"url": "https://apollo.archive.org/js/container_ZUUaFed2.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/key-value-store-manager-DKsVROJn.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-DgLuovJH.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/psa-banner-service-CRzqdI8r.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/config-service-DMwmYXdW.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/abtest-manager-SUijhYDY.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/theme-manager-DHlZpp3x.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/theme-option-BP5-K2Y3.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-DRIhDsfp.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-CXM97COZ.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/media-count-service-B7mfk_27.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/wayback-search-handler-Bkq4Qa7L.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/csrf-service-CjPtpxs9.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/donation-banner-service-CMbl6fH5.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "athena.archive.org",
+"url": "https://athena.archive.org/0.gif",
+"type": "ping"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/app-root-controller-D-bzIxrE.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/page-metadata-service-aWkzH5qj.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/home-page-services-3ps3baAX.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "sink.archive.org",
+"url": "https://sink.archive.org/api/2/envelope/",
+"type": "fetch"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-DVfk5P_2.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/dist-DlEFsrQL.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/services/offshoot/home-page/mediacounts.php",
+"type": "fetch"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/light-slj4Jp5R.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/shared-BIt9aqay.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/services/donations/banner.php",
+"type": "fetch"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/services/offshoot/home-page/mediacounts.php",
+"type": "fetch"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/services/offshoot/home-page/announcements.php",
+"type": "fetch"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/video-BEzxxlRF.svg",
+"type": "image"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/services/offshoot/home-page/collections.php",
+"type": "fetch"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/services/offshoot/home-page/collections.php",
+"type": "fetch"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/services/offshoot/config.php",
+"type": "fetch"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/offshoot_assets/tv-search-handler-BukABSCi.js",
+"type": "script"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/services/offshoot/abtest.php",
+"type": "fetch"
+},
+{
+"t": 7.07,
+"host": "archive.org",
+"url": "https://archive.org/metadata/ymfubmvyx3b1ymxpyw/metadata",
+"type": "fetch"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/librivoxaudio",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/etree",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/audio_bookspoetry",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/uspto",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/apkarchive",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/folksoundomy",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/phonesoftware",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/booksbylanguage",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/internetarchivebooks",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/audio_religion",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/JaiGyan",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/kodi_archive",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/tvarchive",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/artsandmusicvideos",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/ElectricSheep",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/open-research-datasets",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/tvnews",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/digitallibraryindia",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/manuals",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/moviesandfilms",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/usfederalcourts",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/audio_islamic",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/folkscanomy",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/robarts",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "archive.org",
+"url": "https://archive.org/services/img/radioprograms",
+"type": "image"
+},
+{
+"t": 7.08,
+"host": "athena.archive.org",
+"url": "https://athena.archive.org/0.gif",
+"type": "ping"
+}
+]

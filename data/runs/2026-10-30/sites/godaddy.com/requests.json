@@ -1,0 +1,14 @@
+[
+{
+"t": 0.0,
+"host": "godaddy.com",
+"url": "https://godaddy.com/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "www.godaddy.com",
+"url": "https://www.godaddy.com/",
+"type": "document"
+}
+]

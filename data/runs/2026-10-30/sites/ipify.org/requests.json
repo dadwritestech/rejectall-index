@@ -1,0 +1,158 @@
+[
+{
+"t": 0.0,
+"host": "ipify.org",
+"url": "https://ipify.org/",
+"type": "document"
+},
+{
+"t": 0.47,
+"host": "www.ipify.org",
+"url": "https://www.ipify.org/",
+"type": "document"
+},
+{
+"t": 0.55,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css",
+"type": "stylesheet"
+},
+{
+"t": 0.55,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css",
+"type": "stylesheet"
+},
+{
+"t": 0.55,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "script.crazyegg.com",
+"url": "https://script.crazyegg.com/pages/scripts/0096/3644.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.55,
+"host": "www.ipify.org",
+"url": "https://www.ipify.org/static/dist/css/prism.css",
+"type": "stylesheet"
+},
+{
+"t": 0.55,
+"host": "www.ipify.org",
+"url": "https://www.ipify.org/static/dist/css/styles_v2.css",
+"type": "stylesheet"
+},
+{
+"t": 0.55,
+"host": "www.ipify.org",
+"url": "https://www.ipify.org/static/images/logo.png",
+"type": "image"
+},
+{
+"t": 0.55,
+"host": "www.ipify.org",
+"url": "https://www.ipify.org/static/svg/chevron-right.svg",
+"type": "image"
+},
+{
+"t": 0.55,
+"host": "www.ipify.org",
+"url": "https://www.ipify.org/static/images/ipify-map.png",
+"type": "image"
+},
+{
+"t": 0.55,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "cdnjs.cloudflare.com",
+"url": "https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "www.ipify.org",
+"url": "https://www.ipify.org/static/dist/js/prism.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "www.ipify.org",
+"url": "https://www.ipify.org/static/dist/js/main.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/profile/view",
+"type": "image"
+},
+{
+"t": 0.65,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrE.woff2",
+"type": "font"
+},
+{
+"t": 0.66,
+"host": "api.ipify.org",
+"url": "https://api.ipify.org/",
+"type": "script"
+},
+{
+"t": 0.66,
+"host": "api64.ipify.org",
+"url": "https://api64.ipify.org/",
+"type": "script"
+},
+{
+"t": 0.66,
+"host": "script.crazyegg.com",
+"url": "https://script.crazyegg.com/pages/data-scripts/0096/3644/site/www.ipify.org.json",
+"type": "xhr"
+},
+{
+"t": 0.75,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "www.linkedin.com",
+"url": "https://www.linkedin.com/uas/login",
+"type": "image"
+},
+{
+"t": 0.87,
+"host": "region1.analytics.google.com",
+"url": "https://region1.analytics.google.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 0.87,
+"host": "stats.g.doubleclick.net",
+"url": "https://stats.g.doubleclick.net/g/collect",
+"type": "ping"
+},
+{
+"t": 0.87,
+"host": "www.google.de",
+"url": "https://www.google.de/ads/ga-audiences",
+"type": "image"
+}
+]

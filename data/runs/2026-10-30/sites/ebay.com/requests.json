@@ -1,0 +1,20 @@
+[
+{
+"t": 0.0,
+"host": "ebay.com",
+"url": "https://ebay.com/",
+"type": "document"
+},
+{
+"t": 0.28,
+"host": "www.ebay.com",
+"url": "https://www.ebay.com/",
+"type": "document"
+},
+{
+"t": 0.36,
+"host": "secureir.ebaystatic.com",
+"url": "https://secureir.ebaystatic.com/cr/v/c1/4xx-bkgd.png",
+"type": "image"
+}
+]

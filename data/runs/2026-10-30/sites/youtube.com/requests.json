@@ -1,0 +1,878 @@
+[
+{
+"t": 0.0,
+"host": "youtube.com",
+"url": "https://youtube.com/",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/",
+"type": "document"
+},
+{
+"t": 0.27,
+"host": "i.ytimg.com",
+"url": "https://i.ytimg.com/generate_204",
+"type": "other"
+},
+{
+"t": 0.27,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.base_module_set.en_US.caV-3veiRLc.es5.O/am=AAAAABAAAAGAlA/d=1/br=1/rs=AGKMywEwzLo5x9OpN4xZfbXEJftf-ffMMQ/m=base",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.base_module_set.en_US.caV-3veiRLc.es5.O/am=AAAAABAAAAGAlA/d=1/exm=base/ed=1/br=1/rs=AGKMywEwzLo5x9OpN4xZfbXEJftf-ffMMQ/m=late,app",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/jsbin/custom-elements-es5-adapter.vflset/custom-elements-es5-adapter.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/jsbin/webcomponents-sd.vflset/webcomponents-sd.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/jsbin/intersection-observer.min.vflset/intersection-observer.min.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/jsbin/scheduler.vflset/scheduler.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/jsbin/www-i18n-constants-de_DE.vflset/www-i18n-constants.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/jsbin/spf.vflset/spf.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/jsbin/network.vflset/network.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css2",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/cssbin/www-main-desktop-home-page-skeleton.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/cssbin/www-onepick.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.base_module_set.AMR_33Au1Oc.L.B1.O/am=AAAAABDAAAHAng/d=0/br=1/rs=AGKMywEP_lCLaT-5P_OwKe9PnWC4WwoC7A",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/desktop/5b8fd169/cssbin/www-main-desktop-watch-page-skeleton.css",
+"type": "stylesheet"
+},
+{
+"t": 0.39,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/ServiceLogin",
+"type": "document"
+},
+{
+"t": 0.45,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 0.76,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.base_module_set.en_US.caV-3veiRLc.es5.O/am=AAAAABAAAAGAlA/d=1/exm=app,base,late/ed=1/br=1/rs=AGKMywEwzLo5x9OpN4xZfbXEJftf-ffMMQ/m=bGmj1b",
+"type": "script"
+},
+{
+"t": 0.76,
+"host": "www.google.com",
+"url": "https://www.google.com/js/th/iAkiX6pIdiOKUFnCNJ9wngcJ-9G8dmsccZT6pmAxnJQ.js",
+"type": "script"
+},
+{
+"t": 0.77,
+"host": "rr1---sn-q4flrne6.googlevideo.com",
+"url": "https://rr1---sn-q4flrne6.googlevideo.com/videoplayback",
+"type": "fetch"
+},
+{
+"t": 0.77,
+"host": "rr1---sn-q4flrne6.googlevideo.com",
+"url": "https://rr1---sn-q4flrne6.googlevideo.com/videoplayback",
+"type": "fetch"
+},
+{
+"t": 0.78,
+"host": "www.google.com",
+"url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png",
+"type": "image"
+},
+{
+"t": 0.8,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/sw.js",
+"type": "script"
+},
+{
+"t": 0.83,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/youtubei/v1/guide",
+"type": "fetch"
+},
+{
+"t": 0.83,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/search/v15/24px.svg",
+"type": "fetch"
+},
+{
+"t": 0.83,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/menu/v1/24px.svg",
+"type": "fetch"
+},
+{
+"t": 0.83,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_fill/yt-logo-updated/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 0.91,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css",
+"type": "stylesheet"
+},
+{
+"t": 0.92,
+"host": "fonts.googleapis.com",
+"url": "https://fonts.googleapis.com/css",
+"type": "stylesheet"
+},
+{
+"t": 0.92,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/youtubesans/v32/Qw38ZQNGEDjaO2m6tqIqX5E-AVS5_rSejo46_PCTRspJ0OosolrBEJL3HO_T7fE.woff2",
+"type": "font"
+},
+{
+"t": 0.92,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/youtubei/v1/feedback",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "youtube.com",
+"url": "https://youtube.com/",
+"type": "fetch"
+},
+{
+"t": 6.99,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/player/11a45ffb/player_es6.vflset/de_DE/base.js",
+"type": "script"
+},
+{
+"t": 6.99,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/player/11a45ffb/www-player.css",
+"type": "stylesheet"
+},
+{
+"t": 6.99,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/generate_204",
+"type": "image"
+},
+{
+"t": 6.99,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/api/jnn/v1/GenerateIT",
+"type": "xhr"
+},
+{
+"t": 7.0,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_outline/refresh/v1/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/chevron_down/v9/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/globe/v4/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/person_circle/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/shield_x/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/alert_triangle/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/chart_bar/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/arrow_trend_up/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/sparkles/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/price_tag/v8/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/overflow_vertical/v13/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/home/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/shorts/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/subscriptions/v12/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/history/v1/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/audio/v14/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/clapperboard/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/live/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/chevron_up/v9/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_fill/youtube_round/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_fill/youtube_music/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_fill/youtube_kids_round/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_fill/youtube_labs_red_logo/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/flag/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/x/v11/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/location_pin/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.base_module_set.en_US.caV-3veiRLc.es5.O/am=AAAAABAAAAGAlA/d=1/exm=app,bGmj1b,base,late/ed=1/br=1/rs=AGKMywEwzLo5x9OpN4xZfbXEJftf-ffMMQ/m=QlbBce,De8mUc",
+"type": "script"
+},
+{
+"t": 7.0,
+"host": "rr1---sn-q4flrne6.googlevideo.com",
+"url": "https://rr1---sn-q4flrne6.googlevideo.com/videoplayback",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "rr1---sn-q4flrne6.googlevideo.com",
+"url": "https://rr1---sn-q4flrne6.googlevideo.com/videoplayback",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.base_module_set.en_US.caV-3veiRLc.es5.O/am=AAAAABAAAAGAlA/d=1/exm=De8mUc,QlbBce,app,bGmj1b,base,late/ed=1/br=1/rs=AGKMywEwzLo5x9OpN4xZfbXEJftf-ffMMQ/m=yTIahe",
+"type": "script"
+},
+{
+"t": 7.0,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/player/11a45ffb/player_es6.vflset/de_DE/offline.js",
+"type": "script"
+},
+{
+"t": 7.0,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/player/11a45ffb/player_es6.vflset/de_DE/remote.js",
+"type": "script"
+},
+{
+"t": 7.0,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/s/player/11a45ffb/player_es6.vflset/de_DE/miniplayer.js",
+"type": "script"
+},
+{
+"t": 7.0,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+"type": "script"
+},
+{
+"t": 7.0,
+"host": "rr1---sn-q4flrne6.googlevideo.com",
+"url": "https://rr1---sn-q4flrne6.googlevideo.com/videoplayback",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "rr1---sn-q4flrne6.googlevideo.com",
+"url": "https://rr1---sn-q4flrne6.googlevideo.com/videoplayback",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/add_circle/v6/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.0,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/add_circle/v6/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/alert_bubble/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/audio/v14/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/bag/v7/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/bag/v7/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/bell/v11/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/bell/v11/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/clapperboard/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/clock/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/clock/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/copy/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_fill/creator_studio_red_logo/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/download/v11/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/fashion/v4/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/fashion/v4/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/flag/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/gaming/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/gaming/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/gear/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/gear/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/help_circle/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/home/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/lightbulb/v4/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/lightbulb/v4/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/mic/v14/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/mic/v14/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/news/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/news/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_fill/offline_no_content/v1/192px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/overflow_horizontal/v6/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/play_square_stack/v1/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/play_square_stack/v1/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/playlist/v5/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/podcast/v6/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/podcast/v6/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/search/v15/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/subscriptions/v12/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/thumb_up/v24/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/thumb_up/v24/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/trash_can/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/trash_can/v10/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/trending/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/trending/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/trophy/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/trophy/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_fill/unplugged_logo/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/video/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/video/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/video_camera_add/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/youtube_shorts/v11/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/youtube_shorts/v11/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/arrow_down/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/arrow_up/v3/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/pause/v9/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/play/v4/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/play/v4/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/share/v12/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/share/v12/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/text_bubble/v4/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/text_bubble/v4/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/thumb_down/v25/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/thumb_down/v25/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/volume_max/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/volume_max/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/volume_mute/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/volume_mute/v2/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.01,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/youtube/img/icons/web/youtube_outline/waveform/v1/24px.svg",
+"type": "fetch"
+},
+{
+"t": 7.02,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/youtubei/v1/log_event",
+"type": "xhr"
+},
+{
+"t": 9.15,
+"host": "www.youtube.com",
+"url": "https://www.youtube.com/upgrade_visitor_cookie",
+"type": "fetch"
+},
+{
+"t": 13.15,
+"host": "consent.youtube.com",
+"url": "https://consent.youtube.com/save",
+"type": "fetch"
+}
+]

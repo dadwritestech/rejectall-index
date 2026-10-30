@@ -1,0 +1,326 @@
+[
+{
+"t": 0.0,
+"host": "apple.com",
+"url": "https://apple.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "www.apple.com",
+"url": "https://www.apple.com/",
+"type": "document"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/ac/globalfooter/8/en_US/styles/ac-globalfooter.built.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/ac/localnav/9/styles/ac-localnav.built.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/styles/main.built.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/styles/tile-macbook-proled.built.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/styles/homepage.built.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/autopush/us/fam-gallery/styles/home-gallery.built.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/styles/inline-media.built.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/homepage/styles/index_410layle.built.css",
+"type": "stylesheet"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/head.built.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/metrics/ac-analytics/2.30.0/scripts/ac-analytics.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/metrics/ac-analytics/2.30.0/scripts/auto-init.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/images/macbook-pro-proled-xdr/a/hero_macbook_pro_proled_xdr_animated_preorder_startframe__dnrzzn9ywj2a_largetall.jpg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/images/macbook-pro-proled-xdr/a/hero_macbook_pro_proled_xdr_animated_preorder__c7dgzbk10sqe_largetall.jpg",
+"type": "image"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/ac/globalfooter/8/en_US/scripts/ac-globalfooter.built.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/ac/localeswitcher/4/en_US/scripts/localeswitcher.built.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/macbook-proled.built.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/iphone-duo.built.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/autopush/us/fam-gallery/scripts/endless-entertainment-gallery.built.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/inline-media.built.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/main.built.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/homepage.built.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/metrics/data-relay/1.2.0/scripts/data-relay.js",
+"type": "script"
+},
+{
+"t": 0.11,
+"host": "www.apple.com",
+"url": "https://www.apple.com/metrics/data-relay/1.2.0/scripts/auto-relay.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff2",
+"type": "font"
+},
+{
+"t": 0.17,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2",
+"type": "font"
+},
+{
+"t": 0.17,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.woff2",
+"type": "font"
+},
+{
+"t": 0.19,
+"host": "www.apple.com",
+"url": "https://www.apple.com/api-www/global-elements/global-header/v1/flyouts",
+"type": "fetch"
+},
+{
+"t": 0.19,
+"host": "www.apple.com",
+"url": "https://www.apple.com/search-services/suggestions/defaultlinks/",
+"type": "fetch"
+},
+{
+"t": 0.19,
+"host": "www.apple.com",
+"url": "https://www.apple.com/us/shop/bag/status",
+"type": "xhr"
+},
+{
+"t": 0.2,
+"host": "securemetrics.apple.com",
+"url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s15906774202020",
+"type": "image"
+},
+{
+"t": 0.21,
+"host": "www.apple.com",
+"url": "https://www.apple.com/ac/localeswitcher/4/de_DE/content/localeswitcher.json",
+"type": "xhr"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular.woff2",
+"type": "font"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_bold.woff2",
+"type": "font"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/ac/localeswitcher/4/de_DE/styles/localeswitcher.built.css",
+"type": "stylesheet"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/ComponentMap-thvKzGgL.built.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/videoWatch-Dp-HXwn9.built.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/inlineMediaSource-CPCc_KTS.built.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/HpViewport-DHyTaS-L.built.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/_commonjsHelpers-JypJ4tLA.built.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/AnimSystemModel-CyyfEbM8.built.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/a/scripts/index-DSp7vY0t.built.js",
+"type": "script"
+},
+{
+"t": 0.33,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_light.woff2",
+"type": "font"
+},
+{
+"t": 0.33,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light.woff2",
+"type": "font"
+},
+{
+"t": 0.38,
+"host": "securemetrics.apple.com",
+"url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s15906774202020",
+"type": "image"
+},
+{
+"t": 6.46,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/images/macbook-pro-m6/a/hero_macbook_pro_m6_preorder__djr4reqm3ziq_largetall.jpg",
+"type": "image"
+},
+{
+"t": 6.46,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated_startframe__blm9gj3ulmc2_largetall.jpg",
+"type": "image"
+},
+{
+"t": 6.46,
+"host": "www.apple.com",
+"url": "https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated__ggqp9olf1ii6_largetall.jpg",
+"type": "image"
+},
+{
+"t": 6.46,
+"host": "www.apple.com",
+"url": "https://www.apple.com/105/media/us/homepage/2026/5c1fef9a-1b4d-485b-b786-69f4eaafa798/anim/hero/largetall.mp4",
+"type": "media"
+},
+{
+"t": 6.46,
+"host": "www.apple.com",
+"url": "https://www.apple.com/105/media/us/homepage/2026/dfe63e15-1d50-4ed5-bffc-c121fa0b8626/anim/hero/largetall.mp4",
+"type": "media"
+}
+]

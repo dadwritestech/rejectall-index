@@ -1,0 +1,914 @@
+[
+{
+"t": 0.0,
+"host": "intuit.com",
+"url": "https://intuit.com/",
+"type": "document"
+},
+{
+"t": 0.08,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/",
+"type": "document"
+},
+{
+"t": 0.35,
+"host": "authz.intuitcdn.net",
+"url": "https://authz.intuitcdn.net/lib/consent-storage-1-3-11.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/scripttemplates/otSDKStub.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "uxfabric.intuitcdn.net",
+"url": "https://uxfabric.intuitcdn.net/gdpr-util/2.11.0/gdprUtilBundle.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/consent-wrapper/cookies-consent-wrapper.min.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/qbmds-components/styles/icom/fonts.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "assets.intuitcdn.net",
+"url": "https://assets.intuitcdn.net/fonts/avenir-700.woff2",
+"type": "font"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/qbmds-components/releases/8077/styles/icom/stylesheet.atoms_molecules_globals.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/gwp-components/releases/2318/styles/icom/blocks.icom.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/icom-components/release/1285/blocks/icom-components/m-global-navigation-brands.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/icom-components/release/1285/blocks/icom-components/a-logotype.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/icom-components/release/1285/blocks/icom-components/s01-mega-nav.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/icom-components/release/1285/blocks/icom-components/m-navigation-links.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/icom-components/release/1285/blocks/icom-components/m-navigation-link-group.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/icom-components/release/1285/blocks/icom-components/a-navigation-link.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/qbmds-components/releases/8077/styles/icom/qbmds/footer.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "uxfabric.intuitcdn.net",
+"url": "https://uxfabric.intuitcdn.net/components/design-systems/tokens/ddms3.0/prod/25.66.9/css/intuit.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/css/d0425cf1d94bc0e02537.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/css/9b7b1cde11e7042e7c03.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/567.371db1dfc04b2e87c24e.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/645.2bac1b7988d5e0317e11.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/icom-components.0a51a9fc98dc5756b6c3.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/2.b41805cae1ef25f30260.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/329.512fcabc289aaa6aac73.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/5.8c91b361ede7edc2394b.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/6.e1b5708bb2a5d86aa967.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/334.b418e59f24005634bbf4.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/663.f537ef1cd3505a2722fd.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/webpack-888f99b88a1fe6a36be4.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/main~pages/_app~pages~4168e7f8.6b4f13fb6b04e5968fe8.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/main~pages/_app~pages~bd1c662b.b12a0732eac33c7bb69d.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/main~pages/_app.91b12bdd9025f8c14065.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/main-8119e7df939504592c35.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/pages/_app~pages/page~c8f16714.bdb9d8272deba7fcad6f.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/pages/_app~pages/page~1a966ba2.a8aac68a7868c32fe5c7.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/pages/_app-fb9129ee3e20540e97e5.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/pages/page/%5B...slug%5D~~0590d092.58ce58dd4f9dff034e0e.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/pages/page/%5B...slug%5D~~19ffc5e2.2c632f510a66ef8de761.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/chunks/pages/page/render/cas/%5Bcasid%5D-527bd3cfb9c5cc998144.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/qD8737UvWxzzj-_ONKzu8/_buildManifest.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/_next/static/qD8737UvWxzzj-_ONKzu8/_ssgManifest.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "tags.tiqcdn.com",
+"url": "https://tags.tiqcdn.com/utag/intuit/brand-icom/prod/utag.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "uxfabric.intuitcdn.net",
+"url": "https://uxfabric.intuitcdn.net/@cloud-monitoring/prod/o11y-rum-web.min.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/qbmds-components/scripts/o11y/init-0.0.1.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/qbmds-components/releases/7592/styles/icom/fonts.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/assets/disclaimer.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/assets/main.css",
+"type": "stylesheet"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/assets/main.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/homepage.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/main_anim_poster.png",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/intuit-intelligence_blue.svg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/intuit-quickbooks_blue.svg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/business-quickbooks.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/intuit-enterprise-suite_white.svg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/business-enterprise-suite.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/intuit-mailchimp_blue.svg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/business-mailchimp.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/intuit-turbotax_blue.svg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/consumer-turbotax.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/intuit-credit-karma_blue.svg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/consumer-creditkarma.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/intuit-accountant-suite_white.svg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/accountants-accountant-suite.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/intuit-professional-tax_blue.svg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/accountants-proconnect-tax.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/h-z/intuit-news-nfl-partnership-lockup-icom-20260930-828x720.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/h-z/intuit-muse-partnership-icom-20260929-828x720.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/h-z/intuit-ideas-la-bodega-jeanette-photo-icom-202601001828x720.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/whatsnew-1.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/h-z/intuit-news-economic-impact-photo-icom-20260915-828x720.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/h-z/intuit-news-power-careers-readiness-photo-icom-20260915-828x720.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/footer_anim_poster.png",
+"type": "image"
+},
+{
+"t": 0.72,
+"host": "s.go-mpulse.net",
+"url": "https://s.go-mpulse.net/boomerang/XKSVH-VHXLG-3GR2M-FGVYL-VFX7W",
+"type": "script"
+},
+{
+"t": 0.73,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/assets/disclaimer.js",
+"type": "script"
+},
+{
+"t": 0.73,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/assets/whatsNewFlickity.js",
+"type": "script"
+},
+{
+"t": 0.73,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/assets/navOpen.js",
+"type": "script"
+},
+{
+"t": 0.73,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/Intuit-HomepageClips-JB-v03_NoText_9mb_02.mp4",
+"type": "media"
+},
+{
+"t": 0.73,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/Intuit_SiteDesign_ATF_Propeller_VP9.webm",
+"type": "media"
+},
+{
+"t": 0.73,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/260902_Site_D1_Footer_2xRes_VP9.webm",
+"type": "media"
+},
+{
+"t": 0.74,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 0.74,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 0.74,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 0.74,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 0.74,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 0.74,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/consent/74130b76-29e2-4d72-ab52-09f9ed5818fb/74130b76-29e2-4d72-ab52-09f9ed5818fb.json",
+"type": "xhr"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/quickbooks--coloured.svg",
+"type": "image"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/logos/intuit-standalone-superblue-tally-logo-icom.svg",
+"type": "image"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/logos/turbotax-signature-light-tally-logo-icom.svg",
+"type": "image"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/logos/creditkarma-signature-light-tally-logo-icom.svg",
+"type": "image"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/logos/quickbooks-signature-light-tally-logo-icom.svg",
+"type": "image"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/logos/mailchimp-signature-light-tally-logo-icom.svg",
+"type": "image"
+},
+{
+"t": 0.79,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/qbmds-components/fonts/avenir-700.woff2",
+"type": "font"
+},
+{
+"t": 0.79,
+"host": "www.intuit.com",
+"url": "https://www.intuit.com/qbmds-components/fonts/avenir-400.woff2",
+"type": "font"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/TallyDisplay-Bold.woff2",
+"type": "font"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/Tally-Medium.woff2",
+"type": "font"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/TallyDisplay-Medium.woff2",
+"type": "font"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/generic/Tally-Regular.woff2",
+"type": "font"
+},
+{
+"t": 0.79,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/TallyDisplay-Regular.woff2",
+"type": "font"
+},
+{
+"t": 0.8,
+"host": "geolocation.onetrust.com",
+"url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+"type": "xhr"
+},
+{
+"t": 0.82,
+"host": "tags.tiqcdn.com",
+"url": "https://tags.tiqcdn.com/utag/intuit/brand-icom/prod/utag.v.js",
+"type": "script"
+},
+{
+"t": 0.83,
+"host": "c.go-mpulse.net",
+"url": "https://c.go-mpulse.net/api/config.json",
+"type": "xhr"
+},
+{
+"t": 0.85,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/scripttemplates/202601.2.0/otBannerSdk.js",
+"type": "script"
+},
+{
+"t": 0.92,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/consent/74130b76-29e2-4d72-ab52-09f9ed5818fb/019eeed9-e846-7622-a3a6-c99b58b68b73/019eeed9-eb16-711e-8784-cad2662879ff/de.json",
+"type": "fetch"
+},
+{
+"t": 0.95,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/scripttemplates/202601.2.0/assets/otFlat.json",
+"type": "fetch"
+},
+{
+"t": 0.95,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/scripttemplates/202601.2.0/assets/v2/otPcCenter.json",
+"type": "fetch"
+},
+{
+"t": 0.95,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/scripttemplates/202601.2.0/assets/otCommonStyles.css",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/consent/74130b76-29e2-4d72-ab52-09f9ed5818fb/019eeed9-e846-7622-a3a6-c99b58b68b73/019eeed9-eb16-711e-8784-cad2662879ff/logos/static/ot_guard_logo.svg",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "consent.intuit.com",
+"url": "https://consent.intuit.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "consent.intuit.tsheets.com",
+"url": "https://consent.intuit.tsheets.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "consent.intuit.quickbooksconnect.com",
+"url": "https://consent.intuit.quickbooksconnect.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "consent.www.firmofthefuture.com",
+"url": "https://consent.www.firmofthefuture.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "consent.mailchimp.com",
+"url": "https://consent.mailchimp.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 1.0,
+"host": "consent.freecreditkarmatax.com",
+"url": "https://consent.freecreditkarmatax.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 1.0,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 1.0,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 1.0,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 1.0,
+"host": "consent-management.intuit.com",
+"url": "https://consent-management.intuit.com/consent/public/v1/graphql",
+"type": "fetch"
+},
+{
+"t": 1.0,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/consent/74130b76-29e2-4d72-ab52-09f9ed5818fb/019eeed9-e846-7622-a3a6-c99b58b68b73/019eeed9-eb16-711e-8784-cad2662879ff/logos/e386905c-240c-45e6-9cba-96e9d7c4775f/01a0d73b-e6ad-76c8-b972-b2d6b0ed98f9/336fea86-772e-4e86-a76b-856bbb5fb30a/Intuit_logo.png",
+"type": "image"
+},
+{
+"t": 1.0,
+"host": "privacy-cdn.a.intuit.com",
+"url": "https://privacy-cdn.a.intuit.com/stable/consent/74130b76-29e2-4d72-ab52-09f9ed5818fb/019eeed9-e846-7622-a3a6-c99b58b68b73/019eeed9-eb16-711e-8784-cad2662879ff/logos/static/powered_by_logo.svg",
+"type": "image"
+},
+{
+"t": 1.37,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/customer-stories-johan-lam.jpg",
+"type": "image"
+},
+{
+"t": 1.37,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/customer-stories-eric-edelson.jpg",
+"type": "image"
+},
+{
+"t": 1.37,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/customer-stories-jacqui-palhegyi.jpg",
+"type": "image"
+},
+{
+"t": 1.37,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/customer-stories-sam-prater.jpg",
+"type": "image"
+},
+{
+"t": 1.37,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/customer-stories-rozlynn-yong.jpg",
+"type": "image"
+},
+{
+"t": 1.37,
+"host": "uxfabric.intuitcdn.net",
+"url": "https://uxfabric.intuitcdn.net/@cloud-monitoring/prod/o11y-rum-web-exporter.min.js",
+"type": "script"
+},
+{
+"t": 1.37,
+"host": "uxfabric.intuitcdn.net",
+"url": "https://uxfabric.intuitcdn.net/@cloud-monitoring/prod/o11y-rum-web-window-perf.min.js",
+"type": "script"
+},
+{
+"t": 1.37,
+"host": "uxfabric.intuitcdn.net",
+"url": "https://uxfabric.intuitcdn.net/@cloud-monitoring/prod/o11y-rum-web-vitals.min.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "uxfabric.intuitcdn.net",
+"url": "https://uxfabric.intuitcdn.net/@cloud-monitoring/prod/591.min.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "uxfabric.intuitcdn.net",
+"url": "https://uxfabric.intuitcdn.net/@cloud-monitoring/prod/o11y-rum-gzip-transformer.min.js",
+"type": "script"
+},
+{
+"t": 7.42,
+"host": "ace8d973.akstat.io",
+"url": "https://ace8d973.akstat.io/",
+"type": "ping"
+},
+{
+"t": 7.42,
+"host": "trial-eum-clientnsv4-s.akamaihd.net",
+"url": "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+"type": "xhr"
+},
+{
+"t": 7.42,
+"host": "trial-eum-clienttons-s.akamaihd.net",
+"url": "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
+"type": "xhr"
+},
+{
+"t": 7.42,
+"host": "eaaquyj2gzuaciabbjqja5iaafvoizmr-pk18ew-563ad7b5a-clienttons-s.akamaihd.net",
+"url": "https://eaaquyj2gzuaciabbjqja5iaafvoizmr-pk18ew-563ad7b5a-clienttons-s.akamaihd.net/eum/results.txt",
+"type": "xhr"
+},
+{
+"t": 7.42,
+"host": "h3mndjr66wftc2xemwiq-pk18ew-e0135ac33-clientnsv4-s.akamaihd.net",
+"url": "https://h3mndjr66wftc2xemwiq-pk18ew-e0135ac33-clientnsv4-s.akamaihd.net/eum/results.txt",
+"type": "xhr"
+},
+{
+"t": 7.42,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 7.42,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 7.42,
+"host": "rum.api.intuit.com",
+"url": "https://rum.api.intuit.com/v1/rum/web",
+"type": "fetch"
+},
+{
+"t": 7.42,
+"host": "digitalasset.intuit.com",
+"url": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/images/ic_2026/homepage/Intuit_SiteDesign_ATF_Propeller_VP9.webm",
+"type": "media"
+},
+{
+"t": 13.56,
+"host": "privacyportal.onetrust.com",
+"url": "https://privacyportal.onetrust.com/request/v1/consentreceipts/anonymous",
+"type": "xhr"
+},
+{
+"t": 13.57,
+"host": "consent.intuit.com",
+"url": "https://consent.intuit.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "consent.intuit.tsheets.com",
+"url": "https://consent.intuit.tsheets.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "consent.intuit.quickbooksconnect.com",
+"url": "https://consent.intuit.quickbooksconnect.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "consent.www.firmofthefuture.com",
+"url": "https://consent.www.firmofthefuture.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "consent.mailchimp.com",
+"url": "https://consent.mailchimp.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "consent.freecreditkarmatax.com",
+"url": "https://consent.freecreditkarmatax.com/api/sync",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "consent-management.intuit.com",
+"url": "https://consent-management.intuit.com/consent/public/v1/graphql",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+},
+{
+"t": 13.57,
+"host": "logging.api.intuit.com",
+"url": "https://logging.api.intuit.com/v2/log/message",
+"type": "fetch"
+}
+]

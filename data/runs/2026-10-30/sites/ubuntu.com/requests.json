@@ -1,0 +1,434 @@
+[
+{
+"t": 0.0,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/",
+"type": "document"
+},
+{
+"t": 0.14,
+"host": "assets.ubuntu.com",
+"url": "https://assets.ubuntu.com/v1/703e23c9-lazysizes+noscript+native-loading.5.1.2.min.js",
+"type": "script"
+},
+{
+"t": 0.14,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/js/src/navigation.js",
+"type": "script"
+},
+{
+"t": 0.14,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/js/dist/main.js",
+"type": "script"
+},
+{
+"t": 0.14,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/js/src/infer-preferred-language.js",
+"type": "script"
+},
+{
+"t": 0.14,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/js/src/csp-event-handlers.js",
+"type": "script"
+},
+{
+"t": 0.14,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/css/styles.css",
+"type": "stylesheet"
+},
+{
+"t": 0.14,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/fonts/ubuntu-variable-latin.woff2",
+"type": "font"
+},
+{
+"t": 0.14,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/fonts/ubuntu-variable-latin-italic.woff2",
+"type": "font"
+},
+{
+"t": 0.14,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/fonts/ubuntu-mono-variable.woff2",
+"type": "font"
+},
+{
+"t": 0.15,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/css/cookie-policy.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/js/dist/cookie-policy.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/js/dist/cookie-policy-with-callback.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/js/src/usabilla-loader.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "assets.ubuntu.com",
+"url": "https://assets.ubuntu.com/v1/82818827-CoF_white.svg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "assets.ubuntu.com",
+"url": "https://assets.ubuntu.com/v1/25e47e0c-stingray_hero_1440_final.jpg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_197/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F21bcdd1e-resolute_raccoon_white.png",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "assets.ubuntu.com",
+"url": "https://assets.ubuntu.com/v1/8114528b-picto-ubuntu-orange.png",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_svg,q_auto,fl_sanitize,w_24/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F398d9c17-pause.svg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_svg,q_auto,fl_sanitize,w_24/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F58c707b0-play.svg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/js/dist/latest-news.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/js/dist/homepage.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/static/css/print.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F507b99d6-dock_firefox.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F1b4a7749-dock_files.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F63ba45ed-dock_app_center.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Fddc45f05-dock_terminal.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F155e0cfc-dock_trash.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F388636e0-laptop.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_32/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F01826f67-gitkraken.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_32/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F37359d31-intellijidea.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_32/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Ffae26e39-msteams.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_32/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F3d93e0f9-slack.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_32/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Fa90b78a2-vscode.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F24321a0e-server.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F9629cd21-cloud.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F22d309b2-cpu.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_246/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F9bb95650-amd_logo.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_546/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Fbea5df02-dell_logo.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_130/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F0e1d412a-hp_logo.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_186/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F5df474dd-intel_new_logo.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_291/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F107480b5-lenovo_logo.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_411/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Fd08fd6c8-nvidia_logo.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/blog/latest-news",
+"type": "xhr"
+},
+{
+"t": 0.33,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/account.json",
+"type": "fetch"
+},
+{
+"t": 0.36,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_1280/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F00091207-community_square_poster.jpg",
+"type": "image"
+},
+{
+"t": 0.36,
+"host": "res.cloudinary.com",
+"url": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_1200/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F756b1290-community_summit_poster.jpg",
+"type": "image"
+},
+{
+"t": 0.37,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/takeovers.json",
+"type": "xhr"
+},
+{
+"t": 0.37,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/user-country-tz.json",
+"type": "xhr"
+},
+{
+"t": 0.37,
+"host": "assets.ubuntu.com",
+"url": "https://assets.ubuntu.com/v1/f1ea362b-Ubuntu[wdth,wght]-latin-v0.896a.woff2",
+"type": "font"
+},
+{
+"t": 0.37,
+"host": "assets.ubuntu.com",
+"url": "https://assets.ubuntu.com/v1/d5fc1819-UbuntuMono[wght]-latin-v0.869.woff2",
+"type": "font"
+},
+{
+"t": 0.38,
+"host": "assets.ubuntu.com",
+"url": "https://assets.ubuntu.com/v1/4c820a68-Artboard%20133.svg",
+"type": "image"
+},
+{
+"t": 6.52,
+"host": "assets.ubuntu.com",
+"url": "https://assets.ubuntu.com/v1/d91c14a6-stingray_hero_1440.mp4",
+"type": "media"
+},
+{
+"t": 6.52,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 6.52,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 6.52,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 6.52,
+"host": "bat.bing.com",
+"url": "https://bat.bing.com/bat.js",
+"type": "script"
+},
+{
+"t": 6.52,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/ccm/collect",
+"type": "fetch"
+},
+{
+"t": 6.52,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 6.52,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/conversion/608589488/",
+"type": "fetch"
+},
+{
+"t": 6.52,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/ccm/collect",
+"type": "fetch"
+},
+{
+"t": 6.52,
+"host": "bat.bing.com",
+"url": "https://bat.bing.com/p/action/343268575.js",
+"type": "script"
+},
+{
+"t": 6.52,
+"host": "www.clarity.ms",
+"url": "https://www.clarity.ms/tag/uet/343268575",
+"type": "script"
+},
+{
+"t": 6.52,
+"host": "bat.bing.net",
+"url": "https://bat.bing.net/actionp/0",
+"type": "ping"
+},
+{
+"t": 6.52,
+"host": "scripts.clarity.ms",
+"url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+"type": "script"
+},
+{
+"t": 6.52,
+"host": "t.clarity.ms",
+"url": "https://t.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 6.52,
+"host": "bat.bing.net",
+"url": "https://bat.bing.net/action/0",
+"type": "image"
+},
+{
+"t": 6.52,
+"host": "bat.bing.net",
+"url": "https://bat.bing.net/action/0",
+"type": "image"
+},
+{
+"t": 8.55,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 9.65,
+"host": "t.clarity.ms",
+"url": "https://t.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 9.75,
+"host": "ubuntu.com",
+"url": "https://ubuntu.com/_cookies/set-preferences",
+"type": "fetch"
+},
+{
+"t": 13.75,
+"host": "t.clarity.ms",
+"url": "https://t.clarity.ms/collect",
+"type": "xhr"
+}
+]

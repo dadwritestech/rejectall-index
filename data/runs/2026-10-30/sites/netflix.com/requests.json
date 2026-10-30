@@ -1,0 +1,458 @@
+[
+{
+"t": 0.0,
+"host": "netflix.com",
+"url": "https://netflix.com/",
+"type": "document"
+},
+{
+"t": 0.11,
+"host": "www.netflix.com",
+"url": "https://www.netflix.com/",
+"type": "document"
+},
+{
+"t": 0.28,
+"host": "www.netflix.com",
+"url": "https://www.netflix.com/de/",
+"type": "document"
+},
+{
+"t": 0.94,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/ui/landingPages/nmhp/nmhpFrameworkClient.0fcf103d2a9b5553e69c.js",
+"type": "script"
+},
+{
+"t": 0.94,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/scripttemplates/otSDKStub.js",
+"type": "script"
+},
+{
+"t": 0.94,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/@nf-web-ui/ui-shared/dist/less/signup/nmhp/nmhp.1afe2e52bff213979e1d.css",
+"type": "stylesheet"
+},
+{
+"t": 0.95,
+"host": "logs.netflix.com",
+"url": "https://logs.netflix.com/log/wwwhead/cl/2",
+"type": "xhr"
+},
+{
+"t": 0.95,
+"host": "logs.netflix.com",
+"url": "https://logs.netflix.com/log/wwwhead/cl/2",
+"type": "xhr"
+},
+{
+"t": 0.97,
+"host": "occ.a.nflxso.net",
+"url": "https://occ.a.nflxso.net/genc/hawkins/5.32.0/font/netflix-sans-core-variable-full.woff2",
+"type": "font"
+},
+{
+"t": 0.97,
+"host": "occ.a.nflxso.net",
+"url": "https://occ.a.nflxso.net/genc/hawkins/5.32.0/font/netflix-sans-mono-variable-full.woff2",
+"type": "font"
+},
+{
+"t": 0.97,
+"host": "occ.a.nflxso.net",
+"url": "https://occ.a.nflxso.net/dnmt/api/v6/iL4oJVDYZ8KLSrJ6eG2OwtghbfQ/AAAAAchJje9GUBJ_ehbO0uOApH8QmRyuvK0LQI9obzFeGtfkpfLyh4FdolMZR4PtvyNoOomDcY7BzTbhFC3gJinH0UadYBg807AKDSPyfsUDm9T3CZKn9OSZN3II7060MZESFcb6YOS9jvzh.svg",
+"type": "image"
+},
+{
+"t": 0.97,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/ffe/siteui/vlv3/29195c81-5ebb-453e-82e9-d3a50737dfb3/web/DE-de-20261026-TRIFECTA-perspective_51e472db-62e6-4fab-a95f-2e1f7f845e9f_large.jpg",
+"type": "image"
+},
+{
+"t": 1.0,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/consent/87b6a5c0-0104-4e96-a291-092c11350111/87b6a5c0-0104-4e96-a291-092c11350111.json",
+"type": "xhr"
+},
+{
+"t": 1.04,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABbkGMgKNRbDjJWBB_pNywasG1qu9_Nx-6cZmlqm4bRtoi5FiWZfcLiJKtR4ah8aqPOBLVQJazg15iGqQAvLD5ScI2YiNDmjXyRt-Nold8yqC6xgolhgbum-O6sr4Ut-889t5.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABbN0EynZR-_qSDpZTMAKEih_JkXQD0TMj13MMClsTf7bo6cKCYmSOclsRSi9S6ff6ehC8V5S9mefLSL8VBBGShACfNLI-wsTchVhcgabunIwmZD0UhITw1RiO4lsiI--kFZH.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABVqDMNnREFynMFZEJDkFNW-KUwKUDunHv995SANNeO5ELF7xzdR58FtoYIWve91wayY5pm2vCO0DRbKBhUED6sswOwQ-WM8JviiTIBbt5lxI1qAlT7zWho0AEVh3-Ipv9Sfu.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABR8fE_Dqk_up1j82UmUUt7PgrkWYIP75i4Louk7L78N7c7fdL2w4LxE9tHy9Kjq0YOi1mMF23R0VQqIeWx6wjDHW0CGd9NlDfPqlkDFLsJ8DpJFiU5Xx0pZa6QMqrRC2gQQW.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABY1CurKwmy3XzMWB0gDLih-n2Dik9r73CZK8i_Mrc69YgpsBO1SGqn_kxVuitzF6r7jJemwei6ntMy3ljgfvI_Iu7_vgF7v2iGg.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABVR8tfrQnAnwNYGWgGc06D4piowOtQzXDWlB0kOC9yv5KbiCqsIBf_XcjtoO5RLKcbWzT2Zdor0ui7V08DGZma65V926aC3qjbNZKZ2qWIr6iNbEJeWXinZB3-PBZyIoI7Bj.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABQFEP846kCW4Jge8x5Gyzcceou5Zozt-xBJTpNzRJMFmOtAdHwFpE5Lf5JyNuk8Gxub0sNhIZbqNb0OMxMeu3waC1i52Su4SR7c.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABaViQtYN9jRvipVTf7oxK3UEucSn6x6Hrn-OKsTE_AysHDsmAV-tX0adwo84oYjYHTcKaP9i6669y3UvV_KxZyEy7wPT21pAIEkY2qb_6D1y9QYWcRu-O9KOg5LkiWz6OI_E.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABYjruPCaTZac9yZSVfGrrkWNCfg5TYY04KzaDPRw-iR3yRTjiGr6qCSHA9YP4P1ZfPtP2YANR7gf-yc4hQYBYjQKKfG_JoBR1eA.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ-0-65-2774.1.nflxso.net",
+"url": "https://occ-0-65-2774.1.nflxso.net/dnm/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABQCGKKrm-cBv35KEpalMqthYVxdhmDUGuM7Tu24zOqFBhP-VhFZSOJlBop4oi6wplip2XME594zUox5OiiTblUYOz9mKv4xEgsM.webp",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff2",
+"type": "font"
+},
+{
+"t": 1.05,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff2",
+"type": "font"
+},
+{
+"t": 1.05,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Bd.woff2",
+"type": "font"
+},
+{
+"t": 1.05,
+"host": "occ.a.nflxso.net",
+"url": "https://occ.a.nflxso.net/dnmt/api/v6/jXBzyCe8ipOg2XQkxoKMq9wr74g/AAAAAYOtDq767CeFItk0OIBEiI09OCl9F2ndMJxrcS71Bd8dNgQX7GUes-noujaMIDj7HVSR1KL1RY2Ww1yi3BrHvPb6aCQp3BqkpP2SgHHRadg6A3WKmA-Vh4zFmshGEX3uzHbJpzFIeW_9q_2V4DuW4uy3C2b3jK4.svg",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ.a.nflxso.net",
+"url": "https://occ.a.nflxso.net/dnmt/api/v6/jXBzyCe8ipOg2XQkxoKMq9wr74g/AAAAAX8YjPCPORvLdgSGPGKSsX2bmapkFiO8Rdp81Q7wf9TtMZp4jxn4p2Axe8KKpqXoPvsngA8oireqjxRekDYEEb7iuUvcsxRkY1GCV5U05hNJRzJslMUMmUUjh6617OcwAHjB4qoqBDWJ2_VK8KLIivb5pVFYpcxI.svg",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "occ.a.nflxso.net",
+"url": "https://occ.a.nflxso.net/dnmt/api/v6/jXBzyCe8ipOg2XQkxoKMq9wr74g/AAAAATYRAng8gzcwqyfCsI3W5c2EQv1gEV49xaVUV1PsskbJ8bFBGq_19skge81LZBKltE_ZCqiV5IuovFvRrDknY3JH4ISDj8tW6vCe2Ps0QQ3_pH6qUv8WfqycLmEDs3vqWvNshWWk6Uez4RW22XOXa4PEIPMrpia5ML4.svg",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "geolocation.onetrust.com",
+"url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+"type": "xhr"
+},
+{
+"t": 1.1,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/scripttemplates/202609.2.0/otBannerSdk.js",
+"type": "script"
+},
+{
+"t": 1.23,
+"host": "logs.netflix.com",
+"url": "https://logs.netflix.com/log/www/cl/2",
+"type": "fetch"
+},
+{
+"t": 1.23,
+"host": "www.netflix.com",
+"url": "https://www.netflix.com/log/www/1",
+"type": "fetch"
+},
+{
+"t": 1.33,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "www.netflix.com",
+"url": "https://www.netflix.com/graphql",
+"type": "fetch"
+},
+{
+"t": 1.33,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/1559.0f4c3e0f991af3f0d0c9.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/8980.c3aa14f4b765eb11bd17.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/3543.b0a59657c5c76702c0fc.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/5765.a8e017b6922b089ee742.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/2549.c6997407d660d82e7c23.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/7522.a304d368d33b635dd98f.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/413.96a831df47a7b820636f.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/1745.88dd51fa1f25a8bfc081.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "assets.nflxext.com",
+"url": "https://assets.nflxext.com/web/ffe/wp/2541.d2049d9adc1c273bdb0e.js",
+"type": "script"
+},
+{
+"t": 1.38,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/consent/87b6a5c0-0104-4e96-a291-092c11350111/019ae4b5-d8b1-7864-8e94-75a86b260122/de.json",
+"type": "fetch"
+},
+{
+"t": 1.39,
+"host": "logs.netflix.com",
+"url": "https://logs.netflix.com/log/www/cl/2",
+"type": "fetch"
+},
+{
+"t": 1.39,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 1.44,
+"host": "cookies-data.onetrust.io",
+"url": "https://cookies-data.onetrust.io/cfw/cmp/v1/session",
+"type": "fetch"
+},
+{
+"t": 1.44,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/scripttemplates/202609.2.0/assets/otFlat.json",
+"type": "fetch"
+},
+{
+"t": 1.44,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/scripttemplates/202609.2.0/assets/v2/otPcTab.json",
+"type": "fetch"
+},
+{
+"t": 1.44,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/scripttemplates/202609.2.0/assets/otCommonStyles.css",
+"type": "fetch"
+},
+{
+"t": 1.5,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/anchor",
+"type": "document"
+},
+{
+"t": 1.5,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/anchor",
+"type": "document"
+},
+{
+"t": 1.52,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/consent/87b6a5c0-0104-4e96-a291-092c11350111/019ae4b5-d8b1-7864-8e94-75a86b260122/logos/static/ot_close.svg",
+"type": "image"
+},
+{
+"t": 1.52,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/consent/87b6a5c0-0104-4e96-a291-092c11350111/019ae4b5-d8b1-7864-8e94-75a86b260122/logos/static/ot_guard_logo.svg",
+"type": "fetch"
+},
+{
+"t": 1.52,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/consent/87b6a5c0-0104-4e96-a291-092c11350111/019ae4b5-d8b1-7864-8e94-75a86b260122/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png",
+"type": "image"
+},
+{
+"t": 1.52,
+"host": "help.nflxext.com",
+"url": "https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2026-10-13/consent/87b6a5c0-0104-4e96-a291-092c11350111/019ae4b5-d8b1-7864-8e94-75a86b260122/logos/static/powered_by_logo.svg",
+"type": "image"
+},
+{
+"t": 1.53,
+"host": "ae.nflximg.net",
+"url": "https://ae.nflximg.net/monet/scripts/adtech_iframe_target_05.html",
+"type": "document"
+},
+{
+"t": 1.55,
+"host": "csp.withgoogle.com",
+"url": "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
+"type": "other"
+},
+{
+"t": 1.55,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+"type": "stylesheet"
+},
+{
+"t": 1.55,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 1.55,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+"type": "stylesheet"
+},
+{
+"t": 1.55,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 1.64,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/webworker.js",
+"type": "script"
+},
+{
+"t": 1.65,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/enterprise/webworker.js",
+"type": "script"
+},
+{
+"t": 1.65,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+"type": "image"
+},
+{
+"t": 1.65,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 1.65,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+"type": "image"
+},
+{
+"t": 1.65,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 1.65,
+"host": "www.netflix.com",
+"url": "https://www.netflix.com/ichnaea/log",
+"type": "xhr"
+},
+{
+"t": 1.65,
+"host": "ae.nflximg.net",
+"url": "https://ae.nflximg.net/monet/scripts/netflix_tag_05.html",
+"type": "document"
+},
+{
+"t": 1.67,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "other"
+},
+{
+"t": 1.67,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "other"
+},
+{
+"t": 1.69,
+"host": "ichnaea-web.netflix.com",
+"url": "https://ichnaea-web.netflix.com/log",
+"type": "xhr"
+},
+{
+"t": 7.72,
+"host": "logs.netflix.com",
+"url": "https://logs.netflix.com/log/www/cl/2",
+"type": "fetch"
+},
+{
+"t": 13.88,
+"host": "privacyportal.onetrust.com",
+"url": "https://privacyportal.onetrust.com/request/v1/consentreceipts/anonymous",
+"type": "xhr"
+}
+]

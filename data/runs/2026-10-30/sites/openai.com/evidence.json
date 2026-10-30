@@ -1,0 +1,329 @@
+{
+  "domain": "openai.com",
+  "url": "https://openai.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://openai.com/de-DE/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "cloudflareinsights.com",
+      "entity": "Cloudflare",
+      "category": "Analytics",
+      "requests": 2
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Wir verwenden Cookies Wir verwenden Cookies, um die Funktionalität dieser Website zu gewährleisten, das Nutzungsverhalten zu analysieren und Marketingmaßnahmen zu unterstützen. Besuchen Cookies verwalten, um die Einstellungen jederzeit zu ändern. Weitere Informationen findest du in unserer Cookie-Richtlinie. Cookies verwalten Nicht essenzielle Cookies ablehnen Alle akzeptieren",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Cookies verwalten,",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Cookies verwalten",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Nicht essenzielle Cookies ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Alle akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Cookies verwalten",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Wir stellen GPT-6.1 Terra vor Produkt 26. Okt. 2026 6 Minute",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g1",
+      "overlay": true
+    },
+    {
+      "text": "Cookie-Richtlinie",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Aufforderung an ChatGPT senden",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mehr über ChatGPT Business erfahren",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mit ChatGPT sprechen (wird in einem neuen Fenster geöffnet)",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Forschung",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "API-Plattform",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mehr",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "GPT-6 und Intelligent UI für alle Produkt 7. Okt. 2026 12 Mi",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Unsere Trainingsumgebung für Frontier-Modelle absichern Sich",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Wir stellen vor: dots Produkt 29. Sept. 2026 8 Minuten Lesez",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mehr erfahren",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Neue Modellspezifikation für leistungsfähigere, nützlichere ",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Wie wir Fehlausrichtung bei Frontier-Modellen erkennen Siche",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Patch the Planet: weltweit auf kritische Schwachstellen reag",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mit Tausenden KI-Agenten neue Ansatzpunkte in biologischen D",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "OpenAI übernimmt Orchestra Bio Über OpenAI 20. Okt. 2026",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Vorstellung von MentalHealthBench Veröffentlichung 23. Sept.",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Alles anzeigen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Die ATV Big Air Tour mit ChatGPT ausbauen 9. Sept. 2026",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Blinde Menschen mit ChatGPT unterstützen 9. Sept. 2026",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Antibiotika mit ChatGPT schneller entdecken 9. Sept. 2026",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Alles anzeigen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "OpenAI-Modell schlägt Lösung für Navier–Stokes vor Forschung",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Forschung beschleunigen: Ein Blick in OpenAI Forschung 6. Se",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Zehn Fortschritte in Mathematik und theoretischer Informatik",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Alles anzeigen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Model ML erledigt Finanzarbeit effizienter mit GPT-5.6 Sol S",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Virgin Atlantic optimiert Customer Journeys mit ChatGPT Work",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Wie Zapier mit ChatGPT Work zentrale Marketingprozesse verän",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Herunterladen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Forschungsindex",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Forschungsüberblick",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Wirtschaftsforschung",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "GPT-6.1 Sol",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 234,
+  "first_click_t": 8.72,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 8.72,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Nicht essenzielle Cookies ablehnen",
+      "id": "a1f0-105",
+      "result": "ok"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+[
+{
+"t": 0.0,
+"host": "snapchat.com",
+"url": "https://snapchat.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "www.snapchat.com",
+"url": "https://www.snapchat.com/",
+"type": "document"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/1l-vygtamz4bf.css",
+"type": "stylesheet"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/14d6sfyqnwno-.css",
+"type": "stylesheet"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/0l08g14awj7fy.css",
+"type": "stylesheet"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/07tl871vt3h5b.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/2bzknqvyd4p7c.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/2ixdagnet62bq.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/0p9wcp0p3skv0.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/1ibbpcpmwlh0d.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/3si3zz30u_3si.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/25u4m93rp71ls.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/0_fhbp-k4h863.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/3tv5rgbmmlba1.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/0d0ru_0wpx2j3.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/17go2t_jfbskg.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/turbopack-16ubj9zdtt9n3.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/2iqtwdjxugsdp.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/10_mujrmjzbsj.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/3q-_okm21nppz.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/1wm2ljmpghcob.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/0ccyisuegtzyp.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/3508l3td1wpc2.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/0xnwlao2hwnp7.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/2dl0rkngvvcn3.js",
+"type": "script"
+},
+{
+"t": 0.23,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/1jswxcorc4w95.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/4305ig8qrb1s6.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/0i_q7oob5f-8m.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/1qp6s1znjuemy.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/2eox8aij8fv1r.css",
+"type": "stylesheet"
+},
+{
+"t": 0.24,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/2yfl28lu89s8w.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/videos/snapchat-dot-com/posters/find-your-friends.png",
+"type": "image"
+},
+{
+"t": 0.25,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/videos/snapchat-dot-com/posters/lens.png",
+"type": "image"
+},
+{
+"t": 0.25,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/videos/snapchat-dot-com/posters/spotlight.png",
+"type": "image"
+},
+{
+"t": 0.25,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/videos/snapchat-dot-com/posters/map.png",
+"type": "image"
+},
+{
+"t": 0.25,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/videos/snapchat-dot-com/find-your-friends.mp4",
+"type": "media"
+},
+{
+"t": 0.34,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/fonts/avenir-next/AvenirNext-Bold.woff2",
+"type": "font"
+},
+{
+"t": 0.34,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/fonts/avenir-next/AvenirNext-DemiBold.woff2",
+"type": "font"
+},
+{
+"t": 0.34,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/fonts/avenir-next/AvenirNext-Medium.woff2",
+"type": "font"
+},
+{
+"t": 0.5,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/1b_gt8dq-l2x4.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/2skb-kvjw6q4l.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "aws.api.snapchat.com",
+"url": "https://aws.api.snapchat.com/snapchat.cdp.cof.CircumstancesService/targetingQuery",
+"type": "fetch"
+},
+{
+"t": 0.5,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/init_client",
+"type": "fetch"
+},
+{
+"t": 0.5,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/init_client",
+"type": "fetch"
+},
+{
+"t": 0.5,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/init_client",
+"type": "fetch"
+},
+{
+"t": 0.51,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/init_client",
+"type": "fetch"
+},
+{
+"t": 0.53,
+"host": "sentry.sc-prod.net",
+"url": "https://sentry.sc-prod.net/api/194/envelope/",
+"type": "fetch"
+},
+{
+"t": 0.53,
+"host": "sentry.sc-prod.net",
+"url": "https://sentry.sc-prod.net/api/194/envelope/",
+"type": "fetch"
+},
+{
+"t": 6.53,
+"host": "aws.api.snapchat.com",
+"url": "https://aws.api.snapchat.com/snapchat.ab.exposure_service.ExposureService/BatchUpdateAbExposure",
+"type": "fetch"
+},
+{
+"t": 6.53,
+"host": "growth-web-dev-tool.mesh.sc-corp.net",
+"url": "https://growth-web-dev-tool.mesh.sc-corp.net/api/open-sesame",
+"type": "fetch"
+},
+{
+"t": 6.53,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/0fw8_3fbkx8ux.js",
+"type": "script"
+},
+{
+"t": 6.53,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/chunks/014vnkq-tpbhy.js",
+"type": "script"
+},
+{
+"t": 6.53,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/videos/snapchat-dot-com/lens.mp4",
+"type": "media"
+},
+{
+"t": 6.53,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/sc-com/_next/static/media/kameleon.1sex5vz3sxz7m.wasm",
+"type": "fetch"
+},
+{
+"t": 6.53,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/videos/snapchat-dot-com/lens.mp4",
+"type": "media"
+},
+{
+"t": 6.53,
+"host": "static.snapchat.com",
+"url": "https://static.snapchat.com/videos/snapchat-dot-com/lens.mp4",
+"type": "media"
+},
+{
+"t": 6.53,
+"host": "session.snapchat.com",
+"url": "https://session.snapchat.com/snap.security.WebAttestationService/BootstrapAttestationSession",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "growth-web-dev-tool.mesh.sc-corp.net",
+"url": "https://growth-web-dev-tool.mesh.sc-corp.net/__gcp_iap_oauth_prompt/api/open-sesame",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/events",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/events",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/events",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/o/oauth2/v2/auth",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/v3/signin/identifier",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "growth-web-dev-tool.mesh.sc-corp.net",
+"url": "https://growth-web-dev-tool.mesh.sc-corp.net/api/open-sesame",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "growth-web-dev-tool.mesh.sc-corp.net",
+"url": "https://growth-web-dev-tool.mesh.sc-corp.net/__gcp_iap_oauth_prompt/api/open-sesame",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/o/oauth2/v2/auth",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/events",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "gcp.api.snapchat.com",
+"url": "https://gcp.api.snapchat.com/web/metrics",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "gcp.api.snapchat.com",
+"url": "https://gcp.api.snapchat.com/web/metrics",
+"type": "fetch"
+},
+{
+"t": 6.54,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/events",
+"type": "fetch"
+},
+{
+"t": 10.56,
+"host": "gcp.api.snapchat.com",
+"url": "https://gcp.api.snapchat.com/web/metrics",
+"type": "fetch"
+},
+{
+"t": 10.56,
+"host": "gcp.api.snapchat.com",
+"url": "https://gcp.api.snapchat.com/web/metrics",
+"type": "fetch"
+},
+{
+"t": 10.56,
+"host": "us-central1-gcp.api.snapchat.com",
+"url": "https://us-central1-gcp.api.snapchat.com/web-analytics/web/events",
+"type": "fetch"
+}
+]

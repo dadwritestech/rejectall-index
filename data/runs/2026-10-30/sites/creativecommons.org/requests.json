@@ -1,0 +1,248 @@
+[
+{
+"t": 0.0,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.05,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/plugins/tablepress/css/build/default.css",
+"type": "stylesheet"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js",
+"type": "script"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/08/Website-mockups-4-e1787244729663.png",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/04/Teams-2-1-1.png",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/04/tools-for-building.png",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/08/Commons-in-the-age-of-AI-1.png",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/04/support-e1787329816832.png",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/10/Commons-Story-Series-5-1-e1793124323874-1024x989.png",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/10/Social-Header-13-1024x576.png",
+"type": "image"
+},
+{
+"t": 0.05,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/10/Archiving_the_Present_workshop_2026_05-1024x575.jpg",
+"type": "image"
+},
+{
+"t": 0.06,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/09/OPEN-@-UNGA81-1-1024x576.png",
+"type": "image"
+},
+{
+"t": 0.06,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/uploads/2026/04/Untitled-design-1.png",
+"type": "image"
+},
+{
+"t": 0.06,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/js/vocabulary.js",
+"type": "script"
+},
+{
+"t": 0.06,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/css/vocabulary.css",
+"type": "stylesheet"
+},
+{
+"t": 0.06,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/chooser/css/chooser.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/css/vendor/normalize.css",
+"type": "stylesheet"
+},
+{
+"t": 0.08,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/css/library-vars.css",
+"type": "stylesheet"
+},
+{
+"t": 0.2,
+"host": "region1.analytics.google.com",
+"url": "https://region1.analytics.google.com/measurement/conversion",
+"type": "fetch"
+},
+{
+"t": 0.2,
+"host": "region1.analytics.google.com",
+"url": "https://region1.analytics.google.com/measurement/conversion",
+"type": "fetch"
+},
+{
+"t": 0.2,
+"host": "region1.analytics.google.com",
+"url": "https://region1.analytics.google.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 0.2,
+"host": "stats.g.doubleclick.net",
+"url": "https://stats.g.doubleclick.net/g/collect",
+"type": "ping"
+},
+{
+"t": 0.2,
+"host": "www.google.de",
+"url": "https://www.google.de/ads/ga-audiences",
+"type": "image"
+},
+{
+"t": 0.2,
+"host": "www.google.com",
+"url": "https://www.google.com/ccm/collect",
+"type": "fetch"
+},
+{
+"t": 0.2,
+"host": "ad.doubleclick.net",
+"url": "https://ad.doubleclick.net/ccm/s/collect",
+"type": "fetch"
+},
+{
+"t": 0.38,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg",
+"type": "other"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/25.svg",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/logos/cc/logomark.svg",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/font-awesome/icons/fa-icons.svg",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/blob_c2.svg",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/star_c.svg",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/repeat_c.svg",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/fonts/dm-mono/exports/DMMono-Medium.ttf",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/fonts/dm-mono/exports/DMMono-Regular.ttf",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/fonts/dm-fonts/Sans/fonts/webfonts/DMSans-SemiBold.woff2",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/fonts/dm-fonts/Sans/fonts/webfonts/DMSans-Regular.woff2",
+"type": "font"
+},
+{
+"t": 0.42,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/fonts/dm-fonts/Sans/fonts/webfonts/DMSans-Medium.woff2",
+"type": "font"
+},
+{
+"t": 0.43,
+"host": "creativecommons.org",
+"url": "https://creativecommons.org/wp-includes/js/wp-emoji-release.min.js",
+"type": "script"
+}
+]

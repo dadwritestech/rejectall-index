@@ -1,0 +1,175 @@
+{
+  "domain": "reddit.com",
+  "url": "https://reddit.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.reddit.com/?solution=ecde1bb3e544af4cecde1bb3e544af4c&js_challenge=1&jsc_token=2824be10929bdc604753c70a67a1c331319bcfa0f54b3ef37a7d471c28226a3c&jsc_orig_r=",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Alle akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Optionale Cookies ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Home",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Beliebt",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Nachrichten",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Entdecken",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Das Beste von Reddit",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Das Beste von Reddit auf Portugiesisch",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Das Beste von Reddit auf Deutsch",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Regeln von Reddit",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Nutzungsvereinbarung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Barrierefreiheit",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Impressum",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Reddit, Inc. © 2026. Alle Rechte vorbehalten.",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Nutzungsvereinbarung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Schließen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "wie Reddit Cookies verwendet",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 135,
+  "first_click_t": 11.41,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 11.41,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Optionale Cookies ablehnen",
+      "id": "a2f0-470",
+      "result": "ok"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+{
+"t": 0.0,
+"host": "webex.com",
+"url": "https://webex.com/",
+"type": "document"
+},
+{
+"t": 0.66,
+"host": "www.webex.com",
+"url": "https://www.webex.com/",
+"type": "document"
+}
+]

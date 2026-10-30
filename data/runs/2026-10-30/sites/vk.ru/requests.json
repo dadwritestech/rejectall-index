@@ -1,0 +1,1346 @@
+[
+{
+"t": 0.0,
+"host": "vk.ru",
+"url": "https://vk.ru/",
+"type": "document"
+},
+{
+"t": 0.83,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/common.20843346.css",
+"type": "stylesheet"
+},
+{
+"t": 0.83,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/base.04474267.css",
+"type": "stylesheet"
+},
+{
+"t": 0.83,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/vkui.314946c0.css",
+"type": "stylesheet"
+},
+{
+"t": 0.83,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/fonts_utf.0dce0054.css",
+"type": "stylesheet"
+},
+{
+"t": 0.83,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/fonts_cnt_async.ea273965.css",
+"type": "stylesheet"
+},
+{
+"t": 0.83,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2",
+"type": "font"
+},
+{
+"t": 0.88,
+"host": "vk.ru",
+"url": "https://vk.ru/js/loader_nav21317316298_6.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "vk.ru",
+"url": "https://vk.ru/js/lang6_2.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/core_spa/error_monitoring.isolated.36409f73.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/core_spa/core_spa_vk.66aada2d.css",
+"type": "stylesheet"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/core_spa/core_spa_vk.3c4b549e.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/vkcom-kit.c18343ce.css",
+"type": "stylesheet"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/vkcom-kit.a2f7613f.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/react.45353bb9.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/architecture-mobx.6ad8b6cb.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/vkui.68f55782.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/state-management.c485211a.js",
+"type": "script"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/audioplayer-lib.6e3d1a24.css",
+"type": "stylesheet"
+},
+{
+"t": 0.88,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/audioplayer-lib.9b831fb0.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/common.788b8cb8.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/common.evergreen.02b9ff83.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/common_web.c299278e.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/common_web.71ee63d0.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "vk.ru",
+"url": "https://vk.ru/js/lib/px.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "vk.ru",
+"url": "https://vk.ru/js/lib/px.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/index.aa6c52a2.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/5f243773.b91f32b4.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/12033f17.5e7e552c.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/c97991f5.54f57aa1.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/2a750b89.e8b35202.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/a6bc9e60.1704af03.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/a6bc9e60.3f12da3b.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/index.194c7b3b.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/login.361912ff.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/webl/language.0c1ceb1b.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/5038d021.daaf2e11.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/join.339e4287.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/join.f9977684.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/js/lib/ui_controls.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/ui_controls.41144a68.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/search_top_anonymous.c1f05fcd.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/search_top_anonymous.96d632cc.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/search.7671f837.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/1d443167.541ca698.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/site_layout.9e9328c7.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/site_layout.6d73a373.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/webl/performance_observers.d1525212.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/webl/css_types.7b586a7d.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/vk_sans_display_faux.a22ab8ec.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/vk_sans_display.52fe1328.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/webl/vk_sans_observer.66cb5c8a.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/unauthorized.64d3e120.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/webl/page_layout.fdb5d9e5.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/030613d4.981532e6.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/6d47a2e0.227762bc.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/4201fa02.b21e6b8a.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/3956c922.d392cd6c.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/7dfdab8d.401b550b.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/ui_common.4617d3a2.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/ui_common.a7304961.css",
+"type": "stylesheet"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/a0ed3de9.07410661.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/1318839e.d7335466.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/likes.088caa34.js",
+"type": "script"
+},
+{
+"t": 0.89,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/webl/grip.01401a72.js",
+"type": "script"
+},
+{
+"t": 0.99,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/public/lib/px.d8e2d40de34f54b587630b4bb4f716cf.js",
+"type": "script"
+},
+{
+"t": 1.04,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/public/lib/px.d8e2d40de34f54b587630b4bb4f716cf.js",
+"type": "script"
+},
+{
+"t": 1.42,
+"host": "sdk-api.apptracer.ru",
+"url": "https://sdk-api.apptracer.ru/api/crash/trackSession",
+"type": "xhr"
+},
+{
+"t": 1.66,
+"host": "vk.ru",
+"url": "https://vk.ru/al_index.php",
+"type": "xhr"
+},
+{
+"t": 1.66,
+"host": "vk.ru",
+"url": "https://vk.ru/js/langs/entry/webl/ads_light.5708478af2526352.js",
+"type": "script"
+},
+{
+"t": 1.66,
+"host": "vk.ru",
+"url": "https://vk.ru/al_loader_part_configs.php",
+"type": "fetch"
+},
+{
+"t": 1.7,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/web/chunks/b5a4917c.async.20120768.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/web/chunks/fe62b805.css",
+"type": "stylesheet"
+},
+{
+"t": 1.7,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/web/chunks/rlottie.24fb4dd7.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "vk.ru",
+"url": "https://vk.ru/usefull.php",
+"type": "ping"
+},
+{
+"t": 1.7,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/web/chunks/initIdleTabStats.f94cf23f.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "tns-counter.ru",
+"url": "https://tns-counter.ru/",
+"type": "fetch"
+},
+{
+"t": 1.7,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/",
+"type": "fetch"
+},
+{
+"t": 1.7,
+"host": "ads.vk.com",
+"url": "https://ads.vk.com/",
+"type": "fetch"
+},
+{
+"t": 1.7,
+"host": "r0.mradx.net",
+"url": "https://r0.mradx.net/",
+"type": "fetch"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/3fb6e399.async.9d323954.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/84abbc8b.async.076d1fa4.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/426c1f09.async.8a84b5b3.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/3bf0b4e3.async.fd87a6f1.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/232fc04e.async.01bb5783.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/40dbadac.async.38ec2328.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/edc0cd98.async.a05bbd9c.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/8a412c38.async.a438c1ce.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/cb3ed3ca.async.e8ed7800.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/3277228c.async.bfbe7627.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/25cc2fb9.async.9f6d3c03.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/fa795f49.async.b57666ea.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/8ed04472.async.79da484f.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/8184713b.async.a7de8b11.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/d45c7231.async.3316dfea.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/2cde6a45.async.28bc116c.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/f321f4e3.async.383334a3.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/74245153.async.4a70f0b8.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/ee5f4e0a.async.5e9ad9f5.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/4fd9e9d3.async.824da8c5.js",
+"type": "script"
+},
+{
+"t": 1.7,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/6cddc88a.async.08073ea8.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/2fb84832.async.18d35a4b.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/cac49af7.async.e1ba5001.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/31c1735b.async.a7ac0ad8.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/c2695557.async.e31fc959.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/6538bf61.async.8f9f5008.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/1070b23a.async.0dc60ba4.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/audioplayer-async-chunk.a649c8d2.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "vk.ru",
+"url": "https://vk.ru/js/langs/web/audioplayer-async-chunk.6f076f593c9ffba9.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/bc37c476.async.c6e557ec.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/ae6aa01e.async.e364aa2b.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/195d528d.async.c92e87f9.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/5fb681b8.async.dc21cf70.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/16f3309d.css",
+"type": "stylesheet"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/stickers-popup-tq-handlers.c264c7fd.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "vk.ru",
+"url": "https://vk.ru/js/langs/web/stickers-popup-tq-handlers.797ae8774f3e2305.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/346bc7a2.async.c8dcd032.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/c38db496.async.95e96c5d.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/b78a3c42.async.529ce2c9.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/a5d1ec44.async.c6417890.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/e7af4604.async.fe97412e.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/WebDI.9db51f52.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "vk.ru",
+"url": "https://vk.ru/js/langs/web/WebDI.0265162e5f8d8134.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/AudioEventNotifier.d40336a1.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "vk.ru",
+"url": "https://vk.ru/js/langs/web/AudioEventNotifier.9f1fdc5d417a18dd.js",
+"type": "script"
+},
+{
+"t": 1.74,
+"host": "vk.ru",
+"url": "https://vk.ru/VKSansDisplayBoldLatin.v320.woff2",
+"type": "font"
+},
+{
+"t": 1.74,
+"host": "vk.ru",
+"url": "https://vk.ru/VKSansDisplayBoldCyrillic.v320.woff2",
+"type": "font"
+},
+{
+"t": 1.74,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/VKSansDisplayBoldLatin.v320.woff2",
+"type": "font"
+},
+{
+"t": 1.74,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/VKSansDisplayBoldCyrillic.v320.woff2",
+"type": "font"
+},
+{
+"t": 1.79,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/fonts/roboto400.woff",
+"type": "font"
+},
+{
+"t": 1.79,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/webSwClient.955878f4.js",
+"type": "script"
+},
+{
+"t": 1.79,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/webPushNotifier.a2131b0f.js",
+"type": "script"
+},
+{
+"t": 1.79,
+"host": "vk.ru",
+"url": "https://vk.ru/js/langs/web/webPushNotifier.02ae0ade011c9bc3.js",
+"type": "script"
+},
+{
+"t": 1.8,
+"host": "web.api.vk.ru",
+"url": "https://web.api.vk.ru/method/utils.getStaticVersions",
+"type": "fetch"
+},
+{
+"t": 1.8,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/js/code.js",
+"type": "script"
+},
+{
+"t": 1.8,
+"host": "vk.ru",
+"url": "https://vk.ru/VKSansDisplayBoldLatin.v320.woff",
+"type": "font"
+},
+{
+"t": 1.8,
+"host": "vk.ru",
+"url": "https://vk.ru/VKSansDisplayBoldCyrillic.v320.woff",
+"type": "font"
+},
+{
+"t": 1.8,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/VKSansDisplayBoldLatin.v320.woff",
+"type": "font"
+},
+{
+"t": 1.8,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/web_legacy/chunks/web-vitals-soft-navs.8d9cfc79.js",
+"type": "script"
+},
+{
+"t": 1.82,
+"host": "login.vk.ru",
+"url": "https://login.vk.ru/",
+"type": "fetch"
+},
+{
+"t": 1.82,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/css/al/VKSansDisplayBoldCyrillic.v320.woff",
+"type": "font"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/cafdb004.async.21e0769e.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/b40457bd.async.764173bc.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/180b5235.async.3732e1a4.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/785186e5.async.d0ae45f6.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/333dc37f.async.411679f0.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/9b26b90a.async.1cb92b6b.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/e1ee0033.async.3c1a209f.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/b9f5227b.async.11809608.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/320cbdb5.async.70686c2a.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/7384c9b1.async.33121cb3.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/345eab54.async.ae820c5f.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/142c79e8.async.ef01a04d.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/e6fb2a3c.async.8bfcaee7.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/2ae9d8ad.async.db7f60cb.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/cd03ee7f.async.81176758.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/88e43c8a.async.7f0a27d4.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/ecfd0715.async.f6f74160.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/bb2c71d3.async.0c4adbaa.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/9e45ff42.async.c0f8e173.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/f493f823.async.452d95d5.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/96458d16.async.ffcb74e4.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/366c0e80.async.e76725c0.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/f59b629a.async.58e22f5d.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/0d067aee.async.78c64bde.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/84b3710c.async.da043f4a.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/24dfed1f.async.e6af0777.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/db6ed829.async.49039aee.js",
+"type": "script"
+},
+{
+"t": 1.85,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/1b7023a3.async.dcb125f8.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/5ce1e5ec.async.d1913837.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/1ddc3b32.async.9edd98de.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/4abbcc9e.async.e8565668.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/98284555.async.8d155349.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/dad17c0e.async.d3816d38.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/b304649a.async.3764736a.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/9939a874.async.5cea2c59.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/da9e2e99.async.a391e0df.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/005f3368.async.177193bc.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/ba8d455b.async.3f82a016.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/82399029.async.09e52ea1.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/8bf8b71e.async.844975f8.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/ffa68b46.async.88deec32.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/39ca1f99.async.c7d6c698.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/0008346f.async.258064bc.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/c1af5a9c.async.aab943b5.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/265b4f33.css",
+"type": "stylesheet"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/audio_config_legacy.d3232a0f.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "vk.ru",
+"url": "https://vk.ru/js/langs/web/audio_config_legacy.c44d701a01315939.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/c0f9f694.async.b03e7921.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/d6fe3881.async.48e6bca3.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/70a7f4ab.async.2beac46f.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/adc9f3c7.async.9c457fba.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/audio_config_overrides.2c32f2b6.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "vk.ru",
+"url": "https://vk.ru/js/langs/web/audio_config_overrides.cce29850946e4875.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/audio_config_audioAdvertisingBannerViewModelProvider.ca997925.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/38e27adb.async.7edd5d79.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/audio_onMediaAttachmentPlayer.4a3d3844.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/audio_postingPlayer.63bafc16.js",
+"type": "script"
+},
+{
+"t": 1.86,
+"host": "www.tns-counter.ru",
+"url": "https://www.tns-counter.ru/V13a**clid:13**vk_com/ru/UTF-8/tmsec=vksite_total/629733130",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "www.tns-counter.ru",
+"url": "https://www.tns-counter.ru/V13a****vk_ad/ru/UTF-8/tmsec=vkad_cid1015708-posid1184674/222815",
+"type": "image"
+},
+{
+"t": 1.87,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/webl/ads_light.36281a58.js",
+"type": "script"
+},
+{
+"t": 1.88,
+"host": "vk.ru",
+"url": "https://vk.ru/js/sw.js",
+"type": "script"
+},
+{
+"t": 1.89,
+"host": "tns-counter.ru",
+"url": "https://tns-counter.ru/",
+"type": "fetch"
+},
+{
+"t": 1.89,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/",
+"type": "fetch"
+},
+{
+"t": 1.89,
+"host": "ads.vk.com",
+"url": "https://ads.vk.com/",
+"type": "fetch"
+},
+{
+"t": 1.89,
+"host": "r0.mradx.net",
+"url": "https://r0.mradx.net/",
+"type": "fetch"
+},
+{
+"t": 1.9,
+"host": "mincifry-cert.vk.ru",
+"url": "https://mincifry-cert.vk.ru/",
+"type": "fetch"
+},
+{
+"t": 1.9,
+"host": "r3-test.vk.ru",
+"url": "https://r3-test.vk.ru/",
+"type": "fetch"
+},
+{
+"t": 1.94,
+"host": "login.vk.ru",
+"url": "https://login.vk.ru/",
+"type": "fetch"
+},
+{
+"t": 1.97,
+"host": "st.vk.ru",
+"url": "https://st.vk.ru/dist/web/chunks/audio_EVA_AudioPlayer.436b74f0.js",
+"type": "script"
+},
+{
+"t": 1.98,
+"host": "vk.ru",
+"url": "https://vk.ru/dist/sw/sw.5545e68b.js",
+"type": "other"
+},
+{
+"t": 2.0,
+"host": "www.tns-counter.ru",
+"url": "https://www.tns-counter.ru/V13b**clid:13**vk_com/ru/UTF-8/tmsec=vksite_total/629733130",
+"type": "image"
+},
+{
+"t": 2.0,
+"host": "www.tns-counter.ru",
+"url": "https://www.tns-counter.ru/V13b****vk_ad/ru/UTF-8/tmsec=vkad_cid1015708-posid1184674/222815",
+"type": "image"
+},
+{
+"t": 2.0,
+"host": "ads.vk.ru",
+"url": "https://ads.vk.ru/",
+"type": "fetch"
+},
+{
+"t": 2.01,
+"host": "ads.vk.ru",
+"url": "https://ads.vk.ru/",
+"type": "fetch"
+},
+{
+"t": 2.05,
+"host": "r3-test.vk.ru",
+"url": "https://r3-test.vk.ru/challenge.html",
+"type": "document"
+},
+{
+"t": 2.05,
+"host": "sdk-api.apptracer.ru",
+"url": "https://sdk-api.apptracer.ru/api/crash/trackSession",
+"type": "ping"
+},
+{
+"t": 2.06,
+"host": "privacy-cs.mail.ru",
+"url": "https://privacy-cs.mail.ru/static/sync-loader.js",
+"type": "script"
+},
+{
+"t": 2.06,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/js/dyn-goal-config.js",
+"type": "script"
+},
+{
+"t": 2.06,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 2.06,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 2.06,
+"host": "web.api.vk.ru",
+"url": "https://web.api.vk.ru/method/account.getInfo",
+"type": "fetch"
+},
+{
+"t": 2.09,
+"host": "id.vk.ru",
+"url": "https://id.vk.ru/qr_auth",
+"type": "document"
+},
+{
+"t": 2.11,
+"host": "r3-test.vk.ru",
+"url": "https://r3-test.vk.ru/challenge.html",
+"type": "document"
+}
+]

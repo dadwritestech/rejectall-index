@@ -1,0 +1,860 @@
+[
+{
+"t": 0.0,
+"host": "paypal.com",
+"url": "https://paypal.com/",
+"type": "document"
+},
+{
+"t": 0.06,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/de/home",
+"type": "document"
+},
+{
+"t": 0.24,
+"host": "ddbm2.paypal.com",
+"url": "https://ddbm2.paypal.com/tags.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/webcaptcha/ngrlCaptcha.min.js",
+"type": "script"
+},
+{
+"t": 0.24,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/themes/paypal60-DJqhL8L_.css",
+"type": "stylesheet"
+},
+{
+"t": 0.24,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/helpers-D6s78pYR.css",
+"type": "stylesheet"
+},
+{
+"t": 0.24,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/TextGroupTemplate-7eTwo2M9.css",
+"type": "stylesheet"
+},
+{
+"t": 0.24,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/HomepageHero-Cvb27bqe.css",
+"type": "stylesheet"
+},
+{
+"t": 0.24,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/StickyQrBadge-CxXGkpIO.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/globalnav/css/themes/tailwind-properties-09746872.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/globalnav/css/themes/paypal60-C8Np0cJk.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/globalnav/css/main-h6rr7q38.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/globalnav/js/main-CagHxxYo.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components/fonts/PayPal%20Pro/PayPalProSWeb-Book.woff2",
+"type": "font"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components/fonts/PayPal%20Pro/PayPalProSWeb-Black.woff2",
+"type": "font"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components/fonts/PayPalPro/PayPalProTextVFWeb.woff2",
+"type": "font"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/pp-com-components-pds60-Bxi9GaB7.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/rolldown-runtime-Dd_uD5pT.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/react-Dur4fizb.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/pp-react-icons.esm-DpXc3BUF.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/datadog-DNPX-sGw.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/rolldown-runtime-CEFd7nDs-BCZFoyCZ.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/jsx-runtime-DK-0J77g.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/pp-react-theme.esm-w8gi7zMy.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/pp-com-components-pds60-sAWDx4AP.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/web23/de/ppe/homepage-consumer/localized/updates/de-homepage-consumer-brand-moment-01-desktop.jpg",
+"type": "image"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/TextHeaderInner-CUx2U-o3.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/SplitSectionItem-DrG4-a4R.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/SplitSection-bvwBw1My.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/LayeredCardWrapper-C8iim8ic.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/Spacer-CNMe14Gq.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/StackSection-CEdYxq8a.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/TextSection-BosYhd5F.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/ProductScrollSection-Dnx6-cj8.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/Accordion-YHkwPPKA.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/CtaClosingRebrand-BOR9pr6R.css",
+"type": "stylesheet"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/martech/tm/paypal/gtm-bootstrap.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ncs/ncs.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/auth/createchallenge/9966d1117f4a1a21/recaptchav3.js",
+"type": "script"
+},
+{
+"t": 0.3,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.39,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/web/logos/paypal-mark-color_new.svg",
+"type": "image"
+},
+{
+"t": 0.4,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ncs/paypal/mapping.js",
+"type": "script"
+},
+{
+"t": 0.4,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/myaccount/privacy/cookieprefs/getBanner",
+"type": "xhr"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/HomepageHeroRebrand-jZEqN-qC.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/HomepageHero-DzPe7K96-Do3CHPCd.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextGroup-B1w35326.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/AppDownloadGroup-DyftM6cW.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/AppDownloadTemplate-Mmu4NaQP-C5N-6_Fs.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/QrCode-_4JN-SiB-CBmOccmM.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/axios-DOGj7BWV-rwkU29nV.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextGroupTemplate-CANgkf3H-Db1IaBo1.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/PpReactCurrencyInput-Db3iFIqB-BEuONvAw.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/QrCodeDeepLinkGroup-BC1DqxVF.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/use-will-change-K6q55utn-D39vFQnk.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/BrandMoment-Vi_mgnDj-BFRerGCz.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/MinimalImageFrame-DMStZ62v-Dq2bi7iF.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/Hero.utils-CDZk5NWq-J_aqvS7K.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/use-animate-Dzd2e9_f-7ExutraV.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/use-unmount-effect-Bu2eYZRM-CMv5X8PU.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/single-value-DwY1Qdst-9fqIU_uv.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/MinimalMediaFrame-rS7TVUKt-B7sMwVwy.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/HeroVideoAnimation-DtDBA_w--DhO7EgLd.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/layout-DQZ4xWf1-CMIQlklK.js",
+"type": "script"
+},
+{
+"t": 0.41,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/MinimalTextGroup-pg4ochgL-DbbWe-7y.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/SplitSectionType-CTQ_cZU9.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/SplitSection-CuzV4S-6-DyEmldRG.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextHeaderInner-D0Ft27Le-C5TGnXz-.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/SplitSectionItem-7RA-op4--VITUaktj.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/LayeredCardSection-CjTKKwBh.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/LayeredCardWrapper-Q7Kjw5g5-vLWW-8XD.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/card-renderer-Cu84CVuR-DoZHji5l.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/StackSectionType-BJxcacBB.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/StackSection-DPtpPRl1-DFz41-bs.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/Spacer-BENOYjtq.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/BrandMomentSection-pe0Mwo_X.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextSectionType-DWYue5HY.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextSection-ByZFildP-C52ORzCn.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/ProductScrollType-BfAgWNRM.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/ProductScrollSection-CJ9ASXmr-Dgni1-E3.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/modules-C7q71fQe-DDkUBOkk.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/useStickyElementHeight-D4Ni6ruA-CyG3eWny.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/useSubNavHeight-0LYiv7wj-uul8HPn0.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/SubNav.utils-Dz355VYq-CwinK2WJ.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/FaqType-DED1MVTG.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/Accordion-BBIqBh1--7R2QAVmF.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/StickyQRBadge-wQlU73gy.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/StickyQrBadge-CM__E2c6-Bw2dvF5I.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/AnimatePresence-7Aok2tYj-DiUAbwrs.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/CtaClosingRebrand-COPbENaN.js",
+"type": "script"
+},
+{
+"t": 0.48,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/marketing/web/us/test-demo/qr-stealth/paypal-mark-black.svg",
+"type": "image"
+},
+{
+"t": 0.49,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/paypal-ui/logos/svg/asset-logo-paypal-secondary-alt.svg",
+"type": "image"
+},
+{
+"t": 0.57,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/web/res/660/d3097d03b2203256865c1f7382445/recaptcha/grcenterprise_v3.html",
+"type": "document"
+},
+{
+"t": 0.61,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "xhr"
+},
+{
+"t": 6.61,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/pa/js/min/pa.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/martech/tm/paypal/mktgtagmanager.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/pa/mi/paypal/latmconf.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/helpcenter/smartchat/sales/v1/open-chat.js",
+"type": "script"
+},
+{
+"t": 6.61,
+"host": "t.paypal.com",
+"url": "https://t.paypal.com/ts",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/ncp-ui-web/consumer-home/8.2.3-legacy-v2/consent.min.css",
+"type": "stylesheet"
+},
+{
+"t": 6.61,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/myaccount/privacy/cookieprefs/cookies",
+"type": "xhr"
+},
+{
+"t": 6.61,
+"host": "t.paypal.com",
+"url": "https://t.paypal.com/ts",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "www.paypalobjects.com",
+"url": "https://www.paypalobjects.com/martech/tm/paypal/mktconf.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/smartchat/open/eligibility",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "t.paypal.com",
+"url": "https://t.paypal.com/ts",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise/anchor",
+"type": "document"
+},
+{
+"t": 6.62,
+"host": "ddbm2.paypal.com",
+"url": "https://ddbm2.paypal.com/js/",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/styles__ltr.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise/webworker.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 6.62,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "t.paypal.com",
+"url": "https://t.paypal.com/ts",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "browser-intake-us5-datadoghq.com",
+"url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/myaccount/privacy/cookieprefs/cookies",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise/bframe",
+"type": "document"
+},
+{
+"t": 6.62,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/styles__ltr.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 6.62,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise/reload",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise/userverify",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/auth/verifygrcenterprise",
+"type": "xhr"
+},
+{
+"t": 6.62,
+"host": "www.recaptcha.net",
+"url": "https://www.recaptcha.net/recaptcha/enterprise/clr",
+"type": "fetch"
+},
+{
+"t": 6.62,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__de.js",
+"type": "other"
+},
+{
+"t": 8.7,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
+"type": "image"
+},
+{
+"t": 8.7,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
+"type": "image"
+},
+{
+"t": 8.7,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/image_2x.png",
+"type": "image"
+},
+{
+"t": 8.7,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/info_2x.png",
+"type": "image"
+},
+{
+"t": 8.79,
+"host": "t.paypal.com",
+"url": "https://t.paypal.com/ts",
+"type": "fetch"
+},
+{
+"t": 8.79,
+"host": "t.paypal.com",
+"url": "https://t.paypal.com/ts",
+"type": "fetch"
+},
+{
+"t": 8.79,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/myaccount/privacy/cookiePrefs/accept",
+"type": "xhr"
+},
+{
+"t": 12.8,
+"host": "www.paypal.com",
+"url": "https://www.paypal.com/myaccount/privacy/cookieprefs/cookies",
+"type": "xhr"
+}
+]

@@ -1,0 +1,446 @@
+[
+{
+"t": 0.0,
+"host": "sentry.io",
+"url": "https://sentry.io/",
+"type": "document"
+},
+{
+"t": 0.21,
+"host": "sentry.io",
+"url": "https://sentry.io/welcome/",
+"type": "document"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/fonts/rubik-latin-regular.woff",
+"type": "font"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/fonts/rubik-latin-italic.woff2",
+"type": "font"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/fonts/dammitsansv0.3-bold.otf",
+"type": "font"
+},
+{
+"t": 0.55,
+"host": "plausible.io",
+"url": "https://plausible.io/js/script.tagged-events.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/welcome-bg.BcYKCM6C.webp",
+"type": "image"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/middle-bg-texture.Bj4JNsdD.webp",
+"type": "image"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/Layout.CKBeCQbz.css",
+"type": "stylesheet"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/AnimatedLogoGrid.Drn3FiRC.css",
+"type": "stylesheet"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/MarketoForm.BX_9vJpz.css",
+"type": "stylesheet"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/page.BeFvjlmY.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/Link.astro_astro_type_script_index_0_lang.D9rEG7KS.js",
+"type": "script"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/nav-icons/github.png",
+"type": "image"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/nav-icons/slack.png",
+"type": "image"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/nav-icons/automated-debugging.webp",
+"type": "image"
+},
+{
+"t": 0.55,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/hero-animation-poster.lNyp05dq.webp",
+"type": "image"
+},
+{
+"t": 0.55,
+"host": "reload.getsentry.net",
+"url": "https://reload.getsentry.net/page/",
+"type": "xhr"
+},
+{
+"t": 0.56,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/ufo-abduction-image.CCCweOzA.webp",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/FeatureCarousel.astro_astro_type_script_index_0_lang.Bu9xhE-P.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/quotemark.CdOBjrOr.png",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/getting-started-img-left.CRIbD4_5.webp",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/getting-started-img-right.uCQ8m_KR.webp",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/GettingStarted.astro_astro_type_script_index_0_lang.5_k2Cd5D.js",
+"type": "script"
+},
+{
+"t": 0.77,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/link-decorator.B94YGdmt.js",
+"type": "script"
+},
+{
+"t": 0.8,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/exports.BanBkpPY.js",
+"type": "script"
+},
+{
+"t": 0.81,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/Welcome.astro_astro_type_script_index_0_lang.CNIQT6aG.js",
+"type": "script"
+},
+{
+"t": 0.81,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/nav-icons/x-twitter.png",
+"type": "image"
+},
+{
+"t": 0.81,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/nav-icons/linkedin.png",
+"type": "image"
+},
+{
+"t": 0.81,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/nav-icons/discord.png",
+"type": "image"
+},
+{
+"t": 0.81,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/Layout.astro_astro_type_script_index_1_lang.BtYiLZSN.js",
+"type": "script"
+},
+{
+"t": 1.16,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/fonts/rubik-latin-regular.woff2",
+"type": "font"
+},
+{
+"t": 1.16,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/fonts/rubik-latin-500.woff2",
+"type": "font"
+},
+{
+"t": 1.17,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/rolldown-runtime.BmzryCyx.js",
+"type": "script"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/fonts/rubik-latin-500italic.woff2",
+"type": "font"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_vercel/image",
+"type": "image"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/defineProperty.D15ajOQZ.js",
+"type": "script"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/carouselA11y.CE0knvo0.js",
+"type": "script"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/copyCodeBlock.CxV6vp5d.js",
+"type": "script"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/preload-helper.cPF8REFE.js",
+"type": "script"
+},
+{
+"t": 1.23,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/webmcp.CJT-SbVd.js",
+"type": "script"
+},
+{
+"t": 1.28,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/MarketoForm.DDA6n5cl.js",
+"type": "script"
+},
+{
+"t": 1.28,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/client.CV_pDYh4.js",
+"type": "script"
+},
+{
+"t": 1.28,
+"host": "o1.ingest.us.sentry.io",
+"url": "https://o1.ingest.us.sentry.io/api/4511259601338368/envelope/",
+"type": "fetch"
+},
+{
+"t": 1.45,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/webmcp-telemetry.C0lPsiWv.js",
+"type": "script"
+},
+{
+"t": 1.46,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/languageDisplayNames.ChXZhlcB.js",
+"type": "script"
+},
+{
+"t": 1.46,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/plausible.Dq0wYFzf.js",
+"type": "script"
+},
+{
+"t": 1.5,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/MarketoForm.D0-kpXe5.js",
+"type": "script"
+},
+{
+"t": 1.51,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/react.DxiolP2y.js",
+"type": "script"
+},
+{
+"t": 1.51,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/react-dom.oGwO26O1.js",
+"type": "script"
+},
+{
+"t": 1.67,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/plausible.DKozSizr.js",
+"type": "script"
+},
+{
+"t": 1.71,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/jsx-runtime.PUKYS-87.js",
+"type": "script"
+},
+{
+"t": 1.73,
+"host": "sentry.io",
+"url": "https://sentry.io/_astro/rive.Bn3gVMWk.js",
+"type": "script"
+},
+{
+"t": 7.88,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/api.js",
+"type": "script"
+},
+{
+"t": 7.88,
+"host": "unpkg.com",
+"url": "https://unpkg.com/@rive-app/canvas@2.38.5/rive.wasm",
+"type": "fetch"
+},
+{
+"t": 7.88,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 7.88,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/api2/anchor",
+"type": "document"
+},
+{
+"t": 7.88,
+"host": "csp.withgoogle.com",
+"url": "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
+"type": "other"
+},
+{
+"t": 7.88,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+"type": "stylesheet"
+},
+{
+"t": 7.88,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "script"
+},
+{
+"t": 7.88,
+"host": "www.google.com",
+"url": "https://www.google.com/recaptcha/api2/webworker.js",
+"type": "script"
+},
+{
+"t": 7.88,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+"type": "image"
+},
+{
+"t": 7.88,
+"host": "fonts.gstatic.com",
+"url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+"type": "font"
+},
+{
+"t": 7.88,
+"host": "sentry.io",
+"url": "https://sentry.io/astro-assets/rive-files/home-hero-scanner-animation.riv",
+"type": "fetch"
+},
+{
+"t": 7.88,
+"host": "www.gstatic.com",
+"url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__de.js",
+"type": "other"
+}
+]

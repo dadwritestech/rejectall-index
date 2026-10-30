@@ -1,0 +1,52 @@
+{
+  "domain": "ntp.org",
+  "url": "https://ntp.org/",
+  "status": "no_banner",
+  "reason": "no consent buttons found",
+  "final_url": "https://www.ntp.org/",
+  "accept_clicks": null,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": null,
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "adtrafficquality.google",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 5
+    },
+    {
+      "domain": "clarity.ms",
+      "entity": "Microsoft",
+      "category": "Analytics",
+      "requests": 5
+    },
+    {
+      "domain": "google-analytics.com",
+      "entity": "Google",
+      "category": "Analytics",
+      "requests": 2
+    },
+    {
+      "domain": "googlesyndication.com",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "pre_consent_requests": 37,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

@@ -1,0 +1,170 @@
+[
+{
+"t": 0.0,
+"host": "icloud.com",
+"url": "https://icloud.com/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/",
+"type": "document"
+},
+{
+"t": 0.16,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/de-de/main.js",
+"type": "script"
+},
+{
+"t": 0.16,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/",
+"type": "stylesheet"
+},
+{
+"t": 0.16,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular.woff2",
+"type": "font"
+},
+{
+"t": 0.16,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2",
+"type": "font"
+},
+{
+"t": 0.16,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.woff2",
+"type": "font"
+},
+{
+"t": 0.16,
+"host": "www.apple.com",
+"url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff2",
+"type": "font"
+},
+{
+"t": 0.16,
+"host": "setup.icloud.com",
+"url": "https://setup.icloud.com/setup/ws/1/validate",
+"type": "fetch"
+},
+{
+"t": 0.16,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/de-de/main.css",
+"type": "stylesheet"
+},
+{
+"t": 0.34,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/de-de/images@1x.bin",
+"type": "xhr"
+},
+{
+"t": 0.34,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/locales/5/de-DE.json",
+"type": "fetch"
+},
+{
+"t": 0.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/de-de/6.main.css",
+"type": "stylesheet"
+},
+{
+"t": 0.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/de-de/vendors~RootComponentRoute.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/de-de/1.main.css",
+"type": "stylesheet"
+},
+{
+"t": 0.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/de-de/RootComponentRoute.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/wallpaper.svg",
+"type": "image"
+},
+{
+"t": 0.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/wallpaper_dark.svg",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/de-de/vendors~Routes-HomePageRoute.js",
+"type": "other"
+},
+{
+"t": 6.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/de-de/Routes-HomePageRoute.js",
+"type": "other"
+},
+{
+"t": 6.35,
+"host": "appleid.cdn-apple.com",
+"url": "https://appleid.cdn-apple.com/appleauth/static/jsapi/authService.latest.min.js",
+"type": "script"
+},
+{
+"t": 6.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/91ab4cf1819ca6dd8180e7fa6147c08f.png",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/e5f61c14d0027e4d9ffccbf9ceef8ee4.png",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/16d9015a48884338cb5da23bf43912e5.png",
+"type": "image"
+},
+{
+"t": 6.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/fpo@1x.mp4",
+"type": "media"
+},
+{
+"t": 6.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/fpo@1x.mp4",
+"type": "media"
+},
+{
+"t": 6.35,
+"host": "www.icloud.com",
+"url": "https://www.icloud.com/system/icloud.com/2640Build24/fpo@1x.mp4",
+"type": "media"
+},
+{
+"t": 8.36,
+"host": "feedbackws.icloud.com",
+"url": "https://feedbackws.icloud.com/reportStats",
+"type": "fetch"
+}
+]

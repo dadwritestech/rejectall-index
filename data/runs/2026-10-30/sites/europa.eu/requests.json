@@ -1,0 +1,386 @@
+[
+{
+"t": 0.0,
+"host": "europa.eu",
+"url": "https://europa.eu/",
+"type": "document"
+},
+{
+"t": 0.08,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/select-language",
+"type": "document"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/themes/contrib/oe_theme/dist/duet/duet/duet.esm.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_VZQ7g_3jR-nclEUoI18e_5JXgDbDPTmocyd2YowUXmk.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_TgZuLWCkZcIx9yDw_dvqzuSQK9XIA6YTCGwpLk9eCa8.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_PrTZqZzfZgIEbBjkh-wMbnNBiKvP8oKM9zNb-kLsJRk.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_68_4jRxj_aKQUBAUVeEOAG51tSujYvBTNbwNDFCBReo.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/profiles/contrib/ewcms/modules/ewcms_multilingual/assets/js/ewcms_js_language_layover.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/themes/contrib/oe_theme/dist/eu/images/logo/standard-version/positive/logo-eu--en.svg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/core/assets/vendor/jquery/jquery.min.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/js/js_Vaczydd2QdNnX8uI28uSNuxVPYHJNpWfhe153yR4xZA.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "ec.europa.eu",
+"url": "https://ec.europa.eu/wel/surveys/wr_survey01/wr_survey.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/js/js_0vPPlittXnEbuV_En766lRXgqv46szDbYdxIC9eoqJY.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/load.js",
+"type": "script"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_T9sDnkpbbwSwqS-y7G8tl79OhYj23ttg5D8WWNiF3Gg.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_F05LzGuHu-Q5PTa1Vd4u-HcVYn8xgndZVXqgea8peeU.css",
+"type": "stylesheet"
+},
+{
+"t": 0.15,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_iP_od4GbgYu2j_48STq4K6PGmKXRatWvPOh7WDTIxE8.css",
+"type": "stylesheet"
+},
+{
+"t": 0.17,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/themes/contrib/oe_theme/dist/duet/duet/index-a3afd6e1.js",
+"type": "script"
+},
+{
+"t": 0.25,
+"host": "ec.europa.eu",
+"url": "https://ec.europa.eu/wel/surveys/wr_survey03/js/main.js",
+"type": "script"
+},
+{
+"t": 0.26,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/index_de",
+"type": "document"
+},
+{
+"t": 0.27,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/css/webtools.theme-eu.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/themes/contrib/oe_theme/dist/duet/duet/duet.esm.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_mGES4jlCTbJoh8eNxQwAnU1mOjdoGzjOayxS_Xt5xfE.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_TgZuLWCkZcIx9yDw_dvqzuSQK9XIA6YTCGwpLk9eCa8.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_PrTZqZzfZgIEbBjkh-wMbnNBiKvP8oKM9zNb-kLsJRk.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_68_4jRxj_aKQUBAUVeEOAG51tSujYvBTNbwNDFCBReo.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/themes/contrib/oe_theme/dist/eu/images/logo/standard-version/positive/logo-eu--de.svg",
+"type": "image"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_full_width_medium/public/2025-11/test%20homepage%20banner%20two%20kids.png.webp",
+"type": "image"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_ratio_3_2_medium/public/2024-08/History-of-the-EU_2.jpg",
+"type": "image"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_ratio_3_2_medium/public/2024-08/EU-countries_2_0.jpg",
+"type": "image"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_ratio_3_2_medium/public/2024-08/institutions-and-bodies_2.jpg",
+"type": "image"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_ratio_3_2_medium/public/2026-10/Newborn-immunisation-against-respiratory-virus-could-cut-infant-winter-hospitalisations.jpg",
+"type": "image"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_ratio_3_2_medium/avportal/P-064861/00-209.jpg",
+"type": "image"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_ratio_3_2_medium/public/2026-10/Frontex.jpg",
+"type": "image"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/core/assets/vendor/jquery/jquery.min.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/js/js_dKr7Xt2XFBgSvdUwU7kluOZTacbnk10eONz6NBCvCvI.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "ec.europa.eu",
+"url": "https://ec.europa.eu/wel/surveys/wr_survey01/wr_survey.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/js/js_0vPPlittXnEbuV_En766lRXgqv46szDbYdxIC9eoqJY.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/load.js",
+"type": "script"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_T9sDnkpbbwSwqS-y7G8tl79OhYj23ttg5D8WWNiF3Gg.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_F05LzGuHu-Q5PTa1Vd4u-HcVYn8xgndZVXqgea8peeU.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/sites/default/files/css/css_iP_od4GbgYu2j_48STq4K6PGmKXRatWvPOh7WDTIxE8.css",
+"type": "stylesheet"
+},
+{
+"t": 0.28,
+"host": "european-union.europa.eu",
+"url": "https://european-union.europa.eu/themes/contrib/oe_theme/dist/duet/duet/index-a3afd6e1.js",
+"type": "script"
+},
+{
+"t": 0.34,
+"host": "ec.europa.eu",
+"url": "https://ec.europa.eu/wel/surveys/wr_survey03/js/main.js",
+"type": "script"
+},
+{
+"t": 0.35,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/css/webtools.theme-eu.css",
+"type": "stylesheet"
+},
+{
+"t": 0.38,
+"host": "cdn.eaec.fpfis.tech.ec.europa.eu",
+"url": "https://cdn.eaec.fpfis.tech.ec.europa.eu/ea.js",
+"type": "script"
+},
+{
+"t": 0.39,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/js/webtools.globan.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/js/webtools.cck.js",
+"type": "script"
+},
+{
+"t": 0.43,
+"host": "eams.fpfis.tech.ec.europa.eu",
+"url": "https://eams.fpfis.tech.ec.europa.eu/config",
+"type": "fetch"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/css/webtools.etrans.css",
+"type": "stylesheet"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/js/webtools.etrans.js",
+"type": "script"
+},
+{
+"t": 6.44,
+"host": "ec.europa.eu",
+"url": "https://ec.europa.eu/wel/surveys/wr_survey03/data/survey_url_rules.js",
+"type": "script"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/css/webtools.preview.css",
+"type": "stylesheet"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/js/webtools.preview.js",
+"type": "script"
+},
+{
+"t": 6.44,
+"host": "ec.europa.eu",
+"url": "https://ec.europa.eu/wel/surveys/wr_survey03/data/invitation_settings/eu_online_survey/01/invitation_settings.js",
+"type": "script"
+},
+{
+"t": 6.44,
+"host": "www.webanalytics.europa.eu",
+"url": "https://www.webanalytics.europa.eu/ppms.js",
+"type": "script"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/css/webtools.search.2.0.css",
+"type": "stylesheet"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/js/webtools.search.2.0.js",
+"type": "script"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/css/webtools.icons.flags.css",
+"type": "stylesheet"
+},
+{
+"t": 6.44,
+"host": "www.webanalytics.europa.eu",
+"url": "https://www.webanalytics.europa.eu/ppms.php",
+"type": "ping"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/images/flags/eu.svg",
+"type": "image"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/css/webtools.icons.default.css",
+"type": "stylesheet"
+},
+{
+"t": 6.44,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/rest/service-inventory",
+"type": "xhr"
+},
+{
+"t": 8.52,
+"host": "webtools.europa.eu",
+"url": "https://webtools.europa.eu/services/cck/",
+"type": "script"
+}
+]

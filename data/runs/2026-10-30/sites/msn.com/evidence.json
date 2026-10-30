@@ -1,0 +1,108 @@
+{
+  "domain": "msn.com",
+  "url": "https://msn.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.msn.com/de-de",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "ad-delivery.net",
+      "entity": "AdDelivery",
+      "category": "Advertising",
+      "requests": 11
+    },
+    {
+      "domain": "doubleclick.net",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 7
+    },
+    {
+      "domain": "btloader.com",
+      "entity": "eyeo",
+      "category": "Advertising",
+      "requests": 6
+    },
+    {
+      "domain": "dns-finder.com",
+      "entity": "DNS-Finder",
+      "category": "Analytics",
+      "requests": 2
+    },
+    {
+      "domain": "webcontentassessor.com",
+      "entity": "TMTDigital",
+      "category": "Advertising",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Microsoft tritt für den Schutz Ihrer Privatsphäre ein. Microsoft und unsere Drittanbieter verwenden Cookies, um Informationen wie eindeutige IDs und personenbezogene Daten/personenbezogene Informationen zu speichern und darauf zuzugreifen, um unsere Dienste und Anzeigen bereitzustellen, zu warten und zu verbessern. Wenn Sie zustimmen, personalisieren MSN und Microsoft Bing die angezeigten Inhalte und Anzeigen. Sie können „Akzeptieren“ auswählen, um diesen Verwendungen zuzustimmen, oder klicken Sie auf „Einstellungen verwalten“, um Ihre Optionen zu prüfen und Ihr Recht auf Einspruch gegen legit",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Akzeptieren",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Alle ablehnen",
+      "role": "reject",
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Einstellungen verwalten",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzbestimmungen",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    },
+    {
+      "text": "Liste der Partner (Anbieter)",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g4",
+      "overlay": true
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 499,
+  "first_click_t": 8.89,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 8.89,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Alle ablehnen",
+      "id": "a1f0-209",
+      "result": "ok"
+    }
+  ]
+}

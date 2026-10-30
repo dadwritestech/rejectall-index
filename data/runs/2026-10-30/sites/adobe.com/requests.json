@@ -1,0 +1,14 @@
+[
+{
+"t": 0.0,
+"host": "adobe.com",
+"url": "https://adobe.com/",
+"type": "document"
+},
+{
+"t": 0.05,
+"host": "www.adobe.com",
+"url": "https://www.adobe.com/",
+"type": "document"
+}
+]

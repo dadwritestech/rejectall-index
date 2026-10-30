@@ -1,0 +1,345 @@
+{
+  "domain": "bbc.com",
+  "url": "https://bbc.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.bbc.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": false,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "dotmetrics.net",
+      "entity": "DotMetrics",
+      "category": "Advertising",
+      "requests": 4
+    }
+  ],
+  "trackers_after_reject": [
+    {
+      "domain": "googlesyndication.com",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 21
+    },
+    {
+      "domain": "doubleverify.com",
+      "entity": "DoubleVerify",
+      "category": "Analytics",
+      "requests": 10
+    },
+    {
+      "domain": "cxense.com",
+      "entity": "Piano",
+      "category": "Advertising",
+      "requests": 9
+    },
+    {
+      "domain": "adtrafficquality.google",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 5
+    },
+    {
+      "domain": "doubleclick.net",
+      "entity": "Google",
+      "category": "Advertising",
+      "requests": 4
+    },
+    {
+      "domain": "webcontentassessor.com",
+      "entity": "TMTDigital",
+      "category": "Advertising",
+      "requests": 3
+    },
+    {
+      "domain": "dv.tech",
+      "entity": "DoubleVerify",
+      "category": "Advertising",
+      "requests": 2
+    },
+    {
+      "domain": "scorecardresearch.com",
+      "entity": "comScore",
+      "category": "Analytics",
+      "requests": 2
+    },
+    {
+      "domain": "flashtalking.com",
+      "entity": "Mediaocean",
+      "category": "Advertising",
+      "requests": 1
+    },
+    {
+      "domain": "speedcurve.com",
+      "entity": "Embrace",
+      "category": "Analytics",
+      "requests": 1
+    }
+  ],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Let us know you agree to advertising cookies\n\nWe and our 54 partners use cookies and similar technologies to collect and process personal data from your device, such as your IP address and the pages you visit.\n\n\n\n\nWe use this data to help us to better understand our audiences and to improve and personalise your experience. We also use this data to manage the advertising shown on our services. We make money from these ads, which in turn helps to fund our services and the creation of more BBC content.\n\n\n\n\nPlease let us know if you agree to:\n\nStore and/or access information on a device\nPersonalis",
+  "extra_banners": [
+    "Let us know you agree to cookies We use cookies to give you the best online experience. Please let us know if you agree to all of these cookies. Yes, I agree No, take me to settings"
+  ],
+  "layer1": [
+    {
+      "text": "Yes, I agree",
+      "role": "accept",
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "No, take me to settings",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "I do not agree",
+      "role": "reject",
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "I agree",
+      "role": "accept",
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "Manage options",
+      "role": "settings",
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "cookies",
+      "role": null,
+      "frame": 0,
+      "group": "0:a2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Store and/or access information on a device",
+      "role": null,
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "Personalised advertising and content, advertising and conten",
+      "role": null,
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "partners",
+      "role": null,
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "privacy policy",
+      "role": null,
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "Google value plunges by $500bn as AI search hits ad sales Go",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Venezuela opposition leader María Machado calls for election",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "We went on holiday with our neighbours and swapped families ",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "I didn't know I was lacking in vitamin D until I collapsed a",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "BBC in other languages",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Follow BBC on x",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Follow BBC on facebook",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Follow BBC on instagram",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Follow BBC on tiktok",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Follow BBC on linkedin",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Follow BBC on youtube",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Terms of Use",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "About the BBC",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Privacy Policy",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Cookies",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Do not share or sell my info",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Accessibility Help",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Contact the BBC",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Advertise with us",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "BBC.com Help & FAQs",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Content Index",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Set Preferred Source",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Read about our approach to external linking.",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [
+    "Yes, I agree"
+  ],
+  "pre_consent_requests": 129,
+  "first_click_t": 10.47,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 10.47,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "I do not agree",
+      "id": "a2f3-4",
+      "result": "ok"
+    }
+  ]
+}

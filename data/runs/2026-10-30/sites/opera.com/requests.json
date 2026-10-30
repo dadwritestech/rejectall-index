@@ -1,0 +1,428 @@
+[
+{
+"t": 0.0,
+"host": "opera.com",
+"url": "https://opera.com/",
+"type": "document"
+},
+{
+"t": 0.17,
+"host": "www.opera.com",
+"url": "https://www.opera.com/",
+"type": "document"
+},
+{
+"t": 0.22,
+"host": "www.opera.com",
+"url": "https://www.opera.com/de",
+"type": "document"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/b21a8376d942833de6fc.91f7ad7162e8.woff2",
+"type": "font"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/067e5dad13c9184c2ba1.c0d25ced7cb5.woff2",
+"type": "font"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/runtime-homepage.fca3d0ecffba.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/vendors-homepage.9ea624cd68d2.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/mainHomepage.6fa2d472c446.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/main/home/opera__home--hero.1586dd143554.webp",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/main/home/opera__home--hero--floating-eua%402x.a42ee0f160f4.webp",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/latinext.d777dfb99d48.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/main.b6ec97d99e73.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/main-768.cc5bbcb40b35.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/main-1024.eb1d56e04e0d.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/main-1224.a9b23e871fe5.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/components/download/googleplay/google-play--de.f69cfbedb993.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/components/download/appstore/app-store--de.677078c187d7.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/1x1px.91e42db1c66c.png",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/main/home/opera__home--box-1.0d70ac0aa18d.webp",
+"type": "image"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/traffic.90e7523bbebd.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/main-320.7f746f3896e8.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/main-640.546dee5a77dd.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/main-1824.b6240ca8263f.css",
+"type": "stylesheet"
+},
+{
+"t": 0.29,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/main-1924.5632c76ea308.css",
+"type": "stylesheet"
+},
+{
+"t": 0.4,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/b6c30a1093cfea465d60.946ae39bf4a7.svg",
+"type": "image"
+},
+{
+"t": 0.4,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/1da861906eae74cef5c2.6eaba6c08ad3.woff2",
+"type": "font"
+},
+{
+"t": 0.4,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/15d93019b5bb2f48cde0.dc17d9150d2c.svg",
+"type": "image"
+},
+{
+"t": 0.4,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/b606148c8e6ddb775208.43881a474ab8.woff2",
+"type": "font"
+},
+{
+"t": 0.4,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/main/home/opera__home--box-2.7460722b1609.webp",
+"type": "image"
+},
+{
+"t": 0.4,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/main/home/opera__home--box-3.d0bb7ca9c6f8.webp",
+"type": "image"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/69278.252129aafaf15d3b5a8f.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/51366.5c53f29812ca5704ff9b.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/45304.d0219d937137c571fb6b.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/44549.1590b9c576bcf57a03ac.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/95123.2b9345c9364aab3e4a4b.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/48622.5df4b680942fe333ecee.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/88679.915797fba5c4f7019595.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/32872.2ad7c01b9fd60e6ad39b.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/87445.257ed19d7f77394ad3cf.js",
+"type": "script"
+},
+{
+"t": 0.42,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/28869.923cd509314b557ebcab.js",
+"type": "script"
+},
+{
+"t": 0.44,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/main/home/opera__home--box-4.11c38c04310e.webp",
+"type": "image"
+},
+{
+"t": 0.48,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 0.48,
+"host": "bat.bing.com",
+"url": "https://bat.bing.com/bat.js",
+"type": "script"
+},
+{
+"t": 0.48,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/19853.fe7161fd6976ac8e241a.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/3516.37d1bd1112ce36135b94.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/7785.bb1dee18aa996ca735f7.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/90938.6d7b1e29e45d91f020c0.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/64607.cfa7fa32d45a90f538a3.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/52279.3a16afb3ef2663876d4f.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/49945.580c07e610009d2d0e30.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/75885.1e77555d3fd7adcb246f.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/16778.baacd38d69dadfe5d780.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/40651.17956a721ecbc6fe01ed.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/74614.a2f62ee378a3c2deead7.js",
+"type": "script"
+},
+{
+"t": 0.5,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/3df4f06d6ca308d60c4f.svg",
+"type": "image"
+},
+{
+"t": 0.5,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/f04b6e345ce5ac184010.svg",
+"type": "image"
+},
+{
+"t": 0.57,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/ccm/collect",
+"type": "fetch"
+},
+{
+"t": 0.61,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 0.62,
+"host": "bat.bing.com",
+"url": "https://bat.bing.com/p/action/5063952.js",
+"type": "script"
+},
+{
+"t": 0.66,
+"host": "www.clarity.ms",
+"url": "https://www.clarity.ms/tag/uet/5063952",
+"type": "script"
+},
+{
+"t": 0.66,
+"host": "bat.bing.net",
+"url": "https://bat.bing.net/actionp/0",
+"type": "ping"
+},
+{
+"t": 0.66,
+"host": "bat.bing.net",
+"url": "https://bat.bing.net/actionp/0",
+"type": "ping"
+},
+{
+"t": 0.74,
+"host": "scripts.clarity.ms",
+"url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+"type": "script"
+},
+{
+"t": 6.92,
+"host": "t.clarity.ms",
+"url": "https://t.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 6.92,
+"host": "bat.bing.net",
+"url": "https://bat.bing.net/action/0",
+"type": "image"
+},
+{
+"t": 6.92,
+"host": "cdn-production-opera-website.operacdn.com",
+"url": "https://cdn-production-opera-website.operacdn.com/staticfiles/surveyMonkey.d2db878196fc.js",
+"type": "script"
+},
+{
+"t": 12.04,
+"host": "bat.bing.net",
+"url": "https://bat.bing.net/actionp/0",
+"type": "ping"
+},
+{
+"t": 16.04,
+"host": "t.clarity.ms",
+"url": "https://t.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 16.04,
+"host": "t.clarity.ms",
+"url": "https://t.clarity.ms/collect",
+"type": "xhr"
+}
+]

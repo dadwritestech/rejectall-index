@@ -1,0 +1,2012 @@
+[
+{
+"t": 0.0,
+"host": "yahoo.com",
+"url": "https://yahoo.com/",
+"type": "document"
+},
+{
+"t": 0.52,
+"host": "www.yahoo.com",
+"url": "https://www.yahoo.com/",
+"type": "document"
+},
+{
+"t": 0.61,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/",
+"type": "document"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/media/7553561d3efb1daf-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/3b5393cd2f5804de.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/c28189b1906ac9b1.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/62743c2b88755c47.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/35ed6979caf5cba9.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/e388c648ba6d95b1.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/64fb8ef793659d38.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/7cbc2d7bba60768d.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/01d672aa41ee66fc.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/fa2eb4d5d93e850e.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/fa79422a965564c3.css",
+"type": "stylesheet"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/webpack-2136e4e21178372f.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/87c73c54-e492680491e89db9.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/7730-dade77103027f110.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/main-app-6c54babe6450d742.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/45456-3164bf1d6aa5f4d7.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/app/global-error-0293507a87b929ff.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/69370-6a7d869b8a48bc20.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/49702-ea4a51a512db4028.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/23772-35c4ee6d6c90a974.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/72945-795c0263bb6f3e19.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/38978-cfe3922d20cca269.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/56021-79ae7cf3f6f63f9d.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/78540-85db168d327db4a5.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/80782-48677821ffbffc4c.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/86656-f8acada9e9b67c5f.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/85789-e5ef580ade70321e.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/app/layout-3db79142915a3ef5.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/88038-489da241af6530d8.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/51050-e512e9e8f3ab4f7b.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/86179-361ec7c925275577.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/55560-5aee727f8d3b439a.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/25072-f9aa4c4d636f9d57.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/45790-3a32bf2164d83e94.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/4433-2455f374c74d5a3c.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/45648-d90e3c1773024abc.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/33618-3238d3c92b79d571.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/63019-c26454c6f5b0ea20.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/1316-80aba36eb9c98e5b.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/14920-afe826b96df86b61.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/34528-f86bdd469007286c.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/2237-1d828c95897514c5.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/93783-9fbdb4a74c518b77.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/app/homepage/layout-1bc11386bcc66d99.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/app/not-found-36a1358b7a104e46.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "consent.cmp.oath.com",
+"url": "https://consent.cmp.oath.com/version/7.0.2/cmp.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/oa/consent.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/aaq/f10d509c/d1ccw66oyq8ex2.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/du/benji/benji-2.3.489.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/rx/ev/builds/1.16.388/evplayer.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/ss/analytics-3.90.1.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/8810.33dcb06e3b28414d.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/97172-3a363dffd041565d.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/63891-fdd6975e15fde510.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/6476.dcc99f790041762e.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/11913.ef532f35139ec514.js",
+"type": "script"
+},
+{
+"t": 0.79,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/72236.8f57acf5055543b8.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/media/f35b5e6220b536eb-s.woff2",
+"type": "font"
+},
+{
+"t": 1.02,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/media/4c5a69d047c2b2dc-s.woff2",
+"type": "font"
+},
+{
+"t": 1.02,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/4834b0c69eaae6c9a968c3fd34c2c6b5525ec1ff0e837366f5f07a2f3990645e/lightyear_networkapi/smartcrop_w272_h144_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fe94c8281-4a05-4f08-b77f-0cb6fe2bec65_657190b0dfdde3e3e0",
+"type": "image"
+},
+{
+"t": 1.02,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/6d8c91957580228caa29f3e0f391f1de6f870c89e31a19f76205cdba339a7634/lightyear_networkapi/smartcrop_w148_h148_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fspotonnews.de.com%2F61b858b782caad289f02d2ac8e507269.jpg",
+"type": "image"
+},
+{
+"t": 1.02,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/552d30e563b891b5485da493ac1f8457598bf17f01a7b0f797bbe068d93cf164/lightyear_networkapi/smartcrop_w148_h148_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgqjpzm8frtv7e9xizkfwg6f3zqswowjnaychcvu_0670.jpeg",
+"type": "image"
+},
+{
+"t": 1.02,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/ac079758007496921d577be7c07d4e6ecaa1a1c43d10b069262500aafe657b0b/lightyear_networkapi/smartcrop_w148_h148_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fspotonnews.de.com%2F7a97104f8713b71097a2f0250726857f.jpg",
+"type": "image"
+},
+{
+"t": 1.02,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/8baab2abb5dbac5b0cee1ff747b33ce3187a37594a097c19374581e40799d36b/lightyear_networkapi/smartcrop_w148_h148_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fbunte_de_694%2F9d885d48a33991e8939b60eebae1724b.jpg",
+"type": "image"
+},
+{
+"t": 1.02,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/36725cec692f071b394573bba9bcb52f9a650957b22fc31a3c38280e80f4f6ae/lightyear_networkapi/smartcrop_w148_h148_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fdpa_665%2F60e6f71b4ce6aa6de6f33d2ec9f97b4b.jpg",
+"type": "image"
+},
+{
+"t": 1.02,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/8f3aca9be713a4882cc49f5d058c83aef7e489b621c2de9ebf62800930e96da3/lightyear_networkapi/smartcrop_w148_h148_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fspotonnews.de.com%2F4545be1b463bcbc7a49687a1f2c23c7a.jpg",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/430393d8ea40514e4c01f2a6506b1e32d85d9c3b28014c18808484a2d3f77c18/lightyear_networkapi/smartcrop_w1104_h620%3Bquality_85%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F71d8e14d-6e4d-45a0-a2dc-71166452cf34",
+"type": "image"
+},
+{
+"t": 1.05,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/11b8945c276dcfd0a62a27bc8efef8be97c49d66d425d83e71838a9a6272229e/lightyear_networkapi/smartcrop_w80_h80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F04aa6420-f25d-11ee-93fb-1afe4fff500a",
+"type": "image"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/10933-1d8ac31f50b33be1.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/76137-4f907f8af9047523.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/7685-8fe03da32877cf9d.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/73452-6a29034e485fe12e.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/60832-b1ae01fda5d813a2.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/18087-73e80f4755e8092b.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/45430-aa7ddab72297fbb7.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/1492-b67a8fde61eb7a20.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/5360-a55deecf45ce3789.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/37535-1826fb69fe964175.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/65575-d62c6451fc1b42a8.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/88629-94681f2f81b381ad.js",
+"type": "script"
+},
+{
+"t": 1.09,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/87074-6a6560dfd0ac2f75.js",
+"type": "script"
+},
+{
+"t": 1.1,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/18967-9a06d7929e43d3df.js",
+"type": "script"
+},
+{
+"t": 1.1,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/57512-4002e2da9242ad87.js",
+"type": "script"
+},
+{
+"t": 1.1,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/50435-54e72b4fb040d066.js",
+"type": "script"
+},
+{
+"t": 1.1,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/78131-38835a37a0a7de69.js",
+"type": "script"
+},
+{
+"t": 1.1,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/app/homepage/page-4ef18048b1d412e2.js",
+"type": "script"
+},
+{
+"t": 1.1,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/tag/js/gpt.js",
+"type": "script"
+},
+{
+"t": 1.1,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/libtrc/yahooweb-network/loader.js",
+"type": "script"
+},
+{
+"t": 1.11,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/47905.97f27c48f1f051dc.js",
+"type": "script"
+},
+{
+"t": 7.21,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/45837.f632ff6e05c2ecc3.js",
+"type": "script"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/cv/apiv2/cv/apiv2/trueanthem/ta.c34341.js",
+"type": "script"
+},
+{
+"t": 7.21,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/5032.fc8d98bcfa3e3ab3.js",
+"type": "script"
+},
+{
+"t": 7.21,
+"host": "jsapi.login.yahoo.com",
+"url": "https://jsapi.login.yahoo.com/w/device_users",
+"type": "fetch"
+},
+{
+"t": 7.21,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/72473.edb39ec6928a5d0f.js",
+"type": "script"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/aaq/vzm/cs_2.1.2.js",
+"type": "script"
+},
+{
+"t": 7.21,
+"host": "nexus-gateway-prod.media.yahoo.com",
+"url": "https://nexus-gateway-prod.media.yahoo.com/",
+"type": "fetch"
+},
+{
+"t": 7.21,
+"host": "nexus-gateway-prod.media.yahoo.com",
+"url": "https://nexus-gateway-prod.media.yahoo.com/",
+"type": "fetch"
+},
+{
+"t": 7.21,
+"host": "nexus-gateway-prod.media.yahoo.com",
+"url": "https://nexus-gateway-prod.media.yahoo.com/",
+"type": "fetch"
+},
+{
+"t": 7.21,
+"host": "guce.yahoo.com",
+"url": "https://guce.yahoo.com/v1/consentRecord",
+"type": "xhr"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/cb8930bd9d902f99176743050fa2320b43e71d09b083e8d98c30df13f6b40095/lightyear_networkapi/smartcrop_w1104_h620%3Bquality_85%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fspotonnews.de.com%2F2be72ceed90d5700a1cb5fe4b8b765c0.jpg",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/ceefaf2c721c83cd59c4708755c5d2b43bb58b26b51eae630badd47f5c673e21/lightyear_networkapi/smartcrop_w80_h80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2F56740120-5ce3-11f0-ba7f-4166cd023f55",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/758cd2312562edd980b1d4b542fd2bfb5686df912babd569c57d5411e35dc5fc/lightyear_networkapi/smartcrop_w1104_h620%3Bquality_85%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fspotonnews.de.com%2F4545be1b463bcbc7a49687a1f2c23c7a.jpg",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/2abac5b3ecd328f5dcdab578bce9080df55760596754701d022b536e8fe100eb/lightyear_networkapi/smartcrop_w1104_h620%3Bquality_85%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fddp-10863578_2355.jpg",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/c2cb7426f69bbcbd05487f4c6af7137440dace828ef48c4ce63eb4e60213823f/lightyear_networkapi/smartcrop_w534_h304%3Bquality_85%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fbunte_de_694%2F9d885d48a33991e8939b60eebae1724b.jpg",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/e897ae622be4d211392cfc76660563da2ceeeb7d2aa02fc1409dbe0af3d7cc6f/lightyear_networkapi/smartcrop_w80_h80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc1090af0-3df2-11ef-bd5f-300ed7e2c126",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/e2af74333238934d1207f8fc3a31393c42b4063272aac85fcff09bc7f1038916/lightyear_networkapi/smartcrop_w534_h304%3Bquality_85%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fteleschau_articles_slideshows_329%2F979e6085e61be8651932d17bfc559d55.jpg",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/b258dae3ffc110a5bc8388d2003d27c2c950ba06ffcca44cb30057e7d5d7e306/lightyear_networkapi/smartcrop_w80_h80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F8855c270-88e7-11f0-9dff-3d6c1f53a717",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/06df1b2644561ac6e15c67c47406a9f50aac8e9daad981dcbed11f3b658ddc85/lightyear_networkapi/smartcrop_w534_h304%3Bquality_85%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F69th-berlinale-international-film-festival_4581.jpg",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/af447366522f4043bb4c1505185068dd8a973b2d54a427a3a34af5a8d644e955/lightyear_networkapi/smartcrop_w520_h286_faces%3Bquality_85%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Ffocus_485%2Fd3c2578beb74c3f7ba4e2bbc1f0b5899.jpg",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/efb01f0dce6e5cc3b4d2e3ffccdf8622a05259ea6126983036505ff8feca3a06/lightyear_networkapi/smartcrop_w80_h80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-08%2Fa266b0c0-501c-11ef-bc9f-1823f8923886",
+"type": "image"
+},
+{
+"t": 7.21,
+"host": "ec.yimg.com",
+"url": "https://ec.yimg.com/didomi/f5623e34-377a-419c-8bb7-3928cebffbc9/loader.js",
+"type": "script"
+},
+{
+"t": 7.21,
+"host": "i.clean.gg",
+"url": "https://i.clean.gg/1a",
+"type": "xhr"
+},
+{
+"t": 7.21,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/ian-mckellen-erinnert-seinen-freund-060100424.html",
+"type": "fetch"
+},
+{
+"t": 7.21,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/konig-charles-guyana-monarch-verkostet-084630528.html",
+"type": "fetch"
+},
+{
+"t": 7.21,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/alexander-zverev-handkuss-f%C3%BCr-sophia-083640357.html",
+"type": "fetch"
+},
+{
+"t": 7.21,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/intelligent-wissend-neugierig-angela-merkel-090954784.html",
+"type": "fetch"
+},
+{
+"t": 7.21,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 7.21,
+"host": "loc.yahoo.com",
+"url": "https://loc.yahoo.com/geo/v1/user/location/current",
+"type": "fetch"
+},
+{
+"t": 7.21,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 7.21,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 7.22,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/cx/pv/perf-vitals_4.2.0.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "nexus-gateway-prod.media.yahoo.com",
+"url": "https://nexus-gateway-prod.media.yahoo.com/",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 7.22,
+"host": "nexus-gateway-prod.media.yahoo.com",
+"url": "https://nexus-gateway-prod.media.yahoo.com/",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "nexus-gateway-prod.media.yahoo.com",
+"url": "https://nexus-gateway-prod.media.yahoo.com/",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/trump-passieren-republikaner-verlieren-085505116.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/ein-goldener-engel-chuck-e-cheese-igitt-bah-wir-haben-15-kinder-heidi-klums-beruhmteste-halloween-kostume-bewerten-lassen-073930623.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/inka-bause-spricht-u-ihren-174100200.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/saint-tropez-mario-adorf-wurde-221134217.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/ian-mckellen-erinnert-seinen-freund-060100424.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/measurement/conversion",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/konig-charles-guyana-monarch-verkostet-084630528.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/alexander-zverev-handkuss-f%C3%BCr-sophia-083640357.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/intelligent-wissend-neugierig-angela-merkel-090954784.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/37835.f98f8aba8d208b31.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/52308.69ab22e58a62b905.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/69001.d4fee650382efa64.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/87793.52c94380397d02dd.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/e81d810896431320.css",
+"type": "stylesheet"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/56717eed51f9ae6d.css",
+"type": "stylesheet"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/e23cfac571e4148f.css",
+"type": "stylesheet"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/css/357a3b55519ef61a.css",
+"type": "stylesheet"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/960-323a62b7ab92a5ca.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/79956-3e31948b1fc00f80.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/212-8386fb3d084bf590.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/86107-6abdb6e5e4d48b16.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/app/article/%5B...parts%5D/page-890dddcc518e22fb.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/trump-passieren-republikaner-verlieren-085505116.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/5049.f3f6808a256aa143.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/95d7bd7a5cec53036afed9c80a5e6afde1f17b317d53fa789f52fdfc357659bc/lightyear_networkapi/smartcrop_w80_h80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-10%2F7b37af60-8256-11ef-abdd-61e33a42ff4e",
+"type": "image"
+},
+{
+"t": 7.22,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/20b56a3d030178f88d4389439db61b73c9c2884c0ab718cdfa474662378cfc72/lightyear_networkapi/smartcrop_w520_h286_faces%3Bquality_85%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fchip_de_articles_715%2F805443c5fcf5447d6e933e80788212f2.jpg",
+"type": "image"
+},
+{
+"t": 7.22,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/84a75617d763b6cc06bb2a4b9a0f9a26778c82d0e6a7007ebcfcdea6ebb97c3e/lightyear_networkapi/smartcrop_w80_h80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fbb3115b0-4daa-11ef-bc7f-0d86d1a11cc3",
+"type": "image"
+},
+{
+"t": 7.22,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/d6561faa51e12523d1f0f7202cdd7c015b4fb3b83582ac4200bb761d1ddc3a60/lightyear_networkapi/smartcrop_w520_h286_faces%3Bquality_85%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fbunte_de_694%2F4ecc3efbb9905e0fc619be0797455a8f.jpg",
+"type": "image"
+},
+{
+"t": 7.22,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/9c7d1677bac19cd8a8c87413b19869beb29d259701675ea5ec2f60023abdee97/lightyear_networkapi/smartcrop_w520_h286_faces%3Bquality_85%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Fspotonnews.de.com%2F048c02bdc53b5bced8854c0592eda19a.jpg",
+"type": "image"
+},
+{
+"t": 7.22,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/lo/mysterio/api/cba059e9cd403a9c5627d440182fe5fffd992941c4391db101c94906ed23a574/lightyear_networkapi/smartcrop_w520_h286_faces%3Bquality_85%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fde%2Feuronews_de_articles_568%2Fc0ce88a5178a817a6472a9f920052904.jpg",
+"type": "image"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/ein-goldener-engel-chuck-e-cheese-igitt-bah-wir-haben-15-kinder-heidi-klums-beruhmteste-halloween-kostume-bewerten-lassen-073930623.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/chunks/39992.adc5927977b95074.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "ec.yimg.com",
+"url": "https://ec.yimg.com/didomi/sdk/5cf92805c107114608702922ea10e061eaf7196b/modern/sdk.5cf92805c107114608702922ea10e061eaf7196b.js",
+"type": "script"
+},
+{
+"t": 7.22,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/inka-bause-spricht-u-ihren-174100200.html",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/measurement/conversion",
+"type": "fetch"
+},
+{
+"t": 7.22,
+"host": "analytics-455007615.collector.yahoo.net",
+"url": "https://analytics-455007615.collector.yahoo.net/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.23,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/saint-tropez-mario-adorf-wurde-221134217.html",
+"type": "fetch"
+},
+{
+"t": 7.23,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_nca/_next/static/media/f0b1e3f007006b62-s.woff2",
+"type": "font"
+},
+{
+"t": 7.23,
+"host": "nexus-gateway-prod.media.yahoo.com",
+"url": "https://nexus-gateway-prod.media.yahoo.com/",
+"type": "fetch"
+},
+{
+"t": 7.23,
+"host": "d2mqt2joll4fma.cloudfront.net",
+"url": "https://d2mqt2joll4fma.cloudfront.net/custom_widget/796d5e9e-42e7-4262-8b0e-9eb03e9df195.jpg",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "d2mqt2joll4fma.cloudfront.net",
+"url": "https://d2mqt2joll4fma.cloudfront.net/what_to_watch_list/45aa02d9-af22-42fe-8f9e-1fefd837e098.jpg",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "d2mqt2joll4fma.cloudfront.net",
+"url": "https://d2mqt2joll4fma.cloudfront.net/daily_highlights/842cd540-4691-4fdc-8fa1-d81493ee54ec.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/aUfGWDQEye7rhNibx8epTw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/nba/20181211/500x500/hornets_wbg.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/xwEQIqxMMZbE.AtI27qDYg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/nba/20181221/500x500/wizards_wbg.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/NCd_zIbesJqyqkAO8ikRyw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/nba/20181212/500x500/bulls_wbgs.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/SfzwhsN7TKovO_XVSeCvmQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/20181030/500x500/celtics_wbg.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/OnW8vpIBTBHY94VWNiPkBA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/nba/20181214/500x500/pistons_wbg.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/z_SOfz_ArDRMAXYLLErAuQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/nba/20181129/500x500/nets3_wbg.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/Z.ZIsqe4mHJlSxJclHlX8g--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/nba/20181226/500x500/knicks_wbg.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/6vyIVtC02cuXSZbCpmvleg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/nba/20181217/500x500/76ers_wbg.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/KMeKxtDEYLyegXn5Ogpqrw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/20250520/500px/Magic_wbg.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/poCUTDtyopKD247BFEalOA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/nba/20190508/500x500/raptors_wbgs.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/rrmBqPGfDsKgeOLdUcIx2A--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/20260702/rockets_wbg_500.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/iu/api/res/1.2/ODqUuHPMjoIpIgsvs3oMqw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTUwO3c9NTA-/https://s.yimg.com/cv/apiv2/default/nba/20181214/500x500/mavericks_wbg.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "ec.yimg.com",
+"url": "https://ec.yimg.com/didomi/sdk/5cf92805c107114608702922ea10e061eaf7196b/modern/consent-string.5cf92805c107114608702922ea10e061eaf7196b.js",
+"type": "script"
+},
+{
+"t": 7.23,
+"host": "ec.yimg.com",
+"url": "https://ec.yimg.com/didomi/sdk/5cf92805c107114608702922ea10e061eaf7196b/modern/src_sdk_core_modules_integrations_sdk-integrations_providers_gcm_gcm_js.5cf92805c107114608702922ea10e061eaf7196b.js",
+"type": "script"
+},
+{
+"t": 7.23,
+"host": "ec.yimg.com",
+"url": "https://ec.yimg.com/didomi/sdk/5cf92805c107114608702922ea10e061eaf7196b/modern/ui-web-de-web.5cf92805c107114608702922ea10e061eaf7196b.js",
+"type": "script"
+},
+{
+"t": 7.23,
+"host": "acapi.yahoo.com",
+"url": "https://acapi.yahoo.com/v1/sync",
+"type": "xhr"
+},
+{
+"t": 7.23,
+"host": "guce.yahoo.com",
+"url": "https://guce.yahoo.com/beacon",
+"type": "ping"
+},
+{
+"t": 7.23,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/c",
+"type": "ping"
+},
+{
+"t": 7.23,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/c",
+"type": "ping"
+},
+{
+"t": 7.23,
+"host": "acapi.yahoo.com",
+"url": "https://acapi.yahoo.com/v1/events",
+"type": "xhr"
+},
+{
+"t": 7.23,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png",
+"type": "image"
+},
+{
+"t": 7.23,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 7.23,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 7.23,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 7.23,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 7.23,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 7.23,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.23,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 7.23,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 7.23,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.23,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.23,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.23,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.24,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.24,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.24,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.24,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 7.24,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 7.24,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 7.24,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 7.24,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 7.24,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 7.24,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 7.24,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 7.24,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 7.24,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 7.24,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 9.28,
+"host": "analytics-455007615.collector.yahoo.net",
+"url": "https://analytics-455007615.collector.yahoo.net/g/collect",
+"type": "fetch"
+},
+{
+"t": 9.28,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 9.28,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/aufreizendes-shooting-madonna-wirbt-erotischen-115451259.html",
+"type": "fetch"
+},
+{
+"t": 9.28,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/nachrichten/aufreizendes-shooting-madonna-wirbt-erotischen-115451259.html",
+"type": "fetch"
+},
+{
+"t": 9.28,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/__rapid-worker-1.2.js",
+"type": "script"
+},
+{
+"t": 9.3,
+"host": "udc.yahoo.com",
+"url": "https://udc.yahoo.com/v2/public/yql",
+"type": "xhr"
+},
+{
+"t": 13.38,
+"host": "acapi.yahoo.com",
+"url": "https://acapi.yahoo.com/v1/events",
+"type": "xhr"
+},
+{
+"t": 13.38,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/c",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "sb.scorecardresearch.com",
+"url": "https://sb.scorecardresearch.com/p",
+"type": "image"
+},
+{
+"t": 13.39,
+"host": "guce.yahoo.com",
+"url": "https://guce.yahoo.com/banners/pok-pre",
+"type": "document"
+},
+{
+"t": 13.39,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "de.yahoo.com",
+"url": "https://de.yahoo.com/_dmi/",
+"type": "xhr"
+},
+{
+"t": 13.39,
+"host": "guce.yahoo.com",
+"url": "https://guce.yahoo.com/beacon",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/c",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "opus.analytics.yahoo.com",
+"url": "https://opus.analytics.yahoo.com/tag/opus.js",
+"type": "script"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/benji",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/benji",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "signal-service.pbs.yahoo.com",
+"url": "https://signal-service.pbs.yahoo.com/v2/signals",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "guce.yahoo.com",
+"url": "https://guce.yahoo.com/static/images/ico/announcement-1.svg",
+"type": "image"
+},
+{
+"t": 13.39,
+"host": "guce.yahoo.com",
+"url": "https://guce.yahoo.com/beacon",
+"type": "image"
+},
+{
+"t": 13.39,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/oa/guce-iframe.js",
+"type": "script"
+},
+{
+"t": 13.39,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202610280101/pubads_impl.js",
+"type": "script"
+},
+{
+"t": 13.39,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/libtrc/tr5",
+"type": "image"
+},
+{
+"t": 13.39,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/libtrc/tr5",
+"type": "image"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "s.yimg.com",
+"url": "https://s.yimg.com/bw/fonts/yahoo-sans-cr4-vf.woff2",
+"type": "font"
+},
+{
+"t": 13.39,
+"host": "securepubads.g.doubleclick.net",
+"url": "https://securepubads.g.doubleclick.net/pagead/purl_config",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/benji",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "ep1.adtrafficquality.google",
+"url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+"type": "xhr"
+},
+{
+"t": 13.39,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/gampad/ads",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "2d146b9361ee6d48e7e5cd30b92d4ec4.safeframe.googlesyndication.com",
+"url": "https://2d146b9361ee6d48e7e5cd30b92d4ec4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+"type": "document"
+},
+{
+"t": 13.39,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/benji",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "pm-widget.taboola.com",
+"url": "https://pm-widget.taboola.com/yahooweb-network/load.js",
+"type": "script"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "trc.taboola.com",
+"url": "https://trc.taboola.com/yahoo-homepage-germany/trc/3/json",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "guce.yahoo.com",
+"url": "https://guce.yahoo.com/beacon",
+"type": "image"
+},
+{
+"t": 13.39,
+"host": "pm-widget.taboola.com",
+"url": "https://pm-widget.taboola.com/yahooweb-network/pmk-20220605.1.js",
+"type": "script"
+},
+{
+"t": 13.39,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/benji",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/benji",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/gampad/ads",
+"type": "fetch"
+},
+{
+"t": 13.39,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/managed/dict/m202610290101/gpt",
+"type": "other"
+},
+{
+"t": 13.39,
+"host": "ep2.adtrafficquality.google",
+"url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+"type": "script"
+},
+{
+"t": 13.39,
+"host": "ep2.adtrafficquality.google",
+"url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+"type": "document"
+},
+{
+"t": 13.39,
+"host": "2d146b9361ee6d48e7e5cd30b92d4ec4.safeframe.googlesyndication.com",
+"url": "https://2d146b9361ee6d48e7e5cd30b92d4ec4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+"type": "document"
+},
+{
+"t": 13.39,
+"host": "2d146b9361ee6d48e7e5cd30b92d4ec4.safeframe.googlesyndication.com",
+"url": "https://2d146b9361ee6d48e7e5cd30b92d4ec4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+"type": "document"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.39,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.4,
+"host": "2d146b9361ee6d48e7e5cd30b92d4ec4.safeframe.googlesyndication.com",
+"url": "https://2d146b9361ee6d48e7e5cd30b92d4ec4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+"type": "document"
+},
+{
+"t": 13.4,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.4,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/abg_lite_fy2021.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/client/window_focus_fy2021.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "tpc.googlesyndication.com",
+"url": "https://tpc.googlesyndication.com/simgad/3342132956604581278",
+"type": "image"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "tpc.googlesyndication.com",
+"url": "https://tpc.googlesyndication.com/simgad/3342132956604581278",
+"type": "image"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/abg_lite_fy2021.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/client/window_focus_fy2021.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/bg/qzufwwu-DL1SGmIgZ-88s5tLEgy8cZKtw51byKBrkPk.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/abg_lite_fy2021.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/client/window_focus_fy2021.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "tpc.googlesyndication.com",
+"url": "https://tpc.googlesyndication.com/simgad/1701000805021865114",
+"type": "image"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 13.4,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/tlazy/20261029-3_b2-PR-111391-DEV-240022-visibility-tracker-refactor-29af7b9eb30/only-widget/ext/call-to-action.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/tlazy/20261029-3_b2-PR-111391-DEV-240022-visibility-tracker-refactor-29af7b9eb30/only-widget/ext/taboola-choice.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/tlazy/20261029-3_b2-PR-111391-DEV-240022-visibility-tracker-refactor-29af7b9eb30/only-widget/ext/scrollable-carousel.js",
+"type": "script"
+},
+{
+"t": 13.4,
+"host": "am-trc-events.taboola.com",
+"url": "https://am-trc-events.taboola.com/yahoo-homepage-germany/log/3/social",
+"type": "ping"
+},
+{
+"t": 13.4,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/static/22/228515c2-9c18-491a-a142-95df43dd9630.css",
+"type": "stylesheet"
+},
+{
+"t": 13.4,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/static/6b/6b91a1bc-8217-4d34-9774-28dc8fd0cd05.css",
+"type": "stylesheet"
+},
+{
+"t": 13.4,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/static/impl/css/yahoo_cr3_beta.css",
+"type": "stylesheet"
+},
+{
+"t": 13.4,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/static/impl/css/YahooCR4FontWeb.css",
+"type": "stylesheet"
+},
+{
+"t": 13.4,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.4,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.41,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/taboola",
+"type": "fetch"
+},
+{
+"t": 13.41,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.41,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/taboola",
+"type": "fetch"
+},
+{
+"t": 13.41,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.41,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/taboola",
+"type": "fetch"
+},
+{
+"t": 13.41,
+"host": "noa.yahoo.com",
+"url": "https://noa.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.41,
+"host": "pbd.yahoo.com",
+"url": "https://pbd.yahoo.com/data/logs/taboola",
+"type": "fetch"
+},
+{
+"t": 13.41,
+"host": "images.taboola.com",
+"url": "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_178%2Cw_320%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/94befe15df2f14dc03dddc91e3fe3f77.jpg",
+"type": "image"
+},
+{
+"t": 13.41,
+"host": "images.taboola.com",
+"url": "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_445%2Cw_800%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/75e3527c8054b9f231c6354fe9efc22f.png",
+"type": "image"
+},
+{
+"t": 13.41,
+"host": "images.taboola.com",
+"url": "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_445%2Cw_800%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/fb179c25908b70651fc35d759d83f35c.jpg",
+"type": "image"
+},
+{
+"t": 13.41,
+"host": "images.taboola.com",
+"url": "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_445%2Cw_800%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/0fa61524f9af5e4efed522e2bff5b7e8.jpg",
+"type": "image"
+},
+{
+"t": 13.41,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 13.41,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 13.41,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+"type": "fetch"
+},
+{
+"t": 13.41,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/view",
+"type": "fetch"
+},
+{
+"t": 13.41,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.41,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.41,
+"host": "geo.yahoo.com",
+"url": "https://geo.yahoo.com/p",
+"type": "ping"
+},
+{
+"t": 13.41,
+"host": "ep2.adtrafficquality.google",
+"url": "https://ep2.adtrafficquality.google/generate_204",
+"type": "image"
+},
+{
+"t": 13.41,
+"host": "ep1.adtrafficquality.google",
+"url": "https://ep1.adtrafficquality.google/pagead/sodar",
+"type": "image"
+},
+{
+"t": 13.41,
+"host": "trc.taboola.com",
+"url": "https://trc.taboola.com/yahoo-homepage-germany/log/3/bulk",
+"type": "ping"
+},
+{
+"t": 13.41,
+"host": "pagead2.googlesyndication.com",
+"url": "https://pagead2.googlesyndication.com/pcs/activeview",
+"type": "fetch"
+},
+{
+"t": 13.41,
+"host": "cdn.taboola.com",
+"url": "https://cdn.taboola.com/libtrc/static/thumbnails/f539211219b796ffbb49949997c764f0.png",
+"type": "image"
+}
+]

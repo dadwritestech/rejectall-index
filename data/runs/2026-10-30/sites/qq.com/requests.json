@@ -1,0 +1,1658 @@
+[
+{
+"t": 0.0,
+"host": "qq.com",
+"url": "https://qq.com/",
+"type": "document"
+},
+{
+"t": 0.98,
+"host": "www.qq.com",
+"url": "https://www.qq.com/",
+"type": "document"
+},
+{
+"t": 1.25,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/www/js/emonitor/custom_ed041a23.js",
+"type": "script"
+},
+{
+"t": 1.25,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqindex2021/common-static/pc-home/2026102011743/static/css/index.css",
+"type": "stylesheet"
+},
+{
+"t": 1.25,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/tupload/1792576831293.png",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/1114125652443_8907/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/03181149066_8718/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/OfvW4yuQFEv_kXE01LwuhF60vlONXckoQSruzruQUm-AwAA_870492/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0511155854519_5325/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/OOnPDoTmWyySnnMc5w_1qb1sGrFfIu7DYH3NyEVDyYJW4AA_870492/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/Oiy9mZBHdmpZ7Wiz5aERbLARHx4mGmTtYykaFiC1o4fwYAA_870492/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/OMbruKDySBetyVD7Bs17EVagGI_bzrqq5i6q8cMJFO_AkAA_870492/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/Ow4xziJRZ8lhjLyT1JuV-6wFlJrDjEo3b2u6DzhYwLtPsAA_870492/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/O1ilbzAWqiCgyloSQPdEFryxAHhkEN2-Iz5UHcIZRviOMAA_870492/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0613150938895_706/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822872258/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822872254/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822872257/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822872259/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822872255/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822872253/0",
+"type": "image"
+},
+{
+"t": 1.25,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqindex2021/common-static/20240805160928/react.production.min.js",
+"type": "script"
+},
+{
+"t": 1.25,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqindex2021/common-static/20240805160928/react-dom.production.min.js",
+"type": "script"
+},
+{
+"t": 1.25,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqnewsweb/universal-report-4.7.9.min.js",
+"type": "script"
+},
+{
+"t": 1.25,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqindex2021/libs/barrier/aria.js",
+"type": "script"
+},
+{
+"t": 1.25,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqindex2021/common-static/pc-home/2026102011743/static/js/index.js",
+"type": "script"
+},
+{
+"t": 1.33,
+"host": "i.news.qq.com",
+"url": "https://i.news.qq.com/web_backend/getWebPacUid",
+"type": "document"
+},
+{
+"t": 1.33,
+"host": "news.qq.com",
+"url": "https://news.qq.com/storage-proxy",
+"type": "document"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15823085680/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/tupload/1792582021123.jpg",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822349471/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_bt/Ori2yji_u8xvYEQd5AgmANPMaCPNOWpdnbnJ8IxzpdS0UAA/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15821904610/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15821906989/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15821906987/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0805112127189_9615/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15821906988/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0424145640218_3030/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/tupload/1786614436574.png",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15821906992/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/1112174053783_8345/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822141895/0",
+"type": "image"
+},
+{
+"t": 1.34,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822141894/0",
+"type": "image"
+},
+{
+"t": 1.4,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822141896/0",
+"type": "image"
+},
+{
+"t": 1.4,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/102416082070_174/0",
+"type": "image"
+},
+{
+"t": 1.4,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822222302/0",
+"type": "image"
+},
+{
+"t": 1.6,
+"host": "staticfile.qq.com",
+"url": "https://staticfile.qq.com/qimei/qimeisdk-web/0.6.5/lite.js",
+"type": "script"
+},
+{
+"t": 1.6,
+"host": "127.0.0.1",
+"url": "http://127.0.0.1:11601/check",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "static.pc.yyb.qq.com",
+"url": "https://static.pc.yyb.qq.com/pcyyb-js-sdk/js-sdk/1.0.8/pcyybJsSdk.umd.js",
+"type": "script"
+},
+{
+"t": 1.6,
+"host": "yybadaccess.3g.qq.com",
+"url": "https://yybadaccess.3g.qq.com/tencent_news/pcyyb_get_credential",
+"type": "fetch"
+},
+{
+"t": 1.6,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0520151116713_7779/0",
+"type": "image"
+},
+{
+"t": 1.6,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqindex2021/common-static/pc-home/2026102011743/static/js/779.js",
+"type": "script"
+},
+{
+"t": 1.6,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "vm.gtimg.cn",
+"url": "https://vm.gtimg.cn/thumbplayer/superplayer/1.33.6/superplayer.js",
+"type": "script"
+},
+{
+"t": 1.6,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/1219152121860_9758/0",
+"type": "image"
+},
+{
+"t": 1.6,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "news.ssp.qq.com",
+"url": "https://news.ssp.qq.com/ad",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqindex2021/common-static/pc-home/2026102011743/static/js/404.js",
+"type": "script"
+},
+{
+"t": 1.6,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqindex2021/common-static/pc-home/2026102011743/static/css/773.css",
+"type": "stylesheet"
+},
+{
+"t": 1.6,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/qqcdn/qqindex2021/common-static/pc-home/2026102011743/static/js/773.js",
+"type": "script"
+},
+{
+"t": 1.6,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/rain/apub2019/6596050516dd.crypto.js",
+"type": "script"
+},
+{
+"t": 1.6,
+"host": "i.news.qq.com",
+"url": "https://i.news.qq.com/getQNChannels",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "i.news.qq.com",
+"url": "https://i.news.qq.com/web_backend/getHotQuestionListForPC",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "sqt.gtimg.cn",
+"url": "https://sqt.gtimg.cn/qt",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "i.news.qq.com",
+"url": "https://i.news.qq.com/gw/event/pc_hot_ranking_list",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "i.news.qq.com",
+"url": "https://i.news.qq.com/i/getONSDict",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "bon.qq.com",
+"url": "https://bon.qq.com/bon",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "i.news.qq.com",
+"url": "https://i.news.qq.com/i/getONSDict",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "bon.qq.com",
+"url": "https://bon.qq.com/bon",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "i.news.qq.com",
+"url": "https://i.news.qq.com/i/getONSDict",
+"type": "xhr"
+},
+{
+"t": 1.6,
+"host": "video.qq.com",
+"url": "https://video.qq.com/cookie/sync_qqnews.html",
+"type": "document"
+},
+{
+"t": 1.63,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/1210103858935_1570/0",
+"type": "image"
+},
+{
+"t": 1.64,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/1210103943151_5441/0",
+"type": "image"
+},
+{
+"t": 1.64,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/1210104003136_5254/0",
+"type": "image"
+},
+{
+"t": 1.65,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 1.65,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 1.65,
+"host": "game.weixin.qq.com",
+"url": "https://game.weixin.qq.com/cgi-bin/minigame/static/pc-gamesdk/wxgamesdk.js",
+"type": "script"
+},
+{
+"t": 1.83,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 2.04,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/rain/apub2019/bdad115e5004.proxy.js",
+"type": "script"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/om_ls/OXlV8rj35cxMgr4aK-zYpG_nn8FPd_WBpFnEc53awvMQkAA_200200/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/O0Kvgovdxk76r0Zom0KSQWj04CC4jjZYHxIXK9wmax00AAA_200200/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/O1wR6TbVXYoxCVRXGvs3VvVdQkSws6ZJxpLYD12XjIKwoAA_200200/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/O-J9evAb30JYOy2JLrk-3-qo5fuZXCzD9-2HfEDRxkkfgAA_200200/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/OoseFtlzYyJsvWqFrNxtZHu8yw44ZXYoA-_W2BYnOcH2YAA/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0613115105602_1036/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_ls/0/193618796_200200/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/OCOo6Dh9lL21H34ey0W2OJLZEi2cm-EV7L7ynv4Emo77EAA_200200/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0613115632148_4830/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/Ov21Joy_hB5Rv3TzERiWt7lWkDAS8fn3bo8pktL0t5kRQAA_200200/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/OVhMz9vSIWy0_GuhmjPyP2fys6q-QcIDq1L4krqkHRHqoAA/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "p.qpic.cn",
+"url": "https://p.qpic.cn/user_pic/0/1768450740243446300/243",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "tnfe.gtimg.com",
+"url": "https://tnfe.gtimg.com/tnt/api/upload/upload_f00cf80729321a253c695896a832a83b.jpg",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "p.qpic.cn",
+"url": "https://p.qpic.cn/user_pic/0/1741965996055195381/243",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "p.qpic.cn",
+"url": "https://p.qpic.cn/user_pic/0/1789273802522937949/243",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/OJeMj-y8B7a1csV-bi2gSyAH2GcgV7NTOjLUbOTG0qy_0AA_200200/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "p.qpic.cn",
+"url": "https://p.qpic.cn/user_pic/0/1704489218647894604/243",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15798675788/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/om_ls/OyblTwlQQdiCA3IhIK3zbLMV2hiLAVmZHLuq3BOezKRXoAA_870492/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/om_ls/O6Y4z7aVNr8EIrFTgm_r-QnDUB91umAc7mxzGb5yQJmyUAA_294195/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/om_ls/OBqxOz7KIeP7rq45-ah9p1nMtSCIhKPLpNC9-f21WEw44AA_870492/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/om_ls/OVN62P6iwL6g97Z2o4Ex8BXsOsoi9H7VzQdHrxXmCe8rQAA_870492/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/O3sPYXl1Lhqh-kXfDUK7C4Ze71z7chFPou3oLdrXDfHP4AA_294195/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/om_ls/OaYWmtxdjYrnj7L_X54Ciruk9LOOs-MC7wzvZ127Io-t4AA_870492/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/om_ls/OSGKnxIKO6rGvNsPivoeJPEf26G2VGGp_wPrW8ji-oc0kAA_870492/0",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/news_ls/O5B9Pq34kq6tFWzv4H0-G1WEj_T972nN1HhEw-dZis1tIAA_294195/0",
+"type": "image"
+},
+{
+"t": 2.38,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0116170130166_2842/0",
+"type": "image"
+},
+{
+"t": 2.38,
+"host": "i.news.qq.com",
+"url": "https://i.news.qq.com/api/ip2city",
+"type": "xhr"
+},
+{
+"t": 2.5,
+"host": "i.news.qq.com",
+"url": "https://i.news.qq.com/sports_service/getMatchListPagination",
+"type": "xhr"
+},
+{
+"t": 2.54,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 2.54,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 2.56,
+"host": "game.weixin.qq.com",
+"url": "https://game.weixin.qq.com/cgi-bin/minigame/static/pc-gamesdk/wxgamesdkframe.html",
+"type": "document"
+},
+{
+"t": 2.6,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 2.6,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 2.69,
+"host": "ql.njmapp.com",
+"url": "https://ql.njmapp.com:5283/",
+"type": "xhr"
+},
+{
+"t": 2.69,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 2.76,
+"host": "sj.qq.com",
+"url": "https://sj.qq.com/jssdk/share-page/1.0.8/core.html",
+"type": "document"
+},
+{
+"t": 2.86,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/collect/pv",
+"type": "xhr"
+},
+{
+"t": 3.01,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822625292/0",
+"type": "image"
+},
+{
+"t": 3.01,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822625291/0",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "res.wx.qq.com",
+"url": "https://res.wx.qq.com/connect/zh_CN/htmledition/js/wxopensdk.js",
+"type": "script"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804105844_579.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804105844_4360.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804105845_3894.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0604163601395_4341/0",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202410/20241031112443_7765.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804103733_9917.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804103734_8463.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804103735_8366.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260820100339_4930.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804104755_3875.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804104756_821.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804104756_4559.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202511/20251111100301_9013.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804110825_4468.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804110826_9095.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804110826_7217.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202410/20241031112302_4205.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804105844_579.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804105844_4360.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804105845_3894.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804103733_9917.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804103734_8463.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804103735_8366.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804104755_3875.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804104756_821.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804104756_4559.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804110825_4468.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804110826_9095.",
+"type": "image"
+},
+{
+"t": 3.1,
+"host": "h5.ssp.qq.com",
+"url": "https://h5.ssp.qq.com/new_webp_lianyun/202608/20260804110826_7217.",
+"type": "image"
+},
+{
+"t": 3.15,
+"host": "open.weixin.qq.com",
+"url": "https://open.weixin.qq.com/pcopensdk/frame",
+"type": "document"
+},
+{
+"t": 3.23,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/rain/apub2019/ec67aa5cf8be.vip.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/0826110920543_9245/0",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/091822593172_5129/0",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "mat1.gtimg.com",
+"url": "https://mat1.gtimg.com/rain/apub2019/59f29030596b.quan.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/CharlotteHornets.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/WashingtonWizards.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/NewYorkKnicks.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/Philadelphia76ers.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/ChicagoBulls.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/BostonCeltics.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/DetroitPistons.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/BrooklynNets.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/OrlandoMagic.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/TorontoRaptors.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/IndianaPacers.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/MiamiHeat.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/HoustonRockets.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/DallasMavericks.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/LAClippers.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/MinnesotaTimberwolves.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/LosAngelesLakers.png",
+"type": "image"
+},
+{
+"t": 3.23,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/GoldenStateWarriors.png",
+"type": "image"
+},
+{
+"t": 3.24,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/DenverNuggets.png",
+"type": "image"
+},
+{
+"t": 3.24,
+"host": "sports3.gtimg.com",
+"url": "https://sports3.gtimg.com/NBAteamLogo/PhoenixSuns.png",
+"type": "image"
+},
+{
+"t": 3.26,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/collect/whitelist",
+"type": "xhr"
+},
+{
+"t": 3.55,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 3.56,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 3.56,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 3.56,
+"host": "xs.gdt.qq.com",
+"url": "https://xs.gdt.qq.com/uid/egs",
+"type": "xhr"
+},
+{
+"t": 3.71,
+"host": "v.qq.com",
+"url": "https://v.qq.com/cache/wuji/object",
+"type": "script"
+},
+{
+"t": 3.71,
+"host": "vm.gtimg.cn",
+"url": "https://vm.gtimg.cn/thumbplayer/creative/4.2.38/creative-player-v.js",
+"type": "script"
+},
+{
+"t": 3.71,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 3.71,
+"host": "beacon.cdn.qq.com",
+"url": "https://beacon.cdn.qq.com/sdk/4.5.16/beacon_web.min.js",
+"type": "script"
+},
+{
+"t": 3.71,
+"host": "v.qq.com",
+"url": "https://v.qq.com/thumbplayer-offline-log.html",
+"type": "document"
+},
+{
+"t": 3.73,
+"host": "puui.qpic.cn",
+"url": "https://puui.qpic.cn/vpic_cover/j3371ckb46u/j3371ckb46u_hz.jpg",
+"type": "image"
+},
+{
+"t": 3.73,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/1218170947901_741/0",
+"type": "image"
+},
+{
+"t": 3.73,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 3.74,
+"host": "inews.gtimg.com",
+"url": "https://inews.gtimg.com/newsapp_bt/0/15822839979/0",
+"type": "image"
+},
+{
+"t": 3.76,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 3.76,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 3.92,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/speed/performance",
+"type": "xhr"
+},
+{
+"t": 3.92,
+"host": "sj.qq.com",
+"url": "https://sj.qq.com/jssdk/share-page/1.0.8/index.js",
+"type": "script"
+},
+{
+"t": 3.94,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 3.94,
+"host": "open.weixin.qq.com",
+"url": "https://open.weixin.qq.com/pcopensdk/report",
+"type": "fetch"
+},
+{
+"t": 3.94,
+"host": "open.weixin.qq.com",
+"url": "https://open.weixin.qq.com/pcopensdk/report",
+"type": "fetch"
+},
+{
+"t": 3.97,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 3.97,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 4.02,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/collect/pv",
+"type": "xhr"
+},
+{
+"t": 4.12,
+"host": "yybadaccess.3g.qq.com",
+"url": "https://yybadaccess.3g.qq.com/tencent_news/getwebid",
+"type": "fetch"
+},
+{
+"t": 4.13,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 4.13,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 4.14,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 4.14,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 4.14,
+"host": "localhost.weixin.qq.com",
+"url": "https://localhost.weixin.qq.com:14019/wx_game_base/api/business",
+"type": "xhr"
+},
+{
+"t": 4.15,
+"host": "localhost.weixin.qq.com",
+"url": "https://localhost.weixin.qq.com:14020/wx_game_base/api/business",
+"type": "xhr"
+},
+{
+"t": 4.15,
+"host": "localhost.weixin.qq.com",
+"url": "https://localhost.weixin.qq.com:14021/wx_game_base/api/business",
+"type": "xhr"
+},
+{
+"t": 4.46,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 4.46,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 4.46,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 4.46,
+"host": "h.trace.qq.com",
+"url": "https://h.trace.qq.com/bosskv",
+"type": "image"
+},
+{
+"t": 4.46,
+"host": "vd6.l.qq.com",
+"url": "https://vd6.l.qq.com/proxyhttp",
+"type": "xhr"
+},
+{
+"t": 4.59,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/collect/whitelist",
+"type": "xhr"
+},
+{
+"t": 4.61,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 4.67,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 5.09,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/speed/custom",
+"type": "xhr"
+},
+{
+"t": 5.18,
+"host": "h.trace.qq.com",
+"url": "https://h.trace.qq.com/bosskv",
+"type": "xhr"
+},
+{
+"t": 5.18,
+"host": "vm.gtimg.cn",
+"url": "https://vm.gtimg.cn/thumbplayer/core/1.33.5/txhlsjs-kernel.js",
+"type": "script"
+},
+{
+"t": 5.28,
+"host": "ql.njmapp.com",
+"url": "https://ql.njmapp.com:5284/",
+"type": "xhr"
+},
+{
+"t": 5.4,
+"host": "appcfg.v.qq.com",
+"url": "https://appcfg.v.qq.com/getconf",
+"type": "xhr"
+},
+{
+"t": 5.4,
+"host": "apd-3907fbdaa1a712b5096eb92cd935a5a061fa3d6901cbdd46.v.smtcdns.com",
+"url": "https://apd-3907fbdaa1a712b5096eb92cd935a5a061fa3d6901cbdd46.v.smtcdns.com/omts.tc.qq.com/AumxOZuOHL2l2OvJxm_im4pGAPzGFRcUYSKCmisxlZ4I/B_vEphUBi1hFtjC3TPe8ftq1u4SWtO3PWUI5eUoNdJV9NsRiqRDoMhZeq3LWqj3Opy6J1alAZh0crOjqk-6a8SVkFl6VXufYcuRUy63-kWCps4JbuksnyQ6t9ywinbvz59d6pABJyu2iM5Vv6Q4Pmt_Rm_TFIx-Jx_xM6",
+"type": "fetch"
+},
+{
+"t": 5.56,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 5.61,
+"host": "yybadaccess.3g.qq.com",
+"url": "https://yybadaccess.3g.qq.com/tencent_news/getsdkhost",
+"type": "fetch"
+},
+{
+"t": 5.61,
+"host": "yybadaccess.3g.qq.com",
+"url": "https://yybadaccess.3g.qq.com/tencent_news/rk",
+"type": "fetch"
+},
+{
+"t": 5.61,
+"host": "open.weixin.qq.com",
+"url": "https://open.weixin.qq.com/pcopensdk/frame",
+"type": "document"
+},
+{
+"t": 5.61,
+"host": "yybadaccess.3g.qq.com",
+"url": "https://yybadaccess.3g.qq.com/v3/pcyyb_report_profile_info",
+"type": "fetch"
+},
+{
+"t": 5.97,
+"host": "open.weixin.qq.com",
+"url": "https://open.weixin.qq.com/pcopensdk/report",
+"type": "fetch"
+},
+{
+"t": 5.97,
+"host": "open.weixin.qq.com",
+"url": "https://open.weixin.qq.com/pcopensdk/report",
+"type": "fetch"
+},
+{
+"t": 6.04,
+"host": "apd-3907fbdaa1a712b5096eb92cd935a5a061fa3d6901cbdd46.v.smtcdns.com",
+"url": "https://apd-3907fbdaa1a712b5096eb92cd935a5a061fa3d6901cbdd46.v.smtcdns.com/omts.tc.qq.com/AumxOZuOHL2l2OvJxm_im4pGAPzGFRcUYSKCmisxlZ4I/B_vEphUBi1hFtjC3TPe8ftq1u4SWtO3PWUI5eUoNdJV9NsRiqRDoMhZeq3LWqj3Opy6J1alAZh0crOjqk-6a8SVkFl6VXufYcuRUy63-kWCps4JbuksnyQ6t9ywinbvz59d6pABJyu2iM5Vv6Q4Pmt_Rm_TFIx-Jx_xM6",
+"type": "fetch"
+},
+{
+"t": 6.05,
+"host": "32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com",
+"url": "https://32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com:12900/",
+"type": "fetch"
+},
+{
+"t": 6.05,
+"host": "32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com",
+"url": "https://32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com:12901/",
+"type": "fetch"
+},
+{
+"t": 6.05,
+"host": "32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com",
+"url": "https://32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com:12902/",
+"type": "fetch"
+},
+{
+"t": 6.05,
+"host": "32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com",
+"url": "https://32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com:13900/",
+"type": "fetch"
+},
+{
+"t": 6.05,
+"host": "32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com",
+"url": "https://32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com:13901/",
+"type": "fetch"
+},
+{
+"t": 6.05,
+"host": "32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com",
+"url": "https://32b69e307ee1c7b12cb91215d67b0cace002312d5cb8d2fd.sdk.myapp.com:13902/",
+"type": "fetch"
+},
+{
+"t": 6.06,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 6.07,
+"host": "h.trace.qq.com",
+"url": "https://h.trace.qq.com/bosskv",
+"type": "xhr"
+},
+{
+"t": 6.07,
+"host": "mark.l.qq.com",
+"url": "https://mark.l.qq.com/fcgi-bin/get_video_mark_all",
+"type": "script"
+},
+{
+"t": 6.07,
+"host": "vd6.l.qq.com",
+"url": "https://vd6.l.qq.com/proxyhttp",
+"type": "xhr"
+},
+{
+"t": 6.07,
+"host": "apd-3907fbdaa1a712b5096eb92cd935a5a061fa3d6901cbdd46.v.smtcdns.com",
+"url": "https://apd-3907fbdaa1a712b5096eb92cd935a5a061fa3d6901cbdd46.v.smtcdns.com/omts.tc.qq.com/AumxOZuOHL2l2OvJxm_im4pGAPzGFRcUYSKCmisxlZ4I/B_vEphUBi1hFtjC3TPe8ftq1u4SWtO3PWUI5eUoNdJV9NsRiqRDoMhZeq3LWqj3Opy6J1alAZh0crOjqk-6a8SVkFl6VXufYcuRUy63-kWCps4JbuksnyQ6t9ywinbvz59d6pABJyu2iM5Vv6Q4Pmt_Rm_TFIx-Jx_xM6",
+"type": "fetch"
+},
+{
+"t": 6.55,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 6.61,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/speed/custom",
+"type": "xhr"
+},
+{
+"t": 6.67,
+"host": "localhost.weixin.qq.com",
+"url": "https://localhost.weixin.qq.com:14016/wx_game_base/api/business",
+"type": "xhr"
+},
+{
+"t": 6.67,
+"host": "localhost.weixin.qq.com",
+"url": "https://localhost.weixin.qq.com:14017/wx_game_base/api/business",
+"type": "xhr"
+},
+{
+"t": 6.67,
+"host": "localhost.weixin.qq.com",
+"url": "https://localhost.weixin.qq.com:14018/wx_game_base/api/business",
+"type": "xhr"
+},
+{
+"t": 6.67,
+"host": "localhost.weixin.qq.com",
+"url": "https://localhost.weixin.qq.com:13016/wx_game_base/api/business",
+"type": "xhr"
+},
+{
+"t": 6.67,
+"host": "localhost.weixin.qq.com",
+"url": "https://localhost.weixin.qq.com:13017/wx_game_base/api/business",
+"type": "xhr"
+},
+{
+"t": 6.67,
+"host": "localhost.weixin.qq.com",
+"url": "https://localhost.weixin.qq.com:13018/wx_game_base/api/business",
+"type": "xhr"
+},
+{
+"t": 6.69,
+"host": "h.trace.qq.com",
+"url": "https://h.trace.qq.com/kv",
+"type": "image"
+},
+{
+"t": 7.33,
+"host": "ql.njmapp.com",
+"url": "https://ql.njmapp.com:5285/",
+"type": "xhr"
+},
+{
+"t": 7.36,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 7.6,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/speed",
+"type": "xhr"
+},
+{
+"t": 7.6,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 8.05,
+"host": "otheve.beacon.qq.com",
+"url": "https://otheve.beacon.qq.com/analytics/v2_upload",
+"type": "fetch"
+},
+{
+"t": 14.26,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "op.ssp.qq.com",
+"url": "https://op.ssp.qq.com/report",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/speed/performance",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/speed",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "ql.njmapp.com",
+"url": "https://ql.njmapp.com:5286/",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "rumt-zh.com",
+"url": "https://rumt-zh.com/speed",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "h.trace.qq.com",
+"url": "https://h.trace.qq.com/kv",
+"type": "image"
+},
+{
+"t": 14.26,
+"host": "sqt.gtimg.cn",
+"url": "https://sqt.gtimg.cn/qt",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "ql.njmapp.com",
+"url": "https://ql.njmapp.com:5287/",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "snowflake.qq.com",
+"url": "https://snowflake.qq.com/ola/v2",
+"type": "xhr"
+},
+{
+"t": 14.26,
+"host": "ql.njmapp.com",
+"url": "https://ql.njmapp.com:5288/",
+"type": "xhr"
+},
+{
+"t": 16.32,
+"host": "ql.njmapp.com",
+"url": "https://ql.njmapp.com:5289/",
+"type": "xhr"
+}
+]

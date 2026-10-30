@@ -1,0 +1,110 @@
+[
+{
+"t": 0.0,
+"host": "scorecardresearch.com",
+"url": "https://scorecardresearch.com/",
+"type": "document"
+},
+{
+"t": 0.34,
+"host": "www.scorecardresearch.com",
+"url": "https://www.scorecardresearch.com/default.aspx",
+"type": "document"
+},
+{
+"t": 0.46,
+"host": "www.scorecardresearch.com",
+"url": "https://www.scorecardresearch.com/Home.aspx",
+"type": "document"
+},
+{
+"t": 0.58,
+"host": "www.scorecardresearch.com",
+"url": "https://www.scorecardresearch.com/Css/SR_Styles.css",
+"type": "stylesheet"
+},
+{
+"t": 0.59,
+"host": "www.scorecardresearch.com",
+"url": "https://www.scorecardresearch.com/Css/sitecommon.js",
+"type": "script"
+},
+{
+"t": 0.59,
+"host": "code.jquery.com",
+"url": "https://code.jquery.com/jquery-3.6.0.min.js",
+"type": "script"
+},
+{
+"t": 0.59,
+"host": "code.jquery.com",
+"url": "https://code.jquery.com/ui/1.13.0/jquery-ui.min.js",
+"type": "script"
+},
+{
+"t": 0.59,
+"host": "code.jquery.com",
+"url": "https://code.jquery.com/ui/1.13.0/themes/smoothness/jquery-ui.css",
+"type": "stylesheet"
+},
+{
+"t": 0.59,
+"host": "www.scorecardresearch.com",
+"url": "https://www.scorecardresearch.com/Images/ScorecardResearch_01_Small.jpg",
+"type": "image"
+},
+{
+"t": 0.59,
+"host": "www.scorecardresearch.com",
+"url": "https://www.scorecardresearch.com/images/privacyoptions.png",
+"type": "image"
+},
+{
+"t": 0.7,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.72,
+"host": "www.scorecardresearch.com",
+"url": "https://www.scorecardresearch.com/Images/bk-hdr.jpg",
+"type": "image"
+},
+{
+"t": 0.72,
+"host": "www.scorecardresearch.com",
+"url": "https://www.scorecardresearch.com/Images/bk-ftr.jpg",
+"type": "image"
+},
+{
+"t": 0.82,
+"host": "www.google-analytics.com",
+"url": "https://www.google-analytics.com/analytics.js",
+"type": "script"
+},
+{
+"t": 0.87,
+"host": "www.google-analytics.com",
+"url": "https://www.google-analytics.com/j/collect",
+"type": "xhr"
+},
+{
+"t": 6.87,
+"host": "www.scorecardresearch.com",
+"url": "https://www.scorecardresearch.com/Images/nav-home.jpg",
+"type": "image"
+},
+{
+"t": 6.87,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 6.87,
+"host": "region1.google-analytics.com",
+"url": "https://region1.google-analytics.com/g/collect",
+"type": "fetch"
+}
+]

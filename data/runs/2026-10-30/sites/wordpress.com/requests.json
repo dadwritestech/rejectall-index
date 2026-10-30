@@ -1,0 +1,410 @@
+[
+{
+"t": 0.0,
+"host": "wordpress.com",
+"url": "https://wordpress.com/",
+"type": "document"
+},
+{
+"t": 0.22,
+"host": "wordpress.com",
+"url": "https://wordpress.com/de/",
+"type": "document"
+},
+{
+"t": 0.46,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "fetch"
+},
+{
+"t": 0.46,
+"host": "wordpress.com",
+"url": "https://wordpress.com/i/fonts/recoleta/400.woff2",
+"type": "font"
+},
+{
+"t": 0.46,
+"host": "wordpress.com",
+"url": "https://wordpress.com/_static/",
+"type": "stylesheet"
+},
+{
+"t": 0.46,
+"host": "wordpress.com",
+"url": "https://wordpress.com/_static/",
+"type": "stylesheet"
+},
+{
+"t": 0.46,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/plugins/gutenberg-core/v24.2.0/build/styles/block-library/common.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.47,
+"host": "dewplandpack.wordpress.com",
+"url": "https://dewplandpack.wordpress.com/wp-content/uploads/2025/09/de-lohp_result.webp",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "wordpress.com",
+"url": "https://wordpress.com/home.logged-out/page-2024-jul/js/bundle.js",
+"type": "script"
+},
+{
+"t": 0.48,
+"host": "wordpress.com",
+"url": "https://wordpress.com/_static/",
+"type": "script"
+},
+{
+"t": 0.48,
+"host": "stats.wp.com",
+"url": "https://stats.wp.com/w.js",
+"type": "script"
+},
+{
+"t": 0.48,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/js/bilmur.min.js",
+"type": "script"
+},
+{
+"t": 0.48,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/js/def-queue.js",
+"type": "script"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/07/plus-pattern-white.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "s1.wp.com",
+"url": "https://s1.wp.com/wp-content/themes/h4/assets/hosting/globe-blue.svg",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/i/fonts/inter-4.0/subsets/InterVariable-latin.woff2",
+"type": "font"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/i/fonts/inter-4.0/subsets/InterVariable-symbols.woff2",
+"type": "font"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/10/rating-icon402x.png",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/psychedeli-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/clairevoyant-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/raconteur-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/punk-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/stranger-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/alter-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/dropp-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/patisserie-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/sankofa-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/primarium-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/noteslab-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/11/newsletters-1-1.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/11/blogging.webp",
+"type": "image"
+},
+{
+"t": 0.58,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/11/discover-1.webp",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/g.gif",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/g.gif",
+"type": "image"
+},
+{
+"t": 0.6,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/g.gif",
+"type": "image"
+},
+{
+"t": 0.61,
+"host": "s0.wp.com",
+"url": "https://s0.wp.com/wp-content/mu-plugins/a8c-analytics/a8c-analytics.js",
+"type": "script"
+},
+{
+"t": 0.61,
+"host": "public-api.wordpress.com",
+"url": "https://public-api.wordpress.com/geo/",
+"type": "fetch"
+},
+{
+"t": 0.61,
+"host": "public-api.wordpress.com",
+"url": "https://public-api.wordpress.com/rest/v1.0/products",
+"type": "fetch"
+},
+{
+"t": 0.61,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/alter-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.61,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/dropp-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.61,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/patisserie-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.61,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/sankofa-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.61,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/primarium-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.61,
+"host": "wordpress.com",
+"url": "https://wordpress.com/wp-content/uploads/2025/04/noteslab-desktop.webp",
+"type": "image"
+},
+{
+"t": 0.61,
+"host": "public-api.wordpress.com",
+"url": "https://public-api.wordpress.com/geo/",
+"type": "xhr"
+},
+{
+"t": 0.62,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/client",
+"type": "script"
+},
+{
+"t": 0.62,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/b.gif",
+"type": "image"
+},
+{
+"t": 0.62,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 0.62,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "s0.wp.com",
+"url": "https://s0.wp.com/wp-content/mu-plugins/a8c-analytics/8de60a4730efd578190b.a8c-analytics.js",
+"type": "script"
+},
+{
+"t": 0.65,
+"host": "s0.wp.com",
+"url": "https://s0.wp.com/wp-content/mu-plugins/a8c-analytics/2b92b8471af30e898275.a8c-analytics.js",
+"type": "script"
+},
+{
+"t": 0.68,
+"host": "s0.wp.com",
+"url": "https://s0.wp.com/wp-content/mu-plugins/a8c-analytics/9c4d3e3f28a09375bb45.a8c-analytics.js",
+"type": "script"
+},
+{
+"t": 0.71,
+"host": "s1.wp.com",
+"url": "https://s1.wp.com/wp-content/themes/h4/landing/marketing/js/affiliate-referrals.js",
+"type": "script"
+},
+{
+"t": 0.71,
+"host": "public-api.wordpress.com",
+"url": "https://public-api.wordpress.com/geo/",
+"type": "fetch"
+},
+{
+"t": 0.71,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 0.72,
+"host": "refer.wordpress.com",
+"url": "https://refer.wordpress.com/wp-content/themes/refer-wordpress/assets/js/referrals.min.js",
+"type": "script"
+},
+{
+"t": 0.83,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/style",
+"type": "stylesheet"
+},
+{
+"t": 0.83,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/status",
+"type": "xhr"
+},
+{
+"t": 6.84,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 6.84,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/g.gif",
+"type": "image"
+},
+{
+"t": 6.84,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 6.84,
+"host": "google.com",
+"url": "https://google.com/.well-known/web-identity",
+"type": "other"
+},
+{
+"t": 6.84,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/fedcm/config/passive.json",
+"type": "other"
+},
+{
+"t": 6.84,
+"host": "accounts.google.com",
+"url": "https://accounts.google.com/gsi/fedcm/listaccounts",
+"type": "other"
+},
+{
+"t": 8.94,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+},
+{
+"t": 8.94,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "fetch"
+},
+{
+"t": 12.94,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/t.gif",
+"type": "image"
+}
+]

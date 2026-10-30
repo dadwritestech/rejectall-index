@@ -1,0 +1,272 @@
+[
+{
+"t": 0.0,
+"host": "triplinkintl.com",
+"url": "https://triplinkintl.com/",
+"type": "document"
+},
+{
+"t": 1.04,
+"host": "www.triplinkintl.com",
+"url": "https://www.triplinkintl.com/",
+"type": "document"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/css/pages/_app.css",
+"type": "stylesheet"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/css/c10290d399bf9728.css",
+"type": "stylesheet"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/chunks/webpack-d9749d4c2fe59da6.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/chunks/nfes-ebea896591e5b777.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/chunks/framework-99c79b7e2bc721f4.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/chunks/main-8073f349f40a0c76.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/chunks/pages/_app-e89100e3b5badc75.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/chunks/commonsLib-e603f6978ea2c565.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/chunks/commons-8e188b5d7cd9c408.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/chunks/pages/home-3528554400c63da6.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/xxx/_buildManifest.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/ares/NFES/100031248/1788858425016/_next/static/xxx/_ssgManifest.js",
+"type": "script"
+},
+{
+"t": 2.25,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf1912000n85sazeE518.svg",
+"type": "image"
+},
+{
+"t": 2.25,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf5h12000n85slnuD8D7.svg",
+"type": "image"
+},
+{
+"t": 2.25,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf4512000nplra28D759.svg",
+"type": "image"
+},
+{
+"t": 2.25,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf5z12000ndi3qrjCA45.svg",
+"type": "image"
+},
+{
+"t": 2.25,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/locale/v3/100031248/en-US.js",
+"type": "script"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf5o12000n6i0vep4091.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf6612000n6i16c3CFD8.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf1p12000n6i148e3A8E.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf3w12000qf0e93q41B5.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf5l12000ndkwlpa6E36.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf4v12000n6i0oi41A13.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf2712000n6i15ykF27E.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf1e12000n6i1cuy6A64.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf1n12000n6i0w9pBE45.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf4e12000n6i0p4bD6DE.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf3j12000ndkvycvB517.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf1p12000nscipj6D108.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf1c12000f6fadmu7EBA.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "dimg04.tripcdn.com",
+"url": "https://dimg04.tripcdn.com/images/1vf0o12000djyrrtw8FA1.webp",
+"type": "image"
+},
+{
+"t": 2.33,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/modules/infosec/jigsawCaptcha/jigsaw-captcha.min.70c6e6893d555dd045d1a4110c14953a.macro.js",
+"type": "other"
+},
+{
+"t": 2.33,
+"host": "www.triplinkintl.com",
+"url": "https://www.triplinkintl.com/nfes/serviceworker/sw.js",
+"type": "script"
+},
+{
+"t": 2.38,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/packages/ares/nfes-libs/2.3.2/foundation.js",
+"type": "script"
+},
+{
+"t": 2.39,
+"host": "static.tripcdn.com",
+"url": "https://static.tripcdn.com/packages/nfes/ubt-libs/*/ubt.minh.js",
+"type": "script"
+},
+{
+"t": 2.4,
+"host": "ak-s-cw.tripcdn.com",
+"url": "https://ak-s-cw.tripcdn.com/packages/ares/nfes-libs/2.3.2/screenshot2.js",
+"type": "script"
+},
+{
+"t": 2.47,
+"host": "www.trip.com",
+"url": "https://www.trip.com/restapi/soa2/18088/getAppConfig.json",
+"type": "fetch"
+},
+{
+"t": 2.47,
+"host": "webresource.tripcdn.com",
+"url": "https://webresource.tripcdn.com/ares2/train/csec/*/default/sec/c-sec.js",
+"type": "script"
+},
+{
+"t": 2.47,
+"host": "ubt-sin.tripcdn.com",
+"url": "https://ubt-sin.tripcdn.com/bee/collect",
+"type": "fetch"
+},
+{
+"t": 2.6,
+"host": "www.trip.com",
+"url": "https://www.trip.com/restapi/soa2/18088/getAppConfig.json",
+"type": "xhr"
+},
+{
+"t": 8.6,
+"host": "ubt-sin.tripcdn.com",
+"url": "https://ubt-sin.tripcdn.com/bee/collect",
+"type": "ping"
+},
+{
+"t": 8.6,
+"host": "ubt-sin.tripcdn.com",
+"url": "https://ubt-sin.tripcdn.com/bee/collect",
+"type": "ping"
+},
+{
+"t": 8.6,
+"host": "www.trip.com",
+"url": "https://www.trip.com/m/i18n/ReportRecentUsedKey.html",
+"type": "xhr"
+}
+]

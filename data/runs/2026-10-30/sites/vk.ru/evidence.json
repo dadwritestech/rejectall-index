@@ -1,0 +1,34 @@
+{
+  "domain": "vk.ru",
+  "url": "https://vk.ru/",
+  "status": "no_banner",
+  "reason": "no consent buttons found",
+  "final_url": "https://r3-test.vk.ru/challenge.html?tid=gdlukVXzlyTCHmI7aqQGNudQILM2Qw&hash429=L0wzw8gbOug95J7K60JjnjZL1pVMrhMhbXbsqpm1F5ZqcOIpRZWQ0pk9Sv1yyu-CvTGtHXy0gpyuNNTCzZMVjDqsgwCcFsfHbFYCvCjDjBSY3Y4fSKmJWQtELIc8IFAsV-BCscLWZ317wirS&sign=Y8JCEcQSoIcYtyCIHwmcGA&back=https%3A%2F%2Fvk.ru%2F&origin=&lang_id=",
+  "accept_clicks": null,
+  "reject_clicks": null,
+  "reject_second_layer": null,
+  "reject_path": null,
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": null,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "tns-counter.ru",
+      "entity": "Mediascope",
+      "category": "Analytics",
+      "requests": 6
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "pre_consent_requests": 224,
+  "first_click_t": null,
+  "screenshots": [
+    "01_landing.jpg"
+  ],
+  "events": []
+}

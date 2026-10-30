@@ -1,0 +1,740 @@
+[
+{
+"t": 0.0,
+"host": "skybridge.click",
+"url": "https://skybridge.click/",
+"type": "document"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/unsupported-browsers/dist/bundle.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/ext-3.4/resources/css/ext-all.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/syno-vue-components/style/syno-vue-components.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/scrollbar/flexcroll.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/ext-3/ux/ux-all.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/synoSDSjslib/sds.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/desktop/dist/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/taskbar/dist/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/login/dist/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/resources/css/desktop.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/AudioPlayer/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/BackgroundTaskMonitor/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/C3/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/DataDrivenDocuments/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/Utils/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.84,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/ConfigBackup/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/FileChooser/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/SystemInfoApp/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/ActiveInsightUpdateNotify/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/SharingManager/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/ResourceMonitor/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/DesktopProgress/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/LogCenter/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/PhotoViewer/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/TinyMCE/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/SupportForm/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/Widgets/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/UpdateMaskApp/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/ResetAdminApp/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/TaskSchedulerWidget/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/OTPWizard/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/HotkeyManager/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/PollingTask/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/WelcomeApp/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/AdminCenter/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/DiskMessageHandler/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/SecurityScan/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/VideoPlayer2/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/DSMNotify/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/ExternalDevices/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/Share/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/MyDSCenter/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/PersonalSettings/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/HelpBrowser/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/BandwidthControl/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/TaskSchedulerUtils/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/FileChooserV6/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/ClipBoardJS/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/StorageManager/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/PkgManApp/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/DisableAdminNotification/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/modules/EnableNewUpdateSetting/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/PDFViewer/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/ActiveInsight/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/Spreadsheet/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.85,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/CodecPack/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/FileTaskMonitor/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/ScsiTarget/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/OAuthService/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/SynologyDrive-Drive/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/HyperBackup/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/LogCenter/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/SynologyPhotos/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/TextEditor/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/Chat/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/WebStation/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/CloudSync/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/FileBrowser/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/ActiveBackup-Portal/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/SynologyApplicationService/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/Docker/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/Virtualization/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/SnapshotReplication/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/HybridShare/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/SynologyDrive-ShareSync/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/StorageAnalyzer/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/ActiveBackup/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/SynologyDrive/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/DownloadStation/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/MailServer/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/HyperBackupVault/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/WebDAVServer/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/MediaServer/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/SynoFinder/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webapi/entry.cgi",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/babel-polyfill/polyfill.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/synowebapi.js/synowebapi.min.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/synocredential.js/synocredential.min.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webapi/entry.cgi",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webapi/entry.cgi",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webapi/entry.cgi",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/unsupported-browsers/dist/bundle.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/ext-3/adapter/ext/ext-base.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/ext-3/ext-all.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/ext-3/ux/ux-all.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/scrollbar/flexcroll.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/noise/noise-c.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/noise/constants.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/noise/index.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/noise/sodium.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/vue/vue.min.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/vuex/vuex.min.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/vue-router/vue-router.min.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/syno-vue-components/syno-vue-components.min.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/taskbar/dist/dsm.taskbar.bundle.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/synoSDSjslib/vendor.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/synoSDSjslib/sds.js",
+"type": "script"
+},
+{
+"t": 0.86,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/sds/dist/dsm.common.bundle.js",
+"type": "script"
+},
+{
+"t": 0.87,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/desktop/dist/dsm.desktop.bundle.js",
+"type": "script"
+},
+{
+"t": 0.87,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/sds/dist/dsm.sds.bundle.js",
+"type": "script"
+},
+{
+"t": 0.87,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/login/dist/dsm.login.bundle.js",
+"type": "script"
+},
+{
+"t": 0.87,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/entry/dist/dsm.entry.bundle.js",
+"type": "script"
+},
+{
+"t": 2.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/scripts/noise/noise-c.wasm",
+"type": "fetch"
+},
+{
+"t": 8.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/login/dist/2.style.css",
+"type": "stylesheet"
+},
+{
+"t": 8.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/login/dist/dsm.login.bundle.f858f097e152553e708d.2.js",
+"type": "script"
+},
+{
+"t": 8.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/login/dist/dsm.login.bundle.289c3033f46c70d66aa1.5.js",
+"type": "script"
+},
+{
+"t": 8.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webapi/entry.cgi/SYNO.API.Auth.UIConfig",
+"type": "xhr"
+},
+{
+"t": 8.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/login/dist/assets/8d1c89b16774eaa1ed64129f6e5a33da.png",
+"type": "image"
+},
+{
+"t": 8.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/login_logo.jpg",
+"type": "image"
+},
+{
+"t": 8.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/resources/images/2x/default_login_background/dsm7_01.jpg",
+"type": "image"
+},
+{
+"t": 8.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/SecureSignIn/login-dist/SecureSignInLogin.js",
+"type": "script"
+},
+{
+"t": 8.46,
+"host": "skybridge.click",
+"url": "https://skybridge.click/webman/3rdparty/SecureSignIn/login-dist/SecureSignInLogin.css",
+"type": "stylesheet"
+}
+]

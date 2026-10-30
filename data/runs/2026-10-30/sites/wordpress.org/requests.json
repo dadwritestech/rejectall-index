@@ -1,0 +1,326 @@
+[
+{
+"t": 0.0,
+"host": "wordpress.org",
+"url": "https://wordpress.org/",
+"type": "document"
+},
+{
+"t": 0.34,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/Inter/Inter-latin.woff2",
+"type": "font"
+},
+{
+"t": 0.34,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/EB-Garamond/EBGaramond-latin.woff2",
+"type": "font"
+},
+{
+"t": 0.34,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/plugins/gutenberg/build/styles/block-library/navigation/style.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.34,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtm.js",
+"type": "script"
+},
+{
+"t": 0.36,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/plugins/gutenberg/build/styles/block-library/social-links/style.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/themes/wporg-parent-2021/build/block-styles.css",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/themes/wporg-parent-2021/build/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-includes/css/dashicons.min.css",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/themes/wporg-main-2022/build/style/style-index.css",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/themes/wporg-parent-2021/build/print.css",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/build/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.37,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/language-suggest/build/front.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/plugins/gutenberg/build/modules/interactivity/index.min.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2024/04/brush.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2025/12/wporg-69-design.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2025/12/wporg-69-build.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2025/12/wporg-69-publish.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2026/08/Whats-new-visual-7.1.webp",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2023/12/rolling-stone.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "wordpress.org",
+"url": "https://wordpress.org/files/2022/08/Time-Magazine.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "wordpress.org",
+"url": "https://wordpress.org/files/2023/10/NASA-1.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2023/10/Microsoft.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "wordpress.org",
+"url": "https://wordpress.org/files/2023/10/tech-crunch.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2023/10/Harvard.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2023/10/showcase-top-row-full.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2023/10/showcase-middle-row.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2023/10/showcase-bottom-row.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2024/04/photo-community-1.png",
+"type": "image"
+},
+{
+"t": 0.47,
+"host": "i0.wp.com",
+"url": "https://i0.wp.com/wordpress.org/files/2026/08/merch-items-03.png",
+"type": "image"
+},
+{
+"t": 0.49,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/plugins/gutenberg/build/modules/block-library/navigation/view.min.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/time/build/view.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "stats.wp.com",
+"url": "https://stats.wp.com/e-202644.js",
+"type": "script"
+},
+{
+"t": 0.49,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/js/view.js",
+"type": "script"
+},
+{
+"t": 0.75,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/NotoSerif/NotoSerifJP/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.75,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/NotoSerif/NotoSerifKR/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.75,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/NotoSerif/NotoSerifSC/style.css",
+"type": "stylesheet"
+},
+{
+"t": 0.92,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/images/search-for-light-bg.svg",
+"type": "image"
+},
+{
+"t": 0.92,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/themes/wporg-parent-2021/images/dots-banner.svg",
+"type": "image"
+},
+{
+"t": 0.92,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/Inter/Inter-arrows.woff2",
+"type": "font"
+},
+{
+"t": 1.01,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/gtag/js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "pixel.wp.com",
+"url": "https://pixel.wp.com/g.gif",
+"type": "image"
+},
+{
+"t": 1.01,
+"host": "wordpress.org",
+"url": "https://wordpress.org/lang-guess/lang-guess-ajax.php",
+"type": "fetch"
+},
+{
+"t": 1.04,
+"host": "wordpress.org",
+"url": "https://wordpress.org/wp-includes/js/wp-emoji-release.min.js",
+"type": "script"
+},
+{
+"t": 1.11,
+"host": "region1.analytics.google.com",
+"url": "https://region1.analytics.google.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 1.11,
+"host": "stats.g.doubleclick.net",
+"url": "https://stats.g.doubleclick.net/g/collect",
+"type": "ping"
+},
+{
+"t": 1.11,
+"host": "region1.analytics.google.com",
+"url": "https://region1.analytics.google.com/g/collect",
+"type": "fetch"
+},
+{
+"t": 1.11,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/a",
+"type": "image"
+},
+{
+"t": 1.11,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/a",
+"type": "image"
+},
+{
+"t": 1.11,
+"host": "www.google.de",
+"url": "https://www.google.de/ads/ga-audiences",
+"type": "image"
+},
+{
+"t": 1.11,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/a",
+"type": "image"
+},
+{
+"t": 1.11,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/a",
+"type": "image"
+},
+{
+"t": 1.11,
+"host": "www.googletagmanager.com",
+"url": "https://www.googletagmanager.com/a",
+"type": "image"
+}
+]

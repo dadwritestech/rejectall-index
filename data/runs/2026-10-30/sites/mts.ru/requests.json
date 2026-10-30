@@ -1,0 +1,2180 @@
+[
+{
+"t": 0.0,
+"host": "mts.ru",
+"url": "https://mts.ru/",
+"type": "document"
+},
+{
+"t": 0.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/personal",
+"type": "document"
+},
+{
+"t": 1.0,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSCompact/MTSCompact-Regular.woff2",
+"type": "font"
+},
+{
+"t": 1.0,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSCompact/MTSCompact-Medium.woff2",
+"type": "font"
+},
+{
+"t": 1.0,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSWide/MTSWide-Bold.woff2",
+"type": "font"
+},
+{
+"t": 1.0,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSWide/MTSWide-Medium.woff2",
+"type": "font"
+},
+{
+"t": 1.0,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/styles-MBLREXM2.css",
+"type": "stylesheet"
+},
+{
+"t": 1.0,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/styles-main-page-FSWVWUPK.css",
+"type": "stylesheet"
+},
+{
+"t": 1.0,
+"host": "tag.a.mts.ru",
+"url": "https://tag.a.mts.ru/container/3fbf1822-d661-4b05-880c-aa113dcfaa12/tag.js",
+"type": "script"
+},
+{
+"t": 1.01,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/logo-eco.svg",
+"type": "image"
+},
+{
+"t": 1.02,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/%D1%81onnection_quality_5g_bg.avif",
+"type": "image"
+},
+{
+"t": 1.02,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/%D1%81onnection_quality_5g_kv.avif",
+"type": "image"
+},
+{
+"t": 1.02,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/polyfills-VE33EGPM.js",
+"type": "script"
+},
+{
+"t": 1.02,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/main-PQNOCWPW.js",
+"type": "script"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/navigation.svg",
+"type": "image"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/purse.svg",
+"type": "image"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/mm-web/icons/chevron-left.svg",
+"type": "image"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/mm-web/icons/chevron-right.svg",
+"type": "image"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/mobile.svg",
+"type": "image"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/esim.svg",
+"type": "image"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/check_circle.svg",
+"type": "image"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/network.svg",
+"type": "image"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/lock.svg",
+"type": "image"
+},
+{
+"t": 1.22,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/sim_card.svg",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/757/100926_mnp_banner_main.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/esim_cell.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/beautiful_number_cell.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/sim_cell.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/685/clear_number_cell.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/557/newyear3d.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/618/ic_card_zashchitnik.svg",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/618/secretar_icon.svg",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/618/kion_icon.svg",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/618/kion_music_icon.svg",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/557/catalog_card_mts_super_848%D1%85200.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/618/call_rec_icon.svg",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/557/reel_cover.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/618/urent.svg",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/706/menu_tariff.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/706/menu_mnp.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/706/menu_uslugi.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/706/menu_home_internet.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/706/menu_roaming.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/706/menu_shop.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/706/main_nav_menu_5g_ad_icon.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/706/menu_family_group.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/706/menu_sale.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/smartfon_po_podpiske_slider_bkg.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/smartfon_po_podpiske_slider_kv.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/040926_reel_background.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/040926_reel_keyvisual.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/krasiviy_nomer_akciya_slider_banner_background.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/krasiviy_nomer_akciya_slider_banner_kv.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/oplata_ls_slider_banner_background.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/608/oplata_ls_slider_banner_kv.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/110926_lk_card.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/pay_balance_card.svg",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/110926_oplata_card.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/110926_rouming_card.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/110926_esim_card.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/img_stock.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/img_smartphones.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/img_headphones.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/img_watch.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/img_tablet.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/img_smart.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/technologies_category.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/coverage_map_category.avif",
+"type": "image"
+},
+{
+"t": 1.32,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/679/esg_category_new.avif",
+"type": "image"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-D_04p3CC.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-Cjmi3o_d.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-B6kZDsSe.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-BOTLppqj.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-D2WmuVb0.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-BcOHprKC.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-z9bQq2he.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-CIXRgunr.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-CGMulc_-.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-H_Uv4ZWy.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-DQCT1x2g.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-BYEKfReR.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-CiX6pKAZ.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-BFz_Hhnj.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-8v67KNkr.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-Xpp_12Cr.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-Bsq9H_EU.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-BVuTEZFt.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-DahGOWM6.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-C8amFBkr.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-sSOW9M18.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-D4bxaUM-.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-DoCQ6QH4.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-DlaiYKzt.js",
+"type": "script"
+},
+{
+"t": 1.39,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-KsBdoTHt.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-B5dUqlXx.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-BGSk0OmW.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-CRzFGG8M.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-BrG7y_jp.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-CeRPY5IZ.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-BfLfsYM-.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-Dr-653RM.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-D26ewNf1.js",
+"type": "script"
+},
+{
+"t": 1.4,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-DcLHbGYL.js",
+"type": "script"
+},
+{
+"t": 1.83,
+"host": "serving.a.mts.ru",
+"url": "https://serving.a.mts.ru/split-tests/sdk/c5944425-ea8d-43be-9e84-12e77a1b4204.js",
+"type": "script"
+},
+{
+"t": 1.83,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/metrika/tag.js",
+"type": "script"
+},
+{
+"t": 1.83,
+"host": "pn.mts.ru",
+"url": "https://pn.mts.ru/scripts/tracking.js",
+"type": "script"
+},
+{
+"t": 1.83,
+"host": "static.a.mts.ru",
+"url": "https://static.a.mts.ru/web-sdk/analytics.js",
+"type": "script"
+},
+{
+"t": 1.93,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/main-page.component-CX-8Qb6q.js",
+"type": "script"
+},
+{
+"t": 1.93,
+"host": "sentry.obs.mts.ru",
+"url": "https://sentry.obs.mts.ru/api/604/envelope/",
+"type": "fetch"
+},
+{
+"t": 2.03,
+"host": "cm.a.mts.ru",
+"url": "https://cm.a.mts.ru/cm/tech",
+"type": "fetch"
+},
+{
+"t": 2.03,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.03,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.12,
+"host": "7304683961793353675241.cm.a.mts.ru",
+"url": "https://7304683961793353675241.cm.a.mts.ru/cm/match",
+"type": "fetch"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/auth/profile",
+"type": "fetch"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/regions/cities",
+"type": "fetch"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/regions/list",
+"type": "fetch"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/settings",
+"type": "fetch"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/layout-footer-Ca6o6sTf.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/poll-widget-B7ZuxrkX.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/tooltip-widget-D0NL3SEt.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "identitystatic.mts.ru",
+"url": "https://identitystatic.mts.ru/eco-header/profile-widget-b2c/current/profile-widget.bundle.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/settings",
+"type": "fetch"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/search-widget-K1IJwXwQ.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/menu/profile",
+"type": "fetch"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/main-page-search-widget-DJ8Cb7y3.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/universal-widget-YjI1j9NW.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/banner-widget-DZ2NRo_Q.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/shop-popular-widget-CBI_wmcj.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/news-widget-BPixVBGJ.js",
+"type": "script"
+},
+{
+"t": 2.2,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/browser-D-3m2fpl.js",
+"type": "script"
+},
+{
+"t": 2.21,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/main-menu-dropdown-arrow.svg",
+"type": "image"
+},
+{
+"t": 2.21,
+"host": "mts.ru",
+"url": "https://mts.ru/upload/contents/10924/main_header_banner_5g_ad.webm",
+"type": "media"
+},
+{
+"t": 2.22,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.24,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_check",
+"type": "image"
+},
+{
+"t": 2.24,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/metrika/advert.gif",
+"type": "image"
+},
+{
+"t": 2.24,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/api/ia/v1/ids/vis-id",
+"type": "fetch"
+},
+{
+"t": 2.24,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.26,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-DExJDCQY.js",
+"type": "script"
+},
+{
+"t": 2.29,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/regions/1235800/cities",
+"type": "fetch"
+},
+{
+"t": 2.29,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_start",
+"type": "image"
+},
+{
+"t": 2.3,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/settings/search-modal-recsys",
+"type": "fetch"
+},
+{
+"t": 2.3,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/icons/ill_no_results_light.png",
+"type": "image"
+},
+{
+"t": 2.3,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/icons/ill_attention_light.png",
+"type": "image"
+},
+{
+"t": 2.31,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-DF_RTVkN.js",
+"type": "script"
+},
+{
+"t": 2.31,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-ClLdozM7.js",
+"type": "script"
+},
+{
+"t": 2.31,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/icons/search-desktop--optimized-light.svg",
+"type": "image"
+},
+{
+"t": 2.34,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/settings/layout_acceptcookies",
+"type": "fetch"
+},
+{
+"t": 2.34,
+"host": "login.mts.ru",
+"url": "https://login.mts.ru/amserver/oauth2/sso/validate",
+"type": "fetch"
+},
+{
+"t": 2.34,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.34,
+"host": "content.adriver.ru",
+"url": "https://content.adriver.ru/AdRiverFPS.js",
+"type": "script"
+},
+{
+"t": 2.34,
+"host": "bs.serving-sys.ru",
+"url": "https://bs.serving-sys.ru/Serving/adServer.bs",
+"type": "script"
+},
+{
+"t": 2.34,
+"host": "dtm-dre.platform.hicloud.com",
+"url": "https://dtm-dre.platform.hicloud.com/download/web/dtm.js",
+"type": "script"
+},
+{
+"t": 2.34,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/js/code.js",
+"type": "script"
+},
+{
+"t": 2.34,
+"host": "ad.adriver.ru",
+"url": "https://ad.adriver.ru/cgi-bin/rle.cgi",
+"type": "image"
+},
+{
+"t": 2.35,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_decide",
+"type": "image"
+},
+{
+"t": 2.35,
+"host": "an.yandex.ru",
+"url": "https://an.yandex.ru/mapuid/yamts/7304683961793353675241",
+"type": "fetch"
+},
+{
+"t": 2.37,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.38,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-xF_AXsMN.js",
+"type": "script"
+},
+{
+"t": 2.38,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-Bsya8B8V.js",
+"type": "script"
+},
+{
+"t": 2.38,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-BetnlXOJ.js",
+"type": "script"
+},
+{
+"t": 2.38,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-D6e1sU5-.js",
+"type": "script"
+},
+{
+"t": 2.38,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-D-aze5fS.js",
+"type": "script"
+},
+{
+"t": 2.38,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-kXoz8zme.js",
+"type": "script"
+},
+{
+"t": 2.38,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-DrlcFwJ2.js",
+"type": "script"
+},
+{
+"t": 2.38,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/chunk-DmrtqVDN.js",
+"type": "script"
+},
+{
+"t": 2.4,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/90529313",
+"type": "fetch"
+},
+{
+"t": 2.42,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076",
+"type": "fetch"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/esim_search.png",
+"type": "image"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/beautiful_number_search.png",
+"type": "image"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/sim_search.png",
+"type": "image"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/pay_steam_search.png",
+"type": "image"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/roaming_search.png",
+"type": "image"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/iphone_shop_search.png",
+"type": "image"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/coverage_map_search.png",
+"type": "image"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/family_group_search.png",
+"type": "image"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/without_monthly_fee_search.png",
+"type": "image"
+},
+{
+"t": 2.42,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/images/icons_recsys_web/unlimited_search.png",
+"type": "image"
+},
+{
+"t": 2.44,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.45,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/90529313/1",
+"type": "fetch"
+},
+{
+"t": 2.47,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSText/MTSText-Regular.woff2",
+"type": "font"
+},
+{
+"t": 2.49,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.5,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_check",
+"type": "image"
+},
+{
+"t": 2.51,
+"host": "ad.adriver.ru",
+"url": "https://ad.adriver.ru/cgi-bin/rle.cgi",
+"type": "image"
+},
+{
+"t": 2.55,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_start",
+"type": "image"
+},
+{
+"t": 2.6,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/sync_cookie_image_decide",
+"type": "image"
+},
+{
+"t": 2.61,
+"host": "login.mts.ru",
+"url": "https://login.mts.ru/amserver/rest/widget",
+"type": "fetch"
+},
+{
+"t": 2.67,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/shop/main-page-search",
+"type": "fetch"
+},
+{
+"t": 2.67,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/universal-mnp-widget-CMOpaYTU.js",
+"type": "script"
+},
+{
+"t": 2.67,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/universal-related-products-B7XjkzDD.js",
+"type": "script"
+},
+{
+"t": 2.67,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/navigation-menu-Dtjs_e2B.js",
+"type": "script"
+},
+{
+"t": 2.67,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/universal-category-widget-DaSpXCQ5.js",
+"type": "script"
+},
+{
+"t": 2.67,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/lk-ecosystem-widget-CTS7A9ML.js",
+"type": "script"
+},
+{
+"t": 2.67,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/universal-slider-pEg1IBfE.js",
+"type": "script"
+},
+{
+"t": 2.67,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/universal-app-Dhh0dBF9.js",
+"type": "script"
+},
+{
+"t": 2.67,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/universal-title-with-text-D18YWZNo.js",
+"type": "script"
+},
+{
+"t": 2.67,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/sync_cookie_image_finish",
+"type": "image"
+},
+{
+"t": 2.69,
+"host": "ad.adriver.ru",
+"url": "https://ad.adriver.ru/cgi-bin/rle.cgi",
+"type": "document"
+},
+{
+"t": 2.69,
+"host": "privacy-cs.mail.ru",
+"url": "https://privacy-cs.mail.ru/static/sync-loader.js",
+"type": "script"
+},
+{
+"t": 2.69,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/js/dyn-goal-config.js",
+"type": "script"
+},
+{
+"t": 2.69,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 2.69,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 2.69,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 2.69,
+"host": "ad.adriver.ru",
+"url": "https://ad.adriver.ru/cgi-bin/json.cgi",
+"type": "fetch"
+},
+{
+"t": 2.72,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/metrika-tags/_/tag_ec.js",
+"type": "script"
+},
+{
+"t": 2.72,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076",
+"type": "fetch"
+},
+{
+"t": 2.73,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/90529313",
+"type": "fetch"
+},
+{
+"t": 2.75,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.76,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.8,
+"host": "bs.serving-sys.ru",
+"url": "https://bs.serving-sys.ru/Serving/adServer.bs",
+"type": "ping"
+},
+{
+"t": 2.82,
+"host": "cdn.mtscdn.ru",
+"url": "https://cdn.mtscdn.ru/upload/iblock/5dd/iphone_18_pro_burgundy-4-_1_.png",
+"type": "image"
+},
+{
+"t": 2.82,
+"host": "cdn.mtscdn.ru",
+"url": "https://cdn.mtscdn.ru/upload/iblock/b5e/foto-1.jpg",
+"type": "image"
+},
+{
+"t": 2.82,
+"host": "cdn.mtscdn.ru",
+"url": "https://cdn.mtscdn.ru/upload/iblock/8af/_RGB_3000.jpg",
+"type": "image"
+},
+{
+"t": 2.82,
+"host": "cdn.mtscdn.ru",
+"url": "https://cdn.mtscdn.ru/upload/iblock/e65/3102_4754.jpg",
+"type": "image"
+},
+{
+"t": 2.85,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/702/arrow_right.svg",
+"type": "image"
+},
+{
+"t": 2.85,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/672/main_slider_zashchitnik.avif",
+"type": "image"
+},
+{
+"t": 2.85,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/672/main_slider_cubes.avif",
+"type": "image"
+},
+{
+"t": 2.85,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/672/main_slider_shum.avif",
+"type": "image"
+},
+{
+"t": 2.85,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/672/main_slider_mts_sekretar.avif",
+"type": "image"
+},
+{
+"t": 2.85,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/672/main_slider_zapis_razgovorov_new.avif",
+"type": "image"
+},
+{
+"t": 2.85,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/672/main_slider_sekretar_vzvonke.avif",
+"type": "image"
+},
+{
+"t": 2.89,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.89,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.89,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.9,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 2.9,
+"host": "cdn.mtscdn.ru",
+"url": "https://cdn.mtscdn.ru/upload/iblock/324/01.jpg",
+"type": "image"
+},
+{
+"t": 2.9,
+"host": "cdn.mtscdn.ru",
+"url": "https://cdn.mtscdn.ru/upload/iblock/bce/iphone_duo_nightsky_1_Photoroom.png",
+"type": "image"
+},
+{
+"t": 2.9,
+"host": "cdn.mtscdn.ru",
+"url": "https://cdn.mtscdn.ru/upload/iblock/69b/bc7cab3c448038528bfd49a16d7d35d5.png",
+"type": "image"
+},
+{
+"t": 2.9,
+"host": "cdn.mtscdn.ru",
+"url": "https://cdn.mtscdn.ru/upload/iblock/e70/3103_3855.png",
+"type": "image"
+},
+{
+"t": 2.91,
+"host": "cdn.mtscdn.ru",
+"url": "https://cdn.mtscdn.ru/upload/iblock/f55/7p1.png",
+"type": "image"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 2.94,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 9.94,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 9.94,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 9.94,
+"host": "privacy-cs.mail.ru",
+"url": "https://privacy-cs.mail.ru/fp/",
+"type": "fetch"
+},
+{
+"t": 9.94,
+"host": "mtsopros.mts.ru",
+"url": "https://mtsopros.mts.ru/libsdk/sdk.v6.js",
+"type": "script"
+},
+{
+"t": 9.94,
+"host": "mtsopros.mts.ru",
+"url": "https://mtsopros.mts.ru/api/client/v1/configuration",
+"type": "xhr"
+},
+{
+"t": 9.94,
+"host": "privacy-cs.mail.ru",
+"url": "https://privacy-cs.mail.ru/fp/",
+"type": "fetch"
+},
+{
+"t": 15.25,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/personal/cookie",
+"type": "document"
+},
+{
+"t": 15.26,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 15.26,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/clmap/47514076",
+"type": "fetch"
+},
+{
+"t": 15.26,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/clmap/90529313",
+"type": "fetch"
+},
+{
+"t": 15.26,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 15.27,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "ping"
+},
+{
+"t": 15.27,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSCompact/MTSCompact-Regular.woff2",
+"type": "font"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSCompact/MTSCompact-Medium.woff2",
+"type": "font"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSWide/MTSWide-Bold.woff2",
+"type": "font"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSWide/MTSWide-Medium.woff2",
+"type": "font"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/core/cssTokens.css",
+"type": "stylesheet"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/bundles/base.css",
+"type": "stylesheet"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/bundles/project/shared_full.css",
+"type": "stylesheet"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/bundles/project/shared_static.css",
+"type": "stylesheet"
+},
+{
+"t": 15.49,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/bundles/angular/layout.css",
+"type": "stylesheet"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/bundles/project/cover-slider.css",
+"type": "stylesheet"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/bundles/project/textPage.css",
+"type": "stylesheet"
+},
+{
+"t": 15.49,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/bundles/headsection.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/bundles/polyfills.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/bundles/zone.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/bundles/globals.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "identitystatic.mts.ru",
+"url": "https://identitystatic.mts.ru/eco-header/profile-widget-b2c/current/profile-widget.bundle.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Scripts/Promo/bundles/moduleCreator.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Scripts/Promo/bundles/base.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/bundles/base.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Scripts/Promo/bundles/textPage.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/bundles/textPage.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/bundles/qaScripts.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/bundles/angular/layout.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/bundles/sentryBrowser.js",
+"type": "script"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/header/warning.svg",
+"type": "image"
+},
+{
+"t": 15.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/logo-eco.svg",
+"type": "image"
+},
+{
+"t": 16.49,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/bundles/project/shared_async.css",
+"type": "stylesheet"
+},
+{
+"t": 16.5,
+"host": "tag.a.mts.ru",
+"url": "https://tag.a.mts.ru/container/3fbf1822-d661-4b05-880c-aa113dcfaa12/tag.js",
+"type": "script"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/bundles/custom-links.css",
+"type": "stylesheet"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/fonts/v1/MTSText/MTSText-Regular.woff2",
+"type": "font"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/i/header/arrow_gray.svg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/i/header/purse.svg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/static/1.0.0.14516/Styles/Promo/i/header/help.svg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/icons/catalog-btn.svg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/arrow-right.svg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/menu_icon_mob_tarif.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/menu_icon_mob_mnp.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/menu_icon_home_tarif.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10908/Services.svg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/menu_icon_home_services.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/menu_icon_premium.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/menu_icon_family.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10908/Icon-help.svg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/main_popup_menu_5g_desktop.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/smart_camera_dropdown_menu_desktop.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/banner_dropdow_finance_desktop.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/smart_discounts_winter_desktop.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10907/261026_banner_menu_services_podpiska_na_smartfon.jpg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/icons/search-desktop.svg",
+"type": "image"
+},
+{
+"t": 16.5,
+"host": "serving.a.mts.ru",
+"url": "https://serving.a.mts.ru/split-tests/sdk/c5944425-ea8d-43be-9e84-12e77a1b4204.js",
+"type": "script"
+},
+{
+"t": 16.5,
+"host": "mc.yandex.ru",
+"url": "https://mc.yandex.ru/metrika/tag.js",
+"type": "script"
+},
+{
+"t": 16.5,
+"host": "pn.mts.ru",
+"url": "https://pn.mts.ru/scripts/tracking.js",
+"type": "script"
+},
+{
+"t": 16.5,
+"host": "static.a.mts.ru",
+"url": "https://static.a.mts.ru/web-sdk/analytics.js",
+"type": "script"
+},
+{
+"t": 16.5,
+"host": "cm.a.mts.ru",
+"url": "https://cm.a.mts.ru/cm/tech",
+"type": "fetch"
+},
+{
+"t": 16.5,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 16.5,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076",
+"type": "fetch"
+},
+{
+"t": 16.5,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/90529313",
+"type": "fetch"
+},
+{
+"t": 16.5,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 16.5,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/metrika-tags/_/tag_ec.js",
+"type": "script"
+},
+{
+"t": 17.53,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/ab-test-data/abtests",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/json/auth/profile",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/regions/cities",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/regions/list",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/navigation.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images//main-menu-dropdown-arrow.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/settings",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/footer/qr_footer_mts_ru.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/618/Vk.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/618/Odnoklassniki.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/dpc_upload/contents/618/Telegram2.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/multiaccount-widget/icon_close_white.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/special_offer/modal-close.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "sentry.obs.mts.ru",
+"url": "https://sentry.obs.mts.ru/api/605/envelope/",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/content/i/ad.gif",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/regions/1235800/cities",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "login.mts.ru",
+"url": "https://login.mts.ru/amserver/oauth2/sso/validate",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "login.mts.ru",
+"url": "https://login.mts.ru/amserver/rest/widget",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/menu/profile",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/sitesettings/search_modal_settings_mono",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/icons/search-desktop--optimized-light.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/images/purse.svg",
+"type": "image"
+},
+{
+"t": 17.53,
+"host": "static.mts.ru",
+"url": "https://static.mts.ru/mts_rf/contents/10924/main_header_banner_5g_ad.webm",
+"type": "media"
+},
+{
+"t": 17.53,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 17.53,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/bff/v1/menu/profile",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "moskva.mts.ru",
+"url": "https://moskva.mts.ru/api/sitesettings/layout_acceptcookies",
+"type": "fetch"
+},
+{
+"t": 17.53,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 17.53,
+"host": "content.adriver.ru",
+"url": "https://content.adriver.ru/AdRiverFPS.js",
+"type": "script"
+},
+{
+"t": 17.53,
+"host": "bs.serving-sys.ru",
+"url": "https://bs.serving-sys.ru/Serving/adServer.bs",
+"type": "script"
+},
+{
+"t": 17.54,
+"host": "dtm-dre.platform.hicloud.com",
+"url": "https://dtm-dre.platform.hicloud.com/download/web/dtm.js",
+"type": "script"
+},
+{
+"t": 17.54,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/js/code.js",
+"type": "script"
+},
+{
+"t": 17.54,
+"host": "ad.adriver.ru",
+"url": "https://ad.adriver.ru/cgi-bin/rle.cgi",
+"type": "image"
+},
+{
+"t": 17.54,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 17.54,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076",
+"type": "fetch"
+},
+{
+"t": 17.54,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/90529313",
+"type": "fetch"
+},
+{
+"t": 17.54,
+"host": "ad.adriver.ru",
+"url": "https://ad.adriver.ru/cgi-bin/rle.cgi",
+"type": "document"
+},
+{
+"t": 17.54,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/js/dyn-goal-config.js",
+"type": "script"
+},
+{
+"t": 17.54,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 17.54,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 17.54,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/counter",
+"type": "image"
+},
+{
+"t": 17.54,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 17.54,
+"host": "api.a.mts.ru",
+"url": "https://api.a.mts.ru/metric-api/api/message/json/v3",
+"type": "ping"
+},
+{
+"t": 17.54,
+"host": "mc.yandex.com",
+"url": "https://mc.yandex.com/watch/47514076/1",
+"type": "fetch"
+},
+{
+"t": 17.54,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 17.54,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 17.54,
+"host": "top-fwz1.mail.ru",
+"url": "https://top-fwz1.mail.ru/tracker",
+"type": "image"
+},
+{
+"t": 18.55,
+"host": "bs.serving-sys.ru",
+"url": "https://bs.serving-sys.ru/Serving/adServer.bs",
+"type": "ping"
+},
+{
+"t": 18.55,
+"host": "sentry.obs.mts.ru",
+"url": "https://sentry.obs.mts.ru/api/605/envelope/",
+"type": "fetch"
+}
+]

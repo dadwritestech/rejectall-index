@@ -1,0 +1,638 @@
+{
+  "domain": "t-online.de",
+  "url": "https://t-online.de/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.t-online.de/",
+  "accept_clicks": 1,
+  "reject_clicks": 4,
+  "reject_second_layer": true,
+  "reject_path": "per_purpose_and_save_layer2",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": true,
+  "verified": false,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Wie wollen Sie t-online nutzen?\n\nKostenfrei mit Werbung\n\nNutzen Sie t-online wie gewohnt mit der üblichen Werbung und Tracking. Details finden Sie in den Datenschutzhinweisen und dem Datenschutz-Manager.\n\nZUSTIMMEN\n\nMit Ihrem Klick erteilen Sie eine Einwilligung gemäß § 25 Abs. 1 TDDDG i.V.m. Art. 6 Abs. 1 lit. a) DSGVO, die Sie in unserem Datenschutz-Manager jederzeit individuell anpassen können.\n\n...oder mit t-online PUR-Abo\n\nNutzen Sie t-online nahezu werbefrei und ohne Werbetracking für 2,99€/ Monat, monatlich kündbar. Details finden Sie in den Datenschutzhinweisen (PUR).\n\nJETZT SICHERN\n\nB",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Region für Wetter auswählen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:a1f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutz-Manager",
+      "role": "settings",
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "ZUSTIMMEN",
+      "role": "accept",
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "individuell anpassen",
+      "role": "settings",
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutz-Manager",
+      "role": "settings",
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutz-Manager",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Utiq verwalten",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "PUR-Abo",
+      "role": "pay",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Deutsche Brücke vor Fertigstellung kaputt",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Epstein-Gesang stoppt Trump bei Rede",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "\"Es tut weh\": Vermummte streifen durch Wohngegend",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Königin tanzt ausgelassen auf Festival",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Diese Gründe führten ins Unglück",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Alle Videos",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzhinweisen",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzhinweisen (PUR)",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "JETZT SICHERN",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Hier einloggen",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "häufig gestellten Fragen (FAQs)",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Partner",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "hier",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Personalisierte Anzeigen und Inhalte, Werbetracking, Prüfung",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Einbindung externer Inhalte",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Push-Benachrichtigungen / Kommunikation",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Partner",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Impressum",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzhinweise",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzhinweise (PUR)",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Nutzungsbedingungen",
+      "role": null,
+      "frame": 2,
+      "group": "2:frame",
+      "overlay": true
+    },
+    {
+      "text": "Regional",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Startseite",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Politik",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Ukraine",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Sport",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Wirtschaft & Finanzen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Unterhaltung",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Panorama",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Gesundheit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Leben",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Spiele",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "layer2": [
+    {
+      "text": "Region für Wetter auswählen",
+      "role": "settings",
+      "frame": 0,
+      "group": "0:b2f0-g0",
+      "overlay": true
+    },
+    {
+      "text": "Zustimmen",
+      "role": "accept",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Zustimmen",
+      "role": "accept",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Ablehnen",
+      "role": "reject",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Zustimmen",
+      "role": "accept",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Ablehnen",
+      "role": "reject",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Funktionale Verwendungszwecke",
+      "role": "settings",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Detailinformationen und Einstellungen",
+      "role": "settings",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "AUSGEWÄHLTEM ZUSTIMMEN",
+      "role": "save",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "PUR-ABO ABSCHLIESSEN",
+      "role": "pay",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Alle Zustimmungen widerrufen",
+      "role": "accept",
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutz-Manager",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Utiq verwalten",
+      "role": "settings",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "PUR-Abo",
+      "role": "pay",
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Deutsche Brücke vor Fertigstellung kaputt",
+      "role": null,
+      "frame": 0,
+      "group": "0:b2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Epstein-Gesang stoppt Trump bei Rede",
+      "role": null,
+      "frame": 0,
+      "group": "0:b2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "\"Es tut weh\": Vermummte streifen durch Wohngegend",
+      "role": null,
+      "frame": 0,
+      "group": "0:b2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Königin tanzt ausgelassen auf Festival",
+      "role": null,
+      "frame": 0,
+      "group": "0:b2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Diese Gründe führten ins Unglück",
+      "role": null,
+      "frame": 0,
+      "group": "0:b2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Alle Videos",
+      "role": null,
+      "frame": 0,
+      "group": "0:b2f0-g2",
+      "overlay": true
+    },
+    {
+      "text": "Zurück",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Personalisierte Anzeigen und Inhalte, Werbetracking, Prüfung",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Einbindung externer Inhalte",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Push-Benachrichtigungen / Kommunikation",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Zusatzfunktionen",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Zurück",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Impressum",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzhinweise",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutzhinweise (PUR)",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Nutzungsbedingungen",
+      "role": null,
+      "frame": 3,
+      "group": "3:b2f3-g0",
+      "overlay": true
+    },
+    {
+      "text": "Regional",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Startseite",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Politik",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Ukraine",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Sport",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Wirtschaft & Finanzen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Unterhaltung",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Panorama",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Gesundheit",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Leben",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "preticked_hidden": 0,
+  "remaining_consent_buttons": [
+    "Zustimmen",
+    "Zustimmen",
+    "Ablehnen",
+    "Zustimmen",
+    "Ablehnen",
+    "AUSGEWÄHLTEM ZUSTIMMEN",
+    "Alle Zustimmungen widerrufen"
+  ],
+  "pre_consent_requests": 158,
+  "first_click_t": 8.99,
+  "screenshots": [
+    "01_landing.jpg",
+    "02_layer2.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 8.99,
+      "event": "click",
+      "why": "open_settings",
+      "text": "Datenschutz-Manager",
+      "id": "a1f2-1",
+      "result": "ok"
+    },
+    {
+      "t": 11.17,
+      "event": "click",
+      "why": "reject_purpose",
+      "text": "Ablehnen",
+      "id": "b2f3-5",
+      "result": "ok"
+    },
+    {
+      "t": 11.22,
+      "event": "click",
+      "why": "reject_purpose",
+      "text": "Ablehnen",
+      "id": "b2f3-8",
+      "result": "ok"
+    },
+    {
+      "t": 11.25,
+      "event": "click",
+      "why": "save_layer2",
+      "text": "AUSGEWÄHLTEM ZUSTIMMEN",
+      "id": "b2f3-12",
+      "result": "ok_js"
+    }
+  ]
+}

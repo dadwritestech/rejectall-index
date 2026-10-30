@@ -1,0 +1,119 @@
+{
+  "domain": "tumblr.com",
+  "url": "https://tumblr.com/",
+  "status": "measured",
+  "reason": null,
+  "final_url": "https://www.tumblr.com/",
+  "accept_clicks": 1,
+  "reject_clicks": 1,
+  "reject_second_layer": false,
+  "reject_path": "first_layer_button",
+  "preticked_toggles": 0,
+  "preticked_legit_interest": 0,
+  "pay_or_ok": false,
+  "verified": true,
+  "llm_used": false,
+  "llm_calls": [],
+  "pre_consent_trackers": [
+    {
+      "domain": "sentry.io",
+      "entity": "FunctionalSoftware",
+      "category": "Analytics",
+      "requests": 1
+    }
+  ],
+  "trackers_after_reject": [],
+  "cmp_hint": null,
+  "http_status": 200,
+  "banner_text": "Privatsphäre und Cookies auf Tumblr\n\nWir nehmen deine Privatsphäre ernst und wollen so transparent wie möglich sein. Deshalb: Wir (und unsere 181 Partner) verwenden Cookies, um einige persönliche Daten von dir zu sammeln. Einige dieser Cookies brauchen wir unbedingt, damit alles funktioniert, und andere kannst du auswählen, um deine Erfahrungen bei der Nutzung unserer Website und unserer Dienste zu optimieren. Du hast es in der Hand!\n\nDarüber hinaus speichern wir und unsere Werbepartner Informationen auf deinem Gerät und/oder greifen darauf zu und verarbeiten auch personenbezogene Daten, wie e",
+  "extra_banners": [],
+  "layer1": [
+    {
+      "text": "Nicht notwendige Cookies ablehnen",
+      "role": "reject",
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "Ich stimme zu",
+      "role": "accept",
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "Über",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Apps",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Rechtliches",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Datenschutz",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Hilfe",
+      "role": null,
+      "frame": 0,
+      "group": "0:a1f0-g3",
+      "overlay": true
+    },
+    {
+      "text": "Weitere Informationen",
+      "role": null,
+      "frame": 3,
+      "group": "3:frame",
+      "overlay": true
+    },
+    {
+      "text": "Mehr Blogs anzeigen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    },
+    {
+      "text": "Mehr Blogs anzeigen",
+      "role": null,
+      "frame": 0,
+      "group": null,
+      "overlay": false
+    }
+  ],
+  "remaining_consent_buttons": [],
+  "pre_consent_requests": 126,
+  "first_click_t": 8.97,
+  "screenshots": [
+    "01_landing.jpg",
+    "03_after_reject.jpg"
+  ],
+  "events": [
+    {
+      "t": 8.97,
+      "event": "click",
+      "why": "reject_layer1",
+      "text": "Nicht notwendige Cookies ablehnen",
+      "id": "a1f3-1",
+      "result": "ok"
+    }
+  ]
+}

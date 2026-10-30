@@ -1,0 +1,362 @@
+[
+{
+"t": 0.0,
+"host": "cloud.microsoft",
+"url": "https://cloud.microsoft/",
+"type": "document"
+},
+{
+"t": 6.46,
+"host": "m365.cloud.microsoft",
+"url": "https://m365.cloud.microsoft/",
+"type": "document"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/unauth-eb70fa2b07.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/sharedfontstyles-64054f9286.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/versionless/webfonts/segoesans_latin.woff2",
+"type": "font"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/versionless/webfonts/segoeserif_display.woff2",
+"type": "font"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/versionless/webfonts/segoeserif_display_italic.woff2",
+"type": "font"
+},
+{
+"t": 6.62,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/css/style-PF2pqjN1.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/client-locale-redirect-7d24b8bf5034e52a99ab.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/microsoft-clarity-ff3e2df9ac.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/unauth-mcm-bebop-a1f9749632.css",
+"type": "stylesheet"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-odc/word-icon-a0719c261c.svg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-odc/excel-icon-058c14383a.svg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-odc/powerpoint-icon-1c34216af9.svg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-mcm/new-hero-copilot-d29d67197c.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth/powerpoint-17c3d2817a.svg",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/unauth-mcm-prompt-carousel-3497535780.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-odc/word-8d7e06eb1f.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-odc/excel-4d54f0a88a.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-odc/powerpoint-293be30303.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-odc/outlook-ec545e5dcb.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-copilotcom/module-work-1-8198b36e80.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-copilotcom/module-work-2-5e6655217d.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-mcm/app-hero-module-rebrand-5cd238a776.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/unauth-copilotcom-modules-tabs-75e9aa4794.js",
+"type": "script"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-mcm/hero-desktop-download-1bb1ff82cb.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-mcm/mcm-qr-code-c4d1fcceb0.png",
+"type": "image"
+},
+{
+"t": 6.62,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/unauth-mcm-faq-48dfb92981.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/language-picker-cbf84e25075a12dbf9ea.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/unauth-vendor-f0ab3fa70e.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/unauth-bcb078e6e9.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/otel-logger-1dfa10c525c22707f0d4.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/entry.js",
+"type": "script"
+},
+{
+"t": 6.63,
+"host": "wcpstatic.microsoft.com",
+"url": "https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/unauth-mcm-scripts-3a63c39575.js",
+"type": "script"
+},
+{
+"t": 6.64,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/bundles/unauth-page-performance-fd9156f1cc.js",
+"type": "script"
+},
+{
+"t": 6.69,
+"host": "www.clarity.ms",
+"url": "https://www.clarity.ms/tag/suapvfcc4i",
+"type": "script"
+},
+{
+"t": 6.73,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/officehub/images/content/images/unauth-mcm/sky-gradient-dba0ce5929.png",
+"type": "image"
+},
+{
+"t": 6.78,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/index-BoAUqyYg.js",
+"type": "script"
+},
+{
+"t": 6.78,
+"host": "scripts.clarity.ms",
+"url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+"type": "script"
+},
+{
+"t": 6.96,
+"host": "e.clarity.ms",
+"url": "https://e.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 8.05,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/index-B8sDcx8i.js",
+"type": "script"
+},
+{
+"t": 8.05,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/client-BY9SflKR.js",
+"type": "script"
+},
+{
+"t": 8.05,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/MeControl-BG3wj57x.js",
+"type": "script"
+},
+{
+"t": 14.06,
+"host": "config.edge.skype.com",
+"url": "https://config.edge.skype.com/config/v1/CHILL/0.0.14",
+"type": "xhr"
+},
+{
+"t": 14.06,
+"host": "admin.microsoft.com",
+"url": "https://admin.microsoft.com/admin/api/uxversion",
+"type": "fetch"
+},
+{
+"t": 14.06,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/index-CQVn7Dmw.js",
+"type": "script"
+},
+{
+"t": 14.06,
+"host": "uhf.microsoft.com",
+"url": "https://uhf.microsoft.com/statics/20261021.14.40/js/Index-rMmMtAfu.js",
+"type": "script"
+},
+{
+"t": 14.06,
+"host": "res.cdn.office.net",
+"url": "https://res.cdn.office.net/admincenter/admin-main/2026.10.26.1/floodgate.en.bundle.js",
+"type": "script"
+},
+{
+"t": 14.06,
+"host": "e.clarity.ms",
+"url": "https://e.clarity.ms/collect",
+"type": "xhr"
+},
+{
+"t": 14.06,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 14.06,
+"host": "admin.microsoft.com",
+"url": "https://admin.microsoft.com/api/instrument/logclient",
+"type": "xhr"
+},
+{
+"t": 14.06,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 14.06,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 14.07,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 14.07,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 22.17,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 22.17,
+"host": "browser.events.data.microsoft.com",
+"url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+"type": "xhr"
+},
+{
+"t": 22.17,
+"host": "e.clarity.ms",
+"url": "https://e.clarity.ms/collect",
+"type": "xhr"
+}
+]

@@ -1,0 +1,536 @@
+[
+{
+"t": 0.0,
+"host": "f5.com",
+"url": "https://f5.com/",
+"type": "document"
+},
+{
+"t": 0.22,
+"host": "www.f5.com",
+"url": "https://www.f5.com/",
+"type": "document"
+},
+{
+"t": 0.46,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/media/0830afff831bbd63-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.46,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/media/14fb392b0274cd7f-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.46,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/media/2825b6bf6f009d4e-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.46,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/media/4bd9ebc21b6c7111-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.46,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/media/7b27c5091716a6c3-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/media/ae940811113a8e5f-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/media/f2946a102b19f1c7-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/media/fd0eb7fdc10daefe-s.p.woff2",
+"type": "font"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/css/18cbf25675474682.css",
+"type": "stylesheet"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/css/905b8f3a88d35f35.css",
+"type": "stylesheet"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/css/8faeda32c5e48dfa.css",
+"type": "stylesheet"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/css/e8fec5097c9eb737.css",
+"type": "stylesheet"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/webpack-4b4f99e5ef3e3e7b.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/4bd1b696-182b6b13bdad92e3.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/1255-3c25e7f9aa5684ca.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/main-app-b7ac91ae224968d9.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/549ca77c-08bc5b2aa9b52e16.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/1567-b75ad449ff82d103.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/9702-571321bd7125e406.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/6983-f79137c8e95c9d74.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/1664-0e4363f2f315fe2a.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/app/error-7605a2722538db2f.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/8592-e078cab279232046.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/3705-9453c8aec2417912.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/5239-12654f2d2274e087.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/9596-1f1ab7cc18a5b513.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/6161-3b11e6a7af0c4575.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/9731-ef04e1e1a00b7de5.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/7649-d6166c0c41648962.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/4184-2a9a78ea0dbcb231.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/1176-c461f3b04ae70327.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/572-755f1cb54e9f2aa8.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/4974-f697dd8aada31478.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/app/(locale)/%5Blanguage%5D/layout-96b9a9240f971c4a.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/4192-23b09ecaa8db20d9.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/6917-8f3abe837c588c5c.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/7088-3fd9b0e2924fb78f.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/1432-b47fec6534442919.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/8072-b586ce59c544e9ca.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/553-fbf6cd9d37687521.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/1026-2a1451dcedb1768e.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/5209-978e7b97db98c4a9.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/9086-18e967b9c7783a46.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/1956-eec736e60c7af34c.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/app/(locale)/%5Blanguage%5D/page-32b97ed537f95d84.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/app/(locale)/%5Blanguage%5D/not-found-06d7fb01453c3d7d.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/app/(locale)/%5Blanguage%5D/error-81b695f3f8b744a9.js",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/notice",
+"type": "script"
+},
+{
+"t": 0.47,
+"host": "mktg.tags.f5.com",
+"url": "https://mktg.tags.f5.com/main/prod/utag.sync.js",
+"type": "script"
+},
+{
+"t": 0.6,
+"host": "mktg.tags.f5.com",
+"url": "https://mktg.tags.f5.com/main/prod/utag.js",
+"type": "script"
+},
+{
+"t": 0.62,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/9f39840bc53d70ca12bed683cf409ecd9d043f25-9250x2501.png/Gartner-EQ-BOM-Update_HP-2220x600.png",
+"type": "image"
+},
+{
+"t": 0.62,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/e92581a503a758aece30605bf63d9ed1cb7cefd6-1425x1332.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/b2ab2956fb2b5906f2397832d7af543633683b7e-1200x675.png/WAF5_OGImage.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/34f82821fb676f80dc4921bc9176608784ebeac7-1200x675.png/securing-apis-webinar-OG.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/fb3bfe2417632cae99a0ed0f775a09c23a44fcac-1200x675.png/F5Insight3.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/7ab4f8ec3c7b84878418863974dcc64f6241d212-1090x380.svg",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/95a5e9af643aee80c140390a79671c06f1ea1c92-1200x675.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/c8c14ab6f798c045f118d1aa6a0be2d5ab8ce15d-1200x675.png/frontier-ai-og-1200x675.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/386415ab93fea2b7159ae3d2b6c3bb5de4e07ea7-1200x675.png/digital-sovereignty-og.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/b61ff8f2ea43ceb86b740375c359bcee5b17bf65-1200x675.png/ai-campaign-og_1200x675.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/d647c7800be7f5fb2fad2e28396c1720f9fc0874-6800x6809.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/5f7819a6106e698f970988eff5607b0dcc487fcb-798x449.png",
+"type": "image"
+},
+{
+"t": 0.63,
+"host": "cdn.studio.f5.com",
+"url": "https://cdn.studio.f5.com/images/k6fem79d/translations-production/99ce25f0b31e8320569a21e10651273cc3547dbf-864x864.svg",
+"type": "image"
+},
+{
+"t": 0.64,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/analytics",
+"type": "fetch"
+},
+{
+"t": 0.64,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/asset/notice.js/v/0aa19f7",
+"type": "script"
+},
+{
+"t": 0.69,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/get",
+"type": "font"
+},
+{
+"t": 0.69,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/get",
+"type": "font"
+},
+{
+"t": 0.69,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/get",
+"type": "font"
+},
+{
+"t": 0.69,
+"host": "consent.trustarc.com",
+"url": "https://consent.trustarc.com/analytics",
+"type": "fetch"
+},
+{
+"t": 0.88,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/6439.197b23668bbf2e5a.js",
+"type": "script"
+},
+{
+"t": 0.9,
+"host": "mktg.tags.f5.com",
+"url": "https://mktg.tags.f5.com/main/prod/utag.2.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/344.574f12512f325211.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/5921.d6e2d0c6f1ec22af.js",
+"type": "script"
+},
+{
+"t": 0.95,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/2031.9bd8e55c38a1ec1e.js",
+"type": "script"
+},
+{
+"t": 0.97,
+"host": "www.f5.com",
+"url": "https://www.f5.com/api/global-search/coveo-search-token",
+"type": "fetch"
+},
+{
+"t": 0.98,
+"host": "k6fem79d.api.sanity.io",
+"url": "https://k6fem79d.api.sanity.io/v2025-07-17/data/live/events/translations-production",
+"type": "eventsource"
+},
+{
+"t": 0.98,
+"host": "tags.tiqcdn.com",
+"url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js",
+"type": "script"
+},
+{
+"t": 0.98,
+"host": "www.f5.com",
+"url": "https://www.f5.com/support",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "www.f5.com",
+"url": "https://www.f5.com/attack",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "www.f5.com",
+"url": "https://www.f5.com/products/f5-application-delivery-and-security-platform",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "www.f5.com",
+"url": "https://www.f5.com/go/report/gartner-emerging-market-quadrant-for-ai-application-security",
+"type": "fetch"
+},
+{
+"t": 0.99,
+"host": "www.f5.com",
+"url": "https://www.f5.com/products/ai-security-platform",
+"type": "fetch"
+},
+{
+"t": 7.1,
+"host": "view.ceros.com",
+"url": "https://view.ceros.com/scroll-proxy.min.js",
+"type": "script"
+},
+{
+"t": 7.1,
+"host": "f5networksproduction5vkhn00h.org.coveo.com",
+"url": "https://f5networksproduction5vkhn00h.org.coveo.com/rest/search/v2/querySuggest",
+"type": "fetch"
+},
+{
+"t": 7.1,
+"host": "f5networksproduction5vkhn00h.org.coveo.com",
+"url": "https://f5networksproduction5vkhn00h.org.coveo.com/rest/search/v2/querySuggest",
+"type": "fetch"
+},
+{
+"t": 7.1,
+"host": "www.f5.com",
+"url": "https://www.f5.com/_next/static/chunks/app/(locale)/%5Blanguage%5D/go/%5Btype%5D/%5Bslug%5D/page-4406d95733fe199f.js",
+"type": "script"
+},
+{
+"t": 7.1,
+"host": "mktg.collect.f5.com",
+"url": "https://mktg.collect.f5.com/f5/main/2/i.gif",
+"type": "xhr"
+}
+]

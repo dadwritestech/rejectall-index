@@ -1,0 +1,50 @@
+[
+{
+"t": 0.0,
+"host": "nytimes.com",
+"url": "https://nytimes.com/",
+"type": "document"
+},
+{
+"t": 0.03,
+"host": "www.nytimes.com",
+"url": "https://www.nytimes.com/",
+"type": "document"
+},
+{
+"t": 0.12,
+"host": "ct.captcha-delivery.com",
+"url": "https://ct.captcha-delivery.com/c.js",
+"type": "script"
+},
+{
+"t": 0.14,
+"host": "geo.captcha-delivery.com",
+"url": "https://geo.captcha-delivery.com/captcha/",
+"type": "document"
+},
+{
+"t": 0.2,
+"host": "static.captcha-delivery.com",
+"url": "https://static.captcha-delivery.com/captcha/assets/tpl/6dc485c0c428c35b53577b146dc6f9179f55ef9ad41b327a2a179998839364bf/index.css",
+"type": "stylesheet"
+},
+{
+"t": 0.2,
+"host": "g1.nyt.com",
+"url": "https://g1.nyt.com/fonts/css/web-fonts.5810def60210a2fa7d0848f37e3fa048bb6147b1.css",
+"type": "stylesheet"
+},
+{
+"t": 0.22,
+"host": "g1.nyt.com",
+"url": "https://g1.nyt.com/fonts/family/cheltenham/cheltenham-normal-400.a3ed7afe3eaa0a873f3fbd379f8c491b.woff2",
+"type": "font"
+},
+{
+"t": 0.23,
+"host": "g1.nyt.com",
+"url": "https://g1.nyt.com/fonts/family/franklin/franklin-normal-300.bc7be4c5d8cacb780f896c5cbe0c0d7f.woff2",
+"type": "font"
+}
+]

@@ -1,0 +1,578 @@
+[
+{
+"t": 0.0,
+"host": "shopify.com",
+"url": "https://shopify.com/",
+"type": "document"
+},
+{
+"t": 0.03,
+"host": "www.shopify.com",
+"url": "https://www.shopify.com/",
+"type": "document"
+},
+{
+"t": 0.09,
+"host": "www.shopify.com",
+"url": "https://www.shopify.com/de",
+"type": "document"
+},
+{
+"t": 0.15,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/7ecd57f2fa3d7b997d29181a62c954ee.png",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/b2ba26f35a9189c443bbbd74242e6b0e.woff2",
+"type": "font"
+},
+{
+"t": 0.15,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/d9340911ca8c679b148dd4a205ad2ffa.svg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/07baf8219532d81f6d6725151f9e3482.png",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/ecabe88f01662a8048799d22f2c6aa99.svg",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/89c9725d301503b2de05c561eb773134.png",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/bed4594e2c394553b2f03d9da43cb685.png",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/2a8bb0e09e501de1dcd597e019d98629.png",
+"type": "image"
+},
+{
+"t": 0.15,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/b92011e8f994db7276899016b2850cb4.png",
+"type": "image"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/entry.client-Dx8MuxfO.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/chunk-62JRHF6Z-D3Q3NlnB.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/jsx-runtime-d9Nag-xO.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/clientErrorReporter-BTXABoOc.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/documentInlineStylesheet-DxlJX_y9.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/root-C776vmBE.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Wrapper-D3J0dEju.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Provider-7vdVY8u-.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/TwoColumn-CaFhV-dT.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/I18N-QupkCYCz.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/layout-JhIWOr4_.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/route-B7ZNKp0s.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/embla-carousel-react.esm-Da7cRkdb.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Typography-DXHakKJX.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Message-jTFz4bgp.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/VideoImage-CaJsGG3W.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/getLogoSrc-CdTS7Pll.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/useFocusTrap-DZ9FFcBk.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/useIntersectionObserver-BJKJFJod.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/useMediaQuery-BAJ1-GvP.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/useReducedMotion-_ipFfp3o.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/AutoResponsiveImage-BBf6lk98.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Button-CYuz5jLo.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Close-th48iUMM.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Card-BgED1shm.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/useAriaLabel-i_AZtLSz.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/HeadingGroup-qtQcu08O.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/utils-C2uPUZ47.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Pause-CA1avPE0.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Play-le84_ehL.js",
+"type": "script"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/brochure/assets/cms/logo-soup/de/folkdays-f1700f6a6d022b85394c304ac15618ef1cae1ad3513f5f0555c7c60cbe837c69.svg",
+"type": "image"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/brochure/assets/cms/logo-soup/de/giesswein-9c32b5129a3641ef821228cb83d925d7f3f0669e0035c48756b4b7c1f0d3119c.svg",
+"type": "image"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/brochure/assets/cms/logo-soup/de/tastillery-cfc31ea9370d91e8fa2b69586f37e741aa1ce21900f21853daefc0ea80834a00.svg",
+"type": "image"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/brochure/assets/cms/logo-soup/de/superconscious-store-40e4c0ee91db65b597dc1890aef7f76be4955befa9fac9371638795fb94593d4.svg",
+"type": "image"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/brochure/assets/cms/logo-soup/de/distorted-people-4a472c63d86b1c497e1a2b227ad2014eeb2347607d155fe95eaa70d3aa05721e.svg",
+"type": "image"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/brochure/assets/cms/logo-soup/de/sushi-bikes-71fd08ce4dd70d93d64d8de1817f1c24a4c52a4bddc4eb1a8aae89ae73ab948a.svg",
+"type": "image"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/f000a563db2c785b97ea90a1a2695c1e.svg",
+"type": "image"
+},
+{
+"t": 0.17,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/brochure/assets/cms/logo-soup/de/3-bears-25d6ab4fb5869e1e61570f7ad5cd560796bcd615a92f52c5c7ac6e97e3878c14.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/2cbd53cb45b3d49a4bbc1e8265e9d1b3.webp",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-shopping-bag-full-color-66166b2e55d67988b56b4bd28b63c271e2b9713358cb723070a92bde17ad7d63.svg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/e9b1787b05cc3141b4aec50b024ad68c.png",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/c87d3ea84d6b07cc56c44653ed8911f5.png",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/b1debcf2c15172ecfe86b0d30d664ad3.png",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/7fd378060668fbb746a61d562bd40dc9.png",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/48c3fa7e8d48a8a316f818f7ab8c3335.png",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/966c4fe15bc05cfe25422b7c25e981ec.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/b5695aa84d13d681040a1f792102db4c.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/8c2c23882c250ec4a2b9e4e8bb2db7ed.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/bc86cf8bb923173525f0463b4ede64f3.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/2f7cc9cc755fdf8b468557953320b3f5.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/34c79ed6726fca9045a7e6549b56a204.jpg",
+"type": "image"
+},
+{
+"t": 0.27,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/4d27cd74fb002bc5169c3044c48607db.png",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "www.shopify.com",
+"url": "https://www.shopify.com/.well-known/dux",
+"type": "fetch"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/AgenticSection-gbC6amW5.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/InlineVideo-CKuWOJgK.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/UnifiedCommerceSection-BV3f4X_Z.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/LocalAndGlobalSection-Bj1DJpQr.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/formatCurrency-DU0vXy7c.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/InlineVideoIOWrapper-DaAnKJB4.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/useCurrentBreakpoint-CCsv83ql.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/SidekickSection-Bzr3T8BY.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/AppsSection-CPjE4HUA.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/DevSection-95P3lL-P.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/StatsSection-BTIIY8b8.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/RockSteadySection-C2zP1j34.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/ConversionSection-DcwSUk6_.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/LanguageSelectorImpl-U5sN0hjn.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/6be2cae4bd165bea1dd6eff3919f87dc.jpg",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/ccb36bee8c343d0799bccc278a217065.jpg",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/4f34cdb8ec9c120b80b8be143d0791d7.jpg",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Global-BBZICVB1.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Close-CFR38O3j.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/Arrow-D1ReT9Bm.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/d7f23791c6047e0be843461f636db279.png",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/7a63b5c2087a9ad7f05c4a6721cbf726.png",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/4142eddf07530c57040f91cc1bb2b5d0.png",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/ActiveConsentCompact-P32AUFAK-UYu2xxkP.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/shopifycloud/world/brochure/production-homepage/assets/content-GVJ4YVO6-B7RhIz3Q.js",
+"type": "script"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/5949cd393a8375a896fd0a9b74307666.woff2",
+"type": "font"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/dc2669381c95b83588445a4aa4401214.png",
+"type": "image"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/524da6f828b5a55d571fafa1607b907f.webm",
+"type": "fetch"
+},
+{
+"t": 6.29,
+"host": "cdn.shopify.com",
+"url": "https://cdn.shopify.com/b/shopify-brochure2-assets/7ecd57f2fa3d7b997d29181a62c954ee.png",
+"type": "image"
+},
+{
+"t": 8.4,
+"host": "www.shopify.com",
+"url": "https://www.shopify.com/.well-known/dux",
+"type": "fetch"
+},
+{
+"t": 12.4,
+"host": "www.shopify.com",
+"url": "https://www.shopify.com/.well-known/dux",
+"type": "ping"
+}
+]
