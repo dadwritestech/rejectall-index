@@ -163,6 +163,10 @@ def preticked(toggles):
     return out
 
 
+IP_ECHO_SITES = {"ipify.org", "www.ipify.org", "api.ipify.org", "icanhazip.com", "ifconfig.me",
+                  "whatismyip.com", "whatismyipaddress.com", "ipinfo.io", "ip-api.com", "myip.com"}
+
+
 class Site:
     """Holds the page, the request log and the evidence for one measurement."""
 
@@ -189,7 +193,21 @@ class Site:
     def now(self):
         return round(time.time() - self.t0, 2)
 
+    def _echoes_ip(self):
+        try:
+            text = self.page.inner_text("body", timeout=3000)
+        except Exception:
+            return False
+        # Block pages and IP-echo sites print the visitor's address; any IP on screen means no picture.
+        return bool(re.search(r"(?i)your (public )?ip|\b(?:\d{1,3}\.){3}\d{1,3}\b"
+                              r"|\b[0-9a-f]{1,4}(?::[0-9a-f]{1,4}){5,7}\b", text))
+
     def shot(self, name):
+        # Never publish a picture of the runner's own public IP address.
+        if self.out.name in IP_ECHO_SITES or self._echoes_ip():
+            self.events.append({"t": self.now(), "event": "screenshot_skipped", "name": name,
+                                "why": "page shows the visitor's IP address"})
+            return
         p = self.out / f"{name}.jpg"
         try:
             self.page.screenshot(path=str(p), type="jpeg", quality=60, timeout=15000)

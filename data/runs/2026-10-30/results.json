@@ -2232,9 +2232,7 @@
    "http_status": 200,
    "pre_consent_requests": 26,
    "first_click_t": null,
-   "screenshots": [
-    "01_landing.jpg"
-   ],
+   "screenshots": [],
    "rank": 116,
    "seconds": 11.3,
    "score": 88,
@@ -3267,9 +3265,7 @@
    "http_status": 403,
    "pre_consent_requests": 8,
    "first_click_t": null,
-   "screenshots": [
-    "01_landing.jpg"
-   ],
+   "screenshots": [],
    "rank": 163,
    "seconds": 10.4,
    "score": null,
@@ -4582,9 +4578,7 @@
    "http_status": 403,
    "pre_consent_requests": 6,
    "first_click_t": null,
-   "screenshots": [
-    "01_landing.jpg"
-   ],
+   "screenshots": [],
    "rank": 224,
    "seconds": 10.2,
    "score": null,

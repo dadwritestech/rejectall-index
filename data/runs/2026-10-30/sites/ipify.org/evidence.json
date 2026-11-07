@@ -1,52 +1,56 @@
 {
-  "domain": "ipify.org",
-  "url": "https://ipify.org/",
-  "status": "no_banner",
-  "reason": "no consent buttons found",
-  "final_url": "https://www.ipify.org/",
-  "accept_clicks": null,
-  "reject_clicks": null,
-  "reject_second_layer": null,
-  "reject_path": null,
-  "preticked_toggles": 0,
-  "preticked_legit_interest": 0,
-  "pay_or_ok": false,
-  "verified": null,
-  "llm_used": false,
-  "llm_calls": [],
-  "pre_consent_trackers": [
-    {
-      "domain": "crazyegg.com",
-      "entity": "Crazy Egg",
-      "category": "Analytics",
-      "requests": 2
-    },
-    {
-      "domain": "linkedin.com",
-      "entity": "Microsoft",
-      "category": "Social",
-      "requests": 2
-    },
-    {
-      "domain": "analytics.google.com",
-      "entity": "Google",
-      "category": "Analytics",
-      "requests": 1
-    },
-    {
-      "domain": "doubleclick.net",
-      "entity": "Google",
-      "category": "Advertising",
-      "requests": 1
-    }
-  ],
-  "trackers_after_reject": [],
-  "cmp_hint": null,
-  "http_status": 200,
-  "pre_consent_requests": 26,
-  "first_click_t": null,
-  "screenshots": [
-    "01_landing.jpg"
-  ],
-  "events": []
+ "domain": "ipify.org",
+ "url": "https://ipify.org/",
+ "status": "no_banner",
+ "reason": "no consent buttons found",
+ "final_url": "https://www.ipify.org/",
+ "accept_clicks": null,
+ "reject_clicks": null,
+ "reject_second_layer": null,
+ "reject_path": null,
+ "preticked_toggles": 0,
+ "preticked_legit_interest": 0,
+ "pay_or_ok": false,
+ "verified": null,
+ "llm_used": false,
+ "llm_calls": [],
+ "pre_consent_trackers": [
+  {
+   "domain": "crazyegg.com",
+   "entity": "Crazy Egg",
+   "category": "Analytics",
+   "requests": 2
+  },
+  {
+   "domain": "linkedin.com",
+   "entity": "Microsoft",
+   "category": "Social",
+   "requests": 2
+  },
+  {
+   "domain": "analytics.google.com",
+   "entity": "Google",
+   "category": "Analytics",
+   "requests": 1
+  },
+  {
+   "domain": "doubleclick.net",
+   "entity": "Google",
+   "category": "Advertising",
+   "requests": 1
+  }
+ ],
+ "trackers_after_reject": [],
+ "cmp_hint": null,
+ "http_status": 200,
+ "pre_consent_requests": 26,
+ "first_click_t": null,
+ "screenshots": [],
+ "events": [
+  {
+   "event": "screenshot_skipped",
+   "name": "01_landing",
+   "why": "page shows the visitor's IP address"
+  }
+ ]
 }
