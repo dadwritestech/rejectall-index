@@ -138,3 +138,9 @@ It targets a self-hosted runner labelled `germany`. GitHub-hosted runners would 
 ## Legal
 
 This project publishes measured facts about public web pages, with the raw evidence for each. It does not log in, solve CAPTCHAs or bypass access controls.
+
+## License
+
+- **Code:** [Apache-2.0](LICENSE).
+- **Data** (`data/`, `site/`, `docs/`): [CC BY 4.0](DATA_LICENSE). Credit "rejectall-index by dadwritestech" with a link.
+- Screenshots of third-party sites show their banners as measured; the sites' content belongs to them.
