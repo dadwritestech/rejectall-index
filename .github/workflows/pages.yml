@@ -1,0 +1,45 @@
+name: Deploy site to GitHub Pages
+
+# Publishes site/ plus data/ (the site links to ../data). Scheduled runs push with
+# GITHUB_TOKEN, which does not trigger push workflows, so this also runs after "daily-index".
+on:
+  push:
+    branches: [master]
+    paths: ["site/**", "data/**", ".github/workflows/pages.yml"]
+  workflow_run:
+    workflows: ["daily-index"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - name: Assemble
+        run: |
+          mkdir _out
+          cp -r site data _out/
+          printf '<!doctype html><meta http-equiv="refresh" content="0; url=site/"><a href="site/">site</a>\n' > _out/index.html
+          touch _out/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _out
+      - id: deployment
+        uses: actions/deploy-pages@v4
